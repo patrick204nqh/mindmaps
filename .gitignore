@@ -1,0 +1,44 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.env
+env/
+venv/
+ENV/
+venv.bak/
+*.lock
+
+# MkDocs build directory
+site/
+
+# MkDocs config lockfile (created by mkdocs-serve if you stop it manually)
+mkdocs.yml.lock
+
+# Virtual environments
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# VSCode and other editor-related files
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+.DS_Store
+*.bak
+
+# Mac-specific files
+.DS_Store
+
+# Linux-specific files
+*.swp

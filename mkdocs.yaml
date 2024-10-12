@@ -1,0 +1,88 @@
+site_name: Mindmap Hub
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: light-blue
+    accent: amber
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: images/logo.svg
+  favicon: images/favicon.ico
+  icon:
+    logo: material/cloudsync
+
+  features:
+    - navigation.expand
+    - toc.integrate
+    - tabs
+
+plugins:
+  - search
+  - markmap:
+      base_path: docs
+      encoding: utf-8
+      file_extension: .mm.md
+      # d3_version: '7'
+      # lib_version: '0.15.3'
+      # view_version: '0.15.3'
+
+nav:
+  - Home: index.md
+
+  # English Section
+  - English:
+    - Vocabulary:
+      - General: english/vocabulary/general.md
+      - Technical: english/vocabulary/technical.md
+      - Phrasal Verbs: english/vocabulary/phrasal_verbs.md
+      - Collocations: english/vocabulary/collocations.md
+    - Grammar:
+      - Tenses: english/grammar/tenses.md
+      - Conditionals: english/grammar/conditionals.md
+      - Modals: english/grammar/modals.md
+      - Articles: english/grammar/articles.md
+      - Sentence Structure: english/grammar/sentence_structure.md
+    - Idioms & Expressions:
+      - Common Idioms: english/idioms_expressions/common_idioms.md
+      - Business Idioms: english/idioms_expressions/business_idioms.md
+      - Regional Differences: english/idioms_expressions/regional_differences.md
+    - Reading Practice:
+      - Short Stories: english/reading_practice/short_stories.md
+      - News Articles: english/reading_practice/news_articles.md
+      - Academic Texts: english/reading_practice/academic_texts.md
+    - Listening Practice:
+      - Podcasts: english/listening_practice/podcasts.md
+      - TED Talks: english/listening_practice/ted_talks.md
+      - Songs: english/listening_practice/songs.md
+    - Speaking Practice:
+      - Role Plays: english/speaking_practice/role_plays.md
+      - Conversations: english/speaking_practice/conversations.md
+      - Interviews: english/speaking_practice/interviews.md
+    - Writing Skills:
+      - Essays: english/writing_skills/essays.md
+      - Emails: english/writing_skills/emails.md
+      - Creative Writing: english/writing_skills/creative_writing.md
+    - Exam Preparation:
+      - TOEIC: english/exam_preparation/toeic.md
+      - IELTS: english/exam_preparation/ielts.md
+
+  # Placeholder for Technical Section
+  # - Technical:
+  #   - Programming Languages:
+  #     - Ruby: technical/programming_languages/ruby.md
+  #     - Python: technical/programming_languages/python.md
+  #     - JavaScript: technical/programming_languages/javascript.md
+  #   - DevOps:
+  #     - Docker: technical/devops/docker.md
+  #     - Kubernetes: technical/devops/kubernetes.md
+  #   - Backend:
+  #     - REST APIs: technical/backend/rest_apis.md
+  #     - GraphQL: technical/backend/graphql.md
+  #   - Frontend:
+  #     - React: technical/frontend/react.md
+  #     - Vue.js: technical/frontend/vue.md
+  #   - Databases:
+  #     - PostgreSQL: technical/databases/postgresql.md
+  #     - Redis: technical/databases/redis.md
