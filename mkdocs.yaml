@@ -17,9 +17,15 @@ theme:
     - navigation.expand
     - toc.integrate
     - tabs
+    - offline
+    - optimize
 
 plugins:
   - search
+  - minify
+  # - glightbox
+  # - section-index
+  - mermaid2
   - markmap:
       base_path: docs
       encoding: utf-8
@@ -33,21 +39,9 @@ nav:
 
   # English Section
   - English:
-    - Vocabulary:
-      - General: english/vocabulary/general.md
-      - Technical: english/vocabulary/technical.md
-      - Phrasal Verbs: english/vocabulary/phrasal_verbs.md
-      - Collocations: english/vocabulary/collocations.md
-    - Grammar:
-      - Tenses: english/grammar/tenses.md
-      - Conditionals: english/grammar/conditionals.md
-      - Modals: english/grammar/modals.md
-      - Articles: english/grammar/articles.md
-      - Sentence Structure: english/grammar/sentence_structure.md
-    - Idioms & Expressions:
-      - Common Idioms: english/idioms_expressions/common_idioms.md
-      - Business Idioms: english/idioms_expressions/business_idioms.md
-      - Regional Differences: english/idioms_expressions/regional_differences.md
+    - Vocabulary: english/vocabulary.md
+    - Grammar: english/grammar.md
+    - Idioms & Expressions: english/idioms_expressions.md
     - Reading Practice:
       - Short Stories: english/reading_practice/short_stories.md
       - News Articles: english/reading_practice/news_articles.md

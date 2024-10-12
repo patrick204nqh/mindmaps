@@ -1,3 +1,7 @@
 mkdocs
 mkdocs-material
+mkdocs-minify-plugin
+# mkdocs-glightbox
+# mkdocs-section-index
+mkdocs-mermaid2-plugin
 mkdocs-markmap
