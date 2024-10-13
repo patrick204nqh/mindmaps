@@ -44,11 +44,11 @@ theme:
     # - navigation.expand
     # - navigation.footer
     # - header.autohide
+    - toc.integrate
+    # - tabs
     - content.code.copy
     - content.code.edit
     - content.code.view
-    # - toc.integrate
-    # - tabs
 
 plugins:
   - search
@@ -72,7 +72,8 @@ plugins:
       # view_version: '0.15.3'
 
 nav:
-  - Home: index.md
+  - Home:
+    - index.md
 
   # English Section
   - English:
@@ -135,6 +136,7 @@ nav:
 markdown_extensions:
   - toc:
       permalink: true
+      toc_depth: 4
   - admonition
   - footnotes
   - def_list
