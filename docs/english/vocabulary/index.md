@@ -6,19 +6,19 @@ This section contains various categories of vocabulary to help you expand your E
 
 ## Vocabulary Categories
 
-### [General Vocabulary](vocabulary/general.md)
+### [General Vocabulary](general.md)
 
 Explore commonly used words and phrases in daily conversations. This section is ideal for building foundational vocabulary.
 
-### [Technical Vocabulary](vocabulary/technical.md)
+### [Technical Vocabulary](technical.md)
 
 Learn specialized terms used in professional, academic, or technical fields. This section is great for those working in specialized areas.
 
-### [Phrasal Verbs](vocabulary/phrasal_verbs.md)
+### [Phrasal Verbs](phrasal_verbs.md)
 
 Master phrasal verbs like **look up**, **turn off**, and many more. This section helps with commonly used phrases that consist of verbs and prepositions.
 
-### [Collocations](vocabulary/collocations.md)
+### [Collocations](collocations.md)
 
 Discover word pairings that frequently occur together, such as **make a decision** or **take a break**. Learning collocations helps make your English sound more natural.
 

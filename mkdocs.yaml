@@ -51,8 +51,7 @@ theme:
     # - tabs
 
 plugins:
-  - search:
-      prebuild_index: true
+  - search
   - group:
       plugins:
         - search
