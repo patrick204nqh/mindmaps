@@ -61,6 +61,8 @@ plugins:
         - tags
         - sitemap
         - redirect
+  - git-revision-date-localized
+  - git-authors
   - markmap:
       base_path: docs
       encoding: utf-8
