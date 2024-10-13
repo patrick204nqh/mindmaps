@@ -1,31 +1,67 @@
 site_name: Mindmap Hub
+copyright: "© 2024 by Nguyen Quang Huy. All rights reserved."
+repo_url: https://github.com/patrick204nqh/mindmaps
+repo_name: patrick204nqh/mindmaps
 theme:
   name: material
   palette:
-    scheme: default
-    primary: light-blue
-    accent: amber
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+      primary: custom
+      accent: custom
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+      primary: custom
+      accent: custom
+
   font:
     text: Roboto
     code: Roboto Mono
-  logo: images/logo.svg
-  favicon: images/favicon.ico
+
+  logo: assets/images/logo.svg
+  favicon: assets/images/favicon.ico
   icon:
     logo: material/cloudsync
+    repo: fontawesome/brands/github-alt
 
   features:
-    - navigation.expand
-    - toc.integrate
-    - tabs
-    - offline
-    - optimize
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.tabs.section
+    - navigation.indexes
+    # - navigation.expand
+    # - navigation.footer
+    # - header.autohide
+    - content.code.copy
+    - content.code.edit
+    - content.code.view
+    # - toc.integrate
+    # - tabs
 
 plugins:
-  - search
-  - minify
-  # - glightbox
-  # - section-index
-  - mermaid2
+  - search:
+      prebuild_index: true
+  - group:
+      plugins:
+        - search
+        - blog
+        - offline
+        - social
+        - tags
+        - sitemap
+        - redirect
   - markmap:
       base_path: docs
       encoding: utf-8
@@ -39,9 +75,24 @@ nav:
 
   # English Section
   - English:
-    - Vocabulary: english/vocabulary.md
-    - Grammar: english/grammar.md
-    - Idioms & Expressions: english/idioms_expressions.md
+    - Vocabulary:
+      - english/vocabulary/index.md
+      - General: english/vocabulary/general.md
+      - Technical: english/vocabulary/technical.md
+      - Phrasal Verbs: english/vocabulary/phrasal_verbs.md
+      - Collocations: english/vocabulary/collocations.md
+    - Grammar:
+      - english/grammar/index.md
+      - Tenses: english/grammar/tenses.md
+      - Conditionals: english/grammar/conditionals.md
+      - Modals: english/grammar/modals.md
+      - Articles: english/grammar/articles.md
+      - Sentence Structure: english/grammar/sentence_structure.md
+      - Passive Voice: english/grammar/passive_voice.md
+      - Prepositions: english/grammar/prepositions.md
+      - Conjunctions: english/grammar/conjunctions.md      
+    - Idioms & Expressions:
+      - english/idioms_expressions/index.md
     - Reading Practice:
       - Short Stories: english/reading_practice/short_stories.md
       - News Articles: english/reading_practice/news_articles.md
@@ -79,4 +130,24 @@ nav:
   #     - Vue.js: technical/frontend/vue.md
   #   - Databases:
   #     - PostgreSQL: technical/databases/postgresql.md
-  #     - Redis: technical/databases/redis.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - footnotes
+  - def_list
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/patrick204nqh
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/patrick204nqh
+  generator: false
+
+extra_css:
+  - assets/stylesheets/extra.css

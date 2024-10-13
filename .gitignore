@@ -28,7 +28,6 @@ dist/
 .eggs/
 
 # VSCode and other editor-related files
-.vscode/
 .idea/
 
 # Logs and temporary files
