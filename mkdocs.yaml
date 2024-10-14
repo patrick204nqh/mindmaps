@@ -145,6 +145,23 @@ markdown_extensions:
   - pymdownx.details
 
 extra:
+  analytics:
+    provider: google
+    property: G-J1JYFW2Z1B
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/thumb-up-outline
+          name: This page was helpful
+          data: 1
+          note: |
+            Thanks for your feedback!
+        - icon: material/thumb-down-outline
+          name: This page could be improved
+          data: 0
+          note: |
+            Thanks for your feedback! Help us improve this page by using our 
+            <a href="https://github.com/patrick204nqh/mindmaps/issues/new/?title=[Feedback]+{title}+-+{url}" target="_blank" rel="noopener">feedback form</a>.
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/patrick204nqh
