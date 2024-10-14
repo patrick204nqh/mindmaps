@@ -77,12 +77,15 @@ nav:
 
   # English Section
   - English:
+    - english/index.md
     - Vocabulary:
       - english/vocabulary/index.md
-      - General: english/vocabulary/general.md
-      - Technical: english/vocabulary/technical.md
-      - Phrasal Verbs: english/vocabulary/phrasal_verbs.md
-      - Collocations: english/vocabulary/collocations.md
+      - A1: english/vocabulary/a1/index.md
+      - A2: english/vocabulary/a2/index.md
+      - B1: english/vocabulary/b1/index.md
+      - B2: english/vocabulary/b2/index.md
+      - C1: english/vocabulary/c1/index.md
+      - C2: english/vocabulary/c2/index.md
     - Grammar:
       - english/grammar/index.md
       - Tenses: english/grammar/tenses.md
