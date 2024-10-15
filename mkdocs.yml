@@ -53,8 +53,8 @@ theme:
 
 plugins:
   - search
-  - info
   - tags
+  # - info
   # - typeset
   - group:
       enabled: true
