@@ -2,25 +2,9 @@
 
 Welcome to the **C1 (Advanced)** vocabulary section. This level will help you develop your ability to communicate with **fluency** and **accuracy** on a wide range of complex topics, from **business** and **science** to **politics**, **law**, and **art**. By mastering C1 vocabulary, you will be able to express **nuanced opinions**, **debate complex ideas**, and handle advanced discussions in professional and social contexts.
 
-## Table of Contents
-
-1. [Business Strategy & Leadership](business_strategy_leadership.md)
-2. [Law & Ethics](law_ethics.md)
-3. [Science & Innovation](science_innovation.md)
-4. [Technology & Digitalization](technology_digitalization.md)
-5. [Education & Academia](education_academia.md)
-6. [Health & Medicine](health_medicine.md)
-7. [Environment & Climate Change](environment_climate_change.md)
-8. [Cultural Discussions & Debates](cultural_discussions_debates.md)
-9. [Media & Journalism](media_journalism.md)
-10. [Philosophy & Abstract Thought](philosophy_abstract_thought.md)
-11. [Common Verbs](common_verbs.md)
-12. [Common Adjectives](common_adjectives.md)
-13. [Common Phrases](common_phrases.md)
-
 ---
 
-## 1. Business Strategy & Leadership
+## Business Strategy & Leadership
 
 Learn advanced vocabulary related to **business strategy**, **management**, and **leadership** in corporate settings.
 
@@ -36,7 +20,7 @@ Learn advanced vocabulary related to **business strategy**, **management**, and 
 
 ---
 
-## 2. Law & Ethics
+## Law & Ethics
 
 Understand and use vocabulary related to **legal** concepts and **ethical debates**, helping you discuss laws, regulations, and moral issues.
 
@@ -52,7 +36,7 @@ Understand and use vocabulary related to **legal** concepts and **ethical debate
 
 ---
 
-## 3. Science & Innovation
+## Science & Innovation
 
 Build vocabulary related to **scientific research** and **innovation**, including terminology used in academic and professional research contexts.
 
@@ -68,7 +52,7 @@ Build vocabulary related to **scientific research** and **innovation**, includin
 
 ---
 
-## 4. Technology & Digitalization
+## Technology & Digitalization
 
 Master vocabulary for discussing **technology**, **digital transformation**, and the impact of tech on modern life.
 
@@ -84,7 +68,7 @@ Master vocabulary for discussing **technology**, **digital transformation**, and
 
 ---
 
-## 5. Education & Academia
+## Education & Academia
 
 Develop vocabulary to discuss **higher education**, **research**, and the **academic world** in a more advanced context.
 
@@ -100,7 +84,7 @@ Develop vocabulary to discuss **higher education**, **research**, and the **acad
 
 ---
 
-## 6. Health & Medicine
+## Health & Medicine
 
 Learn advanced vocabulary for discussing **medical conditions**, **treatments**, and **healthcare** systems.
 
@@ -116,7 +100,7 @@ Learn advanced vocabulary for discussing **medical conditions**, **treatments**,
 
 ---
 
-## 7. Environment & Climate Change
+## Environment & Climate Change
 
 Expand your vocabulary on **environmental issues** and **climate change**, including sustainability and global challenges.
 
@@ -132,7 +116,7 @@ Expand your vocabulary on **environmental issues** and **climate change**, inclu
 
 ---
 
-## 8. Cultural Discussions & Debates
+## Cultural Discussions & Debates
 
 Master vocabulary to participate in **cultural discussions**, including topics related to **art**, **society**, and **globalization**.
 
@@ -148,7 +132,7 @@ Master vocabulary to participate in **cultural discussions**, including topics r
 
 ---
 
-## 9. Media & Journalism
+## Media & Journalism
 
 Learn vocabulary related to **journalism**, **news reporting**, and **media ethics**.
 
@@ -164,7 +148,7 @@ Learn vocabulary related to **journalism**, **news reporting**, and **media ethi
 
 ---
 
-## 10. Philosophy & Abstract Thought
+## Philosophy & Abstract Thought
 
 Engage in discussions on **philosophical** and **abstract** topics, from ethics to metaphysics.
 
@@ -180,7 +164,7 @@ Engage in discussions on **philosophical** and **abstract** topics, from ethics 
 
 ---
 
-## 11. Common Verbs
+## Common Verbs
 
 Learn more advanced **verbs** that will help you express complex actions, ideas, and concepts in both formal and informal contexts.
 
@@ -194,7 +178,7 @@ Learn more advanced **verbs** that will help you express complex actions, ideas,
 
 ---
 
-## 12. Common Adjectives
+## Common Adjectives
 
 Expand your use of adjectives to describe **complex situations**, **ideas**, and **people** more effectively.
 
@@ -208,7 +192,7 @@ Expand your use of adjectives to describe **complex situations**, **ideas**, and
 
 ---
 
-## 13. Common Phrases
+## Common Phrases
 
 Master useful **phrases** and **expressions** for discussing complex topics in both professional and social settings at the C1 level.
 

@@ -2,25 +2,9 @@
 
 Welcome to the **B2 (Upper-Intermediate)** vocabulary section. At this level, you will build your ability to communicate more **fluently** and **confidently**. The vocabulary at B2 focuses on more complex and specialized topics such as **business**, **technology**, **science**, **law**, and **cultural discussions**. By mastering this vocabulary, you will be able to express more nuanced opinions and handle discussions in both professional and personal contexts.
 
-## Table of Contents
-
-1. [Business & Careers](business_careers.md)
-2. [Education & Research](education_research.md)
-3. [Health & Fitness](health_fitness.md)
-4. [Law & Politics](law_politics.md)
-5. [Science & Technology](science_technology.md)
-6. [Travel & Tourism](travel_tourism.md)
-7. [Art & Culture](art_culture.md)
-8. [Environment & Sustainability](environment_sustainability.md)
-9. [Media & Communication](media_communication.md)
-10. [Society & Social Issues](society_social_issues.md)
-11. [Common Verbs](common_verbs.md)
-12. [Common Adjectives](common_adjectives.md)
-13. [Common Phrases](common_phrases.md)
-
 ---
 
-## 1. Business & Careers
+## Business & Careers
 
 Learn specialized vocabulary related to **business**, **management**, and **career development**.
 
@@ -36,7 +20,7 @@ Learn specialized vocabulary related to **business**, **management**, and **care
 
 ---
 
-## 2. Education & Research
+## Education & Research
 
 Develop your vocabulary for **higher education**, **research**, and **academic discussions**.
 
@@ -52,7 +36,7 @@ Develop your vocabulary for **higher education**, **research**, and **academic d
 
 ---
 
-## 3. Health & Fitness
+## Health & Fitness
 
 Expand your knowledge of vocabulary related to **health**, **well-being**, and maintaining a **fit lifestyle**.
 
@@ -68,7 +52,7 @@ Expand your knowledge of vocabulary related to **health**, **well-being**, and m
 
 ---
 
-## 4. Law & Politics
+## Law & Politics
 
 Learn how to discuss more advanced topics related to **law**, **politics**, and **government**.
 
@@ -84,7 +68,7 @@ Learn how to discuss more advanced topics related to **law**, **politics**, and 
 
 ---
 
-## 5. Science & Technology
+## Science & Technology
 
 Build your vocabulary to discuss **scientific discoveries**, **technological advancements**, and **innovation**.
 
@@ -100,7 +84,7 @@ Build your vocabulary to discuss **scientific discoveries**, **technological adv
 
 ---
 
-## 6. Travel & Tourism
+## Travel & Tourism
 
 Learn how to talk about **travel**, **tourism**, and related experiences in more detail.
 
@@ -116,7 +100,7 @@ Learn how to talk about **travel**, **tourism**, and related experiences in more
 
 ---
 
-## 7. Art & Culture
+## Art & Culture
 
 Discuss **art**, **music**, **literature**, and **cultural topics** with a richer vocabulary.
 
@@ -132,7 +116,7 @@ Discuss **art**, **music**, **literature**, and **cultural topics** with a riche
 
 ---
 
-## 8. Environment & Sustainability
+## Environment & Sustainability
 
 Understand and use vocabulary related to **environmental issues** and **sustainability**.
 
@@ -148,7 +132,7 @@ Understand and use vocabulary related to **environmental issues** and **sustaina
 
 ---
 
-## 9. Media & Communication
+## Media & Communication
 
 Learn how to discuss **media**, **journalism**, and **communication technologies**.
 
@@ -164,7 +148,7 @@ Learn how to discuss **media**, **journalism**, and **communication technologies
 
 ---
 
-## 10. Society & Social Issues
+## Society & Social Issues
 
 Engage in discussions on **social issues**, including topics related to **equality**, **justice**, and **global challenges**.
 
@@ -180,7 +164,7 @@ Engage in discussions on **social issues**, including topics related to **equali
 
 ---
 
-## 11. Common Verbs
+## Common Verbs
 
 Learn more advanced **verbs** commonly used at the B2 level, helping you express ideas and concepts clearly.
 
@@ -194,7 +178,7 @@ Learn more advanced **verbs** commonly used at the B2 level, helping you express
 
 ---
 
-## 12. Common Adjectives
+## Common Adjectives
 
 Expand your use of adjectives to describe people, places, and situations more effectively at this level.
 
@@ -208,7 +192,7 @@ Expand your use of adjectives to describe people, places, and situations more ef
 
 ---
 
-## 13. Common Phrases
+## Common Phrases
 
 Master useful **phrases** and **expressions** for discussing more abstract and complex topics in **professional** and **social** settings.
 

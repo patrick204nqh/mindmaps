@@ -2,24 +2,9 @@
 
 Welcome to the **C2 (Proficient)** vocabulary section. This level will help you refine your language skills to communicate with **precision**, **nuance**, and **sophistication**. The vocabulary at this level covers complex and abstract topics such as **academic research**, **diplomacy**, **literature**, and **philosophy**, preparing you to express yourself confidently in any context, including professional, academic, and social environments.
 
-## Table of Contents
-
-1. [Advanced Business & Economics](advanced_business_economics.md)
-2. [Diplomacy & International Relations](diplomacy_international_relations.md)
-3. [Advanced Science & Research](advanced_science_research.md)
-4. [Legal & Political Terminology](legal_political_terminology.md)
-5. [Philosophy & Ethics](philosophy_ethics.md)
-6. [Literature & Rhetoric](literature_rhetoric.md)
-7. [Cultural Criticism & The Arts](cultural_criticism_arts.md)
-8. [Media, Discourse & Communication](media_discourse_communication.md)
-9. [Environmental Sustainability & Global Issues](environmental_sustainability_global_issues.md)
-10. [Advanced Common Verbs](advanced_common_verbs.md)
-11. [Advanced Common Adjectives](advanced_common_adjectives.md)
-12. [Advanced Common Phrases](advanced_common_phrases.md)
-
 ---
 
-## 1. Advanced Business & Economics
+## Advanced Business & Economics
 
 Master highly specialized vocabulary related to **advanced business** concepts and **economics**, including global markets, finance, and corporate governance.
 
@@ -35,7 +20,7 @@ Master highly specialized vocabulary related to **advanced business** concepts a
 
 ---
 
-## 2. Diplomacy & International Relations
+## Diplomacy & International Relations
 
 Learn advanced vocabulary used in **diplomacy**, **international relations**, and **global governance**.
 
@@ -51,7 +36,7 @@ Learn advanced vocabulary used in **diplomacy**, **international relations**, an
 
 ---
 
-## 3. Advanced Science & Research
+## Advanced Science & Research
 
 Develop specialized vocabulary for **academic research** and **scientific discourse** at the highest level.
 
@@ -67,7 +52,7 @@ Develop specialized vocabulary for **academic research** and **scientific discou
 
 ---
 
-## 4. Legal & Political Terminology
+## Legal & Political Terminology
 
 Expand your vocabulary for discussing **advanced legal** and **political** matters, including legislative processes and international law.
 
@@ -83,7 +68,7 @@ Expand your vocabulary for discussing **advanced legal** and **political** matte
 
 ---
 
-## 5. Philosophy & Ethics
+## Philosophy & Ethics
 
 Master the language used in **philosophical debates** and **ethical discussions**, allowing you to articulate complex and abstract ideas with clarity.
 
@@ -99,7 +84,7 @@ Master the language used in **philosophical debates** and **ethical discussions*
 
 ---
 
-## 6. Literature & Rhetoric
+## Literature & Rhetoric
 
 Learn how to discuss **literary criticism**, **rhetorical devices**, and **advanced writing techniques** used in literature and public discourse.
 
@@ -115,7 +100,7 @@ Learn how to discuss **literary criticism**, **rhetorical devices**, and **advan
 
 ---
 
-## 7. Cultural Criticism & The Arts
+## Cultural Criticism & The Arts
 
 Develop vocabulary for discussing **cultural criticism**, **art**, and **social theory**, enabling you to engage with cultural analysis at a high level.
 
@@ -131,7 +116,7 @@ Develop vocabulary for discussing **cultural criticism**, **art**, and **social 
 
 ---
 
-## 8. Media, Discourse & Communication
+## Media, Discourse & Communication
 
 Master the advanced vocabulary for discussing **media theory**, **discourse analysis**, and **communication strategies**.
 
@@ -147,7 +132,7 @@ Master the advanced vocabulary for discussing **media theory**, **discourse anal
 
 ---
 
-## 9. Environmental Sustainability & Global Issues
+## Environmental Sustainability & Global Issues
 
 Learn how to discuss **global environmental challenges** and **sustainability** at an advanced level, including policies and scientific discourse.
 
@@ -163,7 +148,7 @@ Learn how to discuss **global environmental challenges** and **sustainability** 
 
 ---
 
-## 10. Advanced Common Verbs
+## Advanced Common Verbs
 
 Learn advanced verbs that are essential for precise communication in **professional**, **academic**, and **social** settings.
 
@@ -177,7 +162,7 @@ Learn advanced verbs that are essential for precise communication in **professio
 
 ---
 
-## 11. Advanced Common Adjectives
+## Advanced Common Adjectives
 
 Expand your ability to describe complex ideas and concepts with more **precise and sophisticated adjectives**.
 
@@ -191,7 +176,7 @@ Expand your ability to describe complex ideas and concepts with more **precise a
 
 ---
 
-## 12. Advanced Common Phrases
+## Advanced Common Phrases
 
 Master **advanced expressions** and **phrases** that will help you navigate discussions, debates, and presentations at a **high level**.
 

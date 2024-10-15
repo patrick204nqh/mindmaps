@@ -1,26 +1,10 @@
 # B1 Vocabulary Overview
 
-Welcome to the **B1 (Intermediate)** vocabulary section. At this level, you’ll move beyond basic phrases and learn vocabulary that will allow you to **express opinions**, **explain ideas**, and handle conversations in various social, professional, and academic settings. This vocabulary will help you engage in **more complex topics**, such as **work**, **education**, **technology**, and **current events**.
-
-## Table of Contents
-
-1. [Work & Careers](work_careers.md)
-2. [Education & Learning](education_learning.md)
-3. [Health & Well-being](health_wellbeing.md)
-4. [Travel & Transportation](travel_transportation.md)
-5. [Food & Restaurants](food_restaurants.md)
-6. [Technology & Media](technology_media.md)
-7. [Environment & Nature](environment_nature.md)
-8. [Hobbies & Free Time](hobbies_free_time.md)
-9. [Shopping & Services](shopping_services.md)
-10. [Society & Current Events](society_current_events.md)
-11. [Common Verbs](common_verbs.md)
-12. [Common Adjectives](common_adjectives.md)
-13. [Common Phrases](common_phrases.md)
+Welcome to the **B1 (Intermediate)** vocabulary section. At this level, you’ll move beyond basic phrases and learn vocabulary that allows you to **express opinions**, **explain ideas**, and handle conversations in various **social**, **professional**, and **academic** settings. This vocabulary will help you engage in **more complex topics**, such as **work**, **education**, **technology**, and **current events**.
 
 ---
 
-## 1. Work & Careers
+## Work & Careers
 
 Learn vocabulary related to your **career**, job responsibilities, and the professional world.
 
@@ -36,7 +20,7 @@ Learn vocabulary related to your **career**, job responsibilities, and the profe
 
 ---
 
-## 2. Education & Learning
+## Education & Learning
 
 Build your vocabulary for discussing **education**, including subjects, learning styles, and academic goals.
 
@@ -52,7 +36,7 @@ Build your vocabulary for discussing **education**, including subjects, learning
 
 ---
 
-## 3. Health & Well-being
+## Health & Well-being
 
 Talk about **health**, fitness, and well-being, including how to maintain a healthy lifestyle.
 
@@ -68,7 +52,7 @@ Talk about **health**, fitness, and well-being, including how to maintain a heal
 
 ---
 
-## 4. Travel & Transportation
+## Travel & Transportation
 
 Expand your vocabulary for talking about **travel** and **transportation**, including booking trips and using public transport.
 
@@ -84,7 +68,7 @@ Expand your vocabulary for talking about **travel** and **transportation**, incl
 
 ---
 
-## 5. Food & Restaurants
+## Food & Restaurants
 
 Discuss different types of **food**, **restaurants**, and how to describe **dining experiences**.
 
@@ -100,7 +84,7 @@ Discuss different types of **food**, **restaurants**, and how to describe **dini
 
 ---
 
-## 6. Technology & Media
+## Technology & Media
 
 Understand and use vocabulary related to **technology**, including how to talk about **social media**, the **internet**, and everyday gadgets.
 
@@ -116,7 +100,7 @@ Understand and use vocabulary related to **technology**, including how to talk a
 
 ---
 
-## 7. Environment & Nature
+## Environment & Nature
 
 Learn to talk about **environmental issues** and discuss **nature** and **sustainability**.
 
@@ -132,7 +116,7 @@ Learn to talk about **environmental issues** and discuss **nature** and **sustai
 
 ---
 
-## 8. Hobbies & Free Time
+## Hobbies & Free Time
 
 Talk about your hobbies, leisure activities, and how you spend your free time.
 
@@ -148,7 +132,7 @@ Talk about your hobbies, leisure activities, and how you spend your free time.
 
 ---
 
-## 9. Shopping & Services
+## Shopping & Services
 
 Build your vocabulary for **shopping** and discussing services like **banks**, **post offices**, and **customer service**.
 
@@ -164,7 +148,7 @@ Build your vocabulary for **shopping** and discussing services like **banks**, *
 
 ---
 
-## 10. Society & Current Events
+## Society & Current Events
 
 Talk about **social issues**, **news**, and **current events** happening around the world.
 
@@ -180,7 +164,7 @@ Talk about **social issues**, **news**, and **current events** happening around 
 
 ---
 
-## 11. Common Verbs
+## Common Verbs
 
 Learn more **verbs** commonly used at the B1 level, helping you express actions and ideas more clearly.
 
@@ -194,7 +178,7 @@ Learn more **verbs** commonly used at the B1 level, helping you express actions 
 
 ---
 
-## 12. Common Adjectives
+## Common Adjectives
 
 Expand your use of adjectives to describe people, places, things, and situations more accurately.
 
@@ -208,7 +192,7 @@ Expand your use of adjectives to describe people, places, things, and situations
 
 ---
 
-## 13. Common Phrases
+## Common Phrases
 
 Learn common **phrases** and **expressions** used in everyday B1-level conversations to help you express opinions and ideas.
 

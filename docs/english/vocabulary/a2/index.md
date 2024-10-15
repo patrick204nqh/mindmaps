@@ -1,27 +1,12 @@
 # A2 Vocabulary Overview
 
-Welcome to the **A2 (Elementary)** vocabulary section. This level helps you build on the basic vocabulary from A1, introducing you to more words and phrases needed for common daily interactions, travel, work, and personal conversations. By the end of A2, you will be able to handle simple tasks and conversations in everyday life.
-
-## Table of Contents
-
-1. [Personal Information & Relationships](personal_information_relationships.md)
-2. [Shopping & Money](shopping_money.md)
-3. [Daily Routines & Activities](daily_routines_activities.md)
-4. [Work & School](work_school.md)
-5. [Travel & Holidays](travel_holidays.md)
-6. [Health & Medical Vocabulary](health_medical.md)
-7. [Weather & Seasons](weather_seasons.md)
-8. [Food & Drink](food_drink.md)
-9. [Hobbies & Free Time](hobbies_free_time.md)
-10. [Common Verbs](common_verbs.md)
-11. [Common Adjectives](common_adjectives.md)
-12. [Common Phrases](common_phrases.md)
+Welcome to the **A2 (Elementary)** vocabulary section. This level helps you build on the basic vocabulary from A1, introducing more words and phrases for daily interactions, travel, work, and personal conversations. By the end of A2, you’ll be able to handle simple tasks and conversations in everyday life.
 
 ---
 
-## 1. Personal Information & Relationships
+## Personal Information & Relationships
 
-Learn how to share more personal information, describe relationships, and handle basic social interactions at the A2 level.
+Learn how to share personal information, describe relationships, and handle basic social interactions.
 
 - **Nouns**: name, age, address, friend, neighbor, colleague
 - **Verbs**: live, work, meet, call, visit
@@ -35,9 +20,9 @@ Learn how to share more personal information, describe relationships, and handle
 
 ---
 
-## 2. Shopping & Money
+## Shopping & Money
 
-This section covers useful vocabulary related to **shopping** and **handling money**, helping you navigate stores and transactions with ease.
+This section covers useful vocabulary related to **shopping** and handling **money**, helping you navigate stores and transactions.
 
 - **Nouns**: price, money, change, credit card, store, clothes
 - **Verbs**: buy, sell, cost, pay, save, spend
@@ -50,7 +35,7 @@ This section covers useful vocabulary related to **shopping** and **handling mon
 
 ---
 
-## 3. Daily Routines & Activities
+## Daily Routines & Activities
 
 Talk about your everyday routines, including what you do in the morning, during the day, and at night.
 
@@ -66,9 +51,9 @@ Talk about your everyday routines, including what you do in the morning, during 
 
 ---
 
-## 4. Work & School
+## Work & School
 
-This section helps you talk about your work or school life, including your job, tasks, and studies.
+Learn vocabulary to discuss work or school life, including jobs, tasks, and studies.
 
 - **Nouns**: job, boss, employee, company, school, class, subject
 - **Verbs**: work, study, teach, learn, attend, apply
@@ -81,9 +66,9 @@ This section helps you talk about your work or school life, including your job, 
 
 ---
 
-## 5. Travel & Holidays
+## Travel & Holidays
 
-Learn how to talk about your travel plans, booking holidays, and navigating **airports**, **hotels**, and other travel situations.
+Learn how to talk about travel plans, booking holidays, and navigating **airports** and **hotels**.
 
 - **Nouns**: vacation, flight, airport, hotel, suitcase, ticket
 - **Verbs**: travel, fly, book, stay, arrive, leave
@@ -96,9 +81,9 @@ Learn how to talk about your travel plans, booking holidays, and navigating **ai
 
 ---
 
-## 6. Health & Medical Vocabulary
+## Health & Medical Vocabulary
 
-Improve your ability to talk about your health, visit the doctor, and describe symptoms.
+Improve your ability to talk about health, visit the doctor, and describe symptoms.
 
 - **Nouns**: doctor, nurse, medicine, hospital, appointment
 - **Verbs**: feel, hurt, heal, recover, treat
@@ -112,9 +97,9 @@ Improve your ability to talk about your health, visit the doctor, and describe s
 
 ---
 
-## 7. Weather & Seasons
+## Weather & Seasons
 
-Learn how to describe different weather conditions and talk about the **seasons** with more detailed vocabulary.
+Describe different weather conditions and talk about the seasons with more detailed vocabulary.
 
 - **Nouns**: rain, snow, storm, temperature, breeze
 - **Verbs**: snow, rain, freeze, shine, blow
@@ -128,9 +113,9 @@ Learn how to describe different weather conditions and talk about the **seasons*
 
 ---
 
-## 8. Food & Drink
+## Food & Drink
 
-Get more advanced vocabulary for talking about **food**, **drinks**, and ordering at a restaurant.
+Get advanced vocabulary for discussing **food**, **drinks**, and ordering at a restaurant.
 
 - **Nouns**: salad, steak, dessert, menu, waiter, restaurant
 - **Verbs**: order, eat, drink, cook, serve
@@ -143,9 +128,9 @@ Get more advanced vocabulary for talking about **food**, **drinks**, and orderin
 
 ---
 
-## 9. Hobbies & Free Time
+## Hobbies & Free Time
 
-Learn how to talk about your **hobbies**, interests, and what you do in your free time.
+Talk about your **hobbies**, interests, and what you do in your free time.
 
 - **Nouns**: music, movie, book, game, sport, concert
 - **Verbs**: play, watch, listen, read, enjoy
@@ -158,9 +143,9 @@ Learn how to talk about your **hobbies**, interests, and what you do in your fre
 
 ---
 
-## 10. Common Verbs
+## Common Verbs
 
-At the A2 level, you’ll encounter a wider range of verbs used in everyday situations.
+At the A2 level, you’ll encounter a wider range of verbs for everyday situations.
 
 - **Verbs**: buy, sell, pay, learn, travel, think, believe, talk, send, receive
 - **Common Phrases**:
@@ -172,9 +157,9 @@ At the A2 level, you’ll encounter a wider range of verbs used in everyday situ
 
 ---
 
-## 11. Common Adjectives
+## Common Adjectives
 
-Expand your use of adjectives to describe people, places, and things more effectively at this level.
+Expand your use of adjectives to describe people, places, and things more effectively.
 
 - **Adjectives**: expensive, cheap, noisy, quiet, delicious, difficult, easy
 - **Common Phrases**:
@@ -186,9 +171,9 @@ Expand your use of adjectives to describe people, places, and things more effect
 
 ---
 
-## 12. Common Phrases
+## Common Phrases
 
-Master the essential **phrases** you need for everyday conversations. These phrases will help you express yourself in a variety of common situations.
+Master essential phrases for everyday conversations. These phrases will help you express yourself in a variety of common situations.
 
 - **Phrases**:
   - "Can you help me?"
