@@ -114,9 +114,13 @@ Explore mindmaps for key grammar topics:
 
 {!markmap/english/grammar/tenses.mm.md!}
 
-<!-- ### Conditionals -->
+### Conditionals
 
-<!-- ### Modals -->
+{!markmap/english/grammar/conditionals.mm.md!}
+
+### Modals
+
+{!markmap/english/grammar/modals.mm.md!}
 
 ---
 
