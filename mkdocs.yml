@@ -64,6 +64,8 @@ plugins:
         - privacy
         - optimize
         - offline
+        - git-revision-date-localized
+        - git-authors
         - minify: 
             minify_html: true
             minify_js: true
@@ -71,8 +73,12 @@ plugins:
             htmlmin_opts:
               remove_comments: true
             cache_safe: true
-  - git-revision-date-localized
-  - git-authors
+            js_files:
+              - assets/js/markmap-d3.js
+              - assets/js/markmap-lib.js
+              - assets/js/markmap-view.js
+            css_files:
+              - assets/css/extra.css
   - include-markdown:
       encoding: ascii
       preserve_includer_indent: false
@@ -144,7 +150,7 @@ extra:
   generator: false
 
 extra_css:
-  - assets/stylesheets/extra.css
+  - assets/css/extra.css
 
 extra_javascript:
   - assets/js/markmap-d3.js
