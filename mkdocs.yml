@@ -130,6 +130,8 @@ extra_javascript:
 nav:
   - Home:
     - index.md
+    - Overview: overview.md
+    - About: about.md
 
   # English Section
   - English:
