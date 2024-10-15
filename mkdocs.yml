@@ -68,17 +68,17 @@ plugins:
         - git-authors
         - minify: 
             minify_html: true
-            minify_js: true
-            minify_css: true
             htmlmin_opts:
               remove_comments: true
             cache_safe: true
-            js_files:
-              - assets/js/markmap-d3.js
-              - assets/js/markmap-lib.js
-              - assets/js/markmap-view.js
-            css_files:
-              - assets/css/extra.css
+            # minify_js: true
+            # minify_css: true
+            # js_files:
+              # - assets/js/markmap-d3.js
+              # - assets/js/markmap-lib.js
+              # - assets/js/markmap-view.js
+            # css_files:
+            #   - assets/css/extra.css
   - include-markdown:
       encoding: ascii
       preserve_includer_indent: false
