@@ -17,167 +17,151 @@ markmap:
   - Present Simple
 
     - Structure
-
-      - Affirmative: Subject + Verb (s/es)
-        - **I/You/We/They**: Use base form of the verb
-          - Example: I walk to work.
-        - **He/She/It**: Add **s** or **es** to the verb
-          - Example: He walks to school.
-        - Verbs ending in **-ch, -sh, -ss, -x, -o** get **es**
-          - Example: He watches TV.
-        - For verbs ending in a consonant + **y**, change the **y** to **ies**
-          - Example: She studies English.
+      - Affirmative: Subject + Verb (s/es for third-person singular)
+        - Example: She works every day.
       - Negative: Subject + do/does not + Verb (base form)
-        - **I/You/We/They**: Use **do not** (or **don’t**)
-          - Example: I don’t like coffee.
-        - **He/She/It**: Use **does not** (or **doesn’t**)
-          - Example: She doesn’t drink tea.
-      - Interrogative: Do/Does + Subject + Verb (base form)
-        - Example: Do they play soccer? / Does she play tennis?
-
+        - Example: He doesn't play football.
+      - Interrogative: Do/Does + Subject + Verb (base form)?
+        - Example: Do they live in New York?
     - Uses
-
-      - **Habitual Actions**
-        - Use to talk about repeated actions or routines
-        - Example: She walks to school every day.
-        - Time expressions: **always**, **often**, **sometimes**, **never**
-      - **General Truths**
-        - Use to express facts or things that are always true
-        - Example: The sun rises in the east.
-      - **Permanent Situations**
-        - Use for actions or states that are permanent or generally true
-        - Example: He lives in New York.
-      - **Scheduled Events (Timetables)**
-        - Use to refer to future events based on schedules (especially with transportation, events, etc.)
-        - Example: The train leaves at 8 PM tonight.
-      - **State Verbs**
-        - Certain verbs are not used in continuous forms and refer to states rather than actions
-        - Examples: **know**, **believe**, **understand**, **own**, **seem**
-        - Example: She knows the answer. (NOT: She is knowing the answer.)
-
-    - Time Expressions
-
-      - Use time expressions to clarify repeated actions:
-        - **Always**, **usually**, **sometimes**, **often**, **never**
-        - **Every day**, **every week**, **every month**
-        - **On Mondays**, **in the morning**, **at night**
-        - Example: They play football **every weekend**.
-
-    - Third-Person Singular Rule
-
-      - For **he/she/it** add **s** or **es** to the verb:
-        - **Verbs ending in -ch, -sh, -ss, -x, -o** add **es**
-          - Example: He watches TV.
-        - **Consonant + y**: change **y** to **ies**
-          - Example: She studies English.
-        - **Irregular verbs** (few examples):
-          - **Have** → has
-          - **Go** → goes
-          - **Do** → does
-
+      - Habitual actions: She goes to the gym every morning.
+      - General truths: Water boils at 100°C.
+      - Permanent situations: He lives in London.
+      - Timetabled future events: The bus leaves at 7 PM.
+      - State verbs: I know the answer.
     - Common Mistakes
+      - Forgetting the "s" in third-person singular
+        - Incorrect: She walk → Correct: She walks.
+      - Using continuous instead of simple
+        - Incorrect: I am going to work every day → Correct: I go to work every day.
+    - Time Expressions
+      - Every day, always, sometimes, never, often
 
-      - **Forgetting the ‘s’ in the third person singular**:
-        - **Incorrect**: She walk to school.
-        - **Correct**: She **walks** to school.
-      - **Using Present Continuous for habitual actions**:
-        - **Incorrect**: I am going to work every day.
-        - **Correct**: I **go** to work every day.
-      - **Using the wrong auxiliary verb** in questions/negatives:
-        - **Incorrect**: She don’t like pizza.
-        - **Correct**: She **doesn’t** like pizza.
-
-    - Advanced Notes
-
-      - **In formal writing**, the Present Simple is often used to describe general truths or facts.
-        - Example: "Water boils at 100°C."
-      - **In headlines or commentary**, the Present Simple may replace the future tense for immediacy:
-        - Example: "The President meets with world leaders tomorrow."
-      - **For storytelling**, the Present Simple is sometimes used to narrate events to create a sense of immediacy:
-        - Example: "So, I walk into the room and everyone stares at me."
-
-    - Examples in Context
-
-      - **Affirmative**:
-        - He **works** as a software engineer.
-        - They **play** football on weekends.
-      - **Negative**:
-        - She **doesn’t** like broccoli.
-        - I **don’t** visit my grandparents very often.
-      - **Question**:
-        - **Do** you know the answer?
-        - **Does** he play the piano?
-
-    - Differences from Present Continuous
-
-      - Present Simple:
-        - Use for regular, habitual actions.
-        - Example: I work every day.
-      - Present Continuous:
-        - Use for actions happening right now or temporary situations.
-        - Example: I am working right now.
-
-    - Passive Voice in Present Simple
-
-      - The Present Simple can be used in the passive voice to emphasize the action over the subject:
-        - Structure: **Object + is/are + past participle**
-        - Example: The letter **is written** by Sarah.
-
-    - Irregular Verbs
-      - In Present Simple, some irregular verbs like **have**, **do**, and **go** change forms in the third person singular.
-        - Example:
-          - **Have** → has
-          - **Go** → goes
-          - **Do** → does
+  - Present Continuous
+    - Structure
+      - Affirmative: Subject + am/is/are + Verb (ing)
+        - Example: I am studying English right now.
+      - Negative: Subject + am/is/are + not + Verb (ing)
+        - Example: She isn’t working today.
+      - Interrogative: Am/Is/Are + Subject + Verb (ing)?
+        - Example: Are you listening to me?
+    - Uses
+      - Actions happening right now: I am reading a book.
+      - Temporary situations: They are staying with friends for a week.
+      - Future plans (with time expression): We are meeting at 6 PM tomorrow.
+    - Common Mistakes
+      - Using the present continuous with state verbs
+        - Incorrect: I am knowing the answer → Correct: I know the answer.
+    - Time Expressions
+      - Right now, at the moment, this week, today, currently
 
 - Past Tense
 
   - Past Simple
-    - Structure: Subject + Verb (Past form)
-    - Use:
-      - Completed actions in the past
-      - Specific time references
-      - Example: I went to the cinema last week.
+
+    - Structure
+      - Affirmative: Subject + Verb (Past form)
+        - Example: She visited her grandmother yesterday.
+      - Negative: Subject + did not + Verb (base form)
+        - Example: They didn’t see the movie.
+      - Interrogative: Did + Subject + Verb (base form)?
+        - Example: Did you go to the party?
+    - Uses
+      - Completed actions in the past: I finished my homework last night.
+      - Actions at a specific time in the past: She called me at 7 PM.
+    - Common Mistakes
+      - Forgetting the -ed for regular verbs
+        - Incorrect: He walk to school yesterday → Correct: He walked to school yesterday.
+    - Time Expressions
+      - Yesterday, last night, two days ago, in 2010
+
   - Past Continuous
-    - Structure: Subject + was/were + Verb (ing)
-    - Use:
-      - Actions happening at a specific time in the past
-      - Example: They were playing football when I arrived.
-  - Past Perfect
-    - Structure: Subject + had + Past Participle
-    - Use:
-      - Actions completed before another past action
-      - Example: He had left by the time I arrived.
-  - Past Perfect Continuous
-    - Structure: Subject + had been + Verb (ing)
-    - Use:
-      - Continuous actions that were happening up until another point in the past
-      - Example: She had been cooking for hours when we got home.
+    - Structure
+      - Affirmative: Subject + was/were + Verb (ing)
+        - Example: They were playing football when I arrived.
+      - Negative: Subject + was/were not + Verb (ing)
+        - Example: She wasn’t sleeping when the alarm rang.
+      - Interrogative: Was/Were + Subject + Verb (ing)?
+        - Example: Were you watching TV at 6 PM?
+    - Uses
+      - Ongoing actions at a specific time in the past: At 8 PM, I was watching TV.
+      - Interrupted actions in the past: She was reading when the phone rang.
+    - Common Mistakes
+      - Using past continuous without the "was/were"
+        - Incorrect: I working yesterday → Correct: I was working yesterday.
+    - Time Expressions
+      - While, when, at 5 PM, all day yesterday
 
 - Future Tense
 
   - Future Simple
-    - Structure: Subject + will + Verb
-    - Use:
-      - Promises, offers, or predictions
-      - Example: I will help you tomorrow.
-  - Future Continuous
-    - Structure: Subject + will be + Verb (ing)
-    - Use:
-      - Actions that will be happening at a specific time in the future
-      - Example: At 5 PM, I will be meeting my boss.
-  - Future Perfect
-    - Structure: Subject + will have + Past Participle
-    - Use:
-      - Actions that will be completed by a specific time in the future
-      - Example: By next week, I will have finished my project.
-  - Future Perfect Continuous
-    - Structure: Subject + will have been + Verb (ing)
-    - Use:
-      - Continuous actions happening up until a certain point in the future
-      - Example: By 2025, I will have been working here for 10 years.
 
-- Stative Verbs
-  - Stative verbs describe states or conditions
-    - Usually not used in continuous tenses
-    - Examples: love, know, have, believe, understand
+    - Structure
+      - Affirmative: Subject + will + Verb (base form)
+        - Example: I will call you tomorrow.
+      - Negative: Subject + will not + Verb (base form)
+        - Example: She won’t be here next week.
+      - Interrogative: Will + Subject + Verb (base form)?
+        - Example: Will they attend the meeting?
+    - Uses
+      - Predictions: I think it will rain tomorrow.
+      - Promises or offers: I’ll help you with that.
+    - Common Mistakes
+      - Using “will” when planning something based on a decision made earlier
+        - Incorrect: I will visit my parents this weekend → Correct: I’m visiting my parents this weekend. (Present Continuous for plans)
+    - Time Expressions
+      - Tomorrow, next week, in the future, soon
+
+  - Future Continuous
+    - Structure
+      - Affirmative: Subject + will be + Verb (ing)
+        - Example: I will be working at 6 PM tomorrow.
+      - Negative: Subject + will not be + Verb (ing)
+        - Example: They won’t be attending the meeting.
+      - Interrogative: Will + Subject + be + Verb (ing)?
+        - Example: Will she be studying at 8 PM?
+    - Uses
+      - Actions happening at a specific time in the future: At 10 PM tonight, I will be watching a movie.
+    - Time Expressions
+      - At 5 PM, at this time tomorrow, next week
+
+- Perfect Tenses
+
+  - Present Perfect
+
+    - Structure
+      - Affirmative: Subject + have/has + Past Participle
+        - Example: I have finished my homework.
+      - Negative: Subject + have/has not + Past Participle
+        - Example: They haven’t visited us yet.
+      - Interrogative: Have/Has + Subject + Past Participle?
+        - Example: Has she called you?
+    - Uses
+      - Actions that started in the past and continue to the present: She has lived here for five years.
+      - Life experiences: I have been to Paris.
+
+  - Past Perfect
+
+    - Structure
+      - Affirmative: Subject + had + Past Participle
+        - Example: I had finished my homework before she arrived.
+    - Uses
+      - Actions that happened before another past event: He had left before I arrived.
+
+  - Future Perfect
+    - Structure
+      - Affirmative: Subject + will have + Past Participle
+        - Example: By next year, I will have graduated.
+    - Uses
+      - Actions that will be completed before a specific time in the future: They will have finished by 6 PM.
+
+- Comparison of Tenses
+  - Present Simple vs Present Continuous
+    - Present Simple: For habits and facts. I work every day.
+    - Present Continuous: For actions happening now. I am working right now.
+  - Past Simple vs Past Continuous
+    - Past Simple: For completed past actions. I went to the park yesterday.
+    - Past Continuous: For actions in progress in the past. I was walking when it started raining.
+  - Future Simple vs Future Continuous
+    - Future Simple: For promises and decisions. I will go to the party.
+    - Future Continuous: For ongoing actions in the future. I will be working at 8 PM.

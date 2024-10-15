@@ -88,14 +88,12 @@ nav:
       - C2: english/vocabulary/c2/index.md
     - Grammar:
       - english/grammar/index.md
-      - Tenses: english/grammar/tenses.md
-      - Conditionals: english/grammar/conditionals.md
-      - Modals: english/grammar/modals.md
-      - Articles: english/grammar/articles.md
-      - Sentence Structure: english/grammar/sentence_structure.md
-      - Passive Voice: english/grammar/passive_voice.md
-      - Prepositions: english/grammar/prepositions.md
-      - Conjunctions: english/grammar/conjunctions.md      
+      - A1: english/grammar/a1/index.md
+      - A2: english/grammar/a2/index.md
+      - B1: english/grammar/b1/index.md
+      - B2: english/grammar/b2/index.md
+      - C1: english/grammar/c1/index.md
+      - C2: english/grammar/c2/index.md
     - Idioms & Expressions:
       - english/idioms_expressions/index.md
     - Reading Practice:
