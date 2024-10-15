@@ -4,7 +4,9 @@
 
 Mindmaps help visualize and organize complex grammar topics in a way that makes them easier to understand. Each branch of the mindmap represents a concept or rule, and you can follow the branches to explore **structures**, **uses**, and **common mistakes**.
 
-### **How to Use These Mindmaps**
+---
+
+## **How to Use These Mindmaps?**
 
 1. **Explore Each Section**: Click on any mindmap to view its full details.
 2. **Study the Structure**: Understand how each grammar rule is formed and applied.

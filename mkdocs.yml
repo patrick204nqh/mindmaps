@@ -80,39 +80,31 @@ nav:
     - english/index.md
     - Vocabulary:
       - english/vocabulary/index.md
-      - A1: english/vocabulary/a1/index.md
-      - A2: english/vocabulary/a2/index.md
-      - B1: english/vocabulary/b1/index.md
-      - B2: english/vocabulary/b2/index.md
-      - C1: english/vocabulary/c1/index.md
-      - C2: english/vocabulary/c2/index.md
+      - A1 - Beginner: english/vocabulary/a1/index.md
+      - A2 - Elementary: english/vocabulary/a2/index.md
+      - B1 - Intermediate: english/vocabulary/b1/index.md
+      - B2 - Upper-Intermediate: english/vocabulary/b2/index.md
+      - C1 - Advanced: english/vocabulary/c1/index.md
+      - C2 - Proficient: english/vocabulary/c2/index.md
     - Grammar:
       - english/grammar/index.md
-      - A1: english/grammar/a1/index.md
-      - A2: english/grammar/a2/index.md
-      - B1: english/grammar/b1/index.md
-      - B2: english/grammar/b2/index.md
-      - C1: english/grammar/c1/index.md
-      - C2: english/grammar/c2/index.md
+      - A1 - Beginner: english/grammar/a1/index.md
+      - A2 - Elementary: english/grammar/a2/index.md
+      - B1 - Intermediate: english/grammar/b1/index.md
+      - B2 - Upper-Intermediate: english/grammar/b2/index.md
+      - C1 - Advanced: english/grammar/c1/index.md
+      - C2 - Proficient: english/grammar/c2/index.md
       - Mindmaps: english/grammar/mindmaps/index.md
     - Idioms & Expressions:
       - english/idioms_expressions/index.md
     - Reading Practice:
-      - Short Stories: english/reading_practice/short_stories.md
-      - News Articles: english/reading_practice/news_articles.md
-      - Academic Texts: english/reading_practice/academic_texts.md
+      - english/reading_practice/index.md
     - Listening Practice:
-      - Podcasts: english/listening_practice/podcasts.md
-      - TED Talks: english/listening_practice/ted_talks.md
-      - Songs: english/listening_practice/songs.md
+      - english/listening_practice/index.md
     - Speaking Practice:
-      - Role Plays: english/speaking_practice/role_plays.md
-      - Conversations: english/speaking_practice/conversations.md
-      - Interviews: english/speaking_practice/interviews.md
+      - english/speaking_practice/index.md
     - Writing Skills:
-      - Essays: english/writing_skills/essays.md
-      - Emails: english/writing_skills/emails.md
-      - Creative Writing: english/writing_skills/creative_writing.md
+      - english/writing_skills/index.md
     - Exam Preparation:
       - TOEIC: english/exam_preparation/toeic.md
       - IELTS: english/exam_preparation/ielts.md
