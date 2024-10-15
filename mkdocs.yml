@@ -53,15 +53,17 @@ theme:
 
 plugins:
   - search
+  - info
+  - tags
   - group:
+      enabled: !ENV [GITHUB_ACTIONS, false]
       plugins:
-        - search
-        - blog
-        - offline
+        - meta
         - social
-        - tags
-        - sitemap
-        - redirect
+        - privacy
+        - minify
+        - optimize
+        - offline
   - git-revision-date-localized
   - git-authors
   - include-markdown:
@@ -84,6 +86,7 @@ plugins:
       d3_version: ''
       lib_version: ''
       view_version: ''
+  - abs-to-rel
 
 markdown_extensions:
   - toc:

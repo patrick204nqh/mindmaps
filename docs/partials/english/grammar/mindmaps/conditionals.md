@@ -1,4 +1,4 @@
-### Conditionals
+### [Conditionals](/english/grammar/mindmaps/conditionals.md)
 
 - Breaks down **Zero**, **First**, **Second**, **Third**, and **Mixed Conditionals**.
 
