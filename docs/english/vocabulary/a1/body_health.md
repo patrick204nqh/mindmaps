@@ -13,7 +13,6 @@ Explore the **Body & Health Vocabulary Mindmap** below for a visual overview:
 Key body parts to describe yourself and others. Useful when talking about injuries, actions, or how you feel:
 
 - **Nouns**:
-
   - **head**: "My head hurts."
   - **arm**: "She broke her arm."
   - **leg**: "He has strong legs."
@@ -36,7 +35,6 @@ Essential health-related vocabulary for discussing symptoms, medicine, and medic
   - **pain**, **fever**, **headache**.
 
 - **Verbs**:
-
   - **hurt**: "My leg hurts."
   - **feel**: "I feel sick."
   - **recover**, **breathe**, **check**, **examine**, **heal**.
@@ -60,10 +58,11 @@ Use this vocabulary when talking to a doctor or nurse:
 
 - **Verbs**: **check**, **examine**, **prescribe**, **treat**, **rest**, **heal**.
 
-**Example Dialogue**:  
-**Doctor**: "What seems to be the problem?"  
-**Patient**: "I have a headache and my throat hurts."  
-**Doctor**: "Let me check your temperature."
+**Example Dialogue**:
+
+- **Doctor**: "What seems to be the problem?"
+- **Patient**: "I have a headache and my throat hurts."
+- **Doctor**: "Let me check your temperature."
 
 ---
 
@@ -91,12 +90,12 @@ Use these adjectives to describe health conditions:
 
 ## 7. Example Conversations
 
-### **Talking About Your Health**:
+### Talking About Your Health
 
 - **Friend**: "How are you feeling today?"
 - **You**: "I feel a little tired, but better than yesterday."
 
-### **At the Doctor’s Office**:
+### At the Doctor’s Office
 
 - **Doctor**: "What seems to be the problem?"
 - **Patient**: "I have a fever and a sore throat."
