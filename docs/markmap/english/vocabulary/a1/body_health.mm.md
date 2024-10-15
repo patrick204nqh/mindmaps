@@ -13,228 +13,126 @@ markmap:
 # Vocabulary
 
 - A1
-
   - Body & Health
-
     - Body Parts
-
       - head
-
         - Definition: The upper part of the human body that contains the brain, eyes, ears, nose, and mouth.
         - Pronunciation: /hɛd/
         - Part of Speech: Noun
-        - Examples:
-          - "My head hurts after the long day."
-          - "He hit his head on the door."
+        - Examples: "My head hurts after the long day."
         - Synonyms: skull, cranium
-        - Antonyms: (none)
-        - Related Words/Forms: headache, headgear, headless
-        - Common Usage: Used to describe pain or injury related to the head.
-
       - arm
-
-        - Definition: The two upper limbs of the human body, extending from the shoulders to the hands.
+        - Definition: Upper limbs extending from the shoulders to the hands.
         - Pronunciation: /ɑːrm/
         - Part of Speech: Noun
-        - Examples:
-          - "She broke her arm while playing football."
-          - "Raise your arm if you have a question."
-        - Synonyms: upper limb
-        - Antonyms: (none)
-        - Related Words/Forms: armful, armrest, armchair
-        - Common Usage: Often used when talking about injuries or actions related to the arms.
-
+        - Examples: "She broke her arm playing football."
       - leg
-
-        - Definition: One of the limbs on which a person or animal walks and stands.
+        - Definition: Limbs used for walking and standing.
         - Pronunciation: /lɛɡ/
         - Part of Speech: Noun
-        - Examples:
-          - "He has long legs that help him run fast."
-          - "I have a pain in my leg."
-        - Synonyms: lower limb
-        - Antonyms: (none)
-        - Related Words/Forms: leggy, legless, leggings
-        - Common Usage: Commonly used when discussing walking, standing, or injuries.
-
+        - Examples: "I have a pain in my leg."
       - hand
-
-        - Definition: The part of the human body at the end of the arm, including the fingers and thumb.
+        - Definition: The part of the body at the end of the arm, including fingers.
         - Pronunciation: /hænd/
         - Part of Speech: Noun
-        - Examples:
-          - "Raise your hand if you want to speak."
-          - "She has small hands."
-        - Synonyms: palm
-        - Antonyms: (none)
-        - Related Words/Forms: handful, handy, hand-held
-        - Common Usage: Used to describe actions done with the hands (e.g., grabbing, raising, holding).
-
+        - Examples: "Raise your hand."
       - foot
-
-        - Definition: The lower part of the leg that a person or animal stands on.
+        - Definition: The lower part of the leg that a person stands on.
         - Pronunciation: /fʊt/
         - Part of Speech: Noun
-        - Examples:
-          - "I hurt my foot while running."
-          - "She has small feet."
-        - Synonyms: (none)
-        - Antonyms: (none)
-        - Related Words/Forms: feet (plural), footstep, footpath
-        - Common Usage: Used when talking about walking, injuries, or measurements (e.g., foot-long).
-
+        - Examples: "I hurt my foot running."
+      - elbow
+        - Definition: The joint between the upper arm and forearm.
+        - Pronunciation: /ˈɛl.boʊ/
+        - Examples: "I hit my elbow on the door."
       - knee
-
-        - Definition: The joint that connects the upper and lower parts of the leg.
+        - Definition: Joint that connects the upper and lower leg.
         - Pronunciation: /niː/
         - Part of Speech: Noun
-        - Examples:
-          - "I hurt my knee while playing soccer."
-          - "Bend your knees slowly."
-        - Synonyms: (none)
-        - Antonyms: (none)
-        - Related Words/Forms: kneel, kneecap
-        - Common Usage: Commonly used to talk about injuries or movement in sports and exercises.
-
+        - Examples: "My knee hurts after running."
       - shoulder
-
-        - Definition: The part of the body where the arm connects to the torso.
+        - Definition: The part connecting the arm to the torso.
         - Pronunciation: /ˈʃoʊl.dər/
-        - Part of Speech: Noun
-        - Examples:
-          - "My shoulder is sore after lifting heavy objects."
-          - "He tapped me on the shoulder."
-        - Synonyms: (none)
-        - Antonyms: (none)
-        - Related Words/Forms: shoulder-length, shoulder blade
-        - Common Usage: Often used when talking about carrying weight or physical injuries.
-
+        - Examples: "He tapped me on the shoulder."
       - fingers
-
         - Definition: The five digits at the end of the hand.
         - Pronunciation: /ˈfɪŋ.ɡərz/
-        - Part of Speech: Noun (plural)
-        - Examples:
-          - "She has long fingers."
-          - "I cut my finger while chopping vegetables."
-        - Synonyms: digits
-        - Antonyms: (none)
-        - Related Words/Forms: fingertip, fingerprint
-        - Common Usage: Used to describe fine motor skills, touching, and injuries.
-
+        - Examples: "She cut her finger while chopping."
+      - toes
+        - Definition: The digits at the end of the feet.
+        - Pronunciation: /toʊz/
+        - Examples: "He stubbed his toe on the table."
       - teeth
-        - Definition: The hard, white structures in the mouth used for biting and chewing.
+        - Definition: The hard structures in the mouth for biting and chewing.
         - Pronunciation: /tiːθ/
-        - Part of Speech: Noun (plural)
-        - Examples:
-          - "Brush your teeth every morning."
-          - "My teeth are sensitive to cold drinks."
-        - Synonyms: (none)
-        - Antonyms: (none)
-        - Related Words/Forms: tooth (singular), toothbrush, toothache
-        - Common Usage: Frequently used in discussions about hygiene and health.
-
+        - Examples: "Brush your teeth every morning."
+      - skin
+        - Definition: The outer layer of the body.
+        - Pronunciation: /skɪn/
+        - Examples: "She has soft skin."
     - Health & Illness Vocabulary
-
       - doctor
-
-        - Definition: A person qualified to treat people who are ill or injured.
+        - Definition: A person qualified to treat illness.
         - Pronunciation: /ˈdɒk.tər/
-        - Part of Speech: Noun
-        - Examples:
-          - "I need to see a doctor."
-          - "The doctor gave me medicine."
-        - Synonyms: physician, medical practitioner
-        - Antonyms: patient
-        - Related Words/Forms: doctorate, doctoral, doctoring
-        - Common Usage: Used when talking about health care and medical advice.
-
+        - Examples: "I need to see a doctor."
       - nurse
-
-        - Definition: A person trained to care for the sick or infirm, especially in a hospital.
+        - Definition: A person trained to care for the sick.
         - Pronunciation: /nɜːrs/
-        - Part of Speech: Noun
-        - Examples:
-          - "The nurse gave me my medicine."
-          - "She works as a nurse at the hospital."
-        - Synonyms: caregiver
-        - Antonyms: (none)
-        - Related Words/Forms: nursing, nursemaid
-        - Common Usage: Common in conversations about hospitals, patient care, and medical procedures.
-
+        - Examples: "The nurse gave me medicine."
       - patient
-
         - Definition: A person receiving medical treatment.
         - Pronunciation: /ˈpeɪ.ʃənt/
-        - Part of Speech: Noun
-        - Examples:
-          - "The patient is waiting in the room."
-          - "There are five patients in the clinic."
-        - Synonyms: (none)
-        - Antonyms: doctor, nurse
-        - Related Words/Forms: impatient, patience
-        - Common Usage: Used to refer to someone who is receiving medical care.
-
+        - Examples: "The patient is waiting in the room."
       - medicine
-
-        - Definition: A substance used for treating illness or injury.
+        - Definition: A substance used for treating illness.
         - Pronunciation: /ˈmɛd.ɪ.sɪn/
-        - Part of Speech: Noun
-        - Examples:
-          - "The doctor gave me medicine for my cold."
-          - "Did you take your medicine?"
-        - Synonyms: medication, drug
-        - Antonyms: (none)
-        - Related Words/Forms: medicinal, medicated
-        - Common Usage: Refers to pills, liquids, or other treatments given to make a person healthy.
-
+        - Examples: "Take your medicine."
       - pain
-
-        - Definition: Physical suffering or discomfort caused by illness or injury.
+        - Definition: Physical suffering from illness or injury.
         - Pronunciation: /peɪn/
-        - Part of Speech: Noun
-        - Examples:
-          - "I have a sharp pain in my chest."
-          - "He is in pain after the accident."
-        - Synonyms: ache, discomfort
-        - Antonyms: comfort, relief
-        - Related Words/Forms: painful, painless, painkiller
-        - Common Usage: Frequently used to describe discomfort or suffering.
-
+        - Examples: "I feel pain in my chest."
       - fever
-
-        - Definition: A condition in which the body temperature is higher than normal.
+        - Definition: Higher-than-normal body temperature.
         - Pronunciation: /ˈfiː.vər/
-        - Part of Speech: Noun
-        - Examples:
-          - "She has a high fever."
-          - "He is taking medicine to reduce the fever."
-        - Synonyms: high temperature, pyrexia
-        - Antonyms: (none)
-        - Related Words/Forms: feverish, feverishly
-        - Common Usage: Used when describing symptoms of illness, such as during a cold or flu.
-
+        - Examples: "She has a high fever."
       - cough
-
-        - Definition: To force air through your throat with a short, loud noise.
+        - Definition: To expel air from the lungs with a noise.
         - Pronunciation: /kɒf/
-        - Part of Speech: Verb/Noun
-        - Examples:
-          - Verb: "He has been coughing a lot lately."
-          - Noun: "She has a bad cough."
-        - Synonyms: (none)
-        - Antonyms: (none)
-        - Related Words/Forms: coughing, cough syrup
-        - Common Usage: Used when describing symptoms of illness, especially related to the lungs or throat.
-
+        - Examples: "She has a bad cough."
       - cold
-        - Definition: A common viral infection that causes symptoms such as a runny nose, cough, and sore throat.
+        - Definition: A common viral infection.
         - Pronunciation: /koʊld/
-        - Part of Speech: Noun
-        - Examples:
-          - "I caught a cold last week."
-          - "She has a bad cold."
-        - Synonyms: (none)
-        - Antonyms: (none)
-        - Related Words/Forms: cold medicine, cold symptom
-        - Common Usage: Refers to a mild viral infection.
+        - Examples: "I caught a cold last week."
+      - headache
+        - Definition: Pain in the head.
+        - Pronunciation: /ˈhɛdˌeɪk/
+        - Examples: "I have a terrible headache."
+    - Health-related Adjectives
+      - sick
+        - Definition: Feeling unwell or ill.
+        - Pronunciation: /sɪk/
+        - Examples: "She feels sick today."
+      - tired
+        - Definition: Feeling in need of rest.
+        - Pronunciation: /taɪərd/
+        - Examples: "He is always tired after work."
+      - healthy
+        - Definition: In good physical condition.
+        - Pronunciation: /ˈhɛl.θi/
+        - Examples: "A balanced diet keeps you healthy."
+      - weak
+        - Definition: Lacking strength.
+        - Pronunciation: /wiːk/
+        - Examples: "I feel weak after being sick."
+      - strong
+        - Definition: Having physical power.
+        - Pronunciation: /strɒŋ/
+        - Examples: "He is strong from exercising."
+    - Common Medical Phrases
+      - "I have a headache."
+      - "My throat is sore."
+      - "I need to see a doctor."
+      - "Where is the nearest clinic?"
+      - "I feel dizzy."
+      - "My leg hurts."
+      - "I feel better after resting."

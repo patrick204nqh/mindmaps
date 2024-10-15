@@ -13,6 +13,7 @@ Explore the **Body & Health Vocabulary Mindmap** below for a visual overview:
 Key body parts to describe yourself and others. Useful when talking about injuries, actions, or how you feel:
 
 - **Nouns**:
+
   - **head**: "My head hurts."
   - **arm**: "She broke her arm."
   - **leg**: "He has strong legs."
@@ -35,6 +36,7 @@ Essential health-related vocabulary for discussing symptoms, medicine, and medic
   - **pain**, **fever**, **headache**.
 
 - **Verbs**:
+
   - **hurt**: "My leg hurts."
   - **feel**: "I feel sick."
   - **recover**, **breathe**, **check**, **examine**, **heal**.
