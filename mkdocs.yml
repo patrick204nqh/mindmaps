@@ -67,9 +67,9 @@ plugins:
       base_path: docs
       encoding: utf-8
       file_extension: .mm.md
-      # d3_version: '7'
-      # lib_version: '0.15.3'
-      # view_version: '0.15.3'
+      d3_version: ''
+      lib_version: ''
+      view_version: ''
 
 nav:
   - Home:
@@ -137,14 +137,23 @@ nav:
 
 markdown_extensions:
   - toc:
-      permalink: true
-      toc_depth: 4
-  - admonition
-  - footnotes
-  - def_list
-  - pymdownx.highlight
-  - pymdownx.superfences
-  - pymdownx.details
+      permalink: true      # Adds anchor links to headings for easier navigation
+      toc_depth: 4         # Controls the depth of the table of contents
+  - admonition             # Adds styled block notes (e.g., warning, note)
+  - footnotes              # Enables inline footnotes for references and explanations
+  - def_list               # Adds support for definition lists
+  - pymdownx.highlight     # Provides syntax highlighting for code blocks
+  - pymdownx.superfences   # Supports nested and fenced code blocks
+  - pymdownx.details       # Creates collapsible content sections
+  - pymdownx.tasklist      # Enables GitHub-style task lists (checkboxes)
+  - pymdownx.smartsymbols  # Converts common symbols (e.g., arrows) automatically
+  - pymdownx.tilde         # Adds support for strikethrough text (e.g., ~text~)
+  - pymdownx.emoji         # Allows the use of GitHub-style emoji
+  - pymdownx.keys          # Renders keyboard keys (e.g., `Ctrl+C`)
+  - abbr                   # Supports abbreviations (e.g., HTML for HyperText Markup Language)
+  - attr_list              # Enables custom attributes (e.g., adding classes to blocks)
+  - tables                 # Adds support for markdown tables
+  - md_in_html             # Allows mixing markdown and HTML in the same document
 
 extra:
   analytics:
@@ -173,3 +182,8 @@ extra:
 
 extra_css:
   - assets/stylesheets/extra.css
+
+extra_javascript:
+  - assets/js/markmap-d3.js
+  - assets/js/markmap-lib.js
+  - assets/js/markmap-view.js
