@@ -63,14 +63,14 @@ plugins:
         - social
         - privacy
         # - optimize
-        - offline
+        # - offline
         - git-revision-date-localized
         - git-authors
-        - minify: 
-            minify_html: true
-            htmlmin_opts:
-              remove_comments: true
-            cache_safe: true
+        # - minify: 
+        #     minify_html: true
+        #     htmlmin_opts:
+        #       remove_comments: true
+        #     cache_safe: true
             # minify_js: true
             # minify_css: true
             # js_files:
