@@ -106,21 +106,7 @@ At C2, you’ll master:
 
 ---
 
-## **Grammar Mindmaps**
-
-Explore mindmaps for key grammar topics:
-
-### [Tenses](mindmaps/tenses.md)
-
-{!markmap/english/grammar/tenses.mm.md!}
-
-### Conditionals
-
-{!markmap/english/grammar/conditionals.mm.md!}
-
-### Modals
-
-{!markmap/english/grammar/modals.mm.md!}
+{% include-markdown "partials/english/grammar/mindmaps/main.md" %}
 
 ---
 

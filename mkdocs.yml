@@ -63,6 +63,19 @@ plugins:
         - redirect
   - git-revision-date-localized
   - git-authors
+  - include-markdown:
+      encoding: ascii
+      preserve_includer_indent: false
+      dedent: false
+      trailing_newlines: true
+      comments: true
+      rewrite_relative_urls: true
+      heading_offset: 0
+      start: <!--start-->
+      end: <!--end-->
+      recursive: true
+      # opening_tag: "{%"
+      # closing_tag: "%}"
   - markmap:
       base_path: docs
       encoding: utf-8

@@ -15,26 +15,7 @@ Mindmaps help visualize and organize complex grammar topics in a way that makes 
 
 ---
 
-## **Available Mindmaps**
-
-- **[Tenses Mindmap](tenses.md)**
-
-  - Covers all key tenses in English, including **Present**, **Past**, **Future**, and **Perfect** tenses.
-
-- **[Conditionals Mindmap](conditionals.md)**
-
-  - Breaks down **Zero**, **First**, **Second**, **Third**, and **Mixed Conditionals**.
-
-- **[Modals Mindmap](modals.md)**
-  - Learn how to express **ability**, **permission**, **possibility**, and **obligation** using modals like _can_, _should_, _must_, and _might_.
-
-<!--
-- **[Reported Speech Mindmap](reported_speech.md)**
-  - Understand how to report what someone else said, and the changes to make in verb tense.
-
-- **[Passive Voice Mindmap](passive_voice.md)**
-  - Understand when and how to use passive voice instead of active voice.
--->
+{% include-markdown "partials/english/grammar/mindmaps/main.md" %}
 
 ---
 
