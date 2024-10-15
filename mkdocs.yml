@@ -2,6 +2,7 @@ site_name: Mindmap Hub
 copyright: "© 2024 by Nguyen Quang Huy. All rights reserved."
 repo_url: https://github.com/patrick204nqh/mindmaps
 repo_name: patrick204nqh/mindmaps
+
 theme:
   name: material
   palette:
@@ -71,8 +72,8 @@ plugins:
       comments: true
       rewrite_relative_urls: true
       heading_offset: 0
-      start: <!--start-->
-      end: <!--end-->
+      # start: <!--start-->
+      # end: <!--end-->
       recursive: true
       # opening_tag: "{%"
       # closing_tag: "%}"
@@ -139,6 +140,11 @@ extra_javascript:
   - assets/js/markmap-d3.js
   - assets/js/markmap-lib.js
   - assets/js/markmap-view.js
+
+exclude_docs: |
+  mkdocs.yml
+  README.md
+  markmap/**/*.mm.md
 
 nav:
   - Home:
