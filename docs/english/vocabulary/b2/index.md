@@ -206,7 +206,7 @@ Master useful **phrases** and **expressions** for discussing more abstract and c
 
 ---
 
-### How to Use the B2 Vocabulary Section
+## How to Use the B2 Vocabulary Section
 
 Each topic in this section helps you build the vocabulary necessary to express yourself in **complex conversations**, **debates**, and **discussions**. Whether you are talking about **business**, **science**, or **social issues**, these words and phrases will help you communicate fluently and confidently in various contexts.
 

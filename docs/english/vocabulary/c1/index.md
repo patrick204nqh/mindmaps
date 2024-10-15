@@ -206,7 +206,7 @@ Master useful **phrases** and **expressions** for discussing complex topics in b
 
 ---
 
-### How to Use the C1 Vocabulary Section
+## How to Use the C1 Vocabulary Section
 
 Each topic in this section helps you build the vocabulary necessary to express yourself in **sophisticated conversations**, **debates**, and **discussions**. Whether you are discussing **business strategy**, **philosophy**, or **scientific research**, these words and phrases will allow you to communicate with **clarity** and **nuance**.
 

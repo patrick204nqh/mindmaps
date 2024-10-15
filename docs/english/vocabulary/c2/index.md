@@ -190,7 +190,7 @@ Master **advanced expressions** and **phrases** that will help you navigate disc
 
 ---
 
-### How to Use the C2 Vocabulary Section
+## How to Use the C2 Vocabulary Section
 
 Each topic in this section helps you build the vocabulary necessary for **highly specialized discussions** and **complex debates**. Whether you’re engaging in **academic research**, **business strategy**, or **cultural criticism**, these words and phrases will allow you to communicate with the highest level of **fluency**, **nuance**, and **precision**.
 

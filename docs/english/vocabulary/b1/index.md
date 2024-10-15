@@ -206,7 +206,7 @@ Learn common **phrases** and **expressions** used in everyday B1-level conversat
 
 ---
 
-### How to Use the B1 Vocabulary Section
+## How to Use the B1 Vocabulary Section
 
 Each topic in this section helps you build practical vocabulary for use in more **complex conversations**. Whether you’re talking about **work**, **technology**, or **current events**, these words and phrases will help you express yourself more fluently and understand others in a variety of settings.
 

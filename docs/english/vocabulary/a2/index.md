@@ -188,7 +188,7 @@ Master essential phrases for everyday conversations. These phrases will help you
 
 ---
 
-### How to Use the A2 Vocabulary Section
+## How to Use the A2 Vocabulary Section
 
 Each topic in this section will help you build practical vocabulary for use in **real-life conversations**. Whether you're talking about your daily routines, making travel plans, or asking for help, these words and phrases will give you the tools to express yourself with more confidence.
 
