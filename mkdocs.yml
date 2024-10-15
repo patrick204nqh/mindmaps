@@ -55,10 +55,11 @@ plugins:
   - search
   - info
   - tags
+  # - typeset
   - group:
       enabled: !ENV [GITHUB_ACTIONS, false]
       plugins:
-        - meta
+        # - meta
         - social
         - privacy
         - minify
