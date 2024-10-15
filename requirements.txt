@@ -1,5 +1,5 @@
 mkdocs
-mkdocs-material
+mkdocs-material[imaging]
 mkdocs-minify-plugin
 mkdocs-include-markdown-plugin[cache]
 mkdocs-git-revision-date-localized-plugin

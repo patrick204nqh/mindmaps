@@ -57,12 +57,12 @@ plugins:
   - tags
   # - typeset
   - group:
-      enabled: !ENV [GITHUB_ACTIONS, false]
+      enabled: true
       plugins:
         # - meta
         - social
         - privacy
-        - optimize
+        # - optimize
         - offline
         - git-revision-date-localized
         - git-authors

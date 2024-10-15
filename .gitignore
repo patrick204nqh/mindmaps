@@ -44,3 +44,6 @@ dist/
 
 # Linux-specific files
 *.swp
+
+# cache
+.cache/
