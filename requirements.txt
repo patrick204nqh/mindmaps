@@ -1,5 +1,6 @@
 mkdocs
 mkdocs-material
+mkdocs-minify-plugin
 mkdocs-include-markdown-plugin[cache]
 mkdocs-git-revision-date-localized-plugin
 mkdocs-git-authors-plugin
