@@ -26,8 +26,8 @@ theme:
     text: Roboto
     code: Roboto Mono
 
-  logo: assets/images/logo.svg
-  favicon: assets/images/favicon.ico
+  logo: assets/img/logo.svg
+  favicon: assets/img/favicon.ico
   icon:
     logo: material/cloudsync
     repo: fontawesome/brands/github-alt

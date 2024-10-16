@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Body & Health - A1 Vocabulary
 
 In this section, you will learn the key vocabulary related to **body parts**, **health**, and **common medical phrases**. This vocabulary will help you describe symptoms, express how you feel, and talk about health with others.
