@@ -16,123 +16,404 @@ markmap:
   - Body & Health
     - Body Parts
       - head
-        - Definition: The upper part of the human body that contains the brain, eyes, ears, nose, and mouth.
-        - Pronunciation: /hɛd/
-        - Part of Speech: Noun
-        - Examples: "My head hurts after the long day."
-        - Synonyms: skull, cranium
+        - definition: the upper part of the human body that contains the brain, eyes, ears, nose, and mouth.
+        - pronunciation: /hɛd/
+        - part of speech: noun
+        - examples:
+          - She has a hat on her head.
+          - He shakes his head to say no.
+        - synonyms: (none)
+        - antonyms: foot
+        - related words: face, brain, hair
       - arm
-        - Definition: Upper limbs extending from the shoulders to the hands.
-        - Pronunciation: /ɑːrm/
-        - Part of Speech: Noun
-        - Examples: "She broke her arm playing football."
+        - definition: the upper limb of the human body from the shoulder to the hand.
+        - pronunciation: /ɑːrm/
+        - part of speech: noun
+        - examples:
+          - She raises her arm to ask a question.
+          - He broke his arm playing football.
+        - synonyms: limb
+        - antonyms: leg
+        - related words: hand, elbow, shoulder
       - leg
-        - Definition: Limbs used for walking and standing.
-        - Pronunciation: /lɛɡ/
-        - Part of Speech: Noun
-        - Examples: "I have a pain in my leg."
+        - definition: the lower limb of the human body used for standing and walking.
+        - pronunciation: /lɛɡ/
+        - part of speech: noun
+        - examples:
+          - She crossed her legs while sitting.
+          - He injured his leg during the race.
+        - synonyms: limb
+        - antonyms: arm
+        - related words: foot, knee, thigh
+      - eye
+        - definition: the organ of sight.
+        - pronunciation: /aɪ/
+        - part of speech: noun
+        - examples:
+          - She has blue eyes.
+          - He closed his eyes to sleep.
+        - synonyms: (none)
+        - antonyms: (none)
+        - related words: sight, vision, eyelid
+      - ear
+        - definition: the organ of hearing.
+        - pronunciation: /ɪr/
+        - part of speech: noun
+        - examples:
+          - She wears earrings in her ears.
+          - He listens carefully with his ears.
+        - synonyms: (none)
+        - antonyms: (none)
+        - related words: hearing, listen, earlobe
+      - nose
+        - definition: the part of the face used for smelling and breathing.
+        - pronunciation: /noʊz/
+        - part of speech: noun
+        - examples:
+          - She smells flowers with her nose.
+          - He has a cold and a runny nose.
+        - synonyms: (none)
+        - antonyms: (none)
+        - related words: smell, nostril, sniff
+      - mouth
+        - definition: the opening in the face used for eating and speaking.
+        - pronunciation: /maʊθ/
+        - part of speech: noun
+        - examples:
+          - She opened her mouth to speak.
+          - He brushes his teeth in his mouth.
+        - synonyms: (none)
+        - antonyms: (none)
+        - related words: lips, tongue, speak
       - hand
-        - Definition: The part of the body at the end of the arm, including fingers.
-        - Pronunciation: /hænd/
-        - Part of Speech: Noun
-        - Examples: "Raise your hand."
+        - definition: the end part of the arm used for holding or touching things.
+        - pronunciation: /hænd/
+        - part of speech: noun
+        - examples:
+          - She holds the book in her hand.
+          - He washes his hands before eating.
+        - synonyms: (none)
+        - antonyms: foot
+        - related words: fingers, palm, grip
       - foot
-        - Definition: The lower part of the leg that a person stands on.
-        - Pronunciation: /fʊt/
-        - Part of Speech: Noun
-        - Examples: "I hurt my foot running."
-      - elbow
-        - Definition: The joint between the upper arm and forearm.
-        - Pronunciation: /ˈɛl.boʊ/
-        - Examples: "I hit my elbow on the door."
+        - definition: the lower extremity of the leg used for standing and walking.
+        - pronunciation: /fʊt/
+        - part of speech: noun
+        - examples:
+          - She wears shoes on her feet.
+          - He taps his foot to the music.
+        - synonyms: (none)
+        - antonyms: hand
+        - related words: toes, heel, walk
+      - hair
+        - definition: the strands that grow from the skin of humans, especially on the head.
+        - pronunciation: /hɛr/
+        - part of speech: noun
+        - examples:
+          - She has long, brown hair.
+          - He combs his hair every morning.
+        - synonyms: (none)
+        - antonyms: baldness
+        - related words: comb, head, style
+      - face
+        - definition: the front part of the head where the eyes, nose, and mouth are.
+        - pronunciation: /feɪs/
+        - part of speech: noun
+        - examples:
+          - She has a smile on her face.
+          - He washes his face with cold water.
+        - synonyms: countenance
+        - antonyms: back of the head
+        - related words: expression, features, look
+      - back
+        - definition: the rear surface of the human body from the shoulders to the hips.
+        - pronunciation: /bæk/
+        - part of speech: noun
+        - examples:
+          - She lies on her back.
+          - He carries a backpack on his back.
+        - synonyms: rear
+        - antonyms: front
+        - related words: spine, shoulders, waist
+      - finger
+        - definition: one of the five digits on the hand.
+        - pronunciation: /ˈfɪŋɡər/
+        - part of speech: noun
+        - examples:
+          - She wears a ring on her finger.
+          - He points with his finger.
+        - synonyms: digit
+        - antonyms: toe
+        - related words: hand, thumb, nail
+      - toe
+        - definition: one of the digits on the foot.
+        - pronunciation: /toʊ/
+        - part of speech: noun
+        - examples:
+          - She stubs her toe on the chair.
+          - He counts his toes.
+        - synonyms: digit
+        - antonyms: finger
+        - related words: foot, nail, walk
       - knee
-        - Definition: Joint that connects the upper and lower leg.
-        - Pronunciation: /niː/
-        - Part of Speech: Noun
-        - Examples: "My knee hurts after running."
+        - definition: the joint between the thigh and the lower leg.
+        - pronunciation: /niː/
+        - part of speech: noun
+        - examples:
+          - She bends her knee.
+          - He hurts his knee playing soccer.
+        - synonyms: (none)
+        - antonyms: elbow
+        - related words: leg, joint, bend
       - shoulder
-        - Definition: The part connecting the arm to the torso.
-        - Pronunciation: /ˈʃoʊl.dər/
-        - Examples: "He tapped me on the shoulder."
-      - fingers
-        - Definition: The five digits at the end of the hand.
-        - Pronunciation: /ˈfɪŋ.ɡərz/
-        - Examples: "She cut her finger while chopping."
-      - toes
-        - Definition: The digits at the end of the feet.
-        - Pronunciation: /toʊz/
-        - Examples: "He stubbed his toe on the table."
-      - teeth
-        - Definition: The hard structures in the mouth for biting and chewing.
-        - Pronunciation: /tiːθ/
-        - Examples: "Brush your teeth every morning."
-      - skin
-        - Definition: The outer layer of the body.
-        - Pronunciation: /skɪn/
-        - Examples: "She has soft skin."
-    - Health & Illness Vocabulary
-      - doctor
-        - Definition: A person qualified to treat illness.
-        - Pronunciation: /ˈdɒk.tər/
-        - Examples: "I need to see a doctor."
-      - nurse
-        - Definition: A person trained to care for the sick.
-        - Pronunciation: /nɜːrs/
-        - Examples: "The nurse gave me medicine."
-      - patient
-        - Definition: A person receiving medical treatment.
-        - Pronunciation: /ˈpeɪ.ʃənt/
-        - Examples: "The patient is waiting in the room."
-      - medicine
-        - Definition: A substance used for treating illness.
-        - Pronunciation: /ˈmɛd.ɪ.sɪn/
-        - Examples: "Take your medicine."
-      - pain
-        - Definition: Physical suffering from illness or injury.
-        - Pronunciation: /peɪn/
-        - Examples: "I feel pain in my chest."
-      - fever
-        - Definition: Higher-than-normal body temperature.
-        - Pronunciation: /ˈfiː.vər/
-        - Examples: "She has a high fever."
-      - cough
-        - Definition: To expel air from the lungs with a noise.
-        - Pronunciation: /kɒf/
-        - Examples: "She has a bad cough."
-      - cold
-        - Definition: A common viral infection.
-        - Pronunciation: /koʊld/
-        - Examples: "I caught a cold last week."
-      - headache
-        - Definition: Pain in the head.
-        - Pronunciation: /ˈhɛdˌeɪk/
-        - Examples: "I have a terrible headache."
-    - Health-related Adjectives
+        - definition: the joint connecting the arm with the torso.
+        - pronunciation: /ˈʃoʊldər/
+        - part of speech: noun
+        - examples:
+          - She carries a bag over her shoulder.
+          - He shrugs his shoulders.
+        - synonyms: (none)
+        - antonyms: hip
+        - related words: arm, neck, back
+      - stomach
+        - definition: the organ where food is digested.
+        - pronunciation: /ˈstʌmək/
+        - part of speech: noun
+        - examples:
+          - She has a pain in her stomach.
+          - He eats until his stomach is full.
+        - synonyms: belly, tummy
+        - antonyms: (none)
+        - related words: digestion, abdomen, gut
+      - neck
+        - definition: the part of the body connecting the head and the torso.
+        - pronunciation: /nɛk/
+        - part of speech: noun
+        - examples:
+          - She wears a scarf around her neck.
+          - He turns his neck to look back.
+        - synonyms: (none)
+        - antonyms: (none)
+        - related words: throat, head, shoulder
+      - tooth
+        - definition: one of the hard structures in the mouth used for biting and chewing.
+        - pronunciation: /tuːθ/
+        - part of speech: noun
+        - examples:
+          - She brushes her teeth twice a day.
+          - He has a toothache.
+        - synonyms: (none)
+        - antonyms: (none)
+        - related words: mouth, dentist, chew
+      - tongue
+        - definition: the muscular organ in the mouth used for tasting and speaking.
+        - pronunciation: /tʌŋ/
+        - part of speech: noun
+        - examples:
+          - She sticks out her tongue.
+          - He bites his tongue accidentally.
+        - synonyms: (none)
+        - antonyms: (none)
+        - related words: mouth, taste, speak
+    - Health & Illness
       - sick
-        - Definition: Feeling unwell or ill.
-        - Pronunciation: /sɪk/
-        - Examples: "She feels sick today."
-      - tired
-        - Definition: Feeling in need of rest.
-        - Pronunciation: /taɪərd/
-        - Examples: "He is always tired after work."
-      - healthy
-        - Definition: In good physical condition.
-        - Pronunciation: /ˈhɛl.θi/
-        - Examples: "A balanced diet keeps you healthy."
-      - weak
-        - Definition: Lacking strength.
-        - Pronunciation: /wiːk/
-        - Examples: "I feel weak after being sick."
-      - strong
-        - Definition: Having physical power.
-        - Pronunciation: /strɒŋ/
-        - Examples: "He is strong from exercising."
-    - Common Medical Phrases
-      - "I have a headache."
-      - "My throat is sore."
-      - "I need to see a doctor."
-      - "Where is the nearest clinic?"
-      - "I feel dizzy."
-      - "My leg hurts."
-      - "I feel better after resting."
+        - definition: affected by physical or mental illness.
+        - pronunciation: /sɪk/
+        - part of speech: adjective
+        - examples:
+          - She is sick and cannot go to school.
+          - He feels sick after eating too much.
+        - synonyms: ill, unwell
+        - antonyms: healthy, well
+        - related words: illness, disease, health
+      - doctor
+        - definition: a person licensed to practice medicine.
+        - pronunciation: /ˈdɑːktər/
+        - part of speech: noun
+        - examples:
+          - She visits the doctor for a check-up.
+          - He wants to become a doctor.
+        - synonyms: physician
+        - antonyms: patient
+        - related words: nurse, hospital, medicine
+      - nurse
+        - definition: a person trained to care for the sick.
+        - pronunciation: /nɜːrs/
+        - part of speech: noun
+        - examples:
+          - She is a nurse at the local clinic.
+          - The nurse helps the doctor.
+        - synonyms: caregiver
+        - antonyms: patient
+        - related words: doctor, hospital, care
+      - patient
+        - definition: a person receiving medical treatment.
+        - pronunciation: /ˈpeɪʃənt/
+        - part of speech: noun
+        - examples:
+          - The patient is waiting in the room.
+          - He is a patient at the hospital.
+        - synonyms: (none)
+        - antonyms: doctor
+        - related words: hospital, nurse, medicine
+      - medicine
+        - definition: a substance used for treating illness.
+        - pronunciation: /ˈmɛdɪsɪn/
+        - part of speech: noun
+        - examples:
+          - She takes medicine for her cold.
+          - He studies medicine at university.
+        - synonyms: drug, remedy
+        - antonyms: poison
+        - related words: pill, prescription, treatment
+      - hospital
+        - definition: an institution providing medical treatment.
+        - pronunciation: /ˈhɑːspɪtəl/
+        - part of speech: noun
+        - examples:
+          - She works at the hospital.
+          - He goes to the hospital when he is sick.
+        - synonyms: clinic
+        - antonyms: (none)
+        - related words: doctor, nurse, patient
+      - pain
+        - definition: physical suffering or discomfort.
+        - pronunciation: /peɪn/
+        - part of speech: noun
+        - examples:
+          - She feels pain in her leg.
+          - He cries because of the pain.
+        - synonyms: ache, hurt
+        - antonyms: comfort, relief
+        - related words: hurt, sore, injury
+      - hurt
+        - definition: to cause pain or injury.
+        - pronunciation: /hɜːrt/
+        - part of speech: verb
+        - examples:
+          - She hurts her knee.
+          - He says, "Don't hurt me."
+        - synonyms: injure, wound
+        - antonyms: heal, soothe
+        - related words: pain, injury, harm
+      - cold
+        - definition: a common viral infection causing sneezing and coughing.
+        - pronunciation: /koʊld/
+        - part of speech: noun
+        - examples:
+          - She has a cold.
+          - He catches a cold in winter.
+        - synonyms: illness
+        - antonyms: health
+        - related words: flu, cough, sneeze
+      - fever
+        - definition: an abnormally high body temperature.
+        - pronunciation: /ˈfiːvər/
+        - part of speech: noun
+        - examples:
+          - She has a fever.
+          - He checks his temperature for fever.
+        - synonyms: high temperature
+        - antonyms: normal temperature
+        - related words: temperature, sick, ill
+      - feel
+        - definition: to experience an emotion or sensation.
+        - pronunciation: /fiːl/
+        - part of speech: verb
+        - examples:
+          - She feels happy today.
+          - He feels tired after work.
+        - synonyms: sense, perceive
+        - antonyms: ignore
+        - related words: feeling, touch, emotion
+    - Personal Care
+      - wash
+        - definition: to clean with water and usually soap.
+        - pronunciation: /wɑːʃ/
+        - part of speech: verb
+        - examples:
+          - She washes her hands before eating.
+          - He washes the car on weekends.
+        - synonyms: clean, rinse
+        - antonyms: dirty
+        - related words: soap, water, clean
+      - brush
+        - definition: to clean or groom with a brush.
+        - pronunciation: /brʌʃ/
+        - part of speech: verb
+        - examples:
+          - She brushes her teeth twice a day.
+          - He brushes his hair in the morning.
+        - synonyms: scrub
+        - antonyms: (none)
+        - related words: comb, toothbrush, hair
+      - clean
+        - definition: free from dirt; to make clean.
+        - pronunciation: /kliːn/
+        - part of speech: adjective/verb
+        - examples:
+          - She keeps her room clean.
+          - He cleans the table after dinner.
+        - synonyms: tidy, spotless
+        - antonyms: dirty, messy
+        - related words: tidy, wash, neat
+      - bath
+        - definition: an act of washing the body in water.
+        - pronunciation: /bæθ/
+        - part of speech: noun
+        - examples:
+          - She takes a bath every night.
+          - The baby enjoys his bath.
+        - synonyms: soak
+        - antonyms: (none)
+        - related words: shower, tub, soap
+      - shower
+        - definition: a device that produces a spray of water for washing.
+        - pronunciation: /ˈʃaʊər/
+        - part of speech: noun
+        - examples:
+          - She takes a shower in the morning.
+          - He installed a new shower in the bathroom.
+        - synonyms: (none)
+        - antonyms: bath
+        - related words: wash, water, bathroom
+      - soap
+        - definition: a substance used for washing.
+        - pronunciation: /soʊp/
+        - part of speech: noun
+        - examples:
+          - She uses soap to wash her hands.
+          - He buys a bar of soap.
+        - synonyms: cleanser
+        - antonyms: dirt
+        - related words: wash, clean, shampoo
+      - towel
+        - definition: a piece of cloth used for drying.
+        - pronunciation: /ˈtaʊəl/
+        - part of speech: noun
+        - examples:
+          - She dries her hands with a towel.
+          - He hangs the towel after showering.
+        - synonyms: (none)
+        - antonyms: (none)
+        - related words: bath, dry, cloth
+      - toothbrush
+        - definition: a small brush used for cleaning teeth.
+        - pronunciation: /ˈtuːθbrʌʃ/
+        - part of speech: noun
+        - examples:
+          - She forgot her toothbrush at home.
+          - He buys a new toothbrush.
+        - synonyms: (none)
+        - antonyms: (none)
+        - related words: toothpaste, teeth, brush
+      - toothpaste
+        - definition: a paste used on a toothbrush for cleaning teeth.
+        - pronunciation: /ˈtuːθpeɪst/
+        - part of speech: noun
+        - examples:
+          - She squeezes toothpaste onto her toothbrush.
+          - He needs to buy more toothpaste.
+        - synonyms: dentifrice
+        - antonyms: (none)
+        - related words: toothbrush, teeth, brush
