@@ -173,7 +173,22 @@ nav:
     - english/index.md
     - Vocabulary:
       - english/vocabulary/index.md
-      - A1 - Beginner: english/vocabulary/a1/index.md
+      - A1 - Beginner: 
+        - english/vocabulary/a1/index.md
+        - Body & Health: english/vocabulary/a1/body_health.md
+        - Clothes & Colors: english/vocabulary/a1/clothes_colors.md
+        - Common Adjectives: english/vocabulary/a1/common_adjectives.md
+        - Common Places: english/vocabulary/a1/common_places.md
+        - Common Verbs: english/vocabulary/a1/common_verbs.md
+        - Everyday Actions: english/vocabulary/a1/everyday_actions.md
+        - Feelings & Emotions: english/vocabulary/a1/feelings_emotions.md
+        - Food & Drink: english/vocabulary/a1/food_drink.md
+        - Hobbies & Free Time: english/vocabulary/a1/hobbies_free_time.md
+        - Numbers & Quantities: english/vocabulary/a1/numbers_quantities.md
+        - People & Family: english/vocabulary/a1/people_family.md
+        - Time & Dates: english/vocabulary/a1/time_dates.md
+        - Transportation: english/vocabulary/a1/transportation.md
+        - Weather & Seasons: english/vocabulary/a1/weather_seasons.md
       - A2 - Elementary: english/vocabulary/a2/index.md
       - B1 - Intermediate: english/vocabulary/b1/index.md
       - B2 - Upper-Intermediate: english/vocabulary/b2/index.md
