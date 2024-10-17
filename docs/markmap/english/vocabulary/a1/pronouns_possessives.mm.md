@@ -1,0 +1,341 @@
+---
+markmap:
+  colorFreezeLevel: -1
+  duration: 500
+  maxWidth: 0
+  initialExpandLevel: 5
+  extraJs: []
+  extraCss: []
+  zoom: true
+  pan: true
+---
+
+# Vocabulary
+
+- A1
+  - Pronouns & Possessives
+    - Personal Pronouns
+      - I
+        - definition: used by a speaker to refer to himself or herself.
+        - pronunciation: /aɪ/
+        - part of speech: pronoun
+        - examples:
+          - I am happy today.
+          - I have a new bike.
+        - synonyms: me
+        - antonyms: you
+        - related words: my, mine, myself
+      - you
+        - definition: used to refer to the person or people that the speaker is addressing.
+        - pronunciation: /juː/
+        - part of speech: pronoun
+        - examples:
+          - You are my best friend.
+          - Do you like coffee?
+        - synonyms: -
+        - antonyms: I
+        - related words: your, yours, yourself
+      - he
+        - definition: used to refer to a male person or animal previously mentioned.
+        - pronunciation: /hiː/
+        - part of speech: pronoun
+        - examples:
+          - He is a doctor.
+          - Does he play football?
+        - synonyms: -
+        - antonyms: she
+        - related words: his, himself
+      - she
+        - definition: used to refer to a female person or animal previously mentioned.
+        - pronunciation: /ʃiː/
+        - part of speech: pronoun
+        - examples:
+          - She is my sister.
+          - Where does she work?
+        - synonyms: -
+        - antonyms: he
+        - related words: her, hers, herself
+      - it
+        - definition: used to refer to a thing or animal previously mentioned.
+        - pronunciation: /ɪt/
+        - part of speech: pronoun
+        - examples:
+          - It is raining outside.
+          - The dog is friendly; it likes people.
+        - synonyms: -
+        - antonyms: -
+        - related words: its, itself
+      - we
+        - definition: used by a speaker to refer to himself or herself and one or more other people.
+        - pronunciation: /wiː/
+        - part of speech: pronoun
+        - examples:
+          - We are going to the park.
+          - Shall we start the meeting?
+        - synonyms: us
+        - antonyms: they
+        - related words: our, ours, ourselves
+      - they
+        - definition: used to refer to two or more people or things previously mentioned.
+        - pronunciation: /ðeɪ/
+        - part of speech: pronoun
+        - examples:
+          - They are my neighbors.
+          - Where are they from?
+        - synonyms: them
+        - antonyms: we
+        - related words: their, theirs, themselves
+    - Possessive Adjectives
+      - my
+        - definition: belonging to or associated with the speaker.
+        - pronunciation: /maɪ/
+        - part of speech: possessive adjective
+        - examples:
+          - This is my book.
+          - My car is new.
+        - synonyms: -
+        - antonyms: your
+        - related words: mine
+      - your
+        - definition: belonging to or associated with the person or people that the speaker is addressing.
+        - pronunciation: /jɔːr/
+        - part of speech: possessive adjective
+        - examples:
+          - Is this your bag?
+          - Your phone is ringing.
+        - synonyms: -
+        - antonyms: my
+        - related words: yours
+      - his
+        - definition: belonging to or associated with a male person or animal previously mentioned.
+        - pronunciation: /hɪz/
+        - part of speech: possessive adjective
+        - examples:
+          - His house is big.
+          - He forgot his keys.
+        - synonyms: -
+        - antonyms: her
+        - related words: himself
+      - her
+        - definition: belonging to or associated with a female person or animal previously mentioned.
+        - pronunciation: /hɜːr/
+        - part of speech: possessive adjective
+        - examples:
+          - Her name is Anna.
+          - She lost her wallet.
+        - synonyms: -
+        - antonyms: his
+        - related words: herself
+      - its
+        - definition: belonging to or associated with a thing previously mentioned.
+        - pronunciation: /ɪts/
+        - part of speech: possessive adjective
+        - examples:
+          - The cat licked its paw.
+          - The company changed its policy.
+        - synonyms: -
+        - antonyms: -
+        - related words: itself
+      - our
+        - definition: belonging to or associated with the speaker and one or more other people.
+        - pronunciation: /aʊər/
+        - part of speech: possessive adjective
+        - examples:
+          - Our team won the match.
+          - This is our house.
+        - synonyms: -
+        - antonyms: their
+        - related words: ours
+      - their
+        - definition: belonging to or associated with the people or things previously mentioned.
+        - pronunciation: /ðeər/
+        - part of speech: possessive adjective
+        - examples:
+          - Their children are polite.
+          - The students finished their homework.
+        - synonyms: -
+        - antonyms: our
+        - related words: theirs
+    - Possessive Pronouns
+      - mine
+        - definition: used to refer to a thing or things belonging to the speaker.
+        - pronunciation: /maɪn/
+        - part of speech: possessive pronoun
+        - examples:
+          - That book is mine.
+          - Is this umbrella yours or mine?
+        - synonyms: -
+        - antonyms: yours
+        - related words: my
+      - yours
+        - definition: used to refer to a thing or things belonging to the person or people being addressed.
+        - pronunciation: /jɔːrz/
+        - part of speech: possessive pronoun
+        - examples:
+          - This pen is yours.
+          - The choice is yours.
+        - synonyms: -
+        - antonyms: mine
+        - related words: your
+      - his
+        - definition: used to refer to a thing or things belonging to a male person or animal previously mentioned.
+        - pronunciation: /hɪz/
+        - part of speech: possessive pronoun
+        - examples:
+          - The blue car is his.
+          - Is this jacket his?
+        - synonyms: -
+        - antonyms: hers
+        - related words: -
+      - hers
+        - definition: used to refer to a thing or things belonging to a female person or animal previously mentioned.
+        - pronunciation: /hɜːrz/
+        - part of speech: possessive pronoun
+        - examples:
+          - The red bag is hers.
+          - This seat is hers.
+        - synonyms: -
+        - antonyms: his
+        - related words: her
+      - ours
+        - definition: used to refer to a thing or things belonging to the speaker and one or more other people.
+        - pronunciation: /aʊərz/
+        - part of speech: possessive pronoun
+        - examples:
+          - The victory was ours.
+          - This garden is ours.
+        - synonyms: -
+        - antonyms: theirs
+        - related words: our
+      - theirs
+        - definition: used to refer to a thing or things belonging to people or things previously mentioned.
+        - pronunciation: /ðeərz/
+        - part of speech: possessive pronoun
+        - examples:
+          - The house on the corner is theirs.
+          - Is this book theirs?
+        - synonyms: -
+        - antonyms: ours
+        - related words: their
+    - Reflexive Pronouns
+      - myself
+        - definition: used by a speaker to refer to himself or herself as the object of a verb or preposition.
+        - pronunciation: /maɪˈsɛlf/
+        - part of speech: reflexive pronoun
+        - examples:
+          - I made this cake myself.
+          - I hurt myself while playing.
+        - synonyms: -
+        - antonyms: -
+        - related words: me, I
+      - yourself
+        - definition: used to refer to the person being addressed as the object of a verb or preposition.
+        - pronunciation: /jɔːrˈsɛlf/
+        - part of speech: reflexive pronoun
+        - examples:
+          - Be careful not to cut yourself.
+          - Did you enjoy yourself at the party?
+        - synonyms: -
+        - antonyms: -
+        - related words: you
+      - himself
+        - definition: used to refer to a male person or animal as the object of a verb or preposition.
+        - pronunciation: /hɪmˈsɛlf/
+        - part of speech: reflexive pronoun
+        - examples:
+          - He taught himself to play piano.
+          - He looked at himself in the mirror.
+        - synonyms: -
+        - antonyms: -
+        - related words: him, he
+      - herself
+        - definition: used to refer to a female person or animal as the object of a verb or preposition.
+        - pronunciation: /hɜːrˈsɛlf/
+        - part of speech: reflexive pronoun
+        - examples:
+          - She prepared herself for the exam.
+          - She introduced herself to the class.
+        - synonyms: -
+        - antonyms: -
+        - related words: her, she
+      - itself
+        - definition: used to refer to a thing or animal as the object of a verb or preposition.
+        - pronunciation: /ɪtˈsɛlf/
+        - part of speech: reflexive pronoun
+        - examples:
+          - The dog hurt itself.
+          - The machine turns itself off.
+        - synonyms: -
+        - antonyms: -
+        - related words: it
+      - ourselves
+        - definition: used by a speaker to refer to himself or herself and one or more other people.
+        - pronunciation: /aʊərˈsɛlvz/
+        - part of speech: reflexive pronoun
+        - examples:
+          - We enjoyed ourselves at the concert.
+          - Let's introduce ourselves.
+        - synonyms: -
+        - antonyms: -
+        - related words: us, we
+      - yourselves
+        - definition: used to refer to the people being addressed.
+        - pronunciation: /jɔːrˈsɛlvz/
+        - part of speech: reflexive pronoun
+        - examples:
+          - You should take care of yourselves.
+          - Did you all enjoy yourselves?
+        - synonyms: -
+        - antonyms: -
+        - related words: you
+      - themselves
+        - definition: used to refer to people or things as the object of a verb or preposition.
+        - pronunciation: /ðɛmˈsɛlvz/
+        - part of speech: reflexive pronoun
+        - examples:
+          - They organized the event themselves.
+          - The children can dress themselves.
+        - synonyms: -
+        - antonyms: -
+        - related words: them, they
+    - Demonstrative Pronouns
+      - this
+        - definition: used to identify a specific person or thing close at hand.
+        - pronunciation: /ðɪs/
+        - part of speech: demonstrative pronoun
+        - examples:
+          - This is my favorite song.
+          - Do you like this?
+        - synonyms: -
+        - antonyms: that
+        - related words: these
+      - that
+        - definition: used to identify a specific person or thing observed or heard by the speaker.
+        - pronunciation: /ðæt/
+        - part of speech: demonstrative pronoun
+        - examples:
+          - That is a beautiful painting.
+          - Who is that?
+        - synonyms: -
+        - antonyms: this
+        - related words: those
+      - these
+        - definition: plural of 'this'; referring to people or things close at hand.
+        - pronunciation: /ðiːz/
+        - part of speech: demonstrative pronoun
+        - examples:
+          - These are my parents.
+          - Can you carry these?
+        - synonyms: -
+        - antonyms: those
+        - related words: this
+      - those
+        - definition: plural of 'that'; referring to people or things more distant.
+        - pronunciation: /ðoʊz/
+        - part of speech: demonstrative pronoun
+        - examples:
+          - Those are my friends.
+          - Look at those birds.
+        - synonyms: -
+        - antonyms: these
+        - related words: that

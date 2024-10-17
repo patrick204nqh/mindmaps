@@ -1,0 +1,414 @@
+---
+markmap:
+  colorFreezeLevel: -1
+  duration: 500
+  maxWidth: 0
+  initialExpandLevel: 5
+  extraJs: []
+  extraCss: []
+  zoom: true
+  pan: true
+---
+
+# Vocabulary
+
+- A1
+  - Numbers & Quantities
+    - Cardinal Numbers
+      - zero
+        - definition: the number representing no quantity.
+        - pronunciation: /ˈzɪəroʊ/
+        - part of speech: noun
+        - examples:
+          - The temperature is zero degrees.
+          - Zero plus one equals one.
+        - synonyms: none
+        - antonyms: one
+        - related words: nil, naught
+      - one
+        - definition: the number after zero; a single unit.
+        - pronunciation: /wʌn/
+        - part of speech: noun
+        - examples:
+          - She has one brother.
+          - One day, I will travel the world.
+        - synonyms: single
+        - antonyms: many
+        - related words: first
+      - two
+        - definition: the number after one; one more than one.
+        - pronunciation: /tuː/
+        - part of speech: noun
+        - examples:
+          - They have two children.
+          - Two plus two equals four.
+        - synonyms: pair
+        - antonyms: one
+        - related words: second
+      - three
+        - definition: the number after two; one more than two.
+        - pronunciation: /θriː/
+        - part of speech: noun
+        - examples:
+          - She bought three apples.
+          - Three times three is nine.
+        - synonyms: trio
+        - antonyms: two
+        - related words: third
+      - four
+        - definition: the number after three; one more than three.
+        - pronunciation: /fɔːr/
+        - part of speech: noun
+        - examples:
+          - The table seats four people.
+          - Four seasons in a year.
+        - synonyms: quartet
+        - antonyms: three
+        - related words: fourth
+      - five
+        - definition: the number after four; one more than four.
+        - pronunciation: /faɪv/
+        - part of speech: noun
+        - examples:
+          - She works five days a week.
+          - Five fingers on a hand.
+        - synonyms: -
+        - antonyms: six
+        - related words: fifth
+      - six
+        - definition: the number after five; one more than five.
+        - pronunciation: /sɪks/
+        - part of speech: noun
+        - examples:
+          - He woke up at six o'clock.
+          - Six sides on a hexagon.
+        - synonyms: half a dozen
+        - antonyms: five
+        - related words: sixth
+      - seven
+        - definition: the number after six; one more than six.
+        - pronunciation: /ˈsɛvən/
+        - part of speech: noun
+        - examples:
+          - There are seven days in a week.
+          - She is seven years old.
+        - synonyms: -
+        - antonyms: eight
+        - related words: seventh
+      - eight
+        - definition: the number after seven; one more than seven.
+        - pronunciation: /eɪt/
+        - part of speech: noun
+        - examples:
+          - Spiders have eight legs.
+          - The train leaves at eight.
+        - synonyms: -
+        - antonyms: seven
+        - related words: eighth
+      - nine
+        - definition: the number after eight; one more than eight.
+        - pronunciation: /naɪn/
+        - part of speech: noun
+        - examples:
+          - Nine months in a pregnancy.
+          - She has nine books.
+        - synonyms: -
+        - antonyms: ten
+        - related words: ninth
+      - ten
+        - definition: the number after nine; one more than nine.
+        - pronunciation: /tɛn/
+        - part of speech: noun
+        - examples:
+          - He scored ten points.
+          - Ten fingers and ten toes.
+        - synonyms: decade
+        - antonyms: nine
+        - related words: tenth
+    - Ordinal Numbers
+      - first
+        - definition: coming before all others; number one in order.
+        - pronunciation: /fɜːrst/
+        - part of speech: adjective
+        - examples:
+          - She won first prize.
+          - Monday is the first day of the week.
+        - synonyms: primary
+        - antonyms: last
+        - related words: firstly
+      - second
+        - definition: coming after the first; number two in order.
+        - pronunciation: /ˈsɛkənd/
+        - part of speech: adjective
+        - examples:
+          - He finished in second place.
+          - February is the second month.
+        - synonyms: next
+        - antonyms: first
+        - related words: secondly
+      - third
+        - definition: coming after the second; number three in order.
+        - pronunciation: /θɜːrd/
+        - part of speech: adjective
+        - examples:
+          - She is the third child.
+          - March is the third month.
+        - synonyms: -
+        - antonyms: second
+        - related words: thirdly
+      - fourth
+        - definition: coming after the third; number four in order.
+        - pronunciation: /fɔːrθ/
+        - part of speech: adjective
+        - examples:
+          - April is the fourth month.
+          - He lives on the fourth floor.
+        - synonyms: -
+        - antonyms: fifth
+        - related words: four
+      - fifth
+        - definition: coming after the fourth; number five in order.
+        - pronunciation: /fɪfθ/
+        - part of speech: adjective
+        - examples:
+          - She came in fifth place.
+          - May is the fifth month.
+        - synonyms: -
+        - antonyms: fourth
+        - related words: five
+    - Quantifiers
+      - many
+        - definition: a large number of.
+        - pronunciation: /ˈmɛni/
+        - part of speech: adjective
+        - examples:
+          - There are many stars in the sky.
+          - She has many friends.
+        - synonyms: numerous
+        - antonyms: few
+        - related words: more, most
+      - few
+        - definition: a small number of.
+        - pronunciation: /fjuː/
+        - part of speech: adjective
+        - examples:
+          - Few people know the answer.
+          - I have a few questions.
+        - synonyms: some
+        - antonyms: many
+        - related words: fewer, fewest
+      - some
+        - definition: an unspecified amount or number.
+        - pronunciation: /sʌm/
+        - part of speech: adjective
+        - examples:
+          - Would you like some tea?
+          - She bought some apples.
+        - synonyms: a few
+        - antonyms: none
+        - related words: someone, something
+      - all
+        - definition: the whole quantity or extent of.
+        - pronunciation: /ɔːl/
+        - part of speech: adjective
+        - examples:
+          - All students must attend.
+          - He ate all the cookies.
+        - synonyms: entire, every
+        - antonyms: none
+        - related words: altogether
+      - none
+        - definition: not any; no part.
+        - pronunciation: /nʌn/
+        - part of speech: pronoun
+        - examples:
+          - None of the answers are correct.
+          - She has none left.
+        - synonyms: nothing
+        - antonyms: some, all
+        - related words: -
+    - Measurements
+      - half
+        - definition: one of two equal parts.
+        - pronunciation: /hæf/
+        - part of speech: noun
+        - examples:
+          - Cut the cake in half.
+          - She drank half the bottle.
+        - synonyms: -
+        - antonyms: whole
+        - related words: halves
+      - whole
+        - definition: all of; entire.
+        - pronunciation: /hoʊl/
+        - part of speech: adjective
+        - examples:
+          - He ate the whole pizza.
+          - The whole class is here.
+        - synonyms: complete, entire
+        - antonyms: half
+        - related words: wholly
+      - full
+        - definition: containing as much as possible.
+        - pronunciation: /fʊl/
+        - part of speech: adjective
+        - examples:
+          - The glass is full of water.
+          - The bus is full.
+        - synonyms: filled
+        - antonyms: empty
+        - related words: fully
+      - empty
+        - definition: containing nothing.
+        - pronunciation: /ˈɛmpti/
+        - part of speech: adjective
+        - examples:
+          - The box is empty.
+          - The room was empty.
+        - synonyms: vacant, bare
+        - antonyms: full
+        - related words: emptiness, emptied
+    - Mathematical Operations
+      - add
+        - definition: to combine numbers to get a total.
+        - pronunciation: /æd/
+        - part of speech: verb
+        - examples:
+          - Add two and three to get five.
+          - She added sugar to her tea.
+        - synonyms: sum, combine
+        - antonyms: subtract
+        - related words: addition, added
+      - subtract
+        - definition: to take one number away from another.
+        - pronunciation: /səbˈtrækt/
+        - part of speech: verb
+        - examples:
+          - Subtract four from ten.
+          - He subtracted the cost from his budget.
+        - synonyms: deduct
+        - antonyms: add
+        - related words: subtraction, subtracted
+      - count
+        - definition: to determine the total number.
+        - pronunciation: /kaʊnt/
+        - part of speech: verb
+        - examples:
+          - She can count to one hundred.
+          - Let's count the votes.
+        - synonyms: tally, enumerate
+        - antonyms: estimate
+        - related words: counts, counted, counting
+      - number
+        - definition: an arithmetical value representing a particular quantity.
+        - pronunciation: /ˈnʌmbər/
+        - part of speech: noun
+        - examples:
+          - Seven is my lucky number.
+          - Write down your phone number.
+        - synonyms: numeral, figure
+        - antonyms: letter
+        - related words: numbers
+    - Expressions of Quantity
+      - more
+        - definition: a greater amount or number.
+        - pronunciation: /mɔːr/
+        - part of speech: adjective
+        - examples:
+          - Can I have more bread?
+          - She needs more time.
+        - synonyms: additional
+        - antonyms: less
+        - related words: most
+      - less
+        - definition: a smaller amount or number.
+        - pronunciation: /lɛs/
+        - part of speech: adjective
+        - examples:
+          - He has less money than before.
+          - There is less traffic today.
+        - synonyms: fewer
+        - antonyms: more
+        - related words: least
+      - enough
+        - definition: as much as necessary.
+        - pronunciation: /ɪˈnʌf/
+        - part of speech: adjective
+        - examples:
+          - Do we have enough chairs?
+          - She didn't have enough time.
+        - synonyms: sufficient
+        - antonyms: insufficient
+        - related words: -
+      - little
+        - definition: a small amount.
+        - pronunciation: /ˈlɪtəl/
+        - part of speech: adjective
+        - examples:
+          - There's little water left.
+          - She knows little about the subject.
+        - synonyms: small
+        - antonyms: much
+        - related words: less, least
+    - Currency
+      - dollar
+        - definition: the basic monetary unit of the US and other countries.
+        - pronunciation: /ˈdɒlər/
+        - part of speech: noun
+        - examples:
+          - The book costs ten dollars.
+          - She has fifty dollars in her wallet.
+        - synonyms: buck
+        - antonyms: -
+        - related words: dollars
+      - cent
+        - definition: a monetary unit equal to one hundredth of a dollar.
+        - pronunciation: /sɛnt/
+        - part of speech: noun
+        - examples:
+          - The candy costs fifty cents.
+          - He found a cent on the ground.
+        - synonyms: penny
+        - antonyms: -
+        - related words: cents
+      - pound
+        - definition: the basic monetary unit of the UK.
+        - pronunciation: /paʊnd/
+        - part of speech: noun
+        - examples:
+          - She paid twenty pounds for the dress.
+          - The meal cost ten pounds.
+        - synonyms: quid (slang)
+        - antonyms: -
+        - related words: pounds
+      - euro
+        - definition: the common currency used by many European countries.
+        - pronunciation: /ˈjʊəroʊ/
+        - part of speech: noun
+        - examples:
+          - The ticket costs fifty euros.
+          - He exchanged dollars for euros.
+        - synonyms: -
+        - antonyms: -
+        - related words: euros
+    - Fractions
+      - quarter
+        - definition: one of four equal parts.
+        - pronunciation: /ˈkwɔːrtər/
+        - part of speech: noun
+        - examples:
+          - A quarter of an hour is 15 minutes.
+          - She ate a quarter of the pie.
+        - synonyms: fourth
+        - antonyms: whole
+        - related words: quarters
+      - third
+        - definition: one of three equal parts.
+        - pronunciation: /θɜːrd/
+        - part of speech: noun
+        - examples:
+          - He drank a third of the bottle.
+          - A third of the class was absent.
+        - synonyms: -
+        - antonyms: whole
+        - related words: thirds

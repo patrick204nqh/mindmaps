@@ -1,0 +1,273 @@
+---
+markmap:
+  colorFreezeLevel: -1
+  duration: 500
+  maxWidth: 0
+  initialExpandLevel: 5
+  extraJs: []
+  extraCss: []
+  zoom: true
+  pan: true
+---
+
+# Vocabulary
+
+- A1
+  - Transportation
+    - Land Transportation
+      - car
+        - definition: a road vehicle, typically with four wheels, powered by an engine or motor.
+        - pronunciation: /kɑːr/
+        - part of speech: noun
+        - examples:
+          - He drives a red car.
+          - They bought a new car.
+        - synonyms: automobile, vehicle
+        - antonyms: -
+        - related words: cars, driver, drive
+      - bus
+        - definition: a large motor vehicle carrying passengers by road.
+        - pronunciation: /bʌs/
+        - part of speech: noun
+        - examples:
+          - She takes the bus to school.
+          - The bus is full of passengers.
+        - synonyms: coach
+        - antonyms: -
+        - related words: buses, bus stop, bus driver
+      - train
+        - definition: a series of connected vehicles that travel on tracks.
+        - pronunciation: /treɪn/
+        - part of speech: noun
+        - examples:
+          - They traveled by train.
+          - The train arrives at 6 p.m.
+        - synonyms: railway
+        - antonyms: -
+        - related words: trains, railway, station
+      - bicycle
+        - definition: a vehicle composed of two wheels held in a frame, powered by pedals.
+        - pronunciation: /ˈbaɪsɪkəl/
+        - part of speech: noun
+        - examples:
+          - He rides his bicycle every day.
+          - She bought a new bicycle.
+        - synonyms: bike
+        - antonyms: -
+        - related words: bicycles, cycling, cyclist
+      - motorcycle
+        - definition: a two-wheeled vehicle powered by an engine.
+        - pronunciation: /ˈmoʊtərˌsaɪkəl/
+        - part of speech: noun
+        - examples:
+          - He rides a motorcycle to work.
+          - The motorcycle is fast.
+        - synonyms: motorbike
+        - antonyms: -
+        - related words: motorcycles, rider, motorcycling
+    - Air Transportation
+      - airplane
+        - definition: a powered flying vehicle with fixed wings.
+        - pronunciation: /ˈɛərpleɪn/
+        - part of speech: noun
+        - examples:
+          - They flew on an airplane.
+          - The airplane landed safely.
+        - synonyms: plane
+        - antonyms: -
+        - related words: airplanes, pilot, airport
+      - helicopter
+        - definition: an aircraft deriving both lift and propulsion from one or two sets of horizontally revolving rotors.
+        - pronunciation: /ˈhɛlɪˌkɒptər/
+        - part of speech: noun
+        - examples:
+          - The helicopter flew over the city.
+          - He saw a helicopter landing.
+        - synonyms: chopper
+        - antonyms: -
+        - related words: helicopters, pilot
+    - Water Transportation
+      - boat
+        - definition: a small vessel for traveling over water.
+        - pronunciation: /boʊt/
+        - part of speech: noun
+        - examples:
+          - They went fishing in a boat.
+          - The boat sailed across the lake.
+        - synonyms: vessel
+        - antonyms: -
+        - related words: boats, boating, sailor
+      - ship
+        - definition: a large vessel that carries people or goods by sea.
+        - pronunciation: /ʃɪp/
+        - part of speech: noun
+        - examples:
+          - The ship is sailing to Europe.
+          - They boarded the cruise ship.
+        - synonyms: vessel
+        - antonyms: -
+        - related words: ships, shipping, captain
+    - Verbs Related to Transportation
+      - drive
+        - definition: to operate and control the direction and speed of a motor vehicle.
+        - pronunciation: /draɪv/
+        - part of speech: verb
+        - examples:
+          - She can drive a car.
+          - He is driving to work.
+        - synonyms: steer, operate
+        - antonyms: ride
+        - related words: drives, drove, driven, driving
+      - ride
+        - definition: to sit on and control the movement of a vehicle or animal.
+        - pronunciation: /raɪd/
+        - part of speech: verb
+        - examples:
+          - He rides his bicycle to school.
+          - They are riding horses.
+        - synonyms: mount
+        - antonyms: walk
+        - related words: rides, rode, ridden, riding
+      - fly
+        - definition: to move through the air using wings or in an aircraft.
+        - pronunciation: /flaɪ/
+        - part of speech: verb
+        - examples:
+          - They fly to Paris every summer.
+          - Birds fly in the sky.
+        - synonyms: soar, glide
+        - antonyms: land
+        - related words: flies, flew, flown, flying
+      - travel
+        - definition: to make a journey, typically of some length.
+        - pronunciation: /ˈtrævəl/
+        - part of speech: verb
+        - examples:
+          - She likes to travel to new places.
+          - They are traveling by train.
+        - synonyms: journey
+        - antonyms: stay
+        - related words: travels, traveled, traveling
+    - Transportation Places
+      - station
+        - definition: a regular stopping place on a public transportation route.
+        - pronunciation: /ˈsteɪʃən/
+        - part of speech: noun
+        - examples:
+          - The train leaves from the station.
+          - They waited at the bus station.
+        - synonyms: terminal, depot
+        - antonyms: -
+        - related words: stations
+      - airport
+        - definition: a complex of runways and buildings for the takeoff, landing, and maintenance of aircraft.
+        - pronunciation: /ˈɛərˌpɔːrt/
+        - part of speech: noun
+        - examples:
+          - They arrived at the airport early.
+          - The airplane took off from the airport.
+        - synonyms: airfield
+        - antonyms: -
+        - related words: airports, runway
+      - port
+        - definition: a town or city with a harbor where ships load or unload.
+        - pronunciation: /pɔːrt/
+        - part of speech: noun
+        - examples:
+          - The ship docked at the port.
+          - They visited the port city.
+        - synonyms: harbor
+        - antonyms: -
+        - related words: ports
+      - bus stop
+        - definition: a designated place where a bus regularly stops.
+        - pronunciation: /bʌs stɒp/
+        - part of speech: noun
+        - examples:
+          - She waits at the bus stop.
+          - There is a bus stop near my house.
+        - synonyms: -
+        - antonyms: -
+        - related words: bus station
+    - Other Transportation Words
+      - ticket
+        - definition: a piece of paper or card that gives the holder a certain right, especially to enter a place or travel.
+        - pronunciation: /ˈtɪkɪt/
+        - part of speech: noun
+        - examples:
+          - He bought a ticket for the train.
+          - Do you have a plane ticket?
+        - synonyms: pass, permit
+        - antonyms: -
+        - related words: tickets
+      - passenger
+        - definition: a person who is traveling in a vehicle but is not operating it.
+        - pronunciation: /ˈpæsɪndʒər/
+        - part of speech: noun
+        - examples:
+          - The bus can carry fifty passengers.
+          - Passengers must wear seat belts.
+        - synonyms: traveler, rider
+        - antonyms: driver
+        - related words: passengers
+      - driver
+        - definition: a person who operates a vehicle.
+        - pronunciation: /ˈdraɪvər/
+        - part of speech: noun
+        - examples:
+          - The taxi driver is friendly.
+          - She is a careful driver.
+        - synonyms: motorist
+        - antonyms: passenger
+        - related words: drivers, drive
+      - pilot
+        - definition: a person who operates the flying controls of an aircraft.
+        - pronunciation: /ˈpaɪlət/
+        - part of speech: noun
+        - examples:
+          - The pilot flies the plane.
+          - She wants to be a pilot.
+        - synonyms: aviator
+        - antonyms: passenger
+        - related words: pilots, pilotage
+    - Road Signs and Directions
+      - stop
+        - definition: to cease movement or operation.
+        - pronunciation: /stɒp/
+        - part of speech: verb, noun
+        - examples:
+          - He stopped the car at the red light.
+          - There is a stop sign ahead.
+        - synonyms: halt
+        - antonyms: go
+        - related words: stops, stopped, stopping
+      - go
+        - definition: to move from one place to another.
+        - pronunciation: /ɡoʊ/
+        - part of speech: verb
+        - examples:
+          - The light is green; you can go.
+          - They go to school by bus.
+        - synonyms: move, proceed
+        - antonyms: stop
+        - related words: goes, went, gone, going
+      - left
+        - definition: on or toward the side of the human body to the west when facing north.
+        - pronunciation: /lɛft/
+        - part of speech: noun, adjective, adverb
+        - examples:
+          - Turn left at the corner.
+          - The store is on the left side.
+        - synonyms: -
+        - antonyms: right
+        - related words: leftward
+      - right
+        - definition: on or toward the side of the human body to the east when facing north.
+        - pronunciation: /raɪt/
+        - part of speech: noun, adjective, adverb
+        - examples:
+          - Go right at the traffic light.
+          - The bank is on your right.
+        - synonyms: -
+        - antonyms: left
+        - related words: rightward

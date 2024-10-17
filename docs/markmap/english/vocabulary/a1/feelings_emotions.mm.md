@@ -1,0 +1,252 @@
+---
+markmap:
+  colorFreezeLevel: -1
+  duration: 500
+  maxWidth: 0
+  initialExpandLevel: 5
+  extraJs: []
+  extraCss: []
+  zoom: true
+  pan: true
+---
+
+# Vocabulary
+
+- A1
+  - Feelings & Emotions
+    - Positive Emotions
+      - happy
+        - definition: feeling or showing pleasure or contentment.
+        - pronunciation: /ˈhæpi/
+        - part of speech: adjective
+        - examples:
+          - She feels happy today.
+          - The children are happy to play outside.
+        - synonyms: joyful, glad
+        - antonyms: sad, unhappy
+        - related words: happiness
+      - excited
+        - definition: feeling very enthusiastic and eager.
+        - pronunciation: /ɪkˈsaɪtɪd/
+        - part of speech: adjective
+        - examples:
+          - He is excited about his new job.
+          - They are excited to see the movie.
+        - synonyms: enthusiastic, thrilled
+        - antonyms: bored, uninterested
+        - related words: excite, excitement
+      - love
+        - definition: a strong feeling of affection.
+        - pronunciation: /lʌv/
+        - part of speech: noun, verb
+        - examples:
+          - They share love and happiness.
+          - I love my family.
+        - synonyms: affection, adoration
+        - antonyms: hate, dislike
+        - related words: loving, lovely
+      - glad
+        - definition: feeling pleasure or happiness.
+        - pronunciation: /ɡlæd/
+        - part of speech: adjective
+        - examples:
+          - I am glad to meet you.
+          - She is glad that you came.
+        - synonyms: pleased, happy
+        - antonyms: sad, unhappy
+        - related words: gladly, gladness
+    - Negative Emotions
+      - sad
+        - definition: feeling or showing sorrow; unhappy.
+        - pronunciation: /sæd/
+        - part of speech: adjective
+        - examples:
+          - He felt sad when he lost his toy.
+          - The news made her sad.
+        - synonyms: unhappy, sorrowful
+        - antonyms: happy, joyful
+        - related words: sadness
+      - angry
+        - definition: feeling or showing strong annoyance or displeasure.
+        - pronunciation: /ˈæŋɡri/
+        - part of speech: adjective
+        - examples:
+          - She was angry about the mistake.
+          - Don't be angry with me.
+        - synonyms: mad, furious
+        - antonyms: calm, pleased
+        - related words: anger
+      - scared
+        - definition: fearful; frightened.
+        - pronunciation: /skɛrd/
+        - part of speech: adjective
+        - examples:
+          - He is scared of spiders.
+          - The loud noise made the baby scared.
+        - synonyms: afraid, frightened
+        - antonyms: brave, confident
+        - related words: scare
+      - tired
+        - definition: feeling a need to rest or sleep.
+        - pronunciation: /ˈtaɪərd/
+        - part of speech: adjective
+        - examples:
+          - I am tired after working all day.
+          - She looks tired.
+        - synonyms: exhausted, weary
+        - antonyms: energetic, refreshed
+        - related words: tire, tiresome
+    - Other Emotions
+      - surprised
+        - definition: feeling or showing surprise.
+        - pronunciation: /sərˈpraɪzd/
+        - part of speech: adjective
+        - examples:
+          - She was surprised to see him.
+          - I am surprised by the news.
+        - synonyms: astonished, amazed
+        - antonyms: expected, unsurprised
+        - related words: surprise
+      - bored
+        - definition: feeling weary because one is unoccupied or lacks interest.
+        - pronunciation: /bɔːrd/
+        - part of speech: adjective
+        - examples:
+          - He is bored with the game.
+          - They felt bored during the lecture.
+        - synonyms: uninterested, disinterested
+        - antonyms: interested, excited
+        - related words: bore, boredom
+      - nervous
+        - definition: easily agitated or alarmed; anxious.
+        - pronunciation: /ˈnɜːrvəs/
+        - part of speech: adjective
+        - examples:
+          - She is nervous about the exam.
+          - I feel nervous when speaking in public.
+        - synonyms: anxious, uneasy
+        - antonyms: calm, relaxed
+        - related words: nervously, nervousness
+      - proud
+        - definition: feeling deep pleasure or satisfaction as a result of achievements.
+        - pronunciation: /praʊd/
+        - part of speech: adjective
+        - examples:
+          - His parents are proud of him.
+          - She feels proud of her work.
+        - synonyms: pleased, satisfied
+        - antonyms: ashamed, humble
+        - related words: pride, proudly
+    - Expressions of Emotion
+      - smile
+        - definition: to form one's features into a pleased, kind, or amused expression.
+        - pronunciation: /smaɪl/
+        - part of speech: verb, noun
+        - examples:
+          - She smiles when she sees him.
+          - His smile is very friendly.
+        - synonyms: grin, beam
+        - antonyms: frown, scowl
+        - related words: smiling, smiled
+      - cry
+        - definition: to shed tears, especially as an expression of distress or pain.
+        - pronunciation: /kraɪ/
+        - part of speech: verb
+        - examples:
+          - The baby is crying.
+          - She cried when she heard the news.
+        - synonyms: weep, sob
+        - antonyms: laugh, smile
+        - related words: cries, cried, crying
+      - laugh
+        - definition: to make sounds and movements expressing amusement.
+        - pronunciation: /læf/
+        - part of speech: verb, noun
+        - examples:
+          - They laughed at the joke.
+          - His laugh is contagious.
+        - synonyms: chuckle, giggle
+        - antonyms: cry, weep
+        - related words: laughs, laughed, laughing
+      - shout
+        - definition: to say something very loudly.
+        - pronunciation: /ʃaʊt/
+        - part of speech: verb
+        - examples:
+          - He shouted for help.
+          - Don't shout at me.
+        - synonyms: yell, scream
+        - antonyms: whisper, murmur
+        - related words: shouts, shouted, shouting
+    - Physical Sensations
+      - hungry
+        - definition: feeling a need or desire to eat food.
+        - pronunciation: /ˈhʌŋɡri/
+        - part of speech: adjective
+        - examples:
+          - I am hungry; let's eat.
+          - She felt hungry after the long walk.
+        - synonyms: starving, famished
+        - antonyms: full, satisfied
+        - related words: hunger
+      - thirsty
+        - definition: feeling a need to drink something.
+        - pronunciation: /ˈθɜːrsti/
+        - part of speech: adjective
+        - examples:
+          - He is thirsty and wants water.
+          - They were thirsty after playing soccer.
+        - synonyms: parched, dehydrated
+        - antonyms: hydrated, quenched
+        - related words: thirst
+      - cold
+        - definition: feeling low in temperature.
+        - pronunciation: /koʊld/
+        - part of speech: adjective
+        - examples:
+          - She is cold and needs a jacket.
+          - I feel cold in this room.
+        - synonyms: chilly, cool
+        - antonyms: hot, warm
+        - related words: colder, coldest
+      - hot
+        - definition: feeling high in temperature.
+        - pronunciation: /hɑːt/
+        - part of speech: adjective
+        - examples:
+          - He feels hot after running.
+          - It's hot outside today.
+        - synonyms: warm, heated
+        - antonyms: cold, cool
+        - related words: hotter, hottest
+    - Mental States
+      - interested
+        - definition: showing curiosity or concern about something.
+        - pronunciation: /ˈɪntrəstəd/
+        - part of speech: adjective
+        - examples:
+          - She is interested in art.
+          - They are interested to learn more.
+        - synonyms: curious, attentive
+        - antonyms: uninterested, bored
+        - related words: interest
+      - confused
+        - definition: unable to think clearly; bewildered.
+        - pronunciation: /kənˈfjuzd/
+        - part of speech: adjective
+        - examples:
+          - I am confused by these instructions.
+          - She looked confused.
+        - synonyms: perplexed, puzzled
+        - antonyms: clear, certain
+        - related words: confuse, confusion
+      - bored
+        - definition: feeling weary because one is unoccupied.
+        - pronunciation: /bɔːrd/
+        - part of speech: adjective
+        - examples:
+          - The students are bored with the lesson.
+          - He felt bored during the meeting.
+        - synonyms: uninterested, tired
+        - antonyms: interested, engaged
+        - related words: bore, boredom

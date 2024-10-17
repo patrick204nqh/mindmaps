@@ -22,7 +22,7 @@ At the **A1 level**, you'll focus on learning the basic words and phrases used i
 - [**Common Places**](a1/common_places.md)
 - [**Feelings & Emotions**](a1/feelings_emotions.md)
 - [**Food & Drink**](a1/food_drink.md)
-- [**Hobbies & Leisure**](a1/hobbies_leisure.md)
+- [**Hobbies & Free Time**](a1/hobbies_free_time.md)]
 - [**Numbers & Quantities**](a1/numbers_quantities.md)
 - [**People & Family**](a1/people_family.md)
 - [**Prepositions**](a1/prepositions.md)

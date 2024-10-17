@@ -1,0 +1,357 @@
+---
+markmap:
+  colorFreezeLevel: -1
+  duration: 500
+  maxWidth: 0
+  initialExpandLevel: 5
+  extraJs: []
+  extraCss: []
+  zoom: true
+  pan: true
+---
+
+# Vocabulary
+
+- A1
+  - Hobbies & Free Time
+    - Sports
+      - play
+        - definition: to engage in activity for enjoyment and recreation.
+        - pronunciation: /pleɪ/
+        - part of speech: verb
+        - examples:
+          - They play soccer every weekend.
+          - Children like to play games.
+        - synonyms: engage, participate
+        - antonyms: work, rest
+        - related words: playing, played
+      - soccer
+        - definition: a game played by two teams of eleven players with a spherical ball.
+        - pronunciation: /ˈsɑːkər/
+        - part of speech: noun
+        - examples:
+          - He plays soccer with his friends.
+          - Soccer is popular worldwide.
+        - synonyms: football (UK)
+        - antonyms: -
+        - related words: -
+      - basketball
+        - definition: a game played by two teams of five players on a rectangular court.
+        - pronunciation: /ˈbæskɪtbɔːl/
+        - part of speech: noun
+        - examples:
+          - She enjoys playing basketball.
+          - They watch basketball on TV.
+        - synonyms: hoops
+        - antonyms: -
+        - related words: -
+    - Arts & Crafts
+      - draw
+        - definition: to produce a picture by making lines and marks.
+        - pronunciation: /drɔː/
+        - part of speech: verb
+        - examples:
+          - She likes to draw animals.
+          - Children draw pictures in class.
+        - synonyms: sketch, illustrate
+        - antonyms: erase
+        - related words: drawing, drew, drawn
+      - paint
+        - definition: to create a picture using paint.
+        - pronunciation: /peɪnt/
+        - part of speech: verb
+        - examples:
+          - He paints landscapes.
+          - They are painting the walls.
+        - synonyms: color, decorate
+        - antonyms: -
+        - related words: painting, painted
+      - make
+        - definition: to create or form something by putting parts together.
+        - pronunciation: /meɪk/
+        - part of speech: verb
+        - examples:
+          - They make crafts from paper.
+          - She is making a card.
+        - synonyms: create, build
+        - antonyms: destroy
+        - related words: makes, made, making
+    - Music
+      - sing
+        - definition: to produce musical tones with the voice.
+        - pronunciation: /sɪŋ/
+        - part of speech: verb
+        - examples:
+          - She sings in the choir.
+          - They like to sing songs.
+        - synonyms: chant, vocalize
+        - antonyms: -
+        - related words: sings, sang, sung, singing
+      - dance
+        - definition: to move rhythmically to music.
+        - pronunciation: /dæns/
+        - part of speech: verb
+        - examples:
+          - They dance at parties.
+          - He is learning to dance.
+        - synonyms: sway, groove
+        - antonyms: -
+        - related words: dances, danced, dancing
+      - play (an instrument)
+        - definition: to perform music on an instrument.
+        - pronunciation: /pleɪ/
+        - part of speech: verb
+        - examples:
+          - He plays the guitar.
+          - She is playing the piano.
+        - synonyms: perform
+        - antonyms: -
+        - related words: playing, played
+    - Reading & Writing
+      - read
+        - definition: to look at and comprehend the meaning of written or printed matter.
+        - pronunciation: /riːd/
+        - part of speech: verb
+        - examples:
+          - She reads books in her free time.
+          - He is reading a magazine.
+        - synonyms: peruse, study
+        - antonyms: write
+        - related words: reads, read, reading
+      - write
+        - definition: to mark letters, words, or symbols on a surface.
+        - pronunciation: /raɪt/
+        - part of speech: verb
+        - examples:
+          - He writes stories.
+          - She is writing a letter.
+        - synonyms: compose, scribble
+        - antonyms: read
+        - related words: writes, wrote, written, writing
+      - book
+        - definition: a written or printed work consisting of pages glued or sewn together.
+        - pronunciation: /bʊk/
+        - part of speech: noun
+        - examples:
+          - They borrowed books from the library.
+          - She is reading a new book.
+        - synonyms: volume, publication
+        - antonyms: -
+        - related words: books
+    - Outdoor Activities
+      - swim
+        - definition: to move through water by moving the body.
+        - pronunciation: /swɪm/
+        - part of speech: verb
+        - examples:
+          - They swim in the pool.
+          - She is learning to swim.
+        - synonyms: paddle, float
+        - antonyms: sink
+        - related words: swims, swam, swum, swimming
+      - hike
+        - definition: to take a long walk, especially in the country or wilderness.
+        - pronunciation: /haɪk/
+        - part of speech: verb
+        - examples:
+          - They like to hike in the mountains.
+          - He is hiking this weekend.
+        - synonyms: trek, walk
+        - antonyms: -
+        - related words: hikes, hiked, hiking
+      - picnic
+        - definition: an outing or occasion that involves taking a packed meal to be eaten outdoors.
+        - pronunciation: /ˈpɪknɪk/
+        - part of speech: noun
+        - examples:
+          - They had a picnic in the park.
+          - She prepared sandwiches for the picnic.
+        - synonyms: outing, excursion
+        - antonyms: -
+        - related words: picnics
+    - Games
+      - game
+        - definition: an activity that one engages in for amusement.
+        - pronunciation: /ɡeɪm/
+        - part of speech: noun
+        - examples:
+          - They are playing a board game.
+          - She likes computer games.
+        - synonyms: pastime, amusement
+        - antonyms: work
+        - related words: games
+      - chess
+        - definition: a board game of strategic skill for two players.
+        - pronunciation: /tʃɛs/
+        - part of speech: noun
+        - examples:
+          - He plays chess with his dad.
+          - Chess is a game of strategy.
+        - synonyms: -
+        - antonyms: -
+        - related words: -
+      - cards
+        - definition: small, flat, rectangular pieces of stiff paper used for playing games.
+        - pronunciation: /kɑːrdz/
+        - part of speech: noun
+        - examples:
+          - They are playing cards.
+          - She collects playing cards.
+        - synonyms: deck
+        - antonyms: -
+        - related words: card
+    - Watching Media
+      - watch
+        - definition: to look at or observe attentively.
+        - pronunciation: /wɑːtʃ/
+        - part of speech: verb
+        - examples:
+          - They watch movies on weekends.
+          - She is watching TV.
+        - synonyms: view, observe
+        - antonyms: ignore
+        - related words: watches, watched, watching
+      - movie
+        - definition: a story or event recorded by a camera as a set of moving images.
+        - pronunciation: /ˈmuːvi/
+        - part of speech: noun
+        - examples:
+          - They went to see a movie.
+          - He likes action movies.
+        - synonyms: film, cinema
+        - antonyms: -
+        - related words: movies
+      - television
+        - definition: a system for transmitting visual images and sound.
+        - pronunciation: /ˈtɛləˌvɪʒən/
+        - part of speech: noun
+        - examples:
+          - She watches television every evening.
+          - They bought a new television.
+        - synonyms: TV
+        - antonyms: -
+        - related words: televisions
+    - Collecting
+      - collect
+        - definition: to gather together; assemble.
+        - pronunciation: /kəˈlɛkt/
+        - part of speech: verb
+        - examples:
+          - She collects stamps.
+          - They are collecting coins.
+        - synonyms: gather, accumulate
+        - antonyms: disperse
+        - related words: collects, collected, collecting
+      - hobby
+        - definition: an activity done regularly in one's leisure time for pleasure.
+        - pronunciation: /ˈhɑːbi/
+        - part of speech: noun
+        - examples:
+          - His hobby is photography.
+          - She has many hobbies.
+        - synonyms: pastime, interest
+        - antonyms: work
+        - related words: hobbies
+      - collection
+        - definition: a group of things gathered together.
+        - pronunciation: /kəˈlɛkʃən/
+        - part of speech: noun
+        - examples:
+          - He has a collection of coins.
+          - Her stamp collection is large.
+        - synonyms: assortment, compilation
+        - antonyms: -
+        - related words: collections
+    - Cooking & Baking
+      - cook
+        - definition: to prepare food by heating it.
+        - pronunciation: /kʊk/
+        - part of speech: verb
+        - examples:
+          - He cooks dinner every night.
+          - She likes to cook new recipes.
+        - synonyms: prepare, bake
+        - antonyms: -
+        - related words: cooks, cooked, cooking
+      - bake
+        - definition: to cook food by dry heat without direct exposure to a flame.
+        - pronunciation: /beɪk/
+        - part of speech: verb
+        - examples:
+          - She bakes cakes on Sundays.
+          - They are baking bread.
+        - synonyms: roast, cook
+        - antonyms: boil
+        - related words: bakes, baked, baking
+      - recipe
+        - definition: a set of instructions for preparing a particular dish.
+        - pronunciation: /ˈrɛsəpi/
+        - part of speech: noun
+        - examples:
+          - She follows a recipe to bake cookies.
+          - He is reading a new recipe.
+        - synonyms: instructions, formula
+        - antonyms: -
+        - related words: recipes
+    - Photography
+      - take pictures
+        - definition: to capture images using a camera.
+        - pronunciation: /teɪk ˈpɪktʃərz/
+        - part of speech: verb phrase
+        - examples:
+          - He likes to take pictures of nature.
+          - She is taking pictures at the party.
+        - synonyms: photograph, shoot
+        - antonyms: -
+        - related words: took pictures, taking pictures
+      - camera
+        - definition: a device for recording visual images.
+        - pronunciation: /ˈkæmrə/
+        - part of speech: noun
+        - examples:
+          - She bought a new camera.
+          - The camera is on the table.
+        - synonyms: -
+        - antonyms: -
+        - related words: cameras
+      - photo
+        - definition: a photograph.
+        - pronunciation: /ˈfoʊtoʊ/
+        - part of speech: noun
+        - examples:
+          - He shared his photos online.
+          - She has many photos of her family.
+        - synonyms: picture, image
+        - antonyms: -
+        - related words: photos
+    - Gardening
+      - garden
+        - definition: to cultivate or work in a garden.
+        - pronunciation: /ˈɡɑːrdən/
+        - part of speech: verb, noun
+        - examples:
+          - She gardens in her free time.
+          - They have a beautiful garden.
+        - synonyms: cultivate, tend
+        - antonyms: neglect
+        - related words: gardening, gardens
+      - plant
+        - definition: to place a seed, bulb, or plant in the ground so that it can grow.
+        - pronunciation: /plænt/
+        - part of speech: verb, noun
+        - examples:
+          - They plant flowers in spring.
+          - He is planting a tree.
+        - synonyms: sow, seed
+        - antonyms: uproot
+        - related words: plants, planted, planting
+      - flower
+        - definition: the seed-bearing part of a plant.
+        - pronunciation: /ˈflaʊər/
+        - part of speech: noun
+        - examples:
+          - She grows flowers in her garden.
+          - The flowers are blooming.
+        - synonyms: blossom, bloom
+        - antonyms: -
+        - related words: flowers

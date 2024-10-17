@@ -1,0 +1,373 @@
+---
+markmap:
+  colorFreezeLevel: -1
+  duration: 500
+  maxWidth: 0
+  initialExpandLevel: 5
+  extraJs: []
+  extraCss: []
+  zoom: true
+  pan: true
+---
+
+# Vocabulary
+
+- A1
+  - Weather & Seasons
+    - Weather Conditions
+      - sunny
+        - definition: having a lot of bright sunlight.
+        - pronunciation: /ˈsʌni/
+        - part of speech: adjective
+        - examples:
+          - It is a sunny day today.
+          - We went to the beach because it was sunny.
+        - synonyms: bright, clear
+        - antonyms: cloudy, rainy
+        - related words: sun, sunshine
+      - rainy
+        - definition: having a lot of rain.
+        - pronunciation: /ˈreɪni/
+        - part of speech: adjective
+        - examples:
+          - It was a rainy afternoon.
+          - They stayed indoors because it was rainy.
+        - synonyms: wet
+        - antonyms: dry, sunny
+        - related words: rain, raining
+      - cloudy
+        - definition: covered with clouds; overcast.
+        - pronunciation: /ˈklaʊdi/
+        - part of speech: adjective
+        - examples:
+          - The sky is cloudy today.
+          - It might rain because it is cloudy.
+        - synonyms: overcast, gray
+        - antonyms: clear, sunny
+        - related words: cloud, clouds
+      - windy
+        - definition: with a lot of wind.
+        - pronunciation: /ˈwɪndi/
+        - part of speech: adjective
+        - examples:
+          - It is too windy to fly a kite.
+          - The windy weather blew away the leaves.
+        - synonyms: breezy, blustery
+        - antonyms: calm, still
+        - related words: wind
+      - snowy
+        - definition: having a lot of snow.
+        - pronunciation: /ˈsnoʊi/
+        - part of speech: adjective
+        - examples:
+          - The mountains are snowy in winter.
+          - They built a snowman on a snowy day.
+        - synonyms: snow-covered
+        - antonyms: clear, sunny
+        - related words: snow
+      - stormy
+        - definition: affected or characterized by storms.
+        - pronunciation: /ˈstɔːrmi/
+        - part of speech: adjective
+        - examples:
+          - The stormy sea was dangerous.
+          - They canceled the picnic due to stormy weather.
+        - synonyms: tempestuous
+        - antonyms: calm, peaceful
+        - related words: storm
+      - foggy
+        - definition: filled with thick mist or low clouds.
+        - pronunciation: /ˈfɒɡi/
+        - part of speech: adjective
+        - examples:
+          - It is foggy this morning.
+          - Driving can be dangerous when it's foggy.
+        - synonyms: misty, hazy
+        - antonyms: clear
+        - related words: fog
+    - Seasons
+      - spring
+        - definition: the season after winter and before summer.
+        - pronunciation: /sprɪŋ/
+        - part of speech: noun
+        - examples:
+          - Flowers bloom in spring.
+          - Spring is a time of growth.
+        - synonyms: -
+        - antonyms: autumn
+        - related words: season
+      - summer
+        - definition: the warmest season of the year.
+        - pronunciation: /ˈsʌmər/
+        - part of speech: noun
+        - examples:
+          - They go to the beach in summer.
+          - Summer days are long and hot.
+        - synonyms: -
+        - antonyms: winter
+        - related words: season
+      - autumn
+        - definition: the season after summer and before winter.
+        - pronunciation: /ˈɔːtəm/
+        - part of speech: noun
+        - examples:
+          - Leaves fall in autumn.
+          - Autumn is also called fall.
+        - synonyms: fall
+        - antonyms: spring
+        - related words: season
+      - winter
+        - definition: the coldest season of the year.
+        - pronunciation: /ˈwɪntər/
+        - part of speech: noun
+        - examples:
+          - It often snows in winter.
+          - They wear warm clothes in winter.
+        - synonyms: -
+        - antonyms: summer
+        - related words: season
+    - Temperature
+      - hot
+        - definition: having a high temperature.
+        - pronunciation: /hɑːt/
+        - part of speech: adjective
+        - examples:
+          - It is hot in the summer.
+          - The soup is hot.
+        - synonyms: warm
+        - antonyms: cold, cool
+        - related words: heat
+      - warm
+        - definition: moderately high temperature; not cold.
+        - pronunciation: /wɔːrm/
+        - part of speech: adjective
+        - examples:
+          - The weather is warm today.
+          - She put on a warm sweater.
+        - synonyms: mild
+        - antonyms: cold, cool
+        - related words: warmth
+      - cool
+        - definition: moderately cold; not warm.
+        - pronunciation: /kuːl/
+        - part of speech: adjective
+        - examples:
+          - The evening air is cool.
+          - They prefer cool drinks in summer.
+        - synonyms: chilly
+        - antonyms: warm, hot
+        - related words: cooler
+      - cold
+        - definition: of or at a low or relatively low temperature.
+        - pronunciation: /koʊld/
+        - part of speech: adjective
+        - examples:
+          - It is cold in winter.
+          - She feels cold without a coat.
+        - synonyms: chilly, freezing
+        - antonyms: hot, warm
+        - related words: coldness
+      - freezing
+        - definition: very cold; at or below the freezing point.
+        - pronunciation: /ˈfriːzɪŋ/
+        - part of speech: adjective
+        - examples:
+          - The water is freezing.
+          - It is freezing outside today.
+        - synonyms: icy
+        - antonyms: boiling
+        - related words: freeze, frozen
+    - Weather Verbs
+      - rain
+        - definition: water falling in drops from clouds.
+        - pronunciation: /reɪn/
+        - part of speech: noun, verb
+        - examples:
+          - It might rain later.
+          - The rain is heavy today.
+        - synonyms: drizzle (light rain)
+        - antonyms: sunshine
+        - related words: rainy, raining
+      - snow
+        - definition: atmospheric water vapor frozen into ice crystals.
+        - pronunciation: /snoʊ/
+        - part of speech: noun, verb
+        - examples:
+          - It is going to snow tonight.
+          - The ground is covered with snow.
+        - synonyms: -
+        - antonyms: -
+        - related words: snowy, snowing
+      - shine
+        - definition: to give out a bright light.
+        - pronunciation: /ʃaɪn/
+        - part of speech: verb
+        - examples:
+          - The sun is shining.
+          - Stars shine at night.
+        - synonyms: gleam, glow
+        - antonyms: dull
+        - related words: shining, shone
+      - blow
+        - definition: (of wind) move creating an air current.
+        - pronunciation: /bloʊ/
+        - part of speech: verb
+        - examples:
+          - The wind is blowing hard.
+          - Leaves blow in the wind.
+        - synonyms: gust
+        - antonyms: calm
+        - related words: blowing, blew, blown
+    - Weather Nouns
+      - sun
+        - definition: the star at the center of our solar system.
+        - pronunciation: /sʌn/
+        - part of speech: noun
+        - examples:
+          - The sun is bright today.
+          - Plants need sun to grow.
+        - synonyms: -
+        - antonyms: moon
+        - related words: sunny, sunshine
+      - rain
+        - definition: water droplets that fall from clouds.
+        - pronunciation: /reɪn/
+        - part of speech: noun
+        - examples:
+          - The rain has stopped.
+          - They danced in the rain.
+        - synonyms: rainfall
+        - antonyms: -
+        - related words: rainy
+      - wind
+        - definition: natural movement of air.
+        - pronunciation: /wɪnd/
+        - part of speech: noun
+        - examples:
+          - The wind is strong today.
+          - A cool wind blew from the sea.
+        - synonyms: breeze
+        - antonyms: calm
+        - related words: windy
+      - cloud
+        - definition: a visible mass of condensed water vapor.
+        - pronunciation: /klaʊd/
+        - part of speech: noun
+        - examples:
+          - There are clouds in the sky.
+          - The cloud looks like a rabbit.
+        - synonyms: -
+        - antonyms: clear sky
+        - related words: cloudy
+      - snow
+        - definition: frozen water vapor falling in light white flakes.
+        - pronunciation: /snoʊ/
+        - part of speech: noun
+        - examples:
+          - Children play in the snow.
+          - Snow covers the mountains.
+        - synonyms: -
+        - antonyms: -
+        - related words: snowy
+      - fog
+        - definition: a thick cloud of tiny water droplets near the earth's surface.
+        - pronunciation: /fɒɡ/
+        - part of speech: noun
+        - examples:
+          - The fog is thick this morning.
+          - Fog makes driving difficult.
+        - synonyms: mist
+        - antonyms: clarity
+        - related words: foggy
+      - storm
+        - definition: a violent disturbance of the atmosphere.
+        - pronunciation: /stɔːrm/
+        - part of speech: noun
+        - examples:
+          - The storm brought heavy rain.
+          - They stayed inside during the storm.
+        - synonyms: tempest
+        - antonyms: calm
+        - related words: stormy
+    - Weather Adjectives
+      - wet
+        - definition: covered or saturated with water or another liquid.
+        - pronunciation: /wɛt/
+        - part of speech: adjective
+        - examples:
+          - The ground is wet after the rain.
+          - Her clothes are wet from the puddle.
+        - synonyms: soaked
+        - antonyms: dry
+        - related words: wetness, wetter
+      - dry
+        - definition: free from moisture or liquid.
+        - pronunciation: /draɪ/
+        - part of speech: adjective
+        - examples:
+          - The desert is very dry.
+          - Hang your clothes to dry.
+        - synonyms: arid
+        - antonyms: wet
+        - related words: dryness, dried
+      - clear
+        - definition: free of clouds or mist; bright.
+        - pronunciation: /klɪər/
+        - part of speech: adjective
+        - examples:
+          - The sky is clear today.
+          - We have a clear view of the mountains.
+        - synonyms: bright
+        - antonyms: cloudy
+        - related words: clarity
+      - icy
+        - definition: covered with or consisting of ice.
+        - pronunciation: /ˈaɪsi/
+        - part of speech: adjective
+        - examples:
+          - The roads are icy in winter.
+          - Be careful on the icy steps.
+        - synonyms: frosty
+        - antonyms: warm
+        - related words: ice
+    - Seasons Activities
+      - swim
+        - definition: to move through water by moving the body.
+        - pronunciation: /swɪm/
+        - part of speech: verb
+        - examples:
+          - They swim in the sea during summer.
+          - He learned to swim last year.
+        - synonyms: -
+        - antonyms: sink
+        - related words: swimming
+      - ski
+        - definition: to move over snow on skis.
+        - pronunciation: /skiː/
+        - part of speech: verb
+        - examples:
+          - They ski in the mountains in winter.
+          - She enjoys skiing.
+        - synonyms: -
+        - antonyms: -
+        - related words: skiing
+      - picnic
+        - definition: an outing or occasion that involves taking a packed meal to be eaten outdoors.
+        - pronunciation: /ˈpɪknɪk/
+        - part of speech: noun, verb
+        - examples:
+          - They have a picnic in the park during spring.
+          - Let's picnic by the lake.
+        - synonyms: outing
+        - antonyms: -
+        - related words: picnicking
+      - plant
+        - definition: to place a seed, bulb, or plant in the ground so that it can grow.
+        - pronunciation: /plænt/
+        - part of speech: verb
+        - examples:
+          - They plant flowers in spring.
+          - She likes to plant vegetables in her garden.
+        - synonyms: sow
+        - antonyms: uproot
+        - related words: planting

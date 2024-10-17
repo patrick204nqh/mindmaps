@@ -1,0 +1,361 @@
+---
+markmap:
+  colorFreezeLevel: -1
+  duration: 500
+  maxWidth: 0
+  initialExpandLevel: 5
+  extraJs: []
+  extraCss: []
+  zoom: true
+  pan: true
+---
+
+# Vocabulary
+
+- A1
+  - People & Family
+    - Family Members
+      - mother
+        - definition: a female parent.
+        - pronunciation: /ˈmʌðər/
+        - part of speech: noun
+        - examples:
+          - My mother cooks dinner every night.
+          - She is a loving mother.
+        - synonyms: mom, mum
+        - antonyms: father
+        - related words: maternal, motherhood
+      - father
+        - definition: a male parent.
+        - pronunciation: /ˈfɑːðər/
+        - part of speech: noun
+        - examples:
+          - His father works in an office.
+          - He is a proud father.
+        - synonyms: dad, papa
+        - antonyms: mother
+        - related words: paternal, fatherhood
+      - brother
+        - definition: a male sibling.
+        - pronunciation: /ˈbrʌðər/
+        - part of speech: noun
+        - examples:
+          - I have one brother and one sister.
+          - His brother is older than him.
+        - synonyms: sibling
+        - antonyms: sister
+        - related words: brethren
+      - sister
+        - definition: a female sibling.
+        - pronunciation: /ˈsɪstər/
+        - part of speech: noun
+        - examples:
+          - Her sister lives in London.
+          - They are twin sisters.
+        - synonyms: sibling
+        - antonyms: brother
+        - related words: sisterhood
+      - son
+        - definition: a male child in relation to his parents.
+        - pronunciation: /sʌn/
+        - part of speech: noun
+        - examples:
+          - They have a young son.
+          - Their son plays football.
+        - synonyms: boy
+        - antonyms: daughter
+        - related words: offspring
+      - daughter
+        - definition: a female child in relation to her parents.
+        - pronunciation: /ˈdɔːtər/
+        - part of speech: noun
+        - examples:
+          - She is their only daughter.
+          - Their daughter likes to dance.
+        - synonyms: girl
+        - antonyms: son
+        - related words: offspring
+      - grandfather
+        - definition: the father of one's father or mother.
+        - pronunciation: /ˈɡrænfɑːðər/
+        - part of speech: noun
+        - examples:
+          - His grandfather tells great stories.
+          - She visits her grandfather every weekend.
+        - synonyms: grandpa
+        - antonyms: grandmother
+        - related words: grandparent
+      - grandmother
+        - definition: the mother of one's father or mother.
+        - pronunciation: /ˈɡrænmʌðər/
+        - part of speech: noun
+        - examples:
+          - Her grandmother makes delicious cookies.
+          - They love spending time with their grandmother.
+        - synonyms: grandma
+        - antonyms: grandfather
+        - related words: grandparent
+      - aunt
+        - definition: the sister of one's father or mother.
+        - pronunciation: /ænt/ or /ɑːnt/
+        - part of speech: noun
+        - examples:
+          - My aunt lives in Canada.
+          - She is visiting her aunt.
+        - synonyms: -
+        - antonyms: uncle
+        - related words: aunty
+      - uncle
+        - definition: the brother of one's father or mother.
+        - pronunciation: /ˈʌŋkəl/
+        - part of speech: noun
+        - examples:
+          - His uncle is a doctor.
+          - They went fishing with their uncle.
+        - synonyms: -
+        - antonyms: aunt
+        - related words: uncles
+      - cousin
+        - definition: a child of one's uncle or aunt.
+        - pronunciation: /ˈkʌzən/
+        - part of speech: noun
+        - examples:
+          - She plays with her cousins on weekends.
+          - My cousin is the same age as me.
+        - synonyms: relative
+        - antonyms: -
+        - related words: cousins
+      - baby
+        - definition: a very young child.
+        - pronunciation: /ˈbeɪbi/
+        - part of speech: noun
+        - examples:
+          - The baby is sleeping.
+          - They have a newborn baby.
+        - synonyms: infant
+        - antonyms: adult
+        - related words: babies
+      - child
+        - definition: a young human being below the age of puberty.
+        - pronunciation: /tʃaɪld/
+        - part of speech: noun
+        - examples:
+          - The child is learning to read.
+          - Children like to play.
+        - synonyms: kid
+        - antonyms: adult
+        - related words: children
+      - family
+        - definition: a group consisting of parents and children living together.
+        - pronunciation: /ˈfæməli/
+        - part of speech: noun
+        - examples:
+          - They are a happy family.
+          - She loves spending time with her family.
+        - synonyms: household
+        - antonyms: -
+        - related words: families
+    - Personal Characteristics
+      - man
+        - definition: an adult male human being.
+        - pronunciation: /mæn/
+        - part of speech: noun
+        - examples:
+          - The man is reading a newspaper.
+          - He is a tall man.
+        - synonyms: male, gentleman
+        - antonyms: woman
+        - related words: men
+      - woman
+        - definition: an adult female human being.
+        - pronunciation: /ˈwʊmən/
+        - part of speech: noun
+        - examples:
+          - The woman is talking on the phone.
+          - She is a kind woman.
+        - synonyms: female, lady
+        - antonyms: man
+        - related words: women
+      - boy
+        - definition: a male child or young man.
+        - pronunciation: /bɔɪ/
+        - part of speech: noun
+        - examples:
+          - The boy is playing soccer.
+          - He is a smart boy.
+        - synonyms: lad
+        - antonyms: girl
+        - related words: boys
+      - girl
+        - definition: a female child or young woman.
+        - pronunciation: /ɡɜːrl/
+        - part of speech: noun
+        - examples:
+          - The girl is drawing a picture.
+          - She is a cheerful girl.
+        - synonyms: lass
+        - antonyms: boy
+        - related words: girls
+      - friend
+        - definition: a person whom one knows and with whom one has a bond of mutual affection.
+        - pronunciation: /frɛnd/
+        - part of speech: noun
+        - examples:
+          - She is my best friend.
+          - They are good friends.
+        - synonyms: companion, buddy
+        - antonyms: enemy
+        - related words: friends, friendship
+      - neighbor
+        - definition: a person living near or next door.
+        - pronunciation: /ˈneɪbər/
+        - part of speech: noun
+        - examples:
+          - Our neighbor is very friendly.
+          - She talks to her neighbors often.
+        - synonyms: resident
+        - antonyms: stranger
+        - related words: neighborhood
+    - Relationships
+      - marry
+        - definition: to join in marriage.
+        - pronunciation: /ˈmæri/
+        - part of speech: verb
+        - examples:
+          - They plan to marry next year.
+          - She married her high school sweetheart.
+        - synonyms: wed
+        - antonyms: divorce
+        - related words: marries, married, marrying, marriage
+      - love
+        - definition: an intense feeling of deep affection.
+        - pronunciation: /lʌv/
+        - part of speech: noun, verb
+        - examples:
+          - They share a strong love.
+          - I love my family.
+        - synonyms: affection, adore
+        - antonyms: hate
+        - related words: loves, loved, loving
+      - meet
+        - definition: to come into the presence or company of someone.
+        - pronunciation: /miːt/
+        - part of speech: verb
+        - examples:
+          - Nice to meet you.
+          - They meet every Friday.
+        - synonyms: encounter
+        - antonyms: part
+        - related words: meets, met, meeting
+      - help
+        - definition: to make it easier for someone to do something.
+        - pronunciation: /hɛlp/
+        - part of speech: verb
+        - examples:
+          - Can you help me?
+          - She helps her brother with homework.
+        - synonyms: assist, aid
+        - antonyms: hinder
+        - related words: helps, helped, helping
+    - Social Titles
+      - Mr.
+        - definition: a title used before a surname or full name to address or refer to a man.
+        - pronunciation: /ˈmɪstər/
+        - part of speech: noun
+        - examples:
+          - Mr. Smith is our teacher.
+          - Good morning, Mr. Johnson.
+        - synonyms: Sir
+        - antonyms: Ms., Mrs.
+        - related words: -
+      - Mrs.
+        - definition: a title used before a surname or full name to address or refer to a married woman.
+        - pronunciation: /ˈmɪsɪz/
+        - part of speech: noun
+        - examples:
+          - Mrs. Brown lives next door.
+          - Hello, Mrs. Davis.
+        - synonyms: Madam
+        - antonyms: Mr., Miss
+        - related words: -
+      - Miss
+        - definition: a title used before a surname or full name to address or refer to an unmarried woman.
+        - pronunciation: /mɪs/
+        - part of speech: noun
+        - examples:
+          - Miss Lee is our new colleague.
+          - Good afternoon, Miss Garcia.
+        - synonyms: -
+        - antonyms: Mrs.
+        - related words: Ms.
+      - Ms.
+        - definition: a title used before a surname or full name to address a woman regardless of marital status.
+        - pronunciation: /mɪz/
+        - part of speech: noun
+        - examples:
+          - Ms. Taylor will see you now.
+          - Welcome, Ms. Wilson.
+        - synonyms: -
+        - antonyms: Mr.
+        - related words: -
+    - Personal Pronouns
+      - I
+        - definition: the speaker or writer referring to himself or herself.
+        - pronunciation: /aɪ/
+        - part of speech: pronoun
+        - examples:
+          - I am happy.
+          - I have a cat.
+        - synonyms: me
+        - antonyms: you
+        - related words: me, my, mine
+      - you
+        - definition: used to refer to the person or people that the speaker is addressing.
+        - pronunciation: /juː/
+        - part of speech: pronoun
+        - examples:
+          - You are my friend.
+          - Are you coming?
+        - synonyms: thou (archaic)
+        - antonyms: I
+        - related words: your, yours
+      - he
+        - definition: used to refer to a male person or animal previously mentioned or easily identified.
+        - pronunciation: /hiː/
+        - part of speech: pronoun
+        - examples:
+          - He is my brother.
+          - Does he like coffee?
+        - synonyms: -
+        - antonyms: she
+        - related words: his
+      - she
+        - definition: used to refer to a female person or animal previously mentioned or easily identified.
+        - pronunciation: /ʃiː/
+        - part of speech: pronoun
+        - examples:
+          - She is a teacher.
+          - Where does she live?
+        - synonyms: -
+        - antonyms: he
+        - related words: her, hers
+      - we
+        - definition: used by a speaker to refer to himself or herself and one or more other people.
+        - pronunciation: /wiː/
+        - part of speech: pronoun
+        - examples:
+          - We are going to the park.
+          - We have a dog.
+        - synonyms: us
+        - antonyms: they
+        - related words: our, ours
+      - they
+        - definition: used to refer to two or more people or things previously mentioned.
+        - pronunciation: /ðeɪ/
+        - part of speech: pronoun
+        - examples:
+          - They are my friends.
+          - Where are they going?
+        - synonyms: them
+        - antonyms: we
+        - related words: their, theirs

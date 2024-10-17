@@ -1,0 +1,573 @@
+---
+markmap:
+  colorFreezeLevel: -1
+  duration: 500
+  maxWidth: 0
+  initialExpandLevel: 5
+  extraJs: []
+  extraCss: []
+  zoom: true
+  pan: true
+---
+
+# Vocabulary
+
+- A1
+  - Time & Dates
+    - Days of the Week
+      - monday
+        - definition: the first day of the week, following Sunday.
+        - pronunciation: /ˈmʌndeɪ/
+        - part of speech: noun
+        - examples:
+          - I will start my new job on Monday.
+          - Monday is the beginning of the workweek.
+        - synonyms: -
+        - antonyms: -
+        - related words: weekdays, week
+      - tuesday
+        - definition: the second day of the week, following Monday.
+        - pronunciation: /ˈtjuːzdeɪ/
+        - part of speech: noun
+        - examples:
+          - She has a dance class every Tuesday.
+          - Tuesday comes after Monday.
+        - synonyms: -
+        - antonyms: -
+        - related words: weekdays, week
+      - wednesday
+        - definition: the third day of the week, following Tuesday.
+        - pronunciation: /ˈwɛnzdeɪ/
+        - part of speech: noun
+        - examples:
+          - We have a team meeting on Wednesday.
+          - Wednesday is in the middle of the week.
+        - synonyms: -
+        - antonyms: -
+        - related words: weekdays, week
+      - thursday
+        - definition: the fourth day of the week, following Wednesday.
+        - pronunciation: /ˈθɜːrzdeɪ/
+        - part of speech: noun
+        - examples:
+          - The movie premieres this Thursday.
+          - Thursday comes before Friday.
+        - synonyms: -
+        - antonyms: -
+        - related words: weekdays, week
+      - friday
+        - definition: the fifth day of the week, following Thursday.
+        - pronunciation: /ˈfraɪdeɪ/
+        - part of speech: noun
+        - examples:
+          - Friday is my favorite day of the week.
+          - They often go out on Friday nights.
+        - synonyms: -
+        - antonyms: -
+        - related words: weekdays, week
+      - saturday
+        - definition: the sixth day of the week, following Friday.
+        - pronunciation: /ˈsætərdeɪ/
+        - part of speech: noun
+        - examples:
+          - We relax and watch movies on Saturday.
+          - Saturday is part of the weekend.
+        - synonyms: -
+        - antonyms: -
+        - related words: weekend, week
+      - sunday
+        - definition: the seventh day of the week, following Saturday.
+        - pronunciation: /ˈsʌndeɪ/
+        - part of speech: noun
+        - examples:
+          - Many people rest on Sunday.
+          - They have a family dinner every Sunday.
+        - synonyms: -
+        - antonyms: -
+        - related words: weekend, week
+    - Months of the Year
+      - january
+        - definition: the first month of the year.
+        - pronunciation: /ˈdʒænjuɛri/
+        - part of speech: noun
+        - examples:
+          - The new year begins in January.
+          - It often snows in January.
+        - synonyms: -
+        - antonyms: -
+        - related words: month, year
+      - february
+        - definition: the second month of the year.
+        - pronunciation: /ˈfɛbruɛri/
+        - part of speech: noun
+        - examples:
+          - Valentine's Day is in February.
+          - February has 28 days, sometimes 29.
+        - synonyms: -
+        - antonyms: -
+        - related words: month, year
+      - march
+        - definition: the third month of the year.
+        - pronunciation: /mɑːrtʃ/
+        - part of speech: noun
+        - examples:
+          - Spring begins in March.
+          - They plan to travel in March.
+        - synonyms: -
+        - antonyms: -
+        - related words: month, year
+      - april
+        - definition: the fourth month of the year.
+        - pronunciation: /ˈeɪprəl/
+        - part of speech: noun
+        - examples:
+          - April is known for its showers.
+          - Her birthday is in April.
+        - synonyms: -
+        - antonyms: -
+        - related words: month, year
+      - may
+        - definition: the fifth month of the year.
+        - pronunciation: /meɪ/
+        - part of speech: noun
+        - examples:
+          - Flowers bloom in May.
+          - They will graduate in May.
+        - synonyms: -
+        - antonyms: -
+        - related words: month, year
+      - june
+        - definition: the sixth month of the year.
+        - pronunciation: /dʒuːn/
+        - part of speech: noun
+        - examples:
+          - Summer starts in June.
+          - The days are long in June.
+        - synonyms: -
+        - antonyms: -
+        - related words: month, year
+      - july
+        - definition: the seventh month of the year.
+        - pronunciation: /dʒuːˈlaɪ/
+        - part of speech: noun
+        - examples:
+          - Independence Day is in July.
+          - They go on vacation in July.
+        - synonyms: -
+        - antonyms: -
+        - related words: month, year
+      - august
+        - definition: the eighth month of the year.
+        - pronunciation: /ˈɔːɡəst/
+        - part of speech: noun
+        - examples:
+          - It's usually hot in August.
+          - School starts at the end of August.
+        - synonyms: -
+        - antonyms: -
+        - related words: month, year
+      - september
+        - definition: the ninth month of the year.
+        - pronunciation: /sɛpˈtɛmbər/
+        - part of speech: noun
+        - examples:
+          - Leaves begin to fall in September.
+          - They return to school in September.
+        - synonyms: -
+        - antonyms: -
+        - related words: month, year
+      - october
+        - definition: the tenth month of the year.
+        - pronunciation: /ɑːkˈtoʊbər/
+        - part of speech: noun
+        - examples:
+          - Halloween is celebrated in October.
+          - The weather cools down in October.
+        - synonyms: -
+        - antonyms: -
+        - related words: month, year
+      - november
+        - definition: the eleventh month of the year.
+        - pronunciation: /noʊˈvɛmbər/
+        - part of speech: noun
+        - examples:
+          - Thanksgiving occurs in November.
+          - November brings colder days.
+        - synonyms: -
+        - antonyms: -
+        - related words: month, year
+      - december
+        - definition: the twelfth month of the year.
+        - pronunciation: /dɪˈsɛmbər/
+        - part of speech: noun
+        - examples:
+          - Christmas is in December.
+          - The year ends in December.
+        - synonyms: -
+        - antonyms: -
+        - related words: month, year
+    - Seasons
+      - spring
+        - definition: the season after winter and before summer.
+        - pronunciation: /sprɪŋ/
+        - part of speech: noun
+        - examples:
+          - Flowers bloom in spring.
+          - Spring brings warmer weather.
+        - synonyms: -
+        - antonyms: autumn
+        - related words: season
+      - summer
+        - definition: the warmest season of the year.
+        - pronunciation: /ˈsʌmər/
+        - part of speech: noun
+        - examples:
+          - They swim during the summer.
+          - Summer days are long.
+        - synonyms: -
+        - antonyms: winter
+        - related words: season
+      - autumn
+        - definition: the season after summer and before winter.
+        - pronunciation: /ˈɔːtəm/
+        - part of speech: noun
+        - examples:
+          - Leaves fall in autumn.
+          - Autumn is also known as fall.
+        - synonyms: fall
+        - antonyms: spring
+        - related words: season
+      - winter
+        - definition: the coldest season of the year.
+        - pronunciation: /ˈwɪntər/
+        - part of speech: noun
+        - examples:
+          - It often snows in winter.
+          - Winter days are short.
+        - synonyms: -
+        - antonyms: summer
+        - related words: season
+    - Times of Day
+      - morning
+        - definition: the early part of the day, from sunrise until noon.
+        - pronunciation: /ˈmɔːrnɪŋ/
+        - part of speech: noun
+        - examples:
+          - She jogs every morning.
+          - Good morning to you!
+        - synonyms: dawn
+        - antonyms: evening
+        - related words: sunrise
+      - afternoon
+        - definition: the time from noon until evening.
+        - pronunciation: /ˌæftərˈnuːn/
+        - part of speech: noun
+        - examples:
+          - They have lunch in the afternoon.
+          - See you this afternoon.
+        - synonyms: -
+        - antonyms: night
+        - related words: midday
+      - evening
+        - definition: the period of time at the end of the day, from about 6 p.m. to bedtime.
+        - pronunciation: /ˈiːvnɪŋ/
+        - part of speech: noun
+        - examples:
+          - We watch TV in the evening.
+          - Good evening, everyone.
+        - synonyms: dusk
+        - antonyms: morning
+        - related words: twilight
+      - night
+        - definition: the period of darkness between sunset and sunrise.
+        - pronunciation: /naɪt/
+        - part of speech: noun
+        - examples:
+          - Stars shine at night.
+          - They sleep at night.
+        - synonyms: nighttime
+        - antonyms: day
+        - related words: midnight
+      - noon
+        - definition: 12 o'clock in the day; midday.
+        - pronunciation: /nuːn/
+        - part of speech: noun
+        - examples:
+          - Let's meet at noon.
+          - The sun is highest at noon.
+        - synonyms: midday
+        - antonyms: midnight
+        - related words: lunchtime
+      - midnight
+        - definition: 12 o'clock at night.
+        - pronunciation: /ˈmɪdnaɪt/
+        - part of speech: noun
+        - examples:
+          - It's already past midnight.
+          - She works until midnight.
+        - synonyms: -
+        - antonyms: noon
+        - related words: night
+    - Telling Time
+      - hour
+        - definition: a period of time equal to 60 minutes.
+        - pronunciation: /ˈaʊər/
+        - part of speech: noun
+        - examples:
+          - It takes an hour to drive there.
+          - There are 24 hours in a day.
+        - synonyms: -
+        - antonyms: minute
+        - related words: hourly
+      - minute
+        - definition: a period of time equal to 60 seconds.
+        - pronunciation: /ˈmɪnɪt/
+        - part of speech: noun
+        - examples:
+          - Wait a minute, please.
+          - There are 60 minutes in an hour.
+        - synonyms: moment
+        - antonyms: hour
+        - related words: minute hand
+      - second
+        - definition: a unit of time equal to one sixtieth of a minute.
+        - pronunciation: /ˈsɛkənd/
+        - part of speech: noun
+        - examples:
+          - The race was won by seconds.
+          - There are 60 seconds in a minute.
+        - synonyms: instant
+        - antonyms: -
+        - related words: second hand
+      - o'clock
+        - definition: used to specify the hour when telling time.
+        - pronunciation: /əˈklɒk/
+        - part of speech: adverb
+        - examples:
+          - It's seven o'clock.
+          - The meeting starts at nine o'clock.
+        - synonyms: -
+        - antonyms: -
+        - related words: clock
+      - half past
+        - definition: 30 minutes after the hour.
+        - pronunciation: /hæf pæst/
+        - part of speech: phrase
+        - examples:
+          - It's half past ten. (10:30)
+          - The show begins at half past eight.
+        - synonyms: thirty
+        - antonyms: -
+        - related words: quarter past
+      - quarter past
+        - definition: 15 minutes after the hour.
+        - pronunciation: /ˈkwɔːrtər pæst/
+        - part of speech: phrase
+        - examples:
+          - It's quarter past five. (5:15)
+          - The train leaves at quarter past two.
+        - synonyms: fifteen after
+        - antonyms: -
+        - related words: quarter to
+      - quarter to
+        - definition: 15 minutes before the hour.
+        - pronunciation: /ˈkwɔːrtər tuː/
+        - part of speech: phrase
+        - examples:
+          - It's quarter to six. (5:45)
+          - They arrive at quarter to nine.
+        - synonyms: fifteen before
+        - antonyms: -
+        - related words: quarter past
+      - clock
+        - definition: a device for measuring and showing time.
+        - pronunciation: /klɒk/
+        - part of speech: noun
+        - examples:
+          - The clock on the wall is slow.
+          - She set the alarm on her clock.
+        - synonyms: timepiece
+        - antonyms: -
+        - related words: watch, alarm clock
+    - Calendar Terms
+      - today
+        - definition: on or in the course of this present day.
+        - pronunciation: /təˈdeɪ/
+        - part of speech: adverb, noun
+        - examples:
+          - Today is a sunny day.
+          - What are your plans for today?
+        - synonyms: this day
+        - antonyms: yesterday, tomorrow
+        - related words: nowadays
+      - yesterday
+        - definition: on the day before today.
+        - pronunciation: /ˈjɛstərdeɪ/
+        - part of speech: adverb, noun
+        - examples:
+          - She visited us yesterday.
+          - Yesterday was my birthday.
+        - synonyms: -
+        - antonyms: today, tomorrow
+        - related words: past
+      - tomorrow
+        - definition: on the day after today.
+        - pronunciation: /təˈmɔːroʊ/
+        - part of speech: adverb, noun
+        - examples:
+          - We will leave tomorrow.
+          - Tomorrow is another day.
+        - synonyms: -
+        - antonyms: today, yesterday
+        - related words: future
+      - week
+        - definition: a period of seven days.
+        - pronunciation: /wiːk/
+        - part of speech: noun
+        - examples:
+          - The week starts on Monday.
+          - She works five days a week.
+        - synonyms: -
+        - antonyms: weekend
+        - related words: weekday
+      - month
+        - definition: each of the twelve named periods into which a year is divided.
+        - pronunciation: /mʌnθ/
+        - part of speech: noun
+        - examples:
+          - There are 12 months in a year.
+          - Rent is due every month.
+        - synonyms: -
+        - antonyms: day
+        - related words: monthly
+      - year
+        - definition: the time taken by the earth to make one revolution around the sun.
+        - pronunciation: /jɪr/
+        - part of speech: noun
+        - examples:
+          - Happy New Year!
+          - She has been here for one year.
+        - synonyms: annum
+        - antonyms: day
+        - related words: yearly
+      - date
+        - definition: a particular day or point in time.
+        - pronunciation: /deɪt/
+        - part of speech: noun
+        - examples:
+          - Please note the date of the meeting.
+          - What's today's date?
+        - synonyms: day
+        - antonyms: -
+        - related words: calendar
+      - calendar
+        - definition: a chart or series of pages showing the days, weeks, and months of a particular year.
+        - pronunciation: /ˈkælɪndər/
+        - part of speech: noun
+        - examples:
+          - Mark the event on your calendar.
+          - The calendar hangs on the fridge.
+        - synonyms: schedule
+        - antonyms: -
+        - related words: date
+      - season
+        - definition: each of the four divisions of the year marked by particular weather patterns.
+        - pronunciation: /ˈsiːzən/
+        - part of speech: noun
+        - examples:
+          - Autumn is my favorite season.
+          - The rainy season lasts for months.
+        - synonyms: period
+        - antonyms: -
+        - related words: seasonal
+    - Time Expressions
+      - early
+        - definition: happening or done before the usual or expected time.
+        - pronunciation: /ˈɜːrli/
+        - part of speech: adjective, adverb
+        - examples:
+          - She arrived early to the meeting.
+          - Early birds get the best seats.
+        - synonyms: beforehand
+        - antonyms: late
+        - related words: earlier, earliest
+      - late
+        - definition: doing something or taking place after the expected time.
+        - pronunciation: /leɪt/
+        - part of speech: adjective, adverb
+        - examples:
+          - He was late for school.
+          - The train arrived late.
+        - synonyms: delayed
+        - antonyms: early
+        - related words: later, latest
+      - now
+        - definition: at the present time or moment.
+        - pronunciation: /naʊ/
+        - part of speech: adverb
+        - examples:
+          - I am studying now.
+          - Let's go now.
+        - synonyms: currently
+        - antonyms: then
+        - related words: nowadays
+      - then
+        - definition: at that time; at the time in question.
+        - pronunciation: /ðɛn/
+        - part of speech: adverb
+        - examples:
+          - Back then, things were different.
+          - Finish your work, then you can play.
+        - synonyms: afterwards
+        - antonyms: now
+        - related words: than
+      - soon
+        - definition: in or after a short time.
+        - pronunciation: /suːn/
+        - part of speech: adverb
+        - examples:
+          - She will call you soon.
+          - Dinner will be ready soon.
+        - synonyms: shortly
+        - antonyms: later
+        - related words: sooner, soonest
+      - always
+        - definition: at all times; on all occasions.
+        - pronunciation: /ˈɔːlweɪz/
+        - part of speech: adverb
+        - examples:
+          - He always tells the truth.
+          - They always arrive on time.
+        - synonyms: consistently
+        - antonyms: never
+        - related words: forever
+      - never
+        - definition: at no time in the past or future; not ever.
+        - pronunciation: /ˈnɛvər/
+        - part of speech: adverb
+        - examples:
+          - I have never been skiing.
+          - She never eats meat.
+        - synonyms: not ever
+        - antonyms: always
+        - related words: nevermore
+      - sometimes
+        - definition: occasionally, rather than all the time.
+        - pronunciation: /ˈsʌmtaɪmz/
+        - part of speech: adverb
+        - examples:
+          - Sometimes we go hiking.
+          - He sometimes forgets his keys.
+        - synonyms: occasionally
+        - antonyms: always, never
+        - related words: sometime
+      - often
+        - definition: frequently; many times.
+        - pronunciation: /ˈɔːfən/
+        - part of speech: adverb
+        - examples:
+          - She often reads before bed.
+          - How often do you travel?
+        - synonyms: frequently
+        - antonyms: seldom
+        - related words: oftentimes

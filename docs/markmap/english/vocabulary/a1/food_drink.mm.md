@@ -1,0 +1,487 @@
+---
+markmap:
+  colorFreezeLevel: -1
+  duration: 500
+  maxWidth: 0
+  initialExpandLevel: 5
+  extraJs: []
+  extraCss: []
+  zoom: true
+  pan: true
+---
+
+# Vocabulary
+
+- A1
+  - Food & Drink
+    - Fruits
+      - apple
+        - definition: a round fruit with red, green, or yellow skin and firm white flesh.
+        - pronunciation: /ˈæpəl/
+        - part of speech: noun
+        - examples:
+          - She eats an apple every day.
+          - I like apple pie.
+        - synonyms: -
+        - antonyms: -
+        - related words: apples
+      - banana
+        - definition: a long curved fruit with a yellow skin and soft sweet flesh.
+        - pronunciation: /bəˈnɑːnə/
+        - part of speech: noun
+        - examples:
+          - Monkeys like bananas.
+          - He had a banana for breakfast.
+        - synonyms: -
+        - antonyms: -
+        - related words: bananas
+      - orange
+        - definition: a round juicy citrus fruit with a tough bright reddish-yellow rind.
+        - pronunciation: /ˈɒrɪndʒ/
+        - part of speech: noun
+        - examples:
+          - She drank a glass of orange juice.
+          - I peeled an orange.
+        - synonyms: -
+        - antonyms: -
+        - related words: oranges
+      - grape
+        - definition: a small round or oval fruit that grows in clusters on vines.
+        - pronunciation: /ɡreɪp/
+        - part of speech: noun
+        - examples:
+          - They picked grapes from the vine.
+          - I like red grapes.
+        - synonyms: -
+        - antonyms: -
+        - related words: grapes
+      - strawberry
+        - definition: a sweet soft red fruit with a seed-studded surface.
+        - pronunciation: /ˈstrɔːbəri/
+        - part of speech: noun
+        - examples:
+          - She made strawberry jam.
+          - We had strawberries and cream.
+        - synonyms: -
+        - antonyms: -
+        - related words: strawberries
+    - Vegetables
+      - carrot
+        - definition: a tapering orange-colored root eaten as a vegetable.
+        - pronunciation: /ˈkærət/
+        - part of speech: noun
+        - examples:
+          - Rabbits eat carrots.
+          - She added carrots to the stew.
+        - synonyms: -
+        - antonyms: -
+        - related words: carrots
+      - potato
+        - definition: a starchy plant tuber cooked and eaten as a vegetable.
+        - pronunciation: /pəˈteɪtoʊ/
+        - part of speech: noun
+        - examples:
+          - We had mashed potatoes for dinner.
+          - He baked a potato.
+        - synonyms: -
+        - antonyms: -
+        - related words: potatoes
+      - tomato
+        - definition: a glossy red, or occasionally yellow, pulpy edible fruit.
+        - pronunciation: /təˈmeɪtoʊ/
+        - part of speech: noun
+        - examples:
+          - She made tomato soup.
+          - I bought some tomatoes.
+        - synonyms: -
+        - antonyms: -
+        - related words: tomatoes
+      - onion
+        - definition: a swollen edible bulb used as a vegetable.
+        - pronunciation: /ˈʌnjən/
+        - part of speech: noun
+        - examples:
+          - He chopped an onion.
+          - Onions can make you cry.
+        - synonyms: -
+        - antonyms: -
+        - related words: onions
+      - lettuce
+        - definition: a leafy green vegetable used in salads.
+        - pronunciation: /ˈlɛtɪs/
+        - part of speech: noun
+        - examples:
+          - She bought lettuce for the salad.
+          - The sandwich has lettuce and tomato.
+        - synonyms: -
+        - antonyms: -
+        - related words: lettuces
+    - Meats
+      - chicken
+        - definition: meat from a chicken eaten as food.
+        - pronunciation: /ˈtʃɪkɪn/
+        - part of speech: noun
+        - examples:
+          - We had chicken for dinner.
+          - She cooked chicken soup.
+        - synonyms: -
+        - antonyms: -
+        - related words: chickens
+      - beef
+        - definition: meat from a cow.
+        - pronunciation: /biːf/
+        - part of speech: noun
+        - examples:
+          - He ordered a beef steak.
+          - They are grilling beef burgers.
+        - synonyms: -
+        - antonyms: -
+        - related words: beefs
+      - pork
+        - definition: meat from a pig.
+        - pronunciation: /pɔːrk/
+        - part of speech: noun
+        - examples:
+          - She doesn't eat pork.
+          - Pork chops are on the menu.
+        - synonyms: -
+        - antonyms: -
+        - related words: -
+      - fish
+        - definition: the flesh of fish used as food.
+        - pronunciation: /fɪʃ/
+        - part of speech: noun
+        - examples:
+          - They had grilled fish for lunch.
+          - He likes to catch fish.
+        - synonyms: seafood
+        - antonyms: -
+        - related words: fishes
+    - Dairy Products
+      - milk
+        - definition: a white liquid produced by mammals as food for their young.
+        - pronunciation: /mɪlk/
+        - part of speech: noun
+        - examples:
+          - She drinks a glass of milk.
+          - Milk is good for your bones.
+        - synonyms: -
+        - antonyms: -
+        - related words: milks, milky
+      - cheese
+        - definition: a food made from the pressed curds of milk.
+        - pronunciation: /tʃiːz/
+        - part of speech: noun
+        - examples:
+          - He put cheese on his sandwich.
+          - I like cheddar cheese.
+        - synonyms: -
+        - antonyms: -
+        - related words: cheeses
+      - butter
+        - definition: a solid yellow fat made from cream.
+        - pronunciation: /ˈbʌtər/
+        - part of speech: noun
+        - examples:
+          - She spread butter on the bread.
+          - Butter melts in the heat.
+        - synonyms: -
+        - antonyms: -
+        - related words: butters, buttery
+      - yogurt
+        - definition: a semi-solid sourish food prepared from fermented milk.
+        - pronunciation: /ˈjoʊɡərt/
+        - part of speech: noun
+        - examples:
+          - He eats yogurt with fruit.
+          - She likes strawberry yogurt.
+        - synonyms: -
+        - antonyms: -
+        - related words: yogurts
+    - Grains and Bread
+      - bread
+        - definition: food made of flour, water, and yeast mixed together and baked.
+        - pronunciation: /brɛd/
+        - part of speech: noun
+        - examples:
+          - She bought a loaf of bread.
+          - I like toast with butter.
+        - synonyms: loaf
+        - antonyms: -
+        - related words: breads
+      - rice
+        - definition: a swamp grass which is widely cultivated as a source of food.
+        - pronunciation: /raɪs/
+        - part of speech: noun
+        - examples:
+          - They eat rice every day.
+          - She cooked rice and beans.
+        - synonyms: -
+        - antonyms: -
+        - related words: rices
+      - pasta
+        - definition: an Italian food made from flour, water, and sometimes eggs.
+        - pronunciation: /ˈpæstə/
+        - part of speech: noun
+        - examples:
+          - He likes pasta with tomato sauce.
+          - They had pasta for dinner.
+        - synonyms: noodles
+        - antonyms: -
+        - related words: pastas
+      - cereal
+        - definition: a grain used for food, such as wheat, oats, or corn.
+        - pronunciation: /ˈsɪəriəl/
+        - part of speech: noun
+        - examples:
+          - She eats cereal with milk.
+          - Cereal is a common breakfast food.
+        - synonyms: grain
+        - antonyms: -
+        - related words: cereals
+    - Drinks
+      - water
+        - definition: a colorless, transparent, odorless liquid essential for life.
+        - pronunciation: /ˈwɔːtər/
+        - part of speech: noun
+        - examples:
+          - He drank a glass of water.
+          - Plants need water to grow.
+        - synonyms: H2O
+        - antonyms: -
+        - related words: watery
+      - juice
+        - definition: the liquid obtained from or present in fruit or vegetables.
+        - pronunciation: /dʒuːs/
+        - part of speech: noun
+        - examples:
+          - She likes orange juice.
+          - They made fresh apple juice.
+        - synonyms: -
+        - antonyms: -
+        - related words: juices
+      - tea
+        - definition: a hot drink made by infusing the dried leaves of the tea plant.
+        - pronunciation: /tiː/
+        - part of speech: noun
+        - examples:
+          - Would you like some tea?
+          - She drinks tea in the afternoon.
+        - synonyms: -
+        - antonyms: -
+        - related words: teas
+      - coffee
+        - definition: a drink made from roasted coffee beans.
+        - pronunciation: /ˈkɒfi/
+        - part of speech: noun
+        - examples:
+          - He drinks coffee every morning.
+          - I prefer black coffee.
+        - synonyms: -
+        - antonyms: -
+        - related words: coffees
+      - milk
+        - definition: a white liquid produced by mammals, also used as a drink.
+        - pronunciation: /mɪlk/
+        - part of speech: noun
+        - examples:
+          - Children often drink milk.
+          - She added milk to her coffee.
+        - synonyms: -
+        - antonyms: -
+        - related words: milky
+    - Sweets and Snacks
+      - chocolate
+        - definition: a food made from roasted and ground cacao seeds.
+        - pronunciation: /ˈtʃɒklət/
+        - part of speech: noun
+        - examples:
+          - She loves chocolate.
+          - He bought a chocolate bar.
+        - synonyms: cocoa
+        - antonyms: -
+        - related words: chocolates
+      - cake
+        - definition: a sweet baked dessert.
+        - pronunciation: /keɪk/
+        - part of speech: noun
+        - examples:
+          - They had cake at the party.
+          - She baked a chocolate cake.
+        - synonyms: pastry
+        - antonyms: -
+        - related words: cakes
+      - ice cream
+        - definition: a soft frozen food made with sweetened and flavored milk fat.
+        - pronunciation: /aɪs kriːm/
+        - part of speech: noun
+        - examples:
+          - We had ice cream for dessert.
+          - He likes vanilla ice cream.
+        - synonyms: -
+        - antonyms: -
+        - related words: ice creams
+      - biscuit
+        - definition: a small baked unleavened cake, typically crisp, flat, and sweet.
+        - pronunciation: /ˈbɪskɪt/
+        - part of speech: noun
+        - examples:
+          - She had biscuits with tea.
+          - He ate a chocolate biscuit.
+        - synonyms: cookie
+        - antonyms: -
+        - related words: biscuits
+    - Condiments and Spices
+      - salt
+        - definition: a white crystalline substance used to season or preserve food.
+        - pronunciation: /sɔːlt/
+        - part of speech: noun
+        - examples:
+          - Add a pinch of salt.
+          - She likes her food with less salt.
+        - synonyms: sodium chloride
+        - antonyms: -
+        - related words: salty
+      - pepper
+        - definition: a pungent hot-tasting spice obtained from peppercorns.
+        - pronunciation: /ˈpɛpər/
+        - part of speech: noun
+        - examples:
+          - He sprinkled pepper on the soup.
+          - Black pepper adds flavor.
+        - synonyms: spice
+        - antonyms: -
+        - related words: peppers
+      - sugar
+        - definition: a sweet crystalline substance obtained from various plants.
+        - pronunciation: /ˈʃʊɡər/
+        - part of speech: noun
+        - examples:
+          - She takes sugar in her coffee.
+          - Too much sugar is unhealthy.
+        - synonyms: sweetener
+        - antonyms: -
+        - related words: sugary
+    - Other Foods
+      - egg
+        - definition: an oval or round object laid by a female bird, used as food.
+        - pronunciation: /ɛɡ/
+        - part of speech: noun
+        - examples:
+          - She boiled an egg.
+          - Eggs are high in protein.
+        - synonyms: -
+        - antonyms: -
+        - related words: eggs
+      - soup
+        - definition: a liquid dish, typically made by boiling meat, fish, or vegetables.
+        - pronunciation: /suːp/
+        - part of speech: noun
+        - examples:
+          - They had chicken soup for lunch.
+          - She likes tomato soup.
+        - synonyms: broth
+        - antonyms: -
+        - related words: soups
+      - salad
+        - definition: a cold dish of various mixtures of raw or cooked vegetables.
+        - pronunciation: /ˈsæləd/
+        - part of speech: noun
+        - examples:
+          - She prepared a green salad.
+          - They served salad with the meal.
+        - synonyms: -
+        - antonyms: -
+        - related words: salads
+      - sandwich
+        - definition: an item of food consisting of two pieces of bread with filling.
+        - pronunciation: /ˈsænwɪtʃ/
+        - part of speech: noun
+        - examples:
+          - He ate a ham sandwich.
+          - She packed a sandwich for lunch.
+        - synonyms: -
+        - antonyms: -
+        - related words: sandwiches
+      - pizza
+        - definition: a dish of Italian origin consisting of a flat round base of dough baked with toppings.
+        - pronunciation: /ˈpiːtsə/
+        - part of speech: noun
+        - examples:
+          - They ordered a cheese pizza.
+          - Pizza is his favorite food.
+        - synonyms: -
+        - antonyms: -
+        - related words: pizzas
+    - Verbs Related to Food & Drink
+      - eat
+        - definition: to put food into the mouth and chew and swallow it.
+        - pronunciation: /iːt/
+        - part of speech: verb
+        - examples:
+          - We eat dinner at six.
+          - She is eating an apple.
+        - synonyms: consume, dine
+        - antonyms: drink
+        - related words: eats, ate, eaten, eating
+      - drink
+        - definition: to take liquid into the mouth and swallow.
+        - pronunciation: /drɪŋk/
+        - part of speech: verb
+        - examples:
+          - He drinks water after running.
+          - They are drinking tea.
+        - synonyms: sip, swallow
+        - antonyms: eat
+        - related words: drinks, drank, drunk, drinking
+      - cook
+        - definition: to prepare food by heating it.
+        - pronunciation: /kʊk/
+        - part of speech: verb
+        - examples:
+          - She cooks dinner every night.
+          - He is cooking pasta.
+        - synonyms: prepare, bake
+        - antonyms: -
+        - related words: cooks, cooked, cooking
+      - buy
+        - definition: to obtain in exchange for payment.
+        - pronunciation: /baɪ/
+        - part of speech: verb
+        - examples:
+          - They buy groceries on Sundays.
+          - She bought some fruit.
+        - synonyms: purchase
+        - antonyms: sell
+        - related words: buys, bought, buying
+    - Places Related to Food & Drink
+      - restaurant
+        - definition: a place where people pay to sit and eat meals.
+        - pronunciation: /ˈrɛstrɒnt/
+        - part of speech: noun
+        - examples:
+          - They went to a restaurant for dinner.
+          - She works at a Chinese restaurant.
+        - synonyms: eatery
+        - antonyms: -
+        - related words: restaurants
+      - supermarket
+        - definition: a large self-service store selling foods and household goods.
+        - pronunciation: /ˈsuːpərˌmɑːrkɪt/
+        - part of speech: noun
+        - examples:
+          - He buys groceries at the supermarket.
+          - The supermarket opens at 8 a.m.
+        - synonyms: grocery store
+        - antonyms: -
+        - related words: supermarkets
+      - café
+        - definition: a small restaurant selling light meals and drinks.
+        - pronunciation: /kæˈfeɪ/
+        - part of speech: noun
+        - examples:
+          - She met her friend at a café.
+          - They had coffee in the café.
+        - synonyms: coffee shop
+        - antonyms: -
+        - related words: cafés

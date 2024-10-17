@@ -1,0 +1,262 @@
+---
+markmap:
+  colorFreezeLevel: -1
+  duration: 500
+  maxWidth: 0
+  initialExpandLevel: 5
+  extraJs: []
+  extraCss: []
+  zoom: true
+  pan: true
+---
+
+# Vocabulary
+
+- A1
+  - Occupations
+    - Common Occupations
+      - teacher
+        - definition: a person who teaches, especially in a school.
+        - pronunciation: /ˈtiːtʃər/
+        - part of speech: noun
+        - examples:
+          - She is a teacher at the local school.
+          - The teacher explains the lesson.
+        - synonyms: educator, instructor
+        - antonyms: student, pupil
+        - related words: teach, teaching, teaches
+      - doctor
+        - definition: a person who is qualified to treat people who are ill.
+        - pronunciation: /ˈdɒktər/
+        - part of speech: noun
+        - examples:
+          - He is a doctor at the hospital.
+          - The doctor examined the patient.
+        - synonyms: physician, medic
+        - antonyms: patient
+        - related words: medical, medicine, doctorate
+      - nurse
+        - definition: a person trained to care for the sick or infirm.
+        - pronunciation: /nɜːrs/
+        - part of speech: noun
+        - examples:
+          - The nurse gave me an injection.
+          - She works as a nurse.
+        - synonyms: caregiver, attendant
+        - antonyms: patient
+        - related words: nursing, nurses
+      - farmer
+        - definition: a person who owns or manages a farm.
+        - pronunciation: /ˈfɑːrmər/
+        - part of speech: noun
+        - examples:
+          - The farmer grows vegetables.
+          - He is a dairy farmer.
+        - synonyms: agriculturist, grower
+        - antonyms: -
+        - related words: farm, farming
+      - police officer
+        - definition: a member of the police force.
+        - pronunciation: /pəˈliːs ˈɒfɪsər/
+        - part of speech: noun
+        - examples:
+          - The police officer helped us find our way.
+          - She is a police officer in the city.
+        - synonyms: policeman, policewoman
+        - antonyms: criminal
+        - related words: police, policing
+      - firefighter
+        - definition: a person whose job is to extinguish fires.
+        - pronunciation: /ˈfaɪərˌfaɪtər/
+        - part of speech: noun
+        - examples:
+          - The firefighter rescued the cat from the tree.
+          - He wants to be a firefighter.
+        - synonyms: fireman
+        - antonyms: arsonist
+        - related words: fire, firefighting
+      - driver
+        - definition: a person who drives a vehicle.
+        - pronunciation: /ˈdraɪvər/
+        - part of speech: noun
+        - examples:
+          - The bus driver is friendly.
+          - She is learning to be a driver.
+        - synonyms: motorist
+        - antonyms: passenger
+        - related words: drive, driving
+      - cook
+        - definition: a person who prepares and cooks food.
+        - pronunciation: /kʊk/
+        - part of speech: noun
+        - examples:
+          - The cook made a delicious meal.
+          - He works as a cook in a restaurant.
+        - synonyms: chef
+        - antonyms: diner
+        - related words: cooking, cooks
+      - waiter
+        - definition: a man whose job is to serve customers at their tables in a restaurant.
+        - pronunciation: /ˈweɪtər/
+        - part of speech: noun
+        - examples:
+          - The waiter took our order.
+          - He is working as a waiter.
+        - synonyms: server
+        - antonyms: customer
+        - related words: waitress (female), waiters
+    - Service Occupations
+      - hairdresser
+        - definition: a person who cuts and styles hair.
+        - pronunciation: /ˈhɛərˌdrɛsər/
+        - part of speech: noun
+        - examples:
+          - She is a hairdresser at a salon.
+          - The hairdresser cut my hair.
+        - synonyms: stylist
+        - antonyms: client
+        - related words: hairdressing
+      - shop assistant
+        - definition: a person who serves customers in a shop.
+        - pronunciation: /ʃɒp əˈsɪstənt/
+        - part of speech: noun
+        - examples:
+          - The shop assistant helped me find the right size.
+          - He works as a shop assistant in a clothing store.
+        - synonyms: salesperson, clerk
+        - antonyms: customer
+        - related words: shop, assistant
+      - cleaner
+        - definition: a person whose job is to clean houses, offices, etc.
+        - pronunciation: /ˈkliːnər/
+        - part of speech: noun
+        - examples:
+          - The cleaner comes twice a week.
+          - She is employed as a cleaner.
+        - synonyms: janitor, custodian
+        - antonyms: -
+        - related words: clean, cleaning
+      - receptionist
+        - definition: a person who greets and assists visitors or clients at a hotel or office.
+        - pronunciation: /rɪˈsɛpʃənɪst/
+        - part of speech: noun
+        - examples:
+          - The receptionist welcomed us to the hotel.
+          - She works as a receptionist in a doctor's office.
+        - synonyms: front desk clerk
+        - antonyms: visitor
+        - related words: reception
+    - Educational Occupations
+      - professor
+        - definition: a teacher of the highest rank in a college or university.
+        - pronunciation: /prəˈfɛsər/
+        - part of speech: noun
+        - examples:
+          - The professor gave a lecture.
+          - She is a math professor.
+        - synonyms: lecturer
+        - antonyms: student
+        - related words: profession, professional
+    - Healthcare Occupations
+      - dentist
+        - definition: a person qualified to treat diseases and conditions that affect the teeth and gums.
+        - pronunciation: /ˈdɛntɪst/
+        - part of speech: noun
+        - examples:
+          - I have an appointment with the dentist.
+          - The dentist filled my cavity.
+        - synonyms: dental surgeon
+        - antonyms: patient
+        - related words: dentistry, dental
+      - vet
+        - definition: a veterinary surgeon; a doctor who treats animals.
+        - pronunciation: /vɛt/
+        - part of speech: noun
+        - examples:
+          - She took her dog to the vet.
+          - He is training to be a vet.
+        - synonyms: veterinarian
+        - antonyms: pet owner
+        - related words: veterinary
+    - Other Occupations
+      - engineer
+        - definition: a person who designs, builds, or maintains engines, machines, or structures.
+        - pronunciation: /ˌɛndʒɪˈnɪər/
+        - part of speech: noun
+        - examples:
+          - He is an engineer at a car company.
+          - The engineer fixed the problem.
+        - synonyms: technician
+        - antonyms: -
+        - related words: engineering
+      - artist
+        - definition: a person who creates paintings or drawings.
+        - pronunciation: /ˈɑːrtɪst/
+        - part of speech: noun
+        - examples:
+          - She is a talented artist.
+          - The artist painted a landscape.
+        - synonyms: painter, illustrator
+        - antonyms: -
+        - related words: art, artistic
+      - musician
+        - definition: a person who plays a musical instrument or is musically talented.
+        - pronunciation: /mjuˈzɪʃən/
+        - part of speech: noun
+        - examples:
+          - He is a musician in a band.
+          - The musician played the piano beautifully.
+        - synonyms: performer
+        - antonyms: audience
+        - related words: music, musical
+      - writer
+        - definition: a person who has written something or who writes in a particular way.
+        - pronunciation: /ˈraɪtər/
+        - part of speech: noun
+        - examples:
+          - She is a writer of children's books.
+          - The writer is working on a new novel.
+        - synonyms: author
+        - antonyms: reader
+        - related words: write, writing
+    - Verbs Related to Occupations
+      - work
+        - definition: to be engaged in physical or mental activity to achieve a result.
+        - pronunciation: /wɜːrk/
+        - part of speech: verb
+        - examples:
+          - She works at a bank.
+          - They work hard every day.
+        - synonyms: labor, toil
+        - antonyms: rest, relax
+        - related words: working, worked
+      - teach
+        - definition: to impart knowledge to or instruct someone.
+        - pronunciation: /tiːtʃ/
+        - part of speech: verb
+        - examples:
+          - He teaches math at the school.
+          - She loves to teach children.
+        - synonyms: instruct, educate
+        - antonyms: learn
+        - related words: teaching, teaches, taught
+      - study
+        - definition: to devote time and attention to acquiring knowledge.
+        - pronunciation: /ˈstʌdi/
+        - part of speech: verb
+        - examples:
+          - She studies English at university.
+          - He needs to study for the exam.
+        - synonyms: learn, read
+        - antonyms: teach
+        - related words: studies, studied, studying
+      - help
+        - definition: to make it easier or possible for someone to do something.
+        - pronunciation: /hɛlp/
+        - part of speech: verb
+        - examples:
+          - Nurses help patients.
+          - Can you help me carry this?
+        - synonyms: assist, aid
+        - antonyms: hinder
+        - related words: helps, helped, helping

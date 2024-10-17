@@ -1,0 +1,370 @@
+---
+markmap:
+  colorFreezeLevel: -1
+  duration: 500
+  maxWidth: 0
+  initialExpandLevel: 5
+  extraJs: []
+  extraCss: []
+  zoom: true
+  pan: true
+---
+
+# Vocabulary
+
+- A1
+  - Prepositions
+    - Prepositions of Place
+      - in
+        - definition: used to indicate location or position within something.
+        - pronunciation: /ɪn/
+        - part of speech: preposition
+        - examples:
+          - She is in the house.
+          - The book is in the bag.
+        - synonyms: inside
+        - antonyms: out, outside
+        - related words: into
+      - on
+        - definition: used to indicate position above something and touching it.
+        - pronunciation: /ɒn/
+        - part of speech: preposition
+        - examples:
+          - The pen is on the table.
+          - He sits on the chair.
+        - synonyms: upon
+        - antonyms: under, beneath
+        - related words: onto
+      - under
+        - definition: in a position below something.
+        - pronunciation: /ˈʌndər/
+        - part of speech: preposition
+        - examples:
+          - The cat is under the bed.
+          - He hid under the table.
+        - synonyms: beneath, below
+        - antonyms: above, over
+        - related words: underneath
+      - behind
+        - definition: at the back of something.
+        - pronunciation: /bɪˈhaɪnd/
+        - part of speech: preposition
+        - examples:
+          - The dog is behind the door.
+          - She stands behind me.
+        - synonyms: after, at the back of
+        - antonyms: in front of, before
+        - related words: rear
+      - in front of
+        - definition: positioned before or ahead of something.
+        - pronunciation: /ɪn frʌnt ʌv/
+        - part of speech: preposition
+        - examples:
+          - The car is in front of the house.
+          - He stands in front of the class.
+        - synonyms: ahead of
+        - antonyms: behind
+        - related words: front
+      - between
+        - definition: in or into the space separating two objects or points.
+        - pronunciation: /bɪˈtwiːn/
+        - part of speech: preposition
+        - examples:
+          - The ball is between the shoes.
+          - She sits between her friends.
+        - synonyms: among
+        - antonyms: outside
+        - related words: middle
+      - next to
+        - definition: beside; at the side of.
+        - pronunciation: /nɛkst tuː/
+        - part of speech: preposition
+        - examples:
+          - The lamp is next to the bed.
+          - He sits next to me.
+        - synonyms: beside, by
+        - antonyms: far from
+        - related words: adjacent
+      - above
+        - definition: in or to a higher place than something else.
+        - pronunciation: /əˈbʌv/
+        - part of speech: preposition
+        - examples:
+          - The picture is above the sofa.
+          - Birds fly above the trees.
+        - synonyms: over
+        - antonyms: below, under
+        - related words: overhead
+      - below
+        - definition: at a lower level or position than something else.
+        - pronunciation: /bɪˈloʊ/
+        - part of speech: preposition
+        - examples:
+          - The temperature is below zero.
+          - The basement is below the ground floor.
+        - synonyms: under
+        - antonyms: above, over
+        - related words: beneath
+    - Prepositions of Time
+      - at
+        - definition: used to indicate a specific time.
+        - pronunciation: /æt/
+        - part of speech: preposition
+        - examples:
+          - The class starts at 9 o'clock.
+          - She sleeps at night.
+        - synonyms: -
+        - antonyms: -
+        - related words: during
+      - on
+        - definition: used with days and dates.
+        - pronunciation: /ɒn/
+        - part of speech: preposition
+        - examples:
+          - We will meet on Monday.
+          - Her birthday is on July 5th.
+        - synonyms: -
+        - antonyms: -
+        - related words: upon
+      - in
+        - definition: used with months, years, seasons, and periods of time.
+        - pronunciation: /ɪn/
+        - part of speech: preposition
+        - examples:
+          - She was born in 1990.
+          - They go on vacation in summer.
+        - synonyms: during
+        - antonyms: -
+        - related words: within
+      - before
+        - definition: earlier than a specific time or event.
+        - pronunciation: /bɪˈfɔːr/
+        - part of speech: preposition
+        - examples:
+          - Brush your teeth before bed.
+          - He arrived before me.
+        - synonyms: prior to
+        - antonyms: after
+        - related words: beforehand
+      - after
+        - definition: later than a specific time or event.
+        - pronunciation: /ˈæftər/
+        - part of speech: preposition
+        - examples:
+          - Let's meet after lunch.
+          - She goes home after work.
+        - synonyms: following
+        - antonyms: before
+        - related words: afterward
+      - during
+        - definition: throughout the course or duration of a period of time.
+        - pronunciation: /ˈdʊrɪŋ/
+        - part of speech: preposition
+        - examples:
+          - It rained during the night.
+          - She reads during her free time.
+        - synonyms: throughout
+        - antonyms: -
+        - related words: meanwhile
+      - until
+        - definition: up to the time of.
+        - pronunciation: /ʌnˈtɪl/
+        - part of speech: preposition
+        - examples:
+          - The store is open until 9 p.m.
+          - Wait until I come back.
+        - synonyms: till
+        - antonyms: since
+        - related words: up to
+      - since
+        - definition: from a time in the past until now.
+        - pronunciation: /sɪns/
+        - part of speech: preposition
+        - examples:
+          - She has lived here since 2010.
+          - It has been raining since morning.
+        - synonyms: -
+        - antonyms: until
+        - related words: ever since
+    - Prepositions of Movement
+      - to
+        - definition: moving in the direction of a particular location.
+        - pronunciation: /tuː/
+        - part of speech: preposition
+        - examples:
+          - She goes to school every day.
+          - He walks to the park.
+        - synonyms: toward
+        - antonyms: from
+        - related words: into
+      - from
+        - definition: indicating the point in space at which a journey starts.
+        - pronunciation: /frʌm/
+        - part of speech: preposition
+        - examples:
+          - I am from Canada.
+          - They came from the store.
+        - synonyms: out of
+        - antonyms: to
+        - related words: -
+      - into
+        - definition: expressing movement or action with the result that someone or something becomes enclosed or surrounded by something else.
+        - pronunciation: /ˈɪntuː/
+        - part of speech: preposition
+        - examples:
+          - She went into the room.
+          - Put the books into the box.
+        - synonyms: in
+        - antonyms: out of
+        - related words: inside
+      - out of
+        - definition: moving from the inside to the outside of something.
+        - pronunciation: /aʊt ʌv/
+        - part of speech: preposition
+        - examples:
+          - He took the pen out of his pocket.
+          - The cat jumped out of the window.
+        - synonyms: outside
+        - antonyms: into
+        - related words: out
+      - up
+        - definition: from a lower to a higher point.
+        - pronunciation: /ʌp/
+        - part of speech: preposition
+        - examples:
+          - They climbed up the hill.
+          - Walk up the stairs.
+        - synonyms: upwards
+        - antonyms: down
+        - related words: upwards
+      - down
+        - definition: from a higher to a lower point.
+        - pronunciation: /daʊn/
+        - part of speech: preposition
+        - examples:
+          - He ran down the street.
+          - The ball rolled down the hill.
+        - synonyms: downward
+        - antonyms: up
+        - related words: downwards
+      - across
+        - definition: from one side to the other of something.
+        - pronunciation: /əˈkrɒs/
+        - part of speech: preposition
+        - examples:
+          - They walked across the bridge.
+          - She lives across the street.
+        - synonyms: over
+        - antonyms: -
+        - related words: cross
+      - through
+        - definition: moving in one side and out of the other side of something.
+        - pronunciation: /θruː/
+        - part of speech: preposition
+        - examples:
+          - The train goes through the tunnel.
+          - He walked through the door.
+        - synonyms: via
+        - antonyms: around
+        - related words: throughout
+      - over
+        - definition: extending directly upward from.
+        - pronunciation: /ˈoʊvər/
+        - part of speech: preposition
+        - examples:
+          - The plane flew over the city.
+          - She put a blanket over the baby.
+        - synonyms: above
+        - antonyms: under
+        - related words: overhead
+    - Other Common Prepositions
+      - with
+        - definition: accompanied by another person or thing.
+        - pronunciation: /wɪð/
+        - part of speech: preposition
+        - examples:
+          - She is going with her friend.
+          - I like coffee with milk.
+        - synonyms: alongside
+        - antonyms: without
+        - related words: together
+      - without
+        - definition: in the absence of.
+        - pronunciation: /wɪˈðaʊt/
+        - part of speech: preposition
+        - examples:
+          - He left without his keys.
+          - Can you do it without help?
+        - synonyms: lacking
+        - antonyms: with
+        - related words: -
+      - about
+        - definition: on the subject of; concerning.
+        - pronunciation: /əˈbaʊt/
+        - part of speech: preposition
+        - examples:
+          - We talked about the weather.
+          - She is reading a book about animals.
+        - synonyms: regarding
+        - antonyms: -
+        - related words: concerning
+      - for
+        - definition: intended to belong to or be used in connection with.
+        - pronunciation: /fɔːr/
+        - part of speech: preposition
+        - examples:
+          - This gift is for you.
+          - They work for a company.
+        - synonyms: intended for
+        - antonyms: against
+        - related words: -
+      - by
+        - definition: indicating the means of achieving something.
+        - pronunciation: /baɪ/
+        - part of speech: preposition
+        - examples:
+          - She travels by bus.
+          - The book was written by him.
+        - synonyms: via
+        - antonyms: -
+        - related words: nearby
+      - like
+        - definition: similar to; in the same way as.
+        - pronunciation: /laɪk/
+        - part of speech: preposition
+        - examples:
+          - He swims like a fish.
+          - She looks like her mother.
+        - synonyms: similar to
+        - antonyms: unlike
+        - related words: alike
+      - as
+        - definition: used to refer to the function or character that someone or something has.
+        - pronunciation: /æz/
+        - part of speech: preposition
+        - examples:
+          - She works as a teacher.
+          - Use this box as a table.
+        - synonyms: in the role of
+        - antonyms: -
+        - related words: -
+      - of
+        - definition: expressing the relationship between a part and a whole.
+        - pronunciation: /ʌv/
+        - part of speech: preposition
+        - examples:
+          - A piece of cake.
+          - The color of the sky is blue.
+        - synonyms: belonging to
+        - antonyms: -
+        - related words: off
+      - around
+        - definition: located or situated on every side.
+        - pronunciation: /əˈraʊnd/
+        - part of speech: preposition
+        - examples:
+          - They walked around the park.
+          - The Earth moves around the Sun.
+        - synonyms: surrounding
+        - antonyms: through
+        - related words: round
