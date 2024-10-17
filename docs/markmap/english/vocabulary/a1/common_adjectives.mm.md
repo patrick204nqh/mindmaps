@@ -1,0 +1,205 @@
+---
+markmap:
+  colorFreezeLevel: -1
+  duration: 500
+  maxWidth: 0
+  initialExpandLevel: 5
+  extraJs: []
+  extraCss: []
+  zoom: true
+  pan: true
+---
+
+# Vocabulary
+
+- A1
+  - Common Adjectives
+    - Size
+      - big
+        - definition: large in size.
+        - pronunciation: /bɪɡ/
+        - part of speech: adjective
+        - examples:
+          - The elephant is a big animal.
+          - She bought a big house.
+        - synonyms: large, huge
+        - antonyms: small, tiny
+        - related words: bigger, biggest
+      - small
+        - definition: little in size.
+        - pronunciation: /smɔːl/
+        - part of speech: adjective
+        - examples:
+          - He lives in a small apartment.
+          - I have a small dog.
+        - synonyms: little, tiny
+        - antonyms: big, large
+        - related words: smaller, smallest
+    - Age
+      - old
+        - definition: having lived for a long time; not young.
+        - pronunciation: /oʊld/
+        - part of speech: adjective
+        - examples:
+          - My grandfather is old.
+          - This is an old book.
+        - synonyms: aged, elderly
+        - antonyms: young, new
+        - related words: older, oldest
+      - young
+        - definition: having lived or existed for only a short time; not old.
+        - pronunciation: /jʌŋ/
+        - part of speech: adjective
+        - examples:
+          - She is a young girl.
+          - They have two young children.
+        - synonyms: youthful, juvenile
+        - antonyms: old, aged
+        - related words: younger, youngest
+    - Emotion
+      - happy
+        - definition: feeling or showing pleasure or contentment.
+        - pronunciation: /ˈhæpi/
+        - part of speech: adjective
+        - examples:
+          - She looks very happy today.
+          - The children are happy to play outside.
+        - synonyms: joyful, glad
+        - antonyms: sad, unhappy
+        - related words: happiness
+      - sad
+        - definition: feeling or showing sorrow; unhappy.
+        - pronunciation: /sæd/
+        - part of speech: adjective
+        - examples:
+          - He felt sad when he lost his toy.
+          - The movie made her sad.
+        - synonyms: unhappy, sorrowful
+        - antonyms: happy, cheerful
+        - related words: sadness
+    - Temperature
+      - hot
+        - definition: having a high degree of heat or a high temperature.
+        - pronunciation: /hɒt/
+        - part of speech: adjective
+        - examples:
+          - The soup is hot.
+          - It's very hot in the desert.
+        - synonyms: warm, boiling
+        - antonyms: cold, cool
+        - related words: hotter, hottest
+      - cold
+        - definition: of or at a low or relatively low temperature.
+        - pronunciation: /koʊld/
+        - part of speech: adjective
+        - examples:
+          - The weather is cold today.
+          - She prefers cold drinks.
+        - synonyms: chilly, freezing
+        - antonyms: hot, warm
+        - related words: colder, coldest
+    - Appearance
+      - beautiful
+        - definition: pleasing the senses or mind aesthetically.
+        - pronunciation: /ˈbjuːtɪfəl/
+        - part of speech: adjective
+        - examples:
+          - She is a beautiful woman.
+          - The sunset is beautiful.
+        - synonyms: pretty, lovely
+        - antonyms: ugly, unattractive
+        - related words: beauty, beautifully
+      - ugly
+        - definition: unpleasant or unattractive in appearance.
+        - pronunciation: /ˈʌɡli/
+        - part of speech: adjective
+        - examples:
+          - That is an ugly building.
+          - The monster looked ugly.
+        - synonyms: unattractive, unsightly
+        - antonyms: beautiful, pretty
+        - related words: ugliness
+    - Speed
+      - fast
+        - definition: moving or capable of moving at high speed.
+        - pronunciation: /fɑːst/
+        - part of speech: adjective
+        - examples:
+          - He drives a fast car.
+          - The train is fast.
+        - synonyms: quick, speedy
+        - antonyms: slow, sluggish
+        - related words: faster, fastest
+      - slow
+        - definition: moving or operating at a low speed; not quick.
+        - pronunciation: /sloʊ/
+        - part of speech: adjective
+        - examples:
+          - The old computer is slow.
+          - He took a slow walk.
+        - synonyms: unhurried, leisurely
+        - antonyms: fast, quick
+        - related words: slower, slowest
+    - Quality
+      - good
+        - definition: to be desired or approved of; having the required qualities.
+        - pronunciation: /ɡʊd/
+        - part of speech: adjective
+        - examples:
+          - She is a good student.
+          - The food tastes good.
+        - synonyms: excellent, fine
+        - antonyms: bad, poor
+        - related words: better, best
+      - bad
+        - definition: of poor quality or a low standard.
+        - pronunciation: /bæd/
+        - part of speech: adjective
+        - examples:
+          - The weather is bad today.
+          - He has a bad habit.
+        - synonyms: poor, inferior
+        - antonyms: good, excellent
+        - related words: worse, worst
+    - Shape
+      - round
+        - definition: shaped like a circle or cylinder.
+        - pronunciation: /raʊnd/
+        - part of speech: adjective
+        - examples:
+          - The earth is round.
+          - She bought a round table.
+        - synonyms: circular, spherical
+        - antonyms: square, flat
+        - related words: rounded
+      - square
+        - definition: shaped like a square; having four equal sides and four right angles.
+        - pronunciation: /skwɛər/
+        - part of speech: adjective
+        - examples:
+          - They sat at a square table.
+          - The box is square.
+        - synonyms: quadrilateral, rectangular
+        - antonyms: round, circular
+        - related words: squarish
+    - Taste
+      - sweet
+        - definition: having the pleasant taste characteristic of sugar or honey.
+        - pronunciation: /swiːt/
+        - part of speech: adjective
+        - examples:
+          - The cake is sweet.
+          - She likes sweet fruits.
+        - synonyms: sugary, honeyed
+        - antonyms: sour, bitter
+        - related words: sweetness
+      - sour
+        - definition: having an acidic taste like lemon or vinegar.
+        - pronunciation: /saʊər/
+        - part of speech: adjective
+        - examples:
+          - The lemon is sour.
+          - He doesn't like sour candy.
+        - synonyms: acidic, tart
+        - antonyms: sweet, sugary
+        - related words: sourness
