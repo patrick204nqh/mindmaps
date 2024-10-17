@@ -1,0 +1,376 @@
+---
+markmap:
+  colorFreezeLevel: -1
+  duration: 500
+  maxWidth: 0
+  initialExpandLevel: 5
+  extraJs: []
+  extraCss: []
+  zoom: true
+  pan: true
+---
+
+# Vocabulary
+
+- A1
+  - Common Places
+    - Educational Places
+      - school
+        - definition: a place where children go to learn.
+        - pronunciation: /skuːl/
+        - part of speech: noun
+        - examples:
+          - She goes to school every day.
+          - The school is closed on weekends.
+        - synonyms: academy, institution
+        - antonyms: N/A
+        - related words: classroom, teacher, student
+      - classroom
+        - definition: a room in a school where lessons take place.
+        - pronunciation: /ˈklɑːsruːm/
+        - part of speech: noun
+        - examples:
+          - The students are in the classroom.
+          - Our classroom is large and bright.
+        - synonyms: class, lecture room
+        - antonyms: N/A
+        - related words: desk, blackboard, lesson
+      - library
+        - definition: a place where books are kept for reading or borrowing.
+        - pronunciation: /ˈlaɪbrəri/
+        - part of speech: noun
+        - examples:
+          - She studies at the library.
+          - The library has many books.
+        - synonyms: reading room, archive
+        - antonyms: N/A
+        - related words: book, librarian, borrow
+    - Commercial Places
+      - shop
+        - definition: a place where goods are sold.
+        - pronunciation: /ʃɒp/
+        - part of speech: noun
+        - examples:
+          - I bought this dress at the shop.
+          - The shop opens at 9 a.m.
+        - synonyms: store, boutique
+        - antonyms: N/A
+        - related words: shopping, shopper, market
+      - supermarket
+        - definition: a large self-service shop selling foods and household goods.
+        - pronunciation: /ˈsuːpəmɑːkɪt/
+        - part of speech: noun
+        - examples:
+          - She buys groceries at the supermarket.
+          - The supermarket is crowded on weekends.
+        - synonyms: grocery store, market
+        - antonyms: N/A
+        - related words: groceries, cashier, aisle
+      - market
+        - definition: a place where people buy and sell goods, typically outdoors.
+        - pronunciation: /ˈmɑːkɪt/
+        - part of speech: noun
+        - examples:
+          - We visit the market on Saturdays.
+          - Fresh fruits are available at the market.
+        - synonyms: bazaar, fair
+        - antonyms: N/A
+        - related words: vendor, stall, customer
+    - Eating and Drinking Places
+      - restaurant
+        - definition: a place where people pay to sit and eat meals.
+        - pronunciation: /ˈrɛstərɒnt/
+        - part of speech: noun
+        - examples:
+          - They are having dinner at a restaurant.
+          - The restaurant serves Italian food.
+        - synonyms: eatery, diner
+        - antonyms: N/A
+        - related words: menu, waiter, chef
+      - cafe
+        - definition: a small restaurant selling light meals and drinks.
+        - pronunciation: /ˈkæfeɪ/
+        - part of speech: noun
+        - examples:
+          - She is waiting at the cafe.
+          - I like to drink coffee at the cafe.
+        - synonyms: coffee shop, bistro
+        - antonyms: N/A
+        - related words: coffee, tea, snack
+      - bar
+        - definition: a place where alcoholic drinks are served.
+        - pronunciation: /bɑːr/
+        - part of speech: noun
+        - examples:
+          - He met his friends at the bar.
+          - The bar closes at midnight.
+        - synonyms: pub, tavern
+        - antonyms: N/A
+        - related words: bartender, beverage, drink
+    - Transportation Places
+      - station
+        - definition: a place where trains or buses regularly stop.
+        - pronunciation: /ˈsteɪʃən/
+        - part of speech: noun
+        - examples:
+          - She waits at the train station.
+          - The bus leaves from the station.
+        - synonyms: terminal, depot
+        - antonyms: N/A
+        - related words: platform, ticket, schedule
+      - airport
+        - definition: a place where airplanes take off and land.
+        - pronunciation: /ˈɛəpɔːt/
+        - part of speech: noun
+        - examples:
+          - He is flying from the airport tomorrow.
+          - The airport is very busy today.
+        - synonyms: airfield, aerodrome
+        - antonyms: N/A
+        - related words: airplane, flight, runway
+      - bus stop
+        - definition: a place where buses pick up or drop off passengers.
+        - pronunciation: /bʌs stɒp/
+        - part of speech: noun
+        - examples:
+          - The bus stop is near my house.
+          - Wait at the bus stop for the next bus.
+        - synonyms: N/A
+        - antonyms: N/A
+        - related words: bus, route, timetable
+    - Medical Places
+      - hospital
+        - definition: a place where sick or injured people receive medical treatment.
+        - pronunciation: /ˈhɒspɪtəl/
+        - part of speech: noun
+        - examples:
+          - She works as a nurse at the hospital.
+          - He was taken to the hospital after the accident.
+        - synonyms: medical center, clinic
+        - antonyms: N/A
+        - related words: doctor, patient, emergency
+      - clinic
+        - definition: a place where people receive medical advice and treatment.
+        - pronunciation: /ˈklɪnɪk/
+        - part of speech: noun
+        - examples:
+          - I have an appointment at the clinic.
+          - The clinic opens at 8 a.m.
+        - synonyms: health center, dispensary
+        - antonyms: N/A
+        - related words: appointment, check-up, examination
+      - pharmacy
+        - definition: a place where medicinal drugs are prepared or sold.
+        - pronunciation: /ˈfɑːməsi/
+        - part of speech: noun
+        - examples:
+          - You can buy medicine at the pharmacy.
+          - The pharmacy is next to the supermarket.
+        - synonyms: drugstore, chemist
+        - antonyms: N/A
+        - related words: medicine, prescription, pharmacist
+    - Recreational Places
+      - park
+        - definition: a public area with grass and trees, used for recreation.
+        - pronunciation: /pɑːk/
+        - part of speech: noun
+        - examples:
+          - Children play in the park.
+          - Let's have a picnic at the park.
+        - synonyms: playground, garden
+        - antonyms: N/A
+        - related words: bench, playground, swing
+      - beach
+        - definition: a sandy or pebbly shore by the ocean or sea.
+        - pronunciation: /biːtʃ/
+        - part of speech: noun
+        - examples:
+          - We swim at the beach.
+          - The beach is crowded in summer.
+        - synonyms: shore, coast
+        - antonyms: N/A
+        - related words: sand, ocean, waves
+      - cinema
+        - definition: a place where movies are shown.
+        - pronunciation: /ˈsɪnəmə/
+        - part of speech: noun
+        - examples:
+          - They watched a movie at the cinema.
+          - The cinema is showing a new film.
+        - synonyms: movie theater, theater
+        - antonyms: N/A
+        - related words: film, screen, ticket
+    - Government and Public Places
+      - post office
+        - definition: a place where mail is sent, received, and sorted.
+        - pronunciation: /poʊst ˈɒfɪs/
+        - part of speech: noun
+        - examples:
+          - Send the letter at the post office.
+          - The post office is closed on Sundays.
+        - synonyms: mail office, postal service
+        - antonyms: N/A
+        - related words: mail, stamp, package
+      - police station
+        - definition: the office of local police officers.
+        - pronunciation: /pəˈliːs ˈsteɪʃən/
+        - part of speech: noun
+        - examples:
+          - He reported the theft at the police station.
+          - The police station is nearby.
+        - synonyms: precinct, cop shop
+        - antonyms: N/A
+        - related words: police officer, report, law
+      - fire station
+        - definition: a building housing firefighting equipment and firefighters.
+        - pronunciation: /ˈfaɪər ˈsteɪʃən/
+        - part of speech: noun
+        - examples:
+          - The fire station is equipped with new engines.
+          - Firefighters practice drills at the fire station.
+        - synonyms: firehouse
+        - antonyms: N/A
+        - related words: firefighter, engine, emergency
+    - Religious Places
+      - church
+        - definition: a building used for Christian worship.
+        - pronunciation: /tʃɜːrtʃ/
+        - part of speech: noun
+        - examples:
+          - They go to church on Sundays.
+          - The church has a tall tower.
+        - synonyms: chapel, cathedral
+        - antonyms: N/A
+        - related words: prayer, service, priest
+      - mosque
+        - definition: a Muslim place of worship.
+        - pronunciation: /mɒsk/
+        - part of speech: noun
+        - examples:
+          - They pray at the mosque.
+          - The mosque is beautifully designed.
+        - synonyms: masjid
+        - antonyms: N/A
+        - related words: prayer, imam, minaret
+      - temple
+        - definition: a building devoted to worship or regarded as the dwelling of a god.
+        - pronunciation: /ˈtɛmpəl/
+        - part of speech: noun
+        - examples:
+          - Visitors are welcome at the temple.
+          - The temple is an ancient structure.
+        - synonyms: shrine, sanctuary
+        - antonyms: N/A
+        - related words: worship, deity, ritual
+    - Accommodation
+      - house
+        - definition: a building for human habitation.
+        - pronunciation: /haʊs/
+        - part of speech: noun
+        - examples:
+          - They live in a big house.
+          - The house has a garden.
+        - synonyms: home, residence
+        - antonyms: N/A
+        - related words: room, kitchen, bedroom
+      - apartment
+        - definition: a set of rooms for living in, typically on one floor of a building.
+        - pronunciation: /əˈpɑːrtmənt/
+        - part of speech: noun
+        - examples:
+          - She rents an apartment in the city.
+          - The apartment is on the third floor.
+        - synonyms: flat, condo
+        - antonyms: N/A
+        - related words: building, neighbor, landlord
+      - hotel
+        - definition: a place that provides lodging and usually meals and other services for travelers.
+        - pronunciation: /hoʊˈtɛl/
+        - part of speech: noun
+        - examples:
+          - They are staying at a hotel.
+          - The hotel has a swimming pool.
+        - synonyms: inn, lodging
+        - antonyms: N/A
+        - related words: room, guest, reservation
+    - Other Common Places
+      - bank
+        - definition: a financial institution that receives deposits and offers loans.
+        - pronunciation: /bæŋk/
+        - part of speech: noun
+        - examples:
+          - She withdrew money from the bank.
+          - The bank opens at 9 a.m.
+        - synonyms: financial institution
+        - antonyms: N/A
+        - related words: money, account, teller
+      - gym
+        - definition: a place equipped for physical exercise.
+        - pronunciation: /dʒɪm/
+        - part of speech: noun
+        - examples:
+          - He works out at the gym.
+          - The gym has new equipment.
+        - synonyms: fitness center
+        - antonyms: N/A
+        - related words: exercise, workout, trainer
+      - museum
+        - definition: a building where objects of historical, scientific, or artistic interest are kept.
+        - pronunciation: /mjuːˈziːəm/
+        - part of speech: noun
+        - examples:
+          - They visited the art museum.
+          - The museum displays ancient artifacts.
+        - synonyms: gallery, exhibition hall
+        - antonyms: N/A
+        - related words: exhibit, curator, artifact
+      - theater
+        - definition: a building where plays, shows, or movies are presented.
+        - pronunciation: /ˈθiːətər/
+        - part of speech: noun
+        - examples:
+          - She enjoys going to the theater.
+          - The theater is hosting a new play.
+        - synonyms: playhouse, auditorium
+        - antonyms: N/A
+        - related words: stage, performance, actor
+      - zoo
+        - definition: a park where live animals are kept for public viewing.
+        - pronunciation: /zuː/
+        - part of speech: noun
+        - examples:
+          - Children love visiting the zoo.
+          - The zoo has many exotic animals.
+        - synonyms: animal park, menagerie
+        - antonyms: N/A
+        - related words: animal, cage, safari
+      - playground
+        - definition: an outdoor area provided for children to play.
+        - pronunciation: /ˈpleɪɡraʊnd/
+        - part of speech: noun
+        - examples:
+          - Kids are playing in the playground.
+          - The playground has swings and slides.
+        - synonyms: play area, park
+        - antonyms: N/A
+        - related words: slide, swing, sandbox
+      - farm
+        - definition: an area of land used for growing crops and raising animals.
+        - pronunciation: /fɑːrm/
+        - part of speech: noun
+        - examples:
+          - They live on a farm.
+          - The farm has cows and chickens.
+        - synonyms: ranch, plantation
+        - antonyms: N/A
+        - related words: farmer, field, barn
+      - office
+        - definition: a room or building where people work at desks.
+        - pronunciation: /ˈɒfɪs/
+        - part of speech: noun
+        - examples:
+          - She works in an office.
+          - The office is closed today.
+        - synonyms: workplace, bureau
+        - antonyms: N/A
+        - related words: desk, computer, colleague
