@@ -194,62 +194,62 @@ nav:
         - Occupations: english/vocabulary/a1/occupations.md
       - A2 - Elementary:
         - english/vocabulary/a2/index.md
-        # - Personal Information & Biographies: english/vocabulary/a2/personal_information.md
-        # - Shopping & Money: english/vocabulary/a2/shopping_money.md
-        # - Travel & Directions: english/vocabulary/a2/travel_directions.md
-        # - Health & Fitness: english/vocabulary/a2/health_fitness.md
-        # - Work & Jobs: english/vocabulary/a2/work_jobs.md
-        # - Education & School: english/vocabulary/a2/education_school.md
-        # - House & Home: english/vocabulary/a2/house_home.md
-        # - Entertainment & Media: english/vocabulary/a2/entertainment_media.md
-        # - Technology & Gadgets: english/vocabulary/a2/technology_gadgets.md
-        # - Food & Cooking: english/vocabulary/a2/food_cooking.md
-        # - Feelings & Opinions: english/vocabulary/a2/feelings_opinions.md
+        - Personal Information & Biographies: english/vocabulary/a2/personal_information.md
+        - Shopping & Money: english/vocabulary/a2/shopping_money.md
+        - Travel & Directions: english/vocabulary/a2/travel_directions.md
+        - Health & Fitness: english/vocabulary/a2/health_fitness.md
+        - Work & Jobs: english/vocabulary/a2/work_jobs.md
+        - Education & School: english/vocabulary/a2/education_school.md
+        - House & Home: english/vocabulary/a2/house_home.md
+        - Entertainment & Media: english/vocabulary/a2/entertainment_media.md
+        - Technology & Gadgets: english/vocabulary/a2/technology_gadgets.md
+        - Food & Cooking: english/vocabulary/a2/food_cooking.md
+        - Feelings & Opinions: english/vocabulary/a2/feelings_opinions.md
       - B1 - Intermediate:
         - english/vocabulary/b1/index.md
-        # - Work & Employment: english/vocabulary/b1/work_employment.md
-        # - Education & Learning: english/vocabulary/b1/education_learning.md
-        # - Health & Medicine: english/vocabulary/b1/health_medicine.md
-        # - Travel & Tourism: english/vocabulary/b1/travel_tourism.md
-        # - Media & Communication: english/vocabulary/b1/media_communication.md
-        # - Environment & Nature: english/vocabulary/b1/environment_nature.md
-        # - Society & Culture: english/vocabulary/b1/society_culture.md
-        # - Science & Technology: english/vocabulary/b1/science_technology.md
-        # - Relationships & Emotions: english/vocabulary/b1/relationships_emotions.md
-        # - Leisure Activities: english/vocabulary/b1/leisure_activities.md
+        - Work & Employment: english/vocabulary/b1/work_employment.md
+        - Education & Learning: english/vocabulary/b1/education_learning.md
+        - Health & Medicine: english/vocabulary/b1/health_medicine.md
+        - Travel & Tourism: english/vocabulary/b1/travel_tourism.md
+        - Media & Communication: english/vocabulary/b1/media_communication.md
+        - Environment & Nature: english/vocabulary/b1/environment_nature.md
+        - Society & Culture: english/vocabulary/b1/society_culture.md
+        - Science & Technology: english/vocabulary/b1/science_technology.md
+        - Relationships & Emotions: english/vocabulary/b1/relationships_emotions.md
+        - Leisure Activities: english/vocabulary/b1/leisure_activities.md
       - B2 - Upper-Intermediate:
         - english/vocabulary/b2/index.md
-        # - Current Events & News: english/vocabulary/b2/current_events_news.md
-        # - Advanced Technology: english/vocabulary/b2/advanced_technology.md
-        # - Media & Entertainment: english/vocabulary/b2/media_entertainment.md
-        # - Global Issues & Environment: english/vocabulary/b2/global_issues_environment.md
-        # - Business & Finance: english/vocabulary/b2/business_finance.md
-        # - Art & Literature: english/vocabulary/b2/art_literature.md
-        # - Philosophy & Ethics: english/vocabulary/b2/philosophy_ethics.md
-        # - Law & Government: english/vocabulary/b2/law_government.md
-        # - Advanced Education: english/vocabulary/b2/advanced_education.md
+        - Current Events & News: english/vocabulary/b2/current_events_news.md
+        - Advanced Technology: english/vocabulary/b2/advanced_technology.md
+        - Media & Entertainment: english/vocabulary/b2/media_entertainment.md
+        - Global Issues & Environment: english/vocabulary/b2/global_issues_environment.md
+        - Business & Finance: english/vocabulary/b2/business_finance.md
+        - Art & Literature: english/vocabulary/b2/art_literature.md
+        - Philosophy & Ethics: english/vocabulary/b2/philosophy_ethics.md
+        - Law & Government: english/vocabulary/b2/law_government.md
+        - Advanced Education: english/vocabulary/b2/advanced_education.md
       - C1 - Advanced:
         - english/vocabulary/c1/index.md
-        # - Advanced Business Concepts: english/vocabulary/c1/advanced_business_concepts.md
-        # - Legal Terminology: english/vocabulary/c1/legal_terminology.md
-        # - Political Science: english/vocabulary/c1/political_science.md
-        # - Cultural Studies: english/vocabulary/c1/cultural_studies.md
-        # - Advanced Science & Technology: english/vocabulary/c1/advanced_science_technology.md
-        # - Psychology & Sociology: english/vocabulary/c1/psychology_sociology.md
-        # - Academic Writing & Research: english/vocabulary/c1/academic_writing_research.md
-        # - Idioms & Expressions: english/vocabulary/c1/idioms_expressions.md
-        # - Philosophy & Ethics: english/vocabulary/c1/philosophy_ethics.md
+        - Advanced Business Concepts: english/vocabulary/c1/advanced_business_concepts.md
+        - Legal Terminology: english/vocabulary/c1/legal_terminology.md
+        - Political Science: english/vocabulary/c1/political_science.md
+        - Cultural Studies: english/vocabulary/c1/cultural_studies.md
+        - Advanced Science & Technology: english/vocabulary/c1/advanced_science_technology.md
+        - Psychology & Sociology: english/vocabulary/c1/psychology_sociology.md
+        - Academic Writing & Research: english/vocabulary/c1/academic_writing_research.md
+        - Idioms & Expressions: english/vocabulary/c1/idioms_expressions.md
+        - Philosophy & Ethics: english/vocabulary/c1/philosophy_ethics.md
       - C2 - Proficient:
         - english/vocabulary/c2/index.md
-        # - Academic Research & Analysis: english/vocabulary/c2/academic_research_analysis.md
-        # - Advanced Literary Terms: english/vocabulary/c2/advanced_literary_terms.md
-        # - Technical & Scientific Vocabulary: english/vocabulary/c2/technical_scientific_vocabulary.md
-        # - Advanced Idiomatic Expressions: english/vocabulary/c2/advanced_idiomatic_expressions.md
-        # - Cross-Cultural Communication: english/vocabulary/c2/cross_cultural_communication.md
-        # - Advanced Philosophy & Theory: english/vocabulary/c2/advanced_philosophy_theory.md
-        # - Professional & Legal Jargon: english/vocabulary/c2/professional_legal_jargon.md
-        # - Business & Economics: english/vocabulary/c2/business_economics.md
-        # - Medical Terminology: english/vocabulary/c2/medical_terminology.md
+        - Academic Research & Analysis: english/vocabulary/c2/academic_research_analysis.md
+        - Advanced Literary Terms: english/vocabulary/c2/advanced_literary_terms.md
+        - Technical & Scientific Vocabulary: english/vocabulary/c2/technical_scientific_vocabulary.md
+        - Advanced Idiomatic Expressions: english/vocabulary/c2/advanced_idiomatic_expressions.md
+        - Cross-Cultural Communication: english/vocabulary/c2/cross_cultural_communication.md
+        - Advanced Philosophy & Theory: english/vocabulary/c2/advanced_philosophy_theory.md
+        - Professional & Legal Jargon: english/vocabulary/c2/professional_legal_jargon.md
+        - Business & Economics: english/vocabulary/c2/business_economics.md
+        - Medical Terminology: english/vocabulary/c2/medical_terminology.md
     - Grammar:
       - english/grammar/index.md
       - A1 - Beginner:
