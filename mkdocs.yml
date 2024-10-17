@@ -254,16 +254,93 @@ nav:
       - english/grammar/index.md
       - A1 - Beginner:
         - english/grammar/a1/index.md
+        - Nouns: english/grammar/a1/nouns.md
+        - Articles (a, an, the): english/grammar/a1/articles.md
+        - Pronouns: english/grammar/a1/pronouns.md
+        - Possessive Adjectives (my, your, his, her): english/grammar/a1/possessive_adjectives.md
+        - Demonstratives (this, that, these, those): english/grammar/a1/demonstratives.md
+        - Present Simple: english/grammar/a1/present_simple.md
+        - Imperatives: english/grammar/a1/imperatives.md
+        - Basic Sentence Structure: english/grammar/a1/basic_sentence_structure.md
+        - Adjectives: english/grammar/a1/adjectives.md
+        - Prepositions of Place: english/grammar/a1/prepositions_of_place.md
+        - Conjunctions (and, but, or): english/grammar/a1/conjunctions.md
+        - Question Words: english/grammar/a1/question_words.md
+        - Modal Verbs (can for ability): english/grammar/a1/modal_can.md
+        - Adverbs of Frequency (always, never): english/grammar/a1/adverbs_of_frequency.md
       - A2 - Elementary:
         - english/grammar/a2/index.md
+        - Present Continuous: english/grammar/a2/present_continuous.md
+        - Past Simple: english/grammar/a2/past_simple.md
+        - Future with "going to": english/grammar/a2/future_going_to.md
+        - Future Simple ("will"): english/grammar/a2/future_simple.md
+        - Comparatives & Superlatives: english/grammar/a2/comparatives_superlatives.md
+        - Adverbs of Frequency: english/grammar/a2/adverbs_of_frequency.md
+        - Modal Verbs (can, could, should, must): english/grammar/a2/modal_verbs.md
+        - Prepositions of Time and Movement: english/grammar/a2/prepositions_time_movement.md
+        - Possessive Pronouns (mine, yours, ours): english/grammar/a2/possessive_pronouns.md
+        - There is / There are: english/grammar/a2/there_is_there_are.md
+        - Countable and Uncountable Nouns: english/grammar/a2/countable_uncountable_nouns.md
+        - Stative Verbs: english/grammar/a2/stative_verbs.md
+        - Conjunctions (because, so): english/grammar/a2/conjunctions.md
+        - Question Tags: english/grammar/a2/question_tags.md
       - B1 - Intermediate:
         - english/grammar/b1/index.md
+        - Present Perfect: english/grammar/b1/present_perfect.md
+        - Past Continuous: english/grammar/b1/past_continuous.md
+        - Future Forms (will, going to, Present Continuous): english/grammar/b1/future_forms.md
+        - First Conditional: english/grammar/b1/first_conditional.md
+        - Second Conditional: english/grammar/b1/second_conditional.md
+        - Modal Verbs (must, have to, might, may): english/grammar/b1/modal_verbs.md
+        - Relative Clauses: english/grammar/b1/relative_clauses.md
+        - Reported Speech (Statements and Questions): english/grammar/b1/reported_speech.md
+        - Gerunds and Infinitives: english/grammar/b1/gerunds_infinitives.md
+        - Quantifiers (some, any, much, many): english/grammar/b1/quantifiers.md
+        - Phrasal Verbs (Basic): english/grammar/b1/phrasal_verbs.md
+        - Articles (Definite and Indefinite): english/grammar/b1/articles.md
+        - Used to: english/grammar/b1/used_to.md
       - B2 - Upper-Intermediate:
         - english/grammar/b2/index.md
+        - Passive Voice: english/grammar/b2/passive_voice.md
+        - Third Conditional: english/grammar/b2/third_conditional.md
+        - Mixed Conditionals: english/grammar/b2/mixed_conditionals.md
+        - Past Perfect: english/grammar/b2/past_perfect.md
+        - Reported Speech (Advanced): english/grammar/b2/reported_speech.md
+        - Phrasal Verbs (Advanced): english/grammar/b2/phrasal_verbs.md
+        - Modal Verbs (should have, could have, needn't have): english/grammar/b2/modal_verbs.md
+        - Relative Clauses (Advanced): english/grammar/b2/relative_clauses.md
+        - Conditionals (Zero to Third): english/grammar/b2/conditionals.md
+        - Wish / If Only: english/grammar/b2/wish_if_only.md
+        - Linking Words and Phrases: english/grammar/b2/linking_words.md
+        - Emphatic Structures: english/grammar/b2/emphatic_structures.md
+        - Gerunds and Infinitives (Advanced): english/grammar/b2/gerunds_infinitives.md
       - C1 - Advanced:
         - english/grammar/c1/index.md
+        - Inversion: english/grammar/c1/inversion.md
+        - Advanced Passive Structures: english/grammar/c1/advanced_passive.md
+        - Cleft Sentences: english/grammar/c1/cleft_sentences.md
+        - Nominalization: english/grammar/c1/nominalization.md
+        - Ellipsis & Substitution: english/grammar/c1/ellipsis_substitution.md
+        - Modal Verbs (Advanced Uses): english/grammar/c1/modal_verbs.md
+        - Reported Speech (Complex): english/grammar/c1/reported_speech.md
+        - Phrasal Verbs (Proficiency): english/grammar/c1/phrasal_verbs.md
+        - Discourse Markers: english/grammar/c1/discourse_markers.md
+        - Emphatic Inversion: english/grammar/c1/emphatic_inversion.md
+        - Had Better, Would Rather: english/grammar/c1/had_better_would_rather.md
       - C2 - Proficient:
         - english/grammar/c2/index.md
+        - Subjunctive Mood: english/grammar/c2/subjunctive_mood.md
+        - Advanced Conditionals: english/grammar/c2/advanced_conditionals.md
+        - Cleft Sentences (Advanced): english/grammar/c2/cleft_sentences.md
+        - Phrasal Verbs (Expert Level): english/grammar/c2/phrasal_verbs.md
+        - Advanced Idiomatic Expressions: english/grammar/c2/idiomatic_expressions.md
+        - Advanced Grammar Structures: english/grammar/c2/advanced_structures.md
+        - Academic Writing Techniques: english/grammar/c2/academic_writing.md
+        - Stylistic Inversions: english/grammar/c2/stylistic_inversions.md
+        - Nuances in Modality: english/grammar/c2/nuances_modality.md
+        - Advanced Punctuation: english/grammar/c2/advanced_punctuation.md
+        - Complex Clause Structures: english/grammar/c2/complex_clauses.md
+        - Discourse Markers (Advanced): english/grammar/c2/discourse_markers.md
       - Mindmaps:
         - english/grammar/mindmaps/index.md
     - Idioms & Expressions:
