@@ -200,7 +200,7 @@ def convert_structured_lists_to_markdown(list_items, indent_level=0):
     Converts structured list items into Markdown lines with proper indentation.
     """
     markdown_lines = []
-    indent = '    ' * indent_level  # Four spaces per indent level
+    indent = '  ' * indent_level  # Two spaces per indent level
     for item in list_items:
         prefix = '- '  # Using '-' for unordered lists
         markdown_lines.append(f"{indent}{prefix}{item['text']}")
