@@ -6,3 +6,4 @@ mkdocs-git-revision-date-localized-plugin
 mkdocs-git-authors-plugin
 mkdocs-abs-rel-plugin
 mkdocs-markmap
+mistune
