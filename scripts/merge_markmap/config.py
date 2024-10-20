@@ -36,3 +36,9 @@ def get_formatting_settings():
     if config:
         return config['formatting']
     return {'indent_size': 2, 'line_spacing': 1}  # Default fallback values
+
+def get_output_file_name():
+    config = load_settings()
+    if config and 'output' in config:
+        return config['output'].get('output_file_name', 'index.mm.md')  # Default to 'index.mm.md'
+    return 'index.mm.md'

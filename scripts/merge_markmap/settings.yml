@@ -12,3 +12,6 @@ markmap:
 formatting:
   indent_size: 2
   line_spacing: 1
+
+output:
+  output_file_name: ".wrapped.mm.md"
