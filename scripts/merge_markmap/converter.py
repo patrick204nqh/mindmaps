@@ -1,5 +1,7 @@
 # scripts/merge_markmap/converter.py
 
+import logging
+
 def convert_structured_lists_to_markdown(list_items, indent_level=0):
     """
     Converts structured list items into Markdown lines with proper indentation.
@@ -15,10 +17,14 @@ def convert_structured_lists_to_markdown(list_items, indent_level=0):
     indent = '  ' * indent_level  # Two spaces per indent level
     for item in list_items:
         if not isinstance(item, dict):
+            logging.error(f"Expected item to be dict, got {type(item)}: {item}")
             raise TypeError(f"Expected item to be dict, got {type(item)}")
+        if 'text' not in item:
+            logging.error(f"Missing 'text' key in item: {item}")
+            raise KeyError(f"Missing 'text' key in item: {item}")
         prefix = '- '  # Using '-' for unordered lists
         markdown_lines.append(f"{indent}{prefix}{item['text']}")
-        if item['children']:
+        if item.get('children'):
             # Recursively convert children with increased indentation
             markdown_lines.extend(convert_structured_lists_to_markdown(item['children'], indent_level + 1))
     return markdown_lines

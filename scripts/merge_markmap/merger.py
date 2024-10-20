@@ -2,11 +2,19 @@
 
 from collections import defaultdict
 from .utils import extract_text
+import logging
 
 
 def extract_lists(nodes, indent_level=0):
     """
     Recursively extracts list items from AST nodes as structured dictionaries.
+    
+    Args:
+        nodes (list): List of AST nodes.
+        indent_level (int): Current indentation level.
+    
+    Returns:
+        list: List of dictionaries representing list items.
     """
     list_items = []
     for node in nodes:
@@ -32,6 +40,10 @@ def extract_lists(nodes, indent_level=0):
 def merge_list_items(existing_items, new_items):
     """
     Merges new_items into existing_items based on the 'text' field.
+    
+    Args:
+        existing_items (list): Existing list of items.
+        new_items (list): New list of items to merge.
     """
     for new_item in new_items:
         # Check if the item already exists
@@ -48,6 +60,12 @@ def merge_asts(asts):
     """
     Merges multiple ASTs based on headings.
     Returns the main heading, merged content, and combined front matter.
+    
+    Args:
+        asts (list): List of ASTs to merge.
+    
+    Returns:
+        tuple: (main_heading, merged_content, combined_front_matter)
     """
     merged_content = defaultdict(list)
     main_heading = None
@@ -56,72 +74,72 @@ def merge_asts(asts):
     for ast_index, ast in enumerate(asts):
         current_heading = None  # Reset current heading for each file
         skip_next_heading = False  # Flag to skip front matter headings
-        print(f"\nProcessing AST {ast_index + 1}")
+        logging.info(f"\nProcessing AST {ast_index + 1}")
         for element in ast:
             element_type = element.get('type', '')
 
             # Handle front matter: skip heading immediately after 'thematic_break'
             if skip_next_heading:
                 if element_type == 'heading':
-                    print(f"  Skipping heading as front matter.")
+                    logging.debug("  Skipping heading as front matter.")
                 skip_next_heading = False
                 continue
 
             if element_type == 'thematic_break':
-                print(f"  Found 'thematic_break', will skip next heading as front matter.")
+                logging.debug("  Found 'thematic_break', will skip next heading as front matter.")
                 skip_next_heading = True
                 continue
 
             if element_type in ['front_matter', 'yaml', 'block_quote']:
-                print(f"  Skipping '{element_type}' element.")
+                logging.debug(f"  Skipping '{element_type}' element.")
                 continue
 
             if element_type == 'heading':
                 # Retrieve 'level' from 'attrs'
                 heading_level = element.get('attrs', {}).get('level', 1)
                 heading_text = extract_text(element).strip()
-                print(f"  Found heading: Level {heading_level} - '{heading_text}'")
+                logging.info(f"  Found heading: Level {heading_level} - '{heading_text}'")
 
                 # Skip unwanted headings (e.g., markmap-related headings)
                 if "markmap" in heading_text.lower():
-                    print("    Skipping 'markmap' heading.")
+                    logging.debug("    Skipping 'markmap' heading.")
                     continue
 
                 if heading_level == 1:
                     if not main_heading:
                         main_heading = heading_text
-                        print(f"    Set main heading: '{main_heading}'")
+                        logging.info(f"    Set main heading: '{main_heading}'")
                     elif heading_text == main_heading:
-                        print(f"    Encountered duplicate main heading: '{heading_text}'. Continuing to accumulate content.")
+                        logging.info(f"    Encountered duplicate main heading: '{heading_text}'. Continuing to accumulate content.")
                     else:
-                        print(f"    Ignoring different main heading: '{heading_text}'")
+                        logging.info(f"    Ignoring different main heading: '{heading_text}'")
                         continue
                 elif heading_level == 2:
                     current_heading = heading_text
-                    print(f"    Set current subheading: '{current_heading}'")
+                    logging.info(f"    Set current subheading: '{current_heading}'")
             elif element_type == 'list':
                 if current_heading:
-                    print(f"  Found list under subheading: '{current_heading}'")
+                    logging.info(f"  Found list under subheading: '{current_heading}'")
                     # Extract list items as structured dictionaries
                     list_items = extract_lists([element], indent_level=1)
-                    print(f"    Extracted list items: {list_items}")
+                    logging.debug(f"    Extracted list items: {list_items}")
                     # Merge into the existing subheading
                     merge_list_items(merged_content[current_heading], list_items)
                 elif main_heading:
-                    print(f"  Found list directly under main heading: '{main_heading}'")
+                    logging.info(f"  Found list directly under main heading: '{main_heading}'")
                     # Extract list items with no indentation
                     list_items = extract_lists([element], indent_level=0)
-                    print(f"    Extracted list items: {list_items}")
+                    logging.debug(f"    Extracted list items: {list_items}")
                     # Merge into the main heading
                     merge_list_items(merged_content[main_heading], list_items)
                 else:
-                    print("  Found a list without a current subheading or main heading. Skipping.")
+                    logging.warning("  Found a list without a current subheading or main heading. Skipping.")
 
-    print(f"\nMain Heading: '{main_heading}'")
-    print("Merged Content:")
+    logging.info(f"\nMain Heading: '{main_heading}'")
+    logging.info("Merged Content:")
     for heading, items in merged_content.items():
-        print(f"  {heading}:")
+        logging.info(f"  {heading}:")
         for item in items:
-            print(f"    {item}")
+            logging.info(f"    {item}")
 
     return main_heading, merged_content, combined_front_matter
