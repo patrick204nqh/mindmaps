@@ -8,9 +8,10 @@ formatting_settings = get_formatting_settings()
 indent_size = formatting_settings.get('indent_size', 2)  # Default to 2 spaces if not set
 line_spacing = formatting_settings.get('line_spacing', 1)  # Default to 1 line if not set
 
+
 def convert_structured_lists_to_markdown(list_items, indent_level=0):
     """
-    Converts structured list items into Markdown lines with proper indentation and line spacing.
+    Converts structured list items into Markdown lines with proper indentation and controlled line spacing.
     
     Args:
         list_items (list): List of dictionaries representing list items.
@@ -21,7 +22,7 @@ def convert_structured_lists_to_markdown(list_items, indent_level=0):
     """
     markdown_lines = []
     indent = ' ' * indent_size * indent_level  # Use the configured indentation size
-    for item in list_items:
+    for index, item in enumerate(list_items):
         if not isinstance(item, dict):
             logging.error(f"Expected item to be dict, got {type(item)}: {item}")
             raise TypeError(f"Expected item to be dict, got {type(item)}")
@@ -33,8 +34,9 @@ def convert_structured_lists_to_markdown(list_items, indent_level=0):
         if item.get('children'):
             # Recursively convert children with increased indentation
             markdown_lines.extend(convert_structured_lists_to_markdown(item['children'], indent_level + 1))
-        # Add line spacing after each list item
-        markdown_lines.extend([''] * line_spacing)
+        # Add line spacing only after top-level items or after all children are processed
+        if indent_level == 0 and index < len(list_items) - 1:
+            markdown_lines.extend([''] * line_spacing)
     return markdown_lines
 
 
@@ -49,7 +51,7 @@ def convert_ast_to_markdown(main_heading, merged_ast, front_matter=None, include
         include_front_matter (bool): Whether to include front matter.
     
     Returns:
-        str: The complete Markdown content with line spacing.
+        str: The complete Markdown content with controlled line spacing.
     """
     markdown_lines = []
     if include_front_matter and front_matter:
