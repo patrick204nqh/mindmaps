@@ -1,20 +1,26 @@
 # scripts/merge_markmap/converter.py
 
 import logging
+from .config import get_formatting_settings
+
+# Load the formatting settings (indentation size, line spacing, etc.)
+formatting_settings = get_formatting_settings()
+indent_size = formatting_settings.get('indent_size', 2)  # Default to 2 spaces if not set
+line_spacing = formatting_settings.get('line_spacing', 1)  # Default to 1 line if not set
 
 def convert_structured_lists_to_markdown(list_items, indent_level=0):
     """
-    Converts structured list items into Markdown lines with proper indentation.
+    Converts structured list items into Markdown lines with proper indentation and line spacing.
     
     Args:
         list_items (list): List of dictionaries representing list items.
         indent_level (int): Current indentation level (number of indentations).
     
     Returns:
-        list: List of Markdown-formatted strings.
+        list: List of Markdown-formatted strings with appropriate line spacing.
     """
     markdown_lines = []
-    indent = '  ' * indent_level  # Two spaces per indent level
+    indent = ' ' * indent_size * indent_level  # Use the configured indentation size
     for item in list_items:
         if not isinstance(item, dict):
             logging.error(f"Expected item to be dict, got {type(item)}: {item}")
@@ -27,12 +33,14 @@ def convert_structured_lists_to_markdown(list_items, indent_level=0):
         if item.get('children'):
             # Recursively convert children with increased indentation
             markdown_lines.extend(convert_structured_lists_to_markdown(item['children'], indent_level + 1))
+        # Add line spacing after each list item
+        markdown_lines.extend([''] * line_spacing)
     return markdown_lines
 
 
 def convert_ast_to_markdown(main_heading, merged_ast, front_matter=None, include_front_matter=False):
     """
-    Converts the merged AST content back to Markdown format.
+    Converts the merged AST content back to Markdown format with proper line spacing and indentation.
     
     Args:
         main_heading (str): The main heading of the document.
@@ -41,20 +49,20 @@ def convert_ast_to_markdown(main_heading, merged_ast, front_matter=None, include
         include_front_matter (bool): Whether to include front matter.
     
     Returns:
-        str: The complete Markdown content.
+        str: The complete Markdown content with line spacing.
     """
     markdown_lines = []
     if include_front_matter and front_matter:
         markdown_lines.append(f"---\n{front_matter}\n---")
-        markdown_lines.append("")  # Empty line after front matter
+        markdown_lines.extend([''] * line_spacing)  # Apply line spacing after front matter
 
     if main_heading:
         markdown_lines.append(f"# {main_heading}")  # H1 heading
-        markdown_lines.append("")  # Empty line for better formatting
+        markdown_lines.extend([''] * line_spacing)  # Apply line spacing after the heading
 
         # Append list items directly under the main heading if any
         if merged_ast:
             markdown_lines.extend(convert_structured_lists_to_markdown(merged_ast))
-            markdown_lines.append("")  # Empty line for separation
+            markdown_lines.extend([''] * line_spacing)  # Apply line spacing after the list
 
     return "\n".join(markdown_lines)

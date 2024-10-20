@@ -19,7 +19,7 @@ def extract_lists(nodes, indent_level=0):
     list_items = []
     for node in nodes:
         if node['type'] == 'list':
-            ordered = node.get('ordered', False)
+            # ordered = node.get('ordered', False)
             for item in node.get('children', []):
                 if item['type'] == 'list_item':
                     # Extract text from 'paragraph' or 'block_text' nodes
