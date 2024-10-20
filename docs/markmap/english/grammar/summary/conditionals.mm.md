@@ -3,7 +3,7 @@ markmap:
   colorFreezeLevel: -1
   duration: 500
   maxWidth: 0
-  initialExpandLevel: 4
+  initialExpandLevel: 5
   extraJs: []
   extraCss: []
   zoom: true
