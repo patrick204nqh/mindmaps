@@ -8,7 +8,7 @@ hide:
 
 Explore the different conditional sentences in English grammar with the following visual mindmap:
 
-{!markmap/english/grammar/conditionals.mm.md!}
+{!markmap/english/grammar/summary/conditionals.mm.md!}
 
 Conditionals help express possible or hypothetical situations and their outcomes. The mindmap above includes:
 

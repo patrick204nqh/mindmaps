@@ -7,3 +7,4 @@ mkdocs-git-authors-plugin
 mkdocs-abs-rel-plugin
 mkdocs-markmap
 mistune
+mdx_truly_sane_lists

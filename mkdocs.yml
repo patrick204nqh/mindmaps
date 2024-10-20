@@ -119,10 +119,12 @@ markdown_extensions:
   - pymdownx.critic        # Adds support for CriticMarkup, used for tracking changes (e.g., insertions, deletions)
   - pymdownx.caret         # Highlights new text with an insertion caret (useful for marking changes)
   - pymdownx.mark          # Highlights text with a background color
+  - pymdownx.tasklist      # Enables GitHub-style task lists (checkboxes)
   - abbr                   # Supports abbreviations (e.g., HTML for HyperText Markup Language)
   - attr_list              # Enables custom attributes (e.g., adding classes to blocks)
   - tables                 # Adds support for markdown tables
   - md_in_html             # Allows mixing markdown and HTML in the same document
+  - mdx_truly_sane_lists   # Fixes nested lists in markdown
 
 extra:
   analytics:
@@ -342,8 +344,8 @@ nav:
         - Advanced Punctuation: english/grammar/c2/advanced_punctuation.md
         - Complex Clause Structures: english/grammar/c2/complex_clauses.md
         - Discourse Markers (Advanced): english/grammar/c2/discourse_markers.md
-      - Mindmaps:
-        - english/grammar/mindmaps/index.md
+      - Summary:
+        - english/grammar/summary/index.md
     - Idioms & Expressions:
       - english/idioms_expressions/index.md
     - Reading Practice:

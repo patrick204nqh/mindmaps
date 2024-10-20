@@ -8,7 +8,7 @@ hide:
 
 Explore the different uses of modal verbs in English grammar with the following visual mindmap:
 
-{!markmap/english/grammar/modals.mm.md!}
+{!markmap/english/grammar/summary/modals.mm.md!}
 
 Modals are auxiliary verbs used to express abilities, permissions, possibilities, obligations, and more. The mindmap above includes:
 
