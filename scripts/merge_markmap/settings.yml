@@ -1,9 +1,10 @@
-# settings.yaml
+# scripts/merge_markmap/settings.yml
+
 markmap:
   colorFreezeLevel: -1
   duration: 500
   maxWidth: 0
-  initialExpandLevel: 5
+  initialExpandLevel: 3
   extraJs: []
   extraCss: []
   zoom: true

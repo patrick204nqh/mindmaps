@@ -20,11 +20,13 @@ def load_settings(config_path=None):
 
 def get_markmap_config():
     """
-    Returns the Markmap front matter as a string for markdown files.
+    Returns the Markmap front matter as a string for markdown files, correctly wrapped under the 'markmap' key.
     """
     config = load_settings()
-    if config:
-        front_matter = f"---\n{yaml.dump(config['markmap'], default_flow_style=False)}---\n\n"
+    if config and 'markmap' in config:
+        # Wrap the markmap configuration under the 'markmap' key
+        markmap_config = {'markmap': config['markmap']}
+        front_matter = f"---\n{yaml.dump(markmap_config, default_flow_style=False)}---\n\n"
         return front_matter
     return ""
 

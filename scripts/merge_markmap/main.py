@@ -1,5 +1,3 @@
-# scripts/merge_markmap/main.py
-
 import os
 import sys
 import argparse
@@ -17,14 +15,14 @@ logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 def merge_child_index(folder_path, subdir_name):
     """
     Merges the content of a child .wrapped.mm.md into the parent .wrapped.mm.md.
-    Removes duplicate headings if present in the child content.
+    Removes front matter and duplicate headings if present in the child content.
 
     Args:
         folder_path (str): Path to the parent folder.
         subdir_name (str): Name of the subdirectory.
 
     Returns:
-        list: Lines of merged content without duplicate headings.
+        list: Lines of merged content without duplicate headings and without front matter.
     """
     subdir_index_path = os.path.join(folder_path, subdir_name, get_output_file_name())  # Use custom output file name
     if not os.path.isfile(subdir_index_path):
@@ -89,17 +87,17 @@ def process_folder(folder_path, is_root=False, front_matter_path=None):
         process_folder(os.path.join(folder_path, subdir), is_root=False)
 
     if is_root:
-        # Load Markmap config from settings
-        markdown_output = get_markmap_config() + "\n"
+        # Step 3: Prepare the final output content for the root file
+        markdown_output = get_markmap_config() + "\n"  # Only use front matter from config
 
-        # Step 3: Append content from subdirectories' output files
+        # Step 4: Append content from subdirectories' output files
         for subdir in subdirs:
             subdir_content = merge_child_index(folder_path, subdir)
             if subdir_content:
                 markdown_output = markdown_output.rstrip() + "\n\n" + "\n".join(subdir_content).strip() + "\n"
                 print(f"  Merged content from '{subdir}/{get_output_file_name()}' into '{folder_path}/{get_output_file_name()}'")
 
-        # Step 4: Write to root output file
+        # Step 5: Write the final output file at the root level
         output_file = os.path.join(folder_path, get_output_file_name())
         try:
             with open(output_file, 'w', encoding='utf-8') as outfile:
@@ -131,13 +129,13 @@ def process_folder(folder_path, is_root=False, front_matter_path=None):
         if asts:
             main_heading, merged_content, _ = merge_asts(asts)
             # Use the first front matter found, else load from config
-            selected_front_matter = front_matters[0] if front_matters else get_markmap_config().strip('---\n')
+            selected_front_matter = get_markmap_config().strip('---\n')
             merged_ast = merged_content[main_heading]
             markdown_output = convert_ast_to_markdown(
                 main_heading,
                 merged_ast,
                 front_matter=selected_front_matter,
-                include_front_matter=True  # Ensure front matter is included
+                include_front_matter=True
             )
         else:
             markdown_output = get_markmap_config() + "\n"
