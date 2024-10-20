@@ -22,4 +22,6 @@ This section provides essential **A1-level vocabulary** for beginners to master 
 - [Weather & Seasons](weather_seasons.md): Talk about the weather and seasons with these words and phrases.
 - [Occupations](occupations.md): Learn common job titles and related vocabulary.
 
-By exploring these topics, you'll build a strong foundation in **everyday English communication**. Dive into each one to grow your vocabulary step by step!
+## Wrapped Section
+
+For a complete overview of all A1 vocabulary topics, visit the **[Wrapped](_wrapped.md)** page.

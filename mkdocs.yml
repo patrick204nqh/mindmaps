@@ -192,7 +192,7 @@ nav:
         - Transportation: english/vocabulary/a1/transportation.md
         - Weather & Seasons: english/vocabulary/a1/weather_seasons.md
         - Occupations: english/vocabulary/a1/occupations.md
-        - Wrapped: english/vocabulary/a1/wrapped.md
+        - Wrapped: english/vocabulary/a1/_wrapped.md
       - A2 - Elementary:
         - english/vocabulary/a2/index.md
         - Personal Information & Biographies: english/vocabulary/a2/personal_information.md
