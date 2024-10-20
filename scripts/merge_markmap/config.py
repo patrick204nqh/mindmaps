@@ -40,5 +40,5 @@ def get_formatting_settings():
 def get_output_file_name():
     config = load_settings()
     if config and 'output' in config:
-        return config['output'].get('output_file_name', 'index.mm.md')  # Default to 'index.mm.md'
-    return 'index.mm.md'
+        return config['output'].get('output_file_name', '.wrapped.mm.md')  # Default to '.wrapped.mm.md'
+    return '.wrapped.mm.md'

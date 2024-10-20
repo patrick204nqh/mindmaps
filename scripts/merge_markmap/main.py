@@ -16,7 +16,7 @@ logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 
 def merge_child_index(folder_path, subdir_name):
     """
-    Merges the content of a child index.mm.md into the parent index.mm.md.
+    Merges the content of a child .wrapped.mm.md into the parent .wrapped.mm.md.
     Removes duplicate headings if present in the child content.
 
     Args:
@@ -68,7 +68,7 @@ def process_folder(folder_path, is_root=False, front_matter_path=None):
     """
     Processes a folder:
     1. Recursively processes all subdirectories.
-    2. Merges all Markdown files in the current folder into the configured output file (default: index.mm.md).
+    2. Merges all Markdown files in the current folder into the configured output file (default: .wrapped.mm.md).
     3. Appends content from subdirectories' output files in the current folder's output file.
 
     Args:
