@@ -97,9 +97,9 @@ plugins:
       base_path: docs
       encoding: utf-8
       file_extension: .mm.md
-      d3_version: '7.9.0'
-      lib_version: '0.17.3-alpha.2'
-      view_version: '0.17.3-alpha.1'
+      d3_version: '' # '7.9.0'
+      lib_version: '' # '0.17.3-alpha.2'
+      view_version: '' # '0.17.3-alpha.1'
   - abs-to-rel
 
 markdown_extensions:
@@ -155,7 +155,10 @@ extra:
 extra_css:
   - assets/css/extra.css
 
-# extra_javascript:
+extra_javascript:
+  - assets/js/markmap-d3.js
+  - assets/js/markmap-lib.js
+  - assets/js/markmap-view.js
 
 exclude_docs: |
   mkdocs.yml
