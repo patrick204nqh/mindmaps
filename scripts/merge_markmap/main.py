@@ -9,7 +9,7 @@ from .utils import extract_front_matter
 from .config import get_markmap_config, get_formatting_settings, get_output_file_name
 
 # Configure logging
-logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
+logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
 
 def merge_child_index(folder_path, subdir_name):
@@ -24,13 +24,15 @@ def merge_child_index(folder_path, subdir_name):
     Returns:
         list: Lines of merged content without duplicate headings and without front matter.
     """
-    subdir_index_path = os.path.join(folder_path, subdir_name, get_output_file_name())  # Use custom output file name
+    subdir_index_path = os.path.join(
+        folder_path, subdir_name, get_output_file_name()
+    )  # Use custom output file name
     if not os.path.isfile(subdir_index_path):
         print(f"  Warning: '{subdir_index_path}' does not exist. Skipping.")
         return []
 
     try:
-        with open(subdir_index_path, 'r', encoding='utf-8') as f:
+        with open(subdir_index_path, "r", encoding="utf-8") as f:
             sub_content = f.read()
 
         # Remove front matter if present
@@ -46,12 +48,14 @@ def merge_child_index(folder_path, subdir_name):
         clean_lines = []
         for line in lines:
             stripped_line = line.strip()
-            if stripped_line.startswith('# ') and stripped_line not in seen_headings:
+            if stripped_line.startswith("# ") and stripped_line not in seen_headings:
                 seen_headings.add(stripped_line)
                 clean_lines.append(line)
-            elif stripped_line.startswith('# ') and stripped_line in seen_headings:
+            elif stripped_line.startswith("# ") and stripped_line in seen_headings:
                 # Skip duplicate headings
-                print(f"  Skipping duplicate heading '{stripped_line}' from '{subdir_index_path}'.")
+                print(
+                    f"  Skipping duplicate heading '{stripped_line}' from '{subdir_index_path}'."
+                )
                 continue
             else:
                 clean_lines.append(line)
@@ -77,10 +81,13 @@ def process_folder(folder_path, is_root=False, front_matter_path=None):
     print(f"\nProcessing folder: {folder_path}")
 
     # Step 1: Collect all subdirectories (sorted for consistent order)
-    subdirs = sorted([
-        d for d in os.listdir(folder_path)
-        if os.path.isdir(os.path.join(folder_path, d))
-    ])
+    subdirs = sorted(
+        [
+            d
+            for d in os.listdir(folder_path)
+            if os.path.isdir(os.path.join(folder_path, d))
+        ]
+    )
 
     # Step 2: Recursively process each subdirectory first (depth-first)
     for subdir in subdirs:
@@ -88,19 +95,28 @@ def process_folder(folder_path, is_root=False, front_matter_path=None):
 
     if is_root:
         # Step 3: Prepare the final output content for the root file
-        markdown_output = get_markmap_config() + "\n"  # Only use front matter from config
+        markdown_output = (
+            get_markmap_config() + "\n"
+        )  # Only use front matter from config
 
         # Step 4: Append content from subdirectories' output files
         for subdir in subdirs:
             subdir_content = merge_child_index(folder_path, subdir)
             if subdir_content:
-                markdown_output = markdown_output.rstrip() + "\n\n" + "\n".join(subdir_content).strip() + "\n"
-                print(f"  Merged content from '{subdir}/{get_output_file_name()}' into '{folder_path}/{get_output_file_name()}'")
+                markdown_output = (
+                    markdown_output.rstrip()
+                    + "\n\n"
+                    + "\n".join(subdir_content).strip()
+                    + "\n"
+                )
+                print(
+                    f"  Merged content from '{subdir}/{get_output_file_name()}' into '{folder_path}/{get_output_file_name()}'"
+                )
 
         # Step 5: Write the final output file at the root level
         output_file = os.path.join(folder_path, get_output_file_name())
         try:
-            with open(output_file, 'w', encoding='utf-8') as outfile:
+            with open(output_file, "w", encoding="utf-8") as outfile:
                 outfile.write(markdown_output.strip() + "\n")
             print(f"  Merged content written to '{output_file}'")
         except Exception as e:
@@ -108,16 +124,18 @@ def process_folder(folder_path, is_root=False, front_matter_path=None):
 
     else:
         # Non-root folder: Merge own .mm.md files into the output file
-        markdown_files = sorted([
-            os.path.join(folder_path, f)
-            for f in os.listdir(folder_path)
-            if f.endswith('.mm.md') and f.lower() != get_output_file_name()
-        ])
+        markdown_files = sorted(
+            [
+                os.path.join(folder_path, f)
+                for f in os.listdir(folder_path)
+                if f.endswith(".mm.md") and f.lower() != get_output_file_name()
+            ]
+        )
 
         asts = []
         front_matters = []
         for file in markdown_files:
-            with open(file, 'r', encoding='utf-8') as f:
+            with open(file, "r", encoding="utf-8") as f:
                 content = f.read()
                 fm, content_no_fm = extract_front_matter(content)
                 if fm:
@@ -129,13 +147,13 @@ def process_folder(folder_path, is_root=False, front_matter_path=None):
         if asts:
             main_heading, merged_content, _ = merge_asts(asts)
             # Use the first front matter found, else load from config
-            selected_front_matter = get_markmap_config().strip('---\n')
+            selected_front_matter = get_markmap_config().strip("---\n")
             merged_ast = merged_content[main_heading]
             markdown_output = convert_ast_to_markdown(
                 main_heading,
                 merged_ast,
                 front_matter=selected_front_matter,
-                include_front_matter=True
+                include_front_matter=True,
             )
         else:
             markdown_output = get_markmap_config() + "\n"
@@ -144,13 +162,20 @@ def process_folder(folder_path, is_root=False, front_matter_path=None):
         for subdir in subdirs:
             subdir_content = merge_child_index(folder_path, subdir)
             if subdir_content:
-                markdown_output = markdown_output.rstrip() + "\n\n" + "\n".join(subdir_content).strip() + "\n"
-                print(f"  Merged content from '{subdir}/{get_output_file_name()}' into '{folder_path}/{get_output_file_name()}'")
+                markdown_output = (
+                    markdown_output.rstrip()
+                    + "\n\n"
+                    + "\n".join(subdir_content).strip()
+                    + "\n"
+                )
+                print(
+                    f"  Merged content from '{subdir}/{get_output_file_name()}' into '{folder_path}/{get_output_file_name()}'"
+                )
 
         # Step 4: Write to output file with the default front matter
         output_file = os.path.join(folder_path, get_output_file_name())
         try:
-            with open(output_file, 'w', encoding='utf-8') as outfile:
+            with open(output_file, "w", encoding="utf-8") as outfile:
                 outfile.write(markdown_output.strip() + "\n")
             print(f"  Merged content written to '{output_file}'")
         except Exception as e:
@@ -161,9 +186,15 @@ def main():
     """
     Entry point of the script. Parses command-line arguments and initiates folder processing.
     """
-    parser = argparse.ArgumentParser(description="Recursively merge .mm.md files into the configured output file based on headings.")
-    parser.add_argument('root_dir', help='Root directory containing .mm.md files and subdirectories.')
-    parser.add_argument('--front-matter', help='Path to a custom front matter file.', default=None)
+    parser = argparse.ArgumentParser(
+        description="Recursively merge .mm.md files into the configured output file based on headings."
+    )
+    parser.add_argument(
+        "root_dir", help="Root directory containing .mm.md files and subdirectories."
+    )
+    parser.add_argument(
+        "--front-matter", help="Path to a custom front matter file.", default=None
+    )
     args = parser.parse_args()
 
     root_dir = args.root_dir
