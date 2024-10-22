@@ -254,6 +254,7 @@ nav:
         - Professional & Legal Jargon: english/vocabulary/c2/professional_legal_jargon.md
         - Business & Economics: english/vocabulary/c2/business_economics.md
         - Medical Terminology: english/vocabulary/c2/medical_terminology.md
+      - Wrapped: english/vocabulary/_wrapped.md
     - Grammar:
       - english/grammar/index.md
       - A1 - Beginner:
@@ -349,6 +350,7 @@ nav:
         - Discourse Markers (Advanced): english/grammar/c2/discourse_markers.md
       - Summary:
         - english/grammar/summary/index.md
+      - Wrapped: english/grammar/_wrapped.md
     - Idioms & Expressions:
       - english/idioms_expressions/index.md
     - Reading Practice:
