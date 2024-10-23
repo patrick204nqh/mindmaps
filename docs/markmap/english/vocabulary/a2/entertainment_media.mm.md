@@ -1,0 +1,466 @@
+---
+markmap:
+  initialExpandLevel: 4
+---
+
+# Vocabulary
+
+- A2
+  - Entertainment & Media
+    - Media Types
+      - television
+        - definition: a device for receiving television signals and displaying them on a screen.
+        - pronunciation: /ˈtɛləˌvɪʒən/
+        - part of speech: noun
+        - examples:
+          - They watch their favorite shows on television.
+          - The television is broken and needs to be fixed.
+        - synonyms: TV
+        - antonyms: radio
+        - related words: broadcast, channel
+      - radio
+        - definition: a device that receives and plays sound broadcasts.
+        - pronunciation: /ˈreɪdiˌoʊ/
+        - part of speech: noun
+        - examples:
+          - She listens to the radio every morning.
+          - The radio is playing her favorite song.
+        - synonyms: broadcaster
+        - antonyms: television
+        - related words: radio station, broadcasting
+      - newspaper
+        - definition: a printed publication containing news, articles, and advertisements.
+        - pronunciation: /ˈnjuːzˌpeɪpər/
+        - part of speech: noun
+        - examples:
+          - He reads the newspaper every day.
+          - The newspaper has the latest news.
+        - synonyms: daily, broadsheet
+        - antonyms: magazine
+        - related words: news, journalism
+      - magazine
+        - definition: a publication containing articles and illustrations, typically covering a particular subject or area.
+        - pronunciation: /ˈmæɡəziːn/
+        - part of speech: noun
+        - examples:
+          - She subscribes to a fashion magazine.
+          - The magazine has many colorful pictures.
+        - synonyms: journal, periodical
+        - antonyms: newspaper
+        - related words: publishing, editor
+      - internet
+        - definition: a global computer network providing a variety of information and communication facilities.
+        - pronunciation: /ˈɪntərˌnɛt/
+        - part of speech: noun
+        - examples:
+          - They browse the internet for information.
+          - The internet connects people all over the world.
+        - synonyms: web, online
+        - antonyms: n/a
+        - related words: online, website
+    - Entertainment Forms
+      - movie
+        - definition: a story or event recorded by a camera as a set of moving images and shown in a theater or on television.
+        - pronunciation: /ˈmuːvi/
+        - part of speech: noun
+        - examples:
+          - They went to watch a movie last night.
+          - The movie was very exciting.
+        - synonyms: film
+        - antonyms: documentary
+        - related words: filmmaker, cinema
+      - music
+        - definition: vocal or instrumental sounds combined to produce harmony.
+        - pronunciation: /ˈmjuːzɪk/
+        - part of speech: noun
+        - examples:
+          - She loves listening to music.
+          - They played music at the party.
+        - synonyms: melody, tune
+        - antonyms: silence
+        - related words: musician, musical
+      - game
+        - definition: a form of play or sport, especially a competitive one.
+        - pronunciation: /ɡeɪm/
+        - part of speech: noun
+        - examples:
+          - They played a board game on Friday.
+          - He enjoys video games.
+        - synonyms: sport, competition
+        - antonyms: work
+        - related words: gamer, gaming
+      - book
+        - definition: a written or printed work consisting of pages glued or sewn together.
+        - pronunciation: /bʊk/
+        - part of speech: noun
+        - examples:
+          - She is reading a new book.
+          - He borrowed a book from the library.
+        - synonyms: volume, publication
+        - antonyms: n/a
+        - related words: bookstore, booklet
+      - dance
+        - definition: to move rhythmically to music.
+        - pronunciation: /dæns/ or /dɑːns/
+        - part of speech: verb, noun
+        - examples:
+          - They love to dance at parties.
+          - She took dance lessons.
+        - synonyms: sway, twirl
+        - antonyms: stand
+        - related words: dancer, dancing
+      - sport
+        - definition: physical activities involving skill in which an individual or team competes.
+        - pronunciation: /spɔːrt/
+        - part of speech: noun
+        - examples:
+          - Football is his favorite sport.
+          - She plays many sports.
+        - synonyms: game, athletics
+        - antonyms: n/a
+        - related words: sportsman, sporty
+      - theater
+        - definition: a building where plays and other performances are presented.
+        - pronunciation: /ˈθiːətər/ or /ˈθiːətə/
+        - part of speech: noun
+        - examples:
+          - They went to the theater to watch a play.
+          - The theater was sold out.
+        - synonyms: playhouse, cinema
+        - antonyms: n/a
+        - related words: playwright, theatrical
+      - concert
+        - definition: a musical performance given in public.
+        - pronunciation: /ˈkɒnsərt/
+        - part of speech: noun
+        - examples:
+          - They attended a rock concert.
+          - The concert was amazing.
+        - synonyms: performance, show
+        - antonyms: n/a
+        - related words: musician, perform
+      - television show
+        - definition: a broadcast program on television.
+        - pronunciation: /ˈtɛləˌvɪʒən ʃoʊ/
+        - part of speech: noun
+        - examples:
+          - Her favorite television show is on tonight.
+          - They watch a new television show every week.
+        - synonyms: TV program
+        - antonyms: n/a
+        - related words: episode, series
+    - Media Devices
+      - computer
+        - definition: an electronic device for storing and processing data.
+        - pronunciation: /kəmˈpjuːtər/
+        - part of speech: noun
+        - examples:
+          - She works on her computer all day.
+          - The computer is new and fast.
+        - synonyms: PC
+        - antonyms: n/a
+        - related words: computing, laptop
+      - smartphone
+        - definition: a mobile phone that performs many of the functions of a computer.
+        - pronunciation: /ˈsmɑːrtˌfoʊn/
+        - part of speech: noun
+        - examples:
+          - He uses his smartphone to browse the internet.
+          - Smartphones have many apps.
+        - synonyms: mobile phone
+        - antonyms: landline
+        - related words: mobile, app
+      - tablet
+        - definition: a portable computer that uses a touchscreen as its primary input device.
+        - pronunciation: /ˈtæblɪt/
+        - part of speech: noun
+        - examples:
+          - She reads books on her tablet.
+          - The tablet is easy to use.
+        - synonyms: slate
+        - antonyms: laptop
+        - related words: touchpad, touchscreen
+      - camera
+        - definition: a device for recording visual images in the form of photographs or video.
+        - pronunciation: /ˈkæmərə/
+        - part of speech: noun
+        - examples:
+          - He took pictures with his camera.
+          - The camera needs new batteries.
+        - synonyms: camcorder
+        - antonyms: n/a
+        - related words: photography, photographer
+      - headphones
+        - definition: a pair of small speakers for listening to sound from a computer, music player, or other such electronic device.
+        - pronunciation: /ˈhɛdˌfoʊnz/
+        - part of speech: noun
+        - examples:
+          - She listens to music with her headphones.
+          - The headphones are wireless.
+        - synonyms: earphones
+        - antonyms: loudspeaker
+        - related words: headphone jack
+      - speaker
+        - definition: a device that converts electrical signals into sound.
+        - pronunciation: /ˈspiːkər/
+        - part of speech: noun
+        - examples:
+          - He connected the speaker to the computer.
+          - The speaker has great sound quality.
+        - synonyms: loudspeaker
+        - antonyms: microphone
+        - related words: sound, audio
+    - Entertainment Venues
+      - cinema
+        - definition: a theater where films are shown for public entertainment.
+        - pronunciation: /ˈsɪnəmə/
+        - part of speech: noun
+        - examples:
+          - They went to the cinema to watch the new movie.
+          - The cinema is showing action films tonight.
+        - synonyms: movie theater
+        - antonyms: n/a
+        - related words: filmmaker, screening
+      - concert hall
+        - definition: a large building where concerts are held.
+        - pronunciation: /ˈkɒnsərt hɔːl/
+        - part of speech: noun
+        - examples:
+          - The orchestra performed at the concert hall.
+          - The concert hall was beautifully decorated.
+        - synonyms: auditorium
+        - antonyms: n/a
+        - related words: performance, musician
+      - stadium
+        - definition: a large structure with a field for sports and concerts.
+        - pronunciation: /ˈsteɪdiəm/
+        - part of speech: noun
+        - examples:
+          - They watched the football game at the stadium.
+          - The stadium can hold 50,000 people.
+        - synonyms: arena
+        - antonyms: n/a
+        - related words: sports, event
+      - theater
+        - definition: a building where plays and other performances are presented.
+        - pronunciation: /ˈθiːətər/ or /ˈθiːətə/
+        - part of speech: noun
+        - examples:
+          - They attended a play at the theater.
+          - The theater was beautifully lit.
+        - synonyms: playhouse
+        - antonyms: cinema
+        - related words: playwright, performance
+      - nightclub
+        - definition: a place where people go to dance and drink alcoholic beverages.
+        - pronunciation: /ˈnaɪtˌklʌb/
+        - part of speech: noun
+        - examples:
+          - They went to a nightclub on Saturday night.
+          - The nightclub has a great DJ.
+        - synonyms: disco
+        - antonyms: daytime café
+        - related words: nightlife, dance
+    - Entertainment Professionals
+      - actor
+        - definition: a person whose profession is acting on the stage, in movies, or on television.
+        - pronunciation: /ˈæktər/
+        - part of speech: noun
+        - examples:
+          - She is a famous movie actor.
+          - The actor performed brilliantly in the play.
+        - synonyms: performer, thespian
+        - antonyms: audience
+        - related words: acting, performance
+      - musician
+        - definition: a person who plays a musical instrument or is musically talented.
+        - pronunciation: /mjuːˈzɪʃən/
+        - part of speech: noun
+        - examples:
+          - He is a talented musician.
+          - Musicians practice every day.
+        - synonyms: performer, instrumentalist
+        - antonyms: listener
+        - related words: music, musical
+      - journalist
+        - definition: a person who writes for newspapers, magazines, or news websites.
+        - pronunciation: /ˌdʒɜːrnəˈlɪst/
+        - part of speech: noun
+        - examples:
+          - The journalist wrote an article about the event.
+          - She works as a journalist for a major newspaper.
+        - synonyms: reporter, correspondent
+        - antonyms: n/a
+        - related words: journalism, news
+      - director
+        - definition: a person who supervises the actors and other staff in the making of a movie or play.
+        - pronunciation: /dəˈrɛktər/
+        - part of speech: noun
+        - examples:
+          - The director guided the actors during the scene.
+          - She is a renowned film director.
+        - synonyms: filmmaker, producer
+        - antonyms: actor
+        - related words: directing, direction
+      - producer
+        - definition: a person responsible for the financial and managerial aspects of making of a movie, play, or broadcast.
+        - pronunciation: /prəˈdjuːsər/
+        - part of speech: noun
+        - examples:
+          - The producer secured funding for the film.
+          - She works as a television producer.
+        - synonyms: manager, executive
+        - antonyms: n/a
+        - related words: production, producing
+    - Entertainment Activities
+      - watch
+        - definition: to look at or observe attentively over a period of time.
+        - pronunciation: /wɑːtʃ/
+        - part of speech: verb
+        - examples:
+          - They watch movies on weekends.
+          - She likes to watch the sunset.
+        - synonyms: observe, view
+        - antonyms: ignore
+        - related words: watcher, watching
+      - listen
+        - definition: to give attention to sound or action.
+        - pronunciation: /ˈlɪsən/
+        - part of speech: verb
+        - examples:
+          - He listens to music every evening.
+          - They listened to the speaker carefully.
+        - synonyms: hear, attend
+        - antonyms: ignore
+        - related words: listener, listening
+      - read
+        - definition: to look at and comprehend the meaning of written or printed matter.
+        - pronunciation: /riːd/
+        - part of speech: verb
+        - examples:
+          - She likes to read books in her free time.
+          - He is reading a magazine.
+        - synonyms: peruse, study
+        - antonyms: write
+        - related words: reader, reading
+      - play
+        - definition: to engage in an activity for enjoyment and recreation.
+        - pronunciation: /pleɪ/
+        - part of speech: verb, noun
+        - examples:
+          - They play games after school.
+          - She enjoys playing the piano.
+        - synonyms: engage, participate
+        - antonyms: work
+        - related words: player, playing
+      - dance
+        - definition: to move rhythmically to music.
+        - pronunciation: /dæns/ or /dɑːns/
+        - part of speech: verb, noun
+        - examples:
+          - They love to dance at parties.
+          - She took dance lessons.
+        - synonyms: sway, twirl
+        - antonyms: stand
+        - related words: dancer, dancing
+      - sing
+        - definition: to produce musical tones with the voice.
+        - pronunciation: /sɪŋ/
+        - part of speech: verb
+        - examples:
+          - She likes to sing in the shower.
+          - They sang their favorite song together.
+        - synonyms: chant, croon
+        - antonyms: hum
+        - related words: singer, singing
+      - draw
+        - definition: to produce a picture or diagram by making lines and marks on paper.
+        - pronunciation: /drɔː/
+        - part of speech: verb
+        - examples:
+          - He likes to draw landscapes.
+          - She drew a picture of her cat.
+        - synonyms: sketch, illustrate
+        - antonyms: erase
+        - related words: drawer, drawing
+      - photograph
+        - definition: a picture made using a camera.
+        - pronunciation: /ˈfoʊtəˌɡræf/
+        - part of speech: noun, verb
+        - examples:
+          - She took a photograph of the sunset.
+          - He likes to photograph wildlife.
+        - synonyms: picture, image
+        - antonyms: n/a
+        - related words: photography, photographer
+      - watch TV
+        - definition: to view television programs.
+        - pronunciation: /wɑːtʃ tiːˈviː/
+        - part of speech: verb phrase
+        - examples:
+          - They watch TV every evening.
+          - She is watching her favorite TV show.
+        - synonyms: watch television
+        - antonyms: read
+        - related words: television, TV show
+    - Media Professionals
+      - journalist
+        - definition: a person who writes for newspapers, magazines, or news websites.
+        - pronunciation: /ˌdʒɜːrnəˈlɪst/
+        - part of speech: noun
+        - examples:
+          - The journalist wrote an article about the event.
+          - She works as a journalist for a major newspaper.
+        - synonyms: reporter, correspondent
+        - antonyms: n/a
+        - related words: journalism, news
+      - photographer
+        - definition: a person who takes photographs professionally.
+        - pronunciation: /fəˈtɑːɡrəfər/
+        - part of speech: noun
+        - examples:
+          - He is a professional photographer.
+          - The photographer captured beautiful images.
+        - synonyms: snapper
+        - antonyms: n/a
+        - related words: photography, photo
+      - editor
+        - definition: a person who is in charge of and determines the final content of a text, particularly for publication.
+        - pronunciation: /ˈɛdɪtər/
+        - part of speech: noun
+        - examples:
+          - The editor reviewed the article before publication.
+          - She works as an editor for a magazine.
+        - synonyms: reviser, proofreader
+        - antonyms: writer
+        - related words: editing, edit
+      - presenter
+        - definition: a person who introduces or hosts a show or event.
+        - pronunciation: /prɪˈzɛntər/
+        - part of speech: noun
+        - examples:
+          - The presenter announced the winner.
+          - She is a TV show presenter.
+        - synonyms: host, emcee
+        - antonyms: audience
+        - related words: presentation, present
+      - director
+        - definition: a person who supervises the actors and other staff in the making of a movie or play.
+        - pronunciation: /dəˈrɛktər/
+        - part of speech: noun
+        - examples:
+          - The director guided the actors during the scene.
+          - She is a renowned film director.
+        - synonyms: filmmaker, producer
+        - antonyms: actor
+        - related words: directing, direction
+      - producer
+        - definition: a person responsible for the financial and managerial aspects of making of a movie, play, or broadcast.
+        - pronunciation: /prəˈdjuːsər/
+        - part of speech: noun
+        - examples:
+          - The producer secured funding for the film.
+          - She works as a television producer.
+        - synonyms: manager, executive
+        - antonyms: n/a
+        - related words: production, producing

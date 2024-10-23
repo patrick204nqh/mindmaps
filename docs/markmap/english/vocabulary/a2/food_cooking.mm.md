@@ -1,0 +1,240 @@
+---
+markmap:
+  initialExpandLevel: 4
+---
+
+# Vocabulary
+
+- A2
+
+  - Food & Cooking
+
+    - ingredients
+
+      - tomato
+        - definition: a red or yellowish fruit with a juicy pulp, used as a vegetable in salads and cooking.
+        - pronunciation: /təˈmeɪtoʊ/
+        - part of speech: noun
+        - examples:
+          - I added fresh tomatoes to the salad.
+          - Tomatoes are rich in vitamins.
+        - synonyms: none
+        - antonyms: none
+        - related words: tomato sauce, cherry tomato
+      - chicken
+        - definition: a common domesticated bird kept for its eggs and meat.
+        - pronunciation: /ˈtʃɪkən/
+        - part of speech: noun
+        - examples:
+          - We are having chicken for dinner tonight.
+          - She bought a whole chicken from the market.
+        - synonyms: poultry
+        - antonyms: beef, pork
+        - related words: chicken breast, chicken soup
+      - salt
+        - definition: a white crystalline substance used to season food.
+        - pronunciation: /sɔːlt/
+        - part of speech: noun
+        - examples:
+          - Please add some salt to the soup.
+          - Too much salt can be unhealthy.
+        - synonyms: sodium chloride
+        - antonyms: none
+        - related words: sea salt, salt shaker
+
+    - cooking methods
+
+      - bake
+        - definition: to cook food by dry heat without direct exposure to a flame, typically in an oven.
+        - pronunciation: /beɪk/
+        - part of speech: verb
+        - examples:
+          - She likes to bake cookies on weekends.
+          - We will bake the bread for thirty minutes.
+        - synonyms: roast, cook
+        - antonyms: freeze
+        - related words: baking, bakery
+      - fry
+        - definition: to cook food in hot fat or oil, typically in a shallow pan.
+        - pronunciation: /fraɪ/
+        - part of speech: verb
+        - examples:
+          - He decided to fry the eggs for breakfast.
+          - They fry potatoes to make French fries.
+        - synonyms: sauté, deep-fry
+        - antonyms: boil
+        - related words: frying pan, fried
+      - boil
+        - definition: to cook food by heating it in water or other liquid at 100°C.
+        - pronunciation: /bɔɪl/
+        - part of speech: verb
+        - examples:
+          - Please boil the pasta until it's soft.
+          - She likes to boil eggs for breakfast.
+        - synonyms: simmer, poach
+        - antonyms: fry
+        - related words: boiling water, boiled
+
+    - meals
+
+      - breakfast
+        - definition: the first meal of the day, usually eaten in the morning.
+        - pronunciation: /ˈbrɛkfəst/
+        - part of speech: noun
+        - examples:
+          - I have cereal for breakfast every day.
+          - They enjoyed a hearty breakfast together.
+        - synonyms: morning meal
+        - antonyms: dinner, supper
+        - related words: breakfast table, breakfast menu
+      - lunch
+        - definition: a meal eaten in the middle of the day.
+        - pronunciation: /lʌntʃ/
+        - part of speech: noun
+        - examples:
+          - She packed a sandwich for lunch.
+          - We went out for lunch at a new restaurant.
+        - synonyms: midday meal
+        - antonyms: breakfast, dinner
+        - related words: lunchbox, lunch break
+      - dinner
+        - definition: the main meal of the day, typically eaten in the evening.
+        - pronunciation: /ˈdɪnər/
+        - part of speech: noun
+        - examples:
+          - They are having pasta for dinner tonight.
+          - Dinner was served at seven o'clock.
+        - synonyms: evening meal
+        - antonyms: breakfast, lunch
+        - related words: dinner plate, dinnerware
+
+    - utensils
+
+      - knife
+        - definition: a tool with a handle and a blade used for cutting.
+        - pronunciation: /naɪf/
+        - part of speech: noun
+        - examples:
+          - Be careful with the knife when cutting vegetables.
+          - She used a sharp knife to slice the bread.
+        - synonyms: cutter
+        - antonyms: none
+        - related words: kitchen knife, butterknife
+      - spoon
+        - definition: a utensil consisting of a small shallow bowl on a handle, used for eating, stirring, etc.
+        - pronunciation: /spuːn/
+        - part of speech: noun
+        - examples:
+          - He stirred his coffee with a spoon.
+          - She ate the soup with a large spoon.
+        - synonyms: ladle
+        - antonyms: fork
+        - related words: teaspoon, tablespoon
+      - fork
+        - definition: a utensil with two or more prongs used for eating or serving food.
+        - pronunciation: /fɔːrk/
+        - part of speech: noun
+        - examples:
+          - Please pass the fork.
+          - He used a fork to eat his salad.
+        - synonyms: none
+        - antonyms: spoon
+        - related words: forkful, forked
+
+    - taste & flavor
+
+      - sweet
+        - definition: having the taste of sugar or honey; pleasant to the taste.
+        - pronunciation: /swiːt/
+        - part of speech: adjective
+        - examples:
+          - She likes sweet desserts like cake and ice cream.
+          - The strawberries are sweet and juicy.
+        - synonyms: sugary, saccharine
+        - antonyms: sour, bitter
+        - related words: sweetness, sweeten
+      - salty
+        - definition: tasting of, containing, or preserved with salt.
+        - pronunciation: /ˈsɔːlti/
+        - part of speech: adjective
+        - examples:
+          - The chips are too salty for my taste.
+          - He added a salty seasoning to the dish.
+        - synonyms: briny
+        - antonyms: sweet
+        - related words: saltiness, salt
+      - spicy
+        - definition: flavored with or fragrant with spice.
+        - pronunciation: /ˈspaɪsi/
+        - part of speech: adjective
+        - examples:
+          - She enjoys spicy food like chili peppers.
+          - The curry is very spicy.
+        - synonyms: piquant, hot
+        - antonyms: mild
+        - related words: spice, spiciness
+
+    - beverages
+
+      - water
+        - definition: a clear, colorless, odorless, and tasteless liquid essential for most plant and animal life.
+        - pronunciation: /ˈwɔːtər/
+        - part of speech: noun
+        - examples:
+          - It’s important to drink plenty of water every day.
+          - She poured a glass of water.
+        - synonyms: H2O
+        - antonyms: none
+        - related words: waterproof, watery
+      - juice
+        - definition: the liquid obtained from or present in fruit or vegetables.
+        - pronunciation: /dʒuːs/
+        - part of speech: noun
+        - examples:
+          - He drinks orange juice every morning.
+          - They served fresh juice at the party.
+        - synonyms: nectar
+        - antonyms: none
+        - related words: apple juice, juice box
+      - tea
+        - definition: a hot drink made by infusing the dried crushed leaves of the tea plant in boiling water.
+        - pronunciation: /tiː/
+        - part of speech: noun
+        - examples:
+          - She prefers green tea over black tea.
+          - They had tea and biscuits in the afternoon.
+        - synonyms: none
+        - antonyms: coffee
+        - related words: teapot, tea leaves
+
+    - shopping
+      - grocery
+        - definition: a store that sells food and other household goods.
+        - pronunciation: /ˈɡroʊsəri/
+        - part of speech: noun
+        - examples:
+          - I need to go to the grocery store to buy milk.
+          - They do their weekly shopping at the local grocery.
+        - synonyms: supermarket, market
+        - antonyms: none
+        - related words: groceries, grocery bag
+      - market
+        - definition: a regular gathering of people for the purchase and sale of provisions, livestock, and other goods.
+        - pronunciation: /ˈmɑːrkɪt/
+        - part of speech: noun
+        - examples:
+          - They visited the farmers' market on Saturday.
+          - The market is open from 8 AM to 2 PM.
+        - synonyms: bazaar, marketplace
+        - antonyms: none
+        - related words: marketing, market stall
+      - price
+        - definition: the amount of money expected, required, or given in payment for something.
+        - pronunciation: /praɪs/
+        - part of speech: noun
+        - examples:
+          - What is the price of this apple?
+          - They compared prices before buying the vegetables.
+        - synonyms: cost, value
+        - antonyms: free
+        - related words: pricing, pricetag

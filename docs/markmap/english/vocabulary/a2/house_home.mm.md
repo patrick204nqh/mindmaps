@@ -1,0 +1,546 @@
+---
+markmap:
+  initialExpandLevel: 4
+---
+
+# Vocabulary
+
+- A2
+  - House & Home
+    - Rooms
+      - kitchen
+        - definition: a room where food is prepared and cooked.
+        - pronunciation: /ˈkɪtʃən/
+        - part of speech: noun
+        - examples:
+          - She is cooking dinner in the kitchen.
+          - The kitchen has a new stove.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: cook, cooking
+      - bedroom
+        - definition: a room for sleeping in.
+        - pronunciation: /ˈbɛdruːm/
+        - part of speech: noun
+        - examples:
+          - He keeps his clothes in his bedroom.
+          - The house has three bedrooms.
+        - synonyms: sleeping room
+        - antonyms: n/a
+        - related words: bed, sleep
+      - bathroom
+        - definition: a room containing a bathtub or shower and usually a sink and toilet.
+        - pronunciation: /ˈbæθruːm/
+        - part of speech: noun
+        - examples:
+          - She takes a shower in the bathroom.
+          - The bathroom is upstairs.
+        - synonyms: washroom
+        - antonyms: n/a
+        - related words: bath, shower
+      - living room
+        - definition: a room in a house for general everyday use.
+        - pronunciation: /ˈlɪvɪŋ ruːm/
+        - part of speech: noun
+        - examples:
+          - They watch TV in the living room.
+          - The living room is spacious.
+        - synonyms: lounge
+        - antonyms: n/a
+        - related words: sofa, couch
+      - dining room
+        - definition: a room where meals are eaten.
+        - pronunciation: /ˈdaɪnɪŋ ruːm/
+        - part of speech: noun
+        - examples:
+          - Dinner is served in the dining room.
+          - The dining room has a large table.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: dine, dinner
+      - garden
+        - definition: an area of ground where plants are grown.
+        - pronunciation: /ˈɡɑːrdən/
+        - part of speech: noun
+        - examples:
+          - She grows vegetables in the garden.
+          - The children play in the garden.
+        - synonyms: yard
+        - antonyms: n/a
+        - related words: gardening, gardener
+      - attic
+        - definition: a space or room just below the roof of a building.
+        - pronunciation: /ˈætɪk/
+        - part of speech: noun
+        - examples:
+          - They store old furniture in the attic.
+          - The attic is dusty.
+        - synonyms: loft
+        - antonyms: basement
+        - related words: n/a
+      - basement
+        - definition: a room or floor partly or entirely below ground level.
+        - pronunciation: /ˈbeɪsmənt/
+        - part of speech: noun
+        - examples:
+          - The laundry room is in the basement.
+          - They keep tools in the basement.
+        - synonyms: cellar
+        - antonyms: attic
+        - related words: base
+    - Furniture
+      - sofa
+        - definition: a comfortable seat wide enough for two or more people.
+        - pronunciation: /ˈsoʊfə/
+        - part of speech: noun
+        - examples:
+          - They sat on the sofa to watch a movie.
+          - The sofa is covered in leather.
+        - synonyms: couch
+        - antonyms: n/a
+        - related words: seating
+      - chair
+        - definition: a seat for one person with a support for the back.
+        - pronunciation: /tʃɛər/
+        - part of speech: noun
+        - examples:
+          - She pulled out a chair to sit down.
+          - The dining room has six chairs.
+        - synonyms: seat
+        - antonyms: standing
+        - related words: armchair
+      - table
+        - definition: a piece of furniture with a flat top and one or more legs.
+        - pronunciation: /ˈteɪbəl/
+        - part of speech: noun
+        - examples:
+          - They set the table for dinner.
+          - The coffee table is made of glass.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: tabletop
+      - bed
+        - definition: a piece of furniture for sleep or rest.
+        - pronunciation: /bɛd/
+        - part of speech: noun
+        - examples:
+          - She goes to bed at 10 pm.
+          - The bed is very comfortable.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: bedroom, bedding
+      - wardrobe
+        - definition: a large, tall cabinet for storing clothes.
+        - pronunciation: /ˈwɔːrdroʊb/
+        - part of speech: noun
+        - examples:
+          - He hung his coat in the wardrobe.
+          - The wardrobe is full of dresses.
+        - synonyms: closet
+        - antonyms: n/a
+        - related words: n/a
+      - desk
+        - definition: a piece of furniture with a flat surface for writing or working.
+        - pronunciation: /dɛsk/
+        - part of speech: noun
+        - examples:
+          - She does her homework at the desk.
+          - The desk has many drawers.
+        - synonyms: table
+        - antonyms: n/a
+        - related words: desktop
+      - shelf
+        - definition: a flat length of wood or rigid material attached to a wall.
+        - pronunciation: /ʃɛlf/
+        - part of speech: noun
+        - examples:
+          - Books are on the shelf.
+          - He put the vase on a high shelf.
+        - synonyms: ledge
+        - antonyms: n/a
+        - related words: shelves (plural)
+      - mirror
+        - definition: a reflective surface that reflects a clear image.
+        - pronunciation: /ˈmɪrər/
+        - part of speech: noun
+        - examples:
+          - She looked at herself in the mirror.
+          - There is a mirror in the bathroom.
+        - synonyms: looking glass
+        - antonyms: n/a
+        - related words: reflection
+    - Household Items
+      - lamp
+        - definition: a device for giving light.
+        - pronunciation: /læmp/
+        - part of speech: noun
+        - examples:
+          - She turned on the lamp to read.
+          - The lamp is on the bedside table.
+        - synonyms: light
+        - antonyms: darkness
+        - related words: lampshade
+      - television
+        - definition: a device that receives television signals and reproduces them on a screen.
+        - pronunciation: /ˈtɛləˌvɪʒən/
+        - part of speech: noun
+        - examples:
+          - They watched the news on television.
+          - The television is in the living room.
+        - synonyms: TV
+        - antonyms: n/a
+        - related words: broadcast
+      - refrigerator
+        - definition: an appliance for keeping food and drinks cold.
+        - pronunciation: /rɪˈfrɪdʒəˌreɪtər/
+        - part of speech: noun
+        - examples:
+          - The milk is in the refrigerator.
+          - She opened the refrigerator to get some juice.
+        - synonyms: fridge
+        - antonyms: oven
+        - related words: refrigerate
+      - oven
+        - definition: an enclosed compartment for cooking and heating food.
+        - pronunciation: /ˈʌvən/
+        - part of speech: noun
+        - examples:
+          - She baked a cake in the oven.
+          - The oven is preheating to 350 degrees.
+        - synonyms: stove
+        - antonyms: refrigerator
+        - related words: bake
+      - microwave
+        - definition: an oven that cooks food quickly using microwaves.
+        - pronunciation: /ˈmaɪkrəˌweɪv/
+        - part of speech: noun
+        - examples:
+          - He heated leftovers in the microwave.
+          - The microwave is above the stove.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: microwave oven
+      - sink
+        - definition: a fixed basin with a water supply and a drain.
+        - pronunciation: /sɪŋk/
+        - part of speech: noun
+        - examples:
+          - She washed the dishes in the sink.
+          - The bathroom sink is clogged.
+        - synonyms: basin
+        - antonyms: n/a
+        - related words: faucet
+      - bathtub
+        - definition: a tub for bathing in.
+        - pronunciation: /ˈbæθˌtʌb/
+        - part of speech: noun
+        - examples:
+          - The children are playing in the bathtub.
+          - She filled the bathtub with warm water.
+        - synonyms: tub
+        - antonyms: shower
+        - related words: bath
+      - carpet
+        - definition: a floor covering made from thick woven fabric.
+        - pronunciation: /ˈkɑːrpɪt/
+        - part of speech: noun
+        - examples:
+          - The living room has a soft carpet.
+          - They vacuumed the carpet.
+        - synonyms: rug
+        - antonyms: n/a
+        - related words: carpeting
+      - curtain
+        - definition: a piece of cloth that hangs to cover a window.
+        - pronunciation: /ˈkɜːrtən/
+        - part of speech: noun
+        - examples:
+          - She opened the curtains to let in light.
+          - The curtains match the sofa.
+        - synonyms: drape
+        - antonyms: n/a
+        - related words: curtain rod
+      - pillow
+        - definition: a soft cushion to support the head during sleep.
+        - pronunciation: /ˈpɪloʊ/
+        - part of speech: noun
+        - examples:
+          - He rested his head on the pillow.
+          - She fluffed the pillows on the bed.
+        - synonyms: cushion
+        - antonyms: n/a
+        - related words: pillowcase
+    - Household Chores
+      - clean
+        - definition: to make something free of dirt or mess.
+        - pronunciation: /kliːn/
+        - part of speech: verb, adjective
+        - examples:
+          - She cleans the house every weekend.
+          - He cleaned the windows yesterday.
+        - synonyms: wash, tidy
+        - antonyms: dirty
+        - related words: cleaning, cleaner
+      - cook
+        - definition: to prepare food by heating it.
+        - pronunciation: /kʊk/
+        - part of speech: verb, noun
+        - examples:
+          - He cooks dinner for his family.
+          - She is a good cook.
+        - synonyms: prepare, bake
+        - antonyms: n/a
+        - related words: cooking, cooker
+      - wash
+        - definition: to clean with water and usually soap.
+        - pronunciation: /wɒʃ/
+        - part of speech: verb
+        - examples:
+          - She washes the dishes after meals.
+          - He washed his clothes yesterday.
+        - synonyms: cleanse, rinse
+        - antonyms: dirty
+        - related words: washer, washing
+      - vacuum
+        - definition: to clean using a vacuum cleaner.
+        - pronunciation: /ˈvækjuːm/
+        - part of speech: verb, noun
+        - examples:
+          - He vacuums the carpet weekly.
+          - She bought a new vacuum cleaner.
+        - synonyms: hoover (UK)
+        - antonyms: n/a
+        - related words: suction
+      - dust
+        - definition: to remove dust from surfaces.
+        - pronunciation: /dʌst/
+        - part of speech: verb, noun
+        - examples:
+          - She dusts the furniture.
+          - The shelves need dusting.
+        - synonyms: wipe
+        - antonyms: n/a
+        - related words: duster
+      - sweep
+        - definition: to clean an area by brushing away dirt.
+        - pronunciation: /swiːp/
+        - part of speech: verb
+        - examples:
+          - He sweeps the floor every day.
+          - She swept the porch.
+        - synonyms: brush
+        - antonyms: n/a
+        - related words: broom
+      - mop
+        - definition: to clean or soak up liquid with a mop.
+        - pronunciation: /mɒp/
+        - part of speech: verb, noun
+        - examples:
+          - She mopped the kitchen floor.
+          - The mop is in the closet.
+        - synonyms: wipe
+        - antonyms: n/a
+        - related words: mopping
+    - Types of Homes
+      - apartment
+        - definition: a set of rooms for living in, typically on one floor of a building.
+        - pronunciation: /əˈpɑːrtmənt/
+        - part of speech: noun
+        - examples:
+          - They live in a small apartment.
+          - The apartment building has ten floors.
+        - synonyms: flat (UK)
+        - antonyms: house
+        - related words: n/a
+      - house
+        - definition: a building for human habitation.
+        - pronunciation: /haʊs/
+        - part of speech: noun
+        - examples:
+          - She bought a new house.
+          - They have a garden behind their house.
+        - synonyms: home
+        - antonyms: apartment
+        - related words: household, housing
+      - cottage
+        - definition: a small simple house, typically one near a lake or beach.
+        - pronunciation: /ˈkɒtɪdʒ/
+        - part of speech: noun
+        - examples:
+          - They rented a cottage by the sea.
+          - The cottage has a thatched roof.
+        - synonyms: cabin
+        - antonyms: mansion
+        - related words: n/a
+      - villa
+        - definition: a large and luxurious country house.
+        - pronunciation: /ˈvɪlə/
+        - part of speech: noun
+        - examples:
+          - They stayed in a villa during their vacation.
+          - The villa overlooks the ocean.
+        - synonyms: mansion
+        - antonyms: shack
+        - related words: n/a
+      - bungalow
+        - definition: a low house with no upper floor or rooms set in the roof.
+        - pronunciation: /ˈbʌŋɡəˌloʊ/
+        - part of speech: noun
+        - examples:
+          - She lives in a cozy bungalow.
+          - The bungalow has a nice porch.
+        - synonyms: one-story house
+        - antonyms: multi-story house
+        - related words: n/a
+      - townhouse
+        - definition: a tall, narrow traditional terraced house.
+        - pronunciation: /ˈtaʊnhaʊs/
+        - part of speech: noun
+        - examples:
+          - They moved into a new townhouse.
+          - The townhouse is in the city center.
+        - synonyms: row house
+        - antonyms: detached house
+        - related words: n/a
+    - Actions Related to House & Home
+      - live
+        - definition: to reside or dwell in a place.
+        - pronunciation: /lɪv/
+        - part of speech: verb
+        - examples:
+          - They live in a big house.
+          - She lives with her family.
+        - synonyms: reside
+        - antonyms: leave
+        - related words: living
+      - move
+        - definition: to change one's place of residence.
+        - pronunciation: /muːv/
+        - part of speech: verb
+        - examples:
+          - They plan to move next month.
+          - She moved to a new apartment.
+        - synonyms: relocate
+        - antonyms: stay
+        - related words: movement
+      - rent
+        - definition: to pay someone for the use of something.
+        - pronunciation: /rɛnt/
+        - part of speech: verb, noun
+        - examples:
+          - He rents an apartment downtown.
+          - They pay rent every month.
+        - synonyms: lease
+        - antonyms: own
+        - related words: rental, renter
+      - own
+        - definition: to have something as one's own; possess.
+        - pronunciation: /oʊn/
+        - part of speech: verb
+        - examples:
+          - They own their house.
+          - She wants to own a home someday.
+        - synonyms: possess
+        - antonyms: rent
+        - related words: owner, ownership
+      - decorate
+        - definition: to make something look more attractive.
+        - pronunciation: /ˈdɛkəˌreɪt/
+        - part of speech: verb
+        - examples:
+          - She decorated her room with posters.
+          - They are decorating the house for the holidays.
+        - synonyms: adorn
+        - antonyms: strip
+        - related words: decoration, decorator
+      - sleep
+        - definition: to rest with eyes closed and consciousness suspended.
+        - pronunciation: /sliːp/
+        - part of speech: verb, noun
+        - examples:
+          - He sleeps in the bedroom.
+          - She needs to sleep for eight hours.
+        - synonyms: slumber
+        - antonyms: wake
+        - related words: sleepy, sleeping
+    - Adjectives Describing Homes
+      - cozy
+        - definition: giving a feeling of comfort and warmth.
+        - pronunciation: /ˈkoʊzi/
+        - part of speech: adjective
+        - examples:
+          - The living room is cozy.
+          - They enjoy their cozy home.
+        - synonyms: comfortable
+        - antonyms: uncomfortable
+        - related words: coziness
+      - spacious
+        - definition: having ample space.
+        - pronunciation: /ˈspeɪʃəs/
+        - part of speech: adjective
+        - examples:
+          - The kitchen is spacious.
+          - They moved to a more spacious house.
+        - synonyms: roomy
+        - antonyms: cramped
+        - related words: space
+      - modern
+        - definition: relating to the present or recent times.
+        - pronunciation: /ˈmɒdərn/
+        - part of speech: adjective
+        - examples:
+          - Their apartment has a modern design.
+          - She likes modern furniture.
+        - synonyms: contemporary
+        - antonyms: old-fashioned
+        - related words: modernize
+      - comfortable
+        - definition: providing physical ease and relaxation.
+        - pronunciation: /ˈkʌmfərtəbəl/
+        - part of speech: adjective
+        - examples:
+          - The sofa is very comfortable.
+          - They want their guests to feel comfortable.
+        - synonyms: cozy
+        - antonyms: uncomfortable
+        - related words: comfort
+      - clean
+        - definition: free from dirt or stains.
+        - pronunciation: /kliːn/
+        - part of speech: adjective, verb
+        - examples:
+          - The house is always clean.
+          - She likes to keep her room clean.
+        - synonyms: spotless
+        - antonyms: dirty
+        - related words: cleanliness
+      - messy
+        - definition: untidy or disordered.
+        - pronunciation: /ˈmɛsi/
+        - part of speech: adjective
+        - examples:
+          - His room is very messy.
+          - She needs to clean up the messy kitchen.
+        - synonyms: untidy
+        - antonyms: tidy
+        - related words: mess
+      - noisy
+        - definition: making or given to making a lot of noise.
+        - pronunciation: /ˈnɔɪzi/
+        - part of speech: adjective
+        - examples:
+          - The street outside is noisy.
+          - They prefer a quiet neighborhood over a noisy one.
+        - synonyms: loud
+        - antonyms: quiet
+        - related words: noise
+      - quiet
+        - definition: making little or no noise.
+        - pronunciation: /ˈkwaɪət/
+        - part of speech: adjective
+        - examples:
+          - The house is in a quiet area.
+          - She enjoys the quiet evenings at home.
+        - synonyms: silent
+        - antonyms: noisy
+        - related words: quietly

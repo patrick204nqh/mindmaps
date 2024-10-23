@@ -1,0 +1,586 @@
+---
+markmap:
+  initialExpandLevel: 4
+---
+
+# Vocabulary
+
+- A2
+  - Health & Fitness
+    - Body Parts
+      - head
+        - definition: the upper part of the human body, containing the brain, eyes, ears, nose, and mouth.
+        - pronunciation: /hɛd/
+        - part of speech: noun
+        - examples:
+          - He has a headache because his head hurts.
+          - She wears a hat on her head.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: headache, forehead
+      - arm
+        - definition: each of the two upper limbs of the human body from the shoulder to the hand.
+        - pronunciation: /ɑːrm/
+        - part of speech: noun
+        - examples:
+          - She broke her arm playing soccer.
+          - He has a tattoo on his arm.
+        - synonyms: limb
+        - antonyms: n/a
+        - related words: hand, elbow
+      - leg
+        - definition: each of the limbs on which a person or animal walks and stands.
+        - pronunciation: /lɛɡ/
+        - part of speech: noun
+        - examples:
+          - He injured his leg during the game.
+          - She has long legs.
+        - synonyms: limb
+        - antonyms: n/a
+        - related words: knee, foot
+      - foot
+        - definition: the lower extremity of the leg below the ankle, on which a person stands or walks.
+        - pronunciation: /fʊt/
+        - part of speech: noun
+        - examples:
+          - My foot hurts after walking all day.
+          - She wears size seven shoes on her foot.
+        - synonyms: n/a
+        - antonyms: hand
+        - related words: feet (plural), barefoot
+      - hand
+        - definition: the end part of a person's arm beyond the wrist, including the palm, fingers, and thumb.
+        - pronunciation: /hænd/
+        - part of speech: noun
+        - examples:
+          - He writes with his right hand.
+          - She clapped her hands in excitement.
+        - synonyms: n/a
+        - antonyms: foot
+        - related words: finger, handshake
+      - eye
+        - definition: each of a pair of organs in the head through which people see.
+        - pronunciation: /aɪ/
+        - part of speech: noun
+        - examples:
+          - She has blue eyes.
+          - He closed his eyes to sleep.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: eyesight, eyelid
+      - ear
+        - definition: the organ of hearing and balance in humans and other animals.
+        - pronunciation: /ɪr/
+        - part of speech: noun
+        - examples:
+          - She wears earrings on her ears.
+          - He can't hear well in his left ear.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: hearing, earache
+      - nose
+        - definition: the part of the face or head through which a person or animal smells and breathes.
+        - pronunciation: /noʊz/
+        - part of speech: noun
+        - examples:
+          - She has a small nose.
+          - His nose is running because he has a cold.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: nostril, smell
+      - mouth
+        - definition: the opening in the lower part of the human face, surrounded by the lips.
+        - pronunciation: /maʊθ/
+        - part of speech: noun
+        - examples:
+          - He opened his mouth to speak.
+          - Brush your teeth inside your mouth.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: lips, tongue
+      - stomach
+        - definition: the internal organ in which the major part of digestion occurs.
+        - pronunciation: /ˈstʌmək/
+        - part of speech: noun
+        - examples:
+          - My stomach hurts after eating too much.
+          - He has a stomach ache.
+        - synonyms: belly, abdomen
+        - antonyms: back
+        - related words: digestion, stomachache
+      - back
+        - definition: the rear surface of the human body from the shoulders to the hips.
+        - pronunciation: /bæk/
+        - part of speech: noun
+        - examples:
+          - She has a pain in her back.
+          - He carried the backpack on his back.
+        - synonyms: rear
+        - antonyms: front
+        - related words: backbone, backache
+    - Health & Illness Vocabulary
+      - healthy
+        - definition: in good health.
+        - pronunciation: /ˈhɛlθi/
+        - part of speech: adjective
+        - examples:
+          - She eats a healthy diet.
+          - He feels healthy after exercising.
+        - synonyms: fit, well
+        - antonyms: unhealthy, ill
+        - related words: health, healthful
+      - sick
+        - definition: affected by physical or mental illness.
+        - pronunciation: /sɪk/
+        - part of speech: adjective
+        - examples:
+          - He is sick and can't come to work.
+          - She feels sick after eating too much.
+        - synonyms: ill, unwell
+        - antonyms: healthy, well
+        - related words: sickness
+      - illness
+        - definition: a disease or period of sickness affecting the body or mind.
+        - pronunciation: /ˈɪlnəs/
+        - part of speech: noun
+        - examples:
+          - She is recovering from a serious illness.
+          - Illness kept him in bed for a week.
+        - synonyms: sickness, disease
+        - antonyms: health, wellness
+        - related words: ill, sick
+      - medicine
+        - definition: a substance used for treating illness.
+        - pronunciation: /ˈmɛdəsən/
+        - part of speech: noun
+        - examples:
+          - He took some medicine for his headache.
+          - The doctor prescribed medicine.
+        - synonyms: medication, drug
+        - antonyms: poison
+        - related words: medical, medicinal
+      - pain
+        - definition: physical suffering or discomfort caused by illness or injury.
+        - pronunciation: /peɪn/
+        - part of speech: noun
+        - examples:
+          - She feels pain in her back.
+          - The medicine helped reduce the pain.
+        - synonyms: ache, discomfort
+        - antonyms: comfort, relief
+        - related words: painful, painless
+      - fever
+        - definition: an abnormally high body temperature.
+        - pronunciation: /ˈfiːvər/
+        - part of speech: noun
+        - examples:
+          - He has a high fever.
+          - The fever broke after two days.
+        - synonyms: temperature
+        - antonyms: n/a
+        - related words: feverish
+      - cough
+        - definition: to expel air from the lungs with a sudden sharp sound.
+        - pronunciation: /kɔːf/
+        - part of speech: verb, noun
+        - examples:
+          - She has a bad cough.
+          - He coughed all night.
+        - synonyms: hack
+        - antonyms: n/a
+        - related words: coughing
+      - cold
+        - definition: a common viral infection causing nasal congestion and sneezing.
+        - pronunciation: /koʊld/
+        - part of speech: noun
+        - examples:
+          - He caught a cold.
+          - She is staying home because of a cold.
+        - synonyms: n/a
+        - antonyms: flu
+        - related words: coldness
+      - headache
+        - definition: a continuous pain in the head.
+        - pronunciation: /ˈhɛdeɪk/
+        - part of speech: noun
+        - examples:
+          - She took medicine for her headache.
+          - Stress can cause headaches.
+        - synonyms: migraine
+        - antonyms: n/a
+        - related words: head
+      - sore throat
+        - definition: pain or irritation in the throat.
+        - pronunciation: /sɔːr θroʊt/
+        - part of speech: noun
+        - examples:
+          - He can't speak because he has a sore throat.
+          - Drinking tea helps soothe a sore throat.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: throat, soreness
+      - injury
+        - definition: harm or damage to the body.
+        - pronunciation: /ˈɪndʒəri/
+        - part of speech: noun
+        - examples:
+          - She has an injury to her leg.
+          - The player left the game due to injury.
+        - synonyms: wound, hurt
+        - antonyms: healing
+        - related words: injure, injured
+      - hurt
+        - definition: to cause pain or injury.
+        - pronunciation: /hɜːrt/
+        - part of speech: verb, adjective
+        - examples:
+          - He hurt his knee while playing.
+          - My arm hurts.
+        - synonyms: injure, pain
+        - antonyms: heal, mend
+        - related words: hurting
+      - doctor
+        - definition: a qualified practitioner of medicine.
+        - pronunciation: /ˈdɒktər/
+        - part of speech: noun
+        - examples:
+          - She went to see the doctor.
+          - The doctor gave him medicine.
+        - synonyms: physician
+        - antonyms: patient
+        - related words: doctoral, doctorate
+      - nurse
+        - definition: a person trained to care for the sick.
+        - pronunciation: /nɜːrs/
+        - part of speech: noun
+        - examples:
+          - The nurse took his temperature.
+          - She works as a nurse in the hospital.
+        - synonyms: caregiver
+        - antonyms: n/a
+        - related words: nursing
+      - hospital
+        - definition: an institution providing medical treatment.
+        - pronunciation: /ˈhɒspɪtəl/
+        - part of speech: noun
+        - examples:
+          - He stayed in the hospital overnight.
+          - She works at the city hospital.
+        - synonyms: medical center
+        - antonyms: n/a
+        - related words: hospitality
+    - Exercise & Fitness
+      - exercise
+        - definition: activity requiring physical effort to improve health.
+        - pronunciation: /ˈɛksərsaɪz/
+        - part of speech: noun, verb
+        - examples:
+          - She does exercise every morning.
+          - He exercises at the gym.
+        - synonyms: workout, training
+        - antonyms: rest
+        - related words: exercising, exerciser
+      - run
+        - definition: to move at a speed faster than a walk.
+        - pronunciation: /rʌn/
+        - part of speech: verb
+        - examples:
+          - He runs in the park.
+          - She ran a marathon.
+        - synonyms: jog, sprint
+        - antonyms: walk
+        - related words: runner, running
+      - walk
+        - definition: to move at a regular pace by lifting and setting down each foot.
+        - pronunciation: /wɔːk/
+        - part of speech: verb
+        - examples:
+          - They walk to school together.
+          - She walks her dog every evening.
+        - synonyms: stroll
+        - antonyms: run
+        - related words: walker, walking
+      - swim
+        - definition: to move through water by moving the body.
+        - pronunciation: /swɪm/
+        - part of speech: verb
+        - examples:
+          - She swims in the pool.
+          - He learned to swim when he was young.
+        - synonyms: paddle
+        - antonyms: sink
+        - related words: swimmer, swimming
+      - gym
+        - definition: a place equipped for physical exercise.
+        - pronunciation: /dʒɪm/
+        - part of speech: noun
+        - examples:
+          - He works out at the gym.
+          - The gym has new equipment.
+        - synonyms: fitness center
+        - antonyms: n/a
+        - related words: gymnastics
+      - yoga
+        - definition: a discipline involving breath control and simple meditation.
+        - pronunciation: /ˈjoʊɡə/
+        - part of speech: noun
+        - examples:
+          - She practices yoga for relaxation.
+          - Yoga helps improve flexibility.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: yogi
+      - sport
+        - definition: physical activities involving skill in which an individual or team competes.
+        - pronunciation: /spɔːrt/
+        - part of speech: noun
+        - examples:
+          - Football is his favorite sport.
+          - She plays many sports.
+        - synonyms: game, athletics
+        - antonyms: n/a
+        - related words: sportsman, sporty
+      - dance
+        - definition: to move rhythmically to music.
+        - pronunciation: /dæns/ or /dɑːns/
+        - part of speech: verb, noun
+        - examples:
+          - They dance together at parties.
+          - She enjoys dancing.
+        - synonyms: sway
+        - antonyms: n/a
+        - related words: dancer, dancing
+      - fit
+        - definition: in good health, especially because of regular physical exercise.
+        - pronunciation: /fɪt/
+        - part of speech: adjective
+        - examples:
+          - He stays fit by running daily.
+          - She is very fit and strong.
+        - synonyms: healthy, in shape
+        - antonyms: unfit, unhealthy
+        - related words: fitness
+      - weight
+        - definition: a body's relative mass.
+        - pronunciation: /weɪt/
+        - part of speech: noun
+        - examples:
+          - He lifts weights at the gym.
+          - She wants to lose weight.
+        - synonyms: heaviness, mass
+        - antonyms: lightness
+        - related words: weigh, weightless
+    - Healthy Habits
+      - sleep
+        - definition: a condition of body and mind in which the nervous system is inactive.
+        - pronunciation: /sliːp/
+        - part of speech: noun, verb
+        - examples:
+          - She gets eight hours of sleep.
+          - He sleeps early every night.
+        - synonyms: rest, slumber
+        - antonyms: wake
+        - related words: sleepy, sleeper
+      - diet
+        - definition: the kinds of food that a person habitually eats.
+        - pronunciation: /ˈdaɪət/
+        - part of speech: noun
+        - examples:
+          - She follows a healthy diet.
+          - His diet includes lots of fruits.
+        - synonyms: nutrition, eating plan
+        - antonyms: n/a
+        - related words: dietary, dieting
+      - eat
+        - definition: to put food into the mouth and chew and swallow it.
+        - pronunciation: /iːt/
+        - part of speech: verb
+        - examples:
+          - She eats breakfast at 7 am.
+          - They are eating dinner now.
+        - synonyms: consume
+        - antonyms: fast
+        - related words: eater, eating
+      - drink
+        - definition: to take a liquid into the mouth and swallow.
+        - pronunciation: /drɪŋk/
+        - part of speech: verb, noun
+        - examples:
+          - He drinks water after exercise.
+          - She had a drink of juice.
+        - synonyms: sip, swallow
+        - antonyms: eat
+        - related words: drinker, drinking
+      - water
+        - definition: a colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain.
+        - pronunciation: /ˈwɔːtər/ or /ˈwɑːtər/
+        - part of speech: noun
+        - examples:
+          - Drinking water is important for health.
+          - She fills her bottle with water.
+        - synonyms: H₂O
+        - antonyms: n/a
+        - related words: watery
+      - fruit
+        - definition: the sweet and fleshy product of a tree or other plant that contains seed.
+        - pronunciation: /fruːt/
+        - part of speech: noun
+        - examples:
+          - She eats fruit every day.
+          - Apples and bananas are fruits.
+        - synonyms: n/a
+        - antonyms: vegetable
+        - related words: fruitful
+      - vegetable
+        - definition: a plant or part of a plant used as food.
+        - pronunciation: /ˈvɛdʒtəbəl/
+        - part of speech: noun
+        - examples:
+          - They grow vegetables in their garden.
+          - Carrots and broccoli are vegetables.
+        - synonyms: greens
+        - antonyms: fruit
+        - related words: vegetarian
+      - rest
+        - definition: to cease work or movement in order to relax.
+        - pronunciation: /rɛst/
+        - part of speech: noun, verb
+        - examples:
+          - He needs to rest after work.
+          - She took a rest under the tree.
+        - synonyms: relax, pause
+        - antonyms: work
+        - related words: restful, restless
+      - relax
+        - definition: to make or become less tense or anxious.
+        - pronunciation: /rɪˈlæks/
+        - part of speech: verb
+        - examples:
+          - She relaxes by reading a book.
+          - He relaxed on the sofa.
+        - synonyms: unwind
+        - antonyms: stress
+        - related words: relaxation
+      - stress
+        - definition: a state of mental or emotional strain resulting from demanding circumstances.
+        - pronunciation: /strɛs/
+        - part of speech: noun
+        - examples:
+          - She feels stress from her job.
+          - Exercise can reduce stress.
+        - synonyms: tension, pressure
+        - antonyms: relaxation
+        - related words: stressful, stressed
+    - Medical Professionals
+      - dentist
+        - definition: a person qualified to treat diseases and conditions of the teeth and gums.
+        - pronunciation: /ˈdɛntɪst/
+        - part of speech: noun
+        - examples:
+          - She goes to the dentist twice a year.
+          - The dentist fixed his tooth.
+        - synonyms: dental surgeon
+        - antonyms: n/a
+        - related words: dentistry, dental
+      - pharmacist
+        - definition: a person who is professionally qualified to prepare and dispense medicinal drugs.
+        - pronunciation: /ˈfɑːrməsɪst/
+        - part of speech: noun
+        - examples:
+          - The pharmacist gave her the medicine.
+          - He asked the pharmacist for advice.
+        - synonyms: chemist
+        - antonyms: n/a
+        - related words: pharmacy
+      - patient
+        - definition: a person receiving medical treatment.
+        - pronunciation: /ˈpeɪʃənt/
+        - part of speech: noun
+        - examples:
+          - The doctor spoke with the patient.
+          - She is a patient at the local clinic.
+        - synonyms: n/a
+        - antonyms: doctor
+        - related words: patience
+    - Medical Facilities
+      - clinic
+        - definition: a place where people receive medical treatment.
+        - pronunciation: /ˈklɪnɪk/
+        - part of speech: noun
+        - examples:
+          - She went to the clinic for a check-up.
+          - The clinic opens at 8 am.
+        - synonyms: medical center
+        - antonyms: n/a
+        - related words: clinical
+      - pharmacy
+        - definition: a store where medicinal drugs are dispensed and sold.
+        - pronunciation: /ˈfɑːrməsi/
+        - part of speech: noun
+        - examples:
+          - He picked up his prescription at the pharmacy.
+          - The pharmacy is next to the hospital.
+        - synonyms: drugstore
+        - antonyms: n/a
+        - related words: pharmacist
+      - emergency
+        - definition: a serious, unexpected, and often dangerous situation requiring immediate action.
+        - pronunciation: /ɪˈmɜːrdʒənsi/
+        - part of speech: noun
+        - examples:
+          - In case of emergency, call 911.
+          - The emergency room was busy.
+        - synonyms: crisis
+        - antonyms: n/a
+        - related words: emerge
+    - Medicines & Treatments
+      - pill
+        - definition: a small round mass of solid medicine to be swallowed.
+        - pronunciation: /pɪl/
+        - part of speech: noun
+        - examples:
+          - She takes a pill for her allergy.
+          - The doctor gave him some pills.
+        - synonyms: tablet, capsule
+        - antonyms: liquid
+        - related words: pillbox
+      - injection
+        - definition: the act of forcing a liquid into the body with a syringe.
+        - pronunciation: /ɪnˈdʒɛkʃən/
+        - part of speech: noun
+        - examples:
+          - He received an injection for pain relief.
+          - The nurse gave her an injection.
+        - synonyms: shot
+        - antonyms: extraction
+        - related words: inject, injector
+      - bandage
+        - definition: a strip of woven material used to bind up a wound.
+        - pronunciation: /ˈbændɪdʒ/
+        - part of speech: noun, verb
+        - examples:
+          - She put a bandage on the cut.
+          - The nurse bandaged his arm.
+        - synonyms: dressing
+        - antonyms: n/a
+        - related words: bandaging
+      - recover
+        - definition: to return to a normal state of health.
+        - pronunciation: /rɪˈkʌvər/
+        - part of speech: verb
+        - examples:
+          - She is recovering from her illness.
+          - He recovered quickly after the operation.
+        - synonyms: heal, mend
+        - antonyms: deteriorate
+        - related words: recovery
+      - heal
+        - definition: to become sound or healthy again.
+        - pronunciation: /hiːl/
+        - part of speech: verb
+        - examples:
+          - The cut will heal in a few days.
+          - Time heals all wounds.
+        - synonyms: mend, recover
+        - antonyms: injure
+        - related words: healer, healing

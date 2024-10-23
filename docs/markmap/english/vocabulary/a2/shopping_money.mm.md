@@ -1,0 +1,528 @@
+---
+markmap:
+  initialExpandLevel: 4
+---
+
+# Vocabulary
+
+- A2
+  - Shopping & Money
+    - Shopping Places
+      - shop
+        - definition: a place where goods are sold to customers.
+        - pronunciation: /ʃɒp/
+        - part of speech: noun
+        - examples:
+          - She went to the shop to buy some bread.
+          - There is a new clothes shop in town.
+        - synonyms: store, boutique
+        - antonyms: n/a
+        - related words: shopping, shopper
+      - market
+        - definition: a place where people buy and sell goods, often in the open air.
+        - pronunciation: /ˈmɑːkɪt/
+        - part of speech: noun
+        - examples:
+          - We buy fresh vegetables at the market.
+          - The market is open every Saturday.
+        - synonyms: bazaar, marketplace
+        - antonyms: n/a
+        - related words: marketing, marketer
+      - supermarket
+        - definition: a large self-service store selling foods and household goods.
+        - pronunciation: /ˈsuːpəmɑːkɪt/
+        - part of speech: noun
+        - examples:
+          - She does her weekly shopping at the supermarket.
+          - The supermarket closes at 10 pm.
+        - synonyms: grocery store
+        - antonyms: n/a
+        - related words: superstore
+      - mall
+        - definition: a large building or series of connected buildings containing different shops.
+        - pronunciation: /mɔːl/
+        - part of speech: noun
+        - examples:
+          - They spent the afternoon at the mall.
+          - The mall has over 100 stores.
+        - synonyms: shopping center
+        - antonyms: n/a
+        - related words: n/a
+      - store
+        - definition: a place where goods are kept for sale.
+        - pronunciation: /stɔːr/
+        - part of speech: noun
+        - examples:
+          - She works at a shoe store.
+          - The store opens at 9 am.
+        - synonyms: shop
+        - antonyms: n/a
+        - related words: storage
+      - cashier
+        - definition: a person handling payments and receipts in a store or bank.
+        - pronunciation: /kæˈʃɪər/
+        - part of speech: noun
+        - examples:
+          - The cashier gave me my change.
+          - She works as a cashier at the supermarket.
+        - synonyms: teller
+        - antonyms: customer
+        - related words: cash, cash register
+    - Shopping Actions
+      - buy
+        - definition: to obtain something by paying money for it.
+        - pronunciation: /baɪ/
+        - part of speech: verb
+        - examples:
+          - I want to buy a new phone.
+          - She bought a gift for her friend.
+        - synonyms: purchase
+        - antonyms: sell
+        - related words: buyer, buying
+      - sell
+        - definition: to give something in exchange for money.
+        - pronunciation: /sɛl/
+        - part of speech: verb
+        - examples:
+          - They sell fresh fruit at the market.
+          - He is selling his car.
+        - synonyms: vend
+        - antonyms: buy
+        - related words: seller, sale
+      - pay
+        - definition: to give money in exchange for goods or services.
+        - pronunciation: /peɪ/
+        - part of speech: verb
+        - examples:
+          - She paid for the meal.
+          - You can pay by cash or card.
+        - synonyms: compensate
+        - antonyms: charge
+        - related words: payment, payable
+      - spend
+        - definition: to use money to pay for goods or services.
+        - pronunciation: /spɛnd/
+        - part of speech: verb
+        - examples:
+          - He spends too much money on clothes.
+          - We spent $100 on groceries.
+        - synonyms: expend
+        - antonyms: save
+        - related words: spending, spender
+      - save
+        - definition: to keep money for future use.
+        - pronunciation: /seɪv/
+        - part of speech: verb
+        - examples:
+          - She is saving money for a new bike.
+          - They saved $50 last month.
+        - synonyms: conserve
+        - antonyms: spend
+        - related words: savings, saver
+      - cost
+        - definition: the amount of money needed to buy something.
+        - pronunciation: /kɒst/
+        - part of speech: noun, verb
+        - examples:
+          - The cost of the ticket is $20.
+          - It costs a lot to travel.
+        - synonyms: price, expense
+        - antonyms: n/a
+        - related words: costly
+    - Payment Methods
+      - cash
+        - definition: money in coins or notes.
+        - pronunciation: /kæʃ/
+        - part of speech: noun
+        - examples:
+          - Do you have any cash?
+          - She paid in cash.
+        - synonyms: currency
+        - antonyms: credit
+        - related words: cashless, cashier
+      - credit card
+        - definition: a card allowing purchases on credit.
+        - pronunciation: /ˈkrɛdɪt kɑːrd/
+        - part of speech: noun
+        - examples:
+          - He paid with his credit card.
+          - Credit cards are accepted here.
+        - synonyms: charge card
+        - antonyms: debit card
+        - related words: credit, creditor
+      - debit card
+        - definition: a card that deducts money directly from a bank account.
+        - pronunciation: /ˈdɛbɪt kɑːrd/
+        - part of speech: noun
+        - examples:
+          - She prefers to use her debit card.
+          - Debit cards are safe to use.
+        - synonyms: bank card
+        - antonyms: credit card
+        - related words: debit, debitor
+      - check
+        - definition: a written order directing a bank to pay money.
+        - pronunciation: /tʃɛk/
+        - part of speech: noun
+        - examples:
+          - He wrote a check for $100.
+          - Checks are not accepted here.
+        - synonyms: cheque (British English)
+        - antonyms: cash
+        - related words: checking account
+      - change
+        - definition: coins as opposed to paper money; money returned when more than due is given.
+        - pronunciation: /tʃeɪndʒ/
+        - part of speech: noun
+        - examples:
+          - Here's your change.
+          - I need some change for the parking meter.
+        - synonyms: coins
+        - antonyms: bills, notes
+        - related words: exchange
+    - Products and Goods
+      - clothes
+        - definition: items worn to cover the body.
+        - pronunciation: /kloʊðz/ or /kloʊz/
+        - part of speech: noun
+        - examples:
+          - She bought new clothes for the trip.
+          - His clothes are in the closet.
+        - synonyms: clothing, garments
+        - antonyms: n/a
+        - related words: cloth, clothing
+      - shoes
+        - definition: coverings for the feet, typically made of leather.
+        - pronunciation: /ʃuːz/
+        - part of speech: noun
+        - examples:
+          - He needs a new pair of shoes.
+          - She likes to wear comfortable shoes.
+        - synonyms: footwear
+        - antonyms: n/a
+        - related words: shoelace, shoemaker
+      - food
+        - definition: any nutritious substance that people eat or drink.
+        - pronunciation: /fuːd/
+        - part of speech: noun
+        - examples:
+          - The supermarket sells a variety of food.
+          - We need to buy food for the party.
+        - synonyms: nourishment, sustenance
+        - antonyms: n/a
+        - related words: foodie, feed
+      - book
+        - definition: a written or printed work consisting of pages glued or sewn together.
+        - pronunciation: /bʊk/
+        - part of speech: noun
+        - examples:
+          - She bought a new book to read.
+          - The bookstore has many books.
+        - synonyms: volume, publication
+        - antonyms: n/a
+        - related words: booklet, booking
+      - toy
+        - definition: an object for a child to play with.
+        - pronunciation: /tɔɪ/
+        - part of speech: noun
+        - examples:
+          - He bought a toy for his son.
+          - The store sells toys and games.
+        - synonyms: plaything
+        - antonyms: n/a
+        - related words: toyshop, toying
+      - electronics
+        - definition: devices such as televisions, radios, and computers.
+        - pronunciation: /ɪˌlɛkˈtrɒnɪks/
+        - part of speech: noun
+        - examples:
+          - The electronics store has good deals.
+          - She bought some new electronics.
+        - synonyms: gadgets
+        - antonyms: n/a
+        - related words: electronic, electron
+    - Prices and Discounts
+      - price
+        - definition: the amount of money expected for something.
+        - pronunciation: /praɪs/
+        - part of speech: noun
+        - examples:
+          - What is the price of this shirt?
+          - The prices are very high here.
+        - synonyms: cost, charge
+        - antonyms: n/a
+        - related words: pricey, priceless
+      - discount
+        - definition: a reduction in the usual price.
+        - pronunciation: /ˈdɪskaʊnt/
+        - part of speech: noun
+        - examples:
+          - They offered a 10% discount.
+          - Students get a discount here.
+        - synonyms: reduction, rebate
+        - antonyms: surcharge, markup
+        - related words: discounted
+      - sale
+        - definition: an event where goods are sold at reduced prices.
+        - pronunciation: /seɪl/
+        - part of speech: noun
+        - examples:
+          - The store is having a big sale.
+          - She bought the dress on sale.
+        - synonyms: clearance
+        - antonyms: purchase
+        - related words: sales, salesperson
+      - cheap
+        - definition: low in price.
+        - pronunciation: /tʃiːp/
+        - part of speech: adjective
+        - examples:
+          - The shoes were cheap but comfortable.
+          - He likes to find cheap deals.
+        - synonyms: inexpensive, low-cost
+        - antonyms: expensive, costly
+        - related words: cheaply, cheapness
+      - expensive
+        - definition: costing a lot of money.
+        - pronunciation: /ɪkˈspɛnsɪv/
+        - part of speech: adjective
+        - examples:
+          - That watch is very expensive.
+          - She can't afford such expensive clothes.
+        - synonyms: costly, pricey
+        - antonyms: cheap, inexpensive
+        - related words: expense, expensively
+      - bargain
+        - definition: something bought or offered at a low price.
+        - pronunciation: /ˈbɑːrɡən/
+        - part of speech: noun
+        - examples:
+          - I found a bargain at the market.
+          - The car was a real bargain.
+        - synonyms: deal, steal
+        - antonyms: rip-off
+        - related words: bargaining
+    - Currency and Money
+      - money
+        - definition: a medium of exchange in the form of coins and banknotes.
+        - pronunciation: /ˈmʌni/
+        - part of speech: noun
+        - examples:
+          - She saved her money to buy a bike.
+          - He lost his money.
+        - synonyms: cash, currency
+        - antonyms: debt
+        - related words: monetary
+      - coin
+        - definition: a flat, typically round piece of metal used as money.
+        - pronunciation: /kɔɪn/
+        - part of speech: noun
+        - examples:
+          - He put a coin into the vending machine.
+          - She collects old coins.
+        - synonyms: piece
+        - antonyms: note (paper money)
+        - related words: coinage
+      - note
+        - definition: a piece of paper money.
+        - pronunciation: /noʊt/
+        - part of speech: noun
+        - examples:
+          - He paid with a $20 note.
+          - She found a note on the ground.
+        - synonyms: bill
+        - antonyms: coin
+        - related words: notebook
+      - dollar
+        - definition: the basic monetary unit of the US, Canada, Australia, and other countries.
+        - pronunciation: /ˈdɒlər/
+        - part of speech: noun
+        - examples:
+          - It costs ten dollars.
+          - She exchanged her euros for dollars.
+        - synonyms: buck
+        - antonyms: n/a
+        - related words: dollar bill
+      - pound
+        - definition: the basic monetary unit of the UK.
+        - pronunciation: /paʊnd/
+        - part of speech: noun
+        - examples:
+          - The book costs five pounds.
+          - He paid in pounds.
+        - synonyms: quid (slang)
+        - antonyms: n/a
+        - related words: pound sterling
+      - euro
+        - definition: the single European currency.
+        - pronunciation: /ˈjʊəroʊ/
+        - part of speech: noun
+        - examples:
+          - They use euros in France.
+          - The price is 20 euros.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: eurozone
+    - Customer Service
+      - customer
+        - definition: a person who buys goods or services.
+        - pronunciation: /ˈkʌstəmər/
+        - part of speech: noun
+        - examples:
+          - The customer is always right.
+          - She is a regular customer.
+        - synonyms: client, shopper
+        - antonyms: seller
+        - related words: custom, customize
+      - service
+        - definition: the action of helping or doing work for someone.
+        - pronunciation: /ˈsɜːrvɪs/
+        - part of speech: noun
+        - examples:
+          - The restaurant has good service.
+          - They offer free delivery service.
+        - synonyms: assistance
+        - antonyms: disservice
+        - related words: serve, servant
+      - help
+        - definition: to make it easier for someone to do something.
+        - pronunciation: /hɛlp/
+        - part of speech: verb, noun
+        - examples:
+          - Can I help you find something?
+          - She asked for help.
+        - synonyms: assist, aid
+        - antonyms: hinder
+        - related words: helpful, helper
+      - return
+        - definition: to give, put, or send something back.
+        - pronunciation: /rɪˈtɜːrn/
+        - part of speech: verb, noun
+        - examples:
+          - She wants to return the dress.
+          - The store has a 30-day return policy.
+        - synonyms: give back
+        - antonyms: keep
+        - related words: returning
+      - exchange
+        - definition: to give something and receive something else.
+        - pronunciation: /ɪksˈtʃeɪndʒ/
+        - part of speech: verb, noun
+        - examples:
+          - He exchanged the shirt for a larger size.
+          - The store allows exchanges within 14 days.
+        - synonyms: swap, trade
+        - antonyms: retain
+        - related words: exchanger
+    - Units and Measurements
+      - kilogram
+        - definition: a unit of mass equal to 1,000 grams.
+        - pronunciation: /ˈkɪləɡræm/
+        - part of speech: noun
+        - examples:
+          - I bought two kilograms of apples.
+          - The bag weighs one kilogram.
+        - synonyms: kilo
+        - antonyms: gram
+        - related words: weight
+      - gram
+        - definition: a metric unit of mass equal to one thousandth of a kilogram.
+        - pronunciation: /ɡræm/
+        - part of speech: noun
+        - examples:
+          - Add 100 grams of sugar.
+          - The letter weighs 50 grams.
+        - synonyms: n/a
+        - antonyms: kilogram
+        - related words: milligram
+      - liter
+        - definition: a metric unit of capacity.
+        - pronunciation: /ˈliːtər/
+        - part of speech: noun
+        - examples:
+          - She drank one liter of water.
+          - The bottle holds two liters.
+        - synonyms: n/a
+        - antonyms: milliliter
+        - related words: volume
+      - meter
+        - definition: the fundamental unit of length in the metric system.
+        - pronunciation: /ˈmiːtər/
+        - part of speech: noun
+        - examples:
+          - The cloth is three meters long.
+          - He can run 100 meters in 12 seconds.
+        - synonyms: n/a
+        - antonyms: centimeter
+        - related words: measurement
+      - size
+        - definition: the relative extent of something; a measurement.
+        - pronunciation: /saɪz/
+        - part of speech: noun
+        - examples:
+          - What size shoes do you wear?
+          - The shirt comes in all sizes.
+        - synonyms: dimensions
+        - antonyms: n/a
+        - related words: sizable
+    - Verbs Related to Shopping
+      - choose
+        - definition: to pick out or select.
+        - pronunciation: /tʃuːz/
+        - part of speech: verb
+        - examples:
+          - She chose a red dress.
+          - You can choose any item you like.
+        - synonyms: select, pick
+        - antonyms: reject
+        - related words: choice, chooser
+      - select
+        - definition: to carefully choose as being the best or most suitable.
+        - pronunciation: /sɪˈlɛkt/
+        - part of speech: verb
+        - examples:
+          - Please select your payment method.
+          - He was selected for the job.
+        - synonyms: choose, pick
+        - antonyms: deselect
+        - related words: selection, selective
+      - try on
+        - definition: to put on a garment to see if it fits.
+        - pronunciation: /traɪ ɒn/
+        - part of speech: phrasal verb
+        - examples:
+          - She tried on the shoes before buying them.
+          - You should try it on to see if it fits.
+        - synonyms: fit
+        - antonyms: take off
+        - related words: fitting room
+      - look for
+        - definition: to search for something.
+        - pronunciation: /lʊk fɔːr/
+        - part of speech: phrasal verb
+        - examples:
+          - He is looking for a new laptop.
+          - She looked for her size on the rack.
+        - synonyms: search
+        - antonyms: find
+        - related words: lookup
+      - want
+        - definition: to have a desire to possess or do something.
+        - pronunciation: /wɒnt/
+        - part of speech: verb
+        - examples:
+          - I want to buy that jacket.
+          - She wants a new phone.
+        - synonyms: desire
+        - antonyms: dislike
+        - related words: wanted, wanting
+      - need
+        - definition: to require something because it is essential.
+        - pronunciation: /niːd/
+        - part of speech: verb, noun
+        - examples:
+          - We need milk and bread.
+          - He needs a new wallet.
+        - synonyms: require
+        - antonyms: have
+        - related words: needy, needless

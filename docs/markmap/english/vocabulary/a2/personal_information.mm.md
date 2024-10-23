@@ -1,0 +1,657 @@
+---
+markmap:
+  initialExpandLevel: 4
+---
+
+# Vocabulary
+
+- A2
+  - Personal Information & Biographies
+    - Family
+      - mother
+        - definition: a female parent.
+        - pronunciation: /ˈmʌðər/
+        - part of speech: noun
+        - examples:
+          - My mother is a nurse.
+          - She loves spending time with her mother.
+        - synonyms: mom, mum
+        - antonyms: father
+        - related words: maternal, motherhood
+      - father
+        - definition: a male parent.
+        - pronunciation: /ˈfɑːðər/
+        - part of speech: noun
+        - examples:
+          - His father works in a bank.
+          - She gave a gift to her father.
+        - synonyms: dad, papa
+        - antonyms: mother
+        - related words: paternal, fatherhood
+      - brother
+        - definition: a male sibling.
+        - pronunciation: /ˈbrʌðər/
+        - part of speech: noun
+        - examples:
+          - I have one brother and two sisters.
+          - His brother is younger than him.
+        - synonyms: sibling
+        - antonyms: sister
+        - related words: brotherly
+      - sister
+        - definition: a female sibling.
+        - pronunciation: /ˈsɪstər/
+        - part of speech: noun
+        - examples:
+          - My sister is studying abroad.
+          - She and her sister look alike.
+        - synonyms: sibling
+        - antonyms: brother
+        - related words: sisterly
+      - grandparents
+        - definition: the parents of one's parents.
+        - pronunciation: /ˈɡrænˌpɛrənts/
+        - part of speech: noun
+        - examples:
+          - I visit my grandparents every summer.
+          - Her grandparents live in the countryside.
+        - synonyms: granddad, grandma
+        - antonyms: grandchildren
+        - related words: grandfather, grandmother
+      - uncle
+        - definition: the brother of one's parent.
+        - pronunciation: /ˈʌŋkəl/
+        - part of speech: noun
+        - examples:
+          - My uncle is coming to visit.
+          - She went fishing with her uncle.
+        - synonyms: n/a
+        - antonyms: aunt
+        - related words: nephew, niece
+      - aunt
+        - definition: the sister of one's parent.
+        - pronunciation: /ænt/ or /ɑːnt/
+        - part of speech: noun
+        - examples:
+          - Her aunt gave her a present.
+          - I have an aunt who lives in Spain.
+        - synonyms: n/a
+        - antonyms: uncle
+        - related words: nephew, niece
+      - cousin
+        - definition: the child of one's uncle or aunt.
+        - pronunciation: /ˈkʌzən/
+        - part of speech: noun
+        - examples:
+          - My cousin and I are the same age.
+          - She has many cousins in Canada.
+        - synonyms: relative
+        - antonyms: n/a
+        - related words: family, kin
+      - nephew
+        - definition: a son of one's brother or sister.
+        - pronunciation: /ˈnɛfjuː/
+        - part of speech: noun
+        - examples:
+          - His nephew is learning to walk.
+          - She bought a toy for her nephew.
+        - synonyms: n/a
+        - antonyms: niece
+        - related words: uncle, aunt
+      - niece
+        - definition: a daughter of one's brother or sister.
+        - pronunciation: /niːs/
+        - part of speech: noun
+        - examples:
+          - My niece is starting school this year.
+          - She loves her niece very much.
+        - synonyms: n/a
+        - antonyms: nephew
+        - related words: uncle, aunt
+    - Physical Appearance
+      - tall
+        - definition: of great or more than average height.
+        - pronunciation: /tɔːl/
+        - part of speech: adjective
+        - examples:
+          - He is tall and athletic.
+          - The building is very tall.
+        - synonyms: high
+        - antonyms: short
+        - related words: height
+      - short
+        - definition: of little height; not tall.
+        - pronunciation: /ʃɔːrt/
+        - part of speech: adjective
+        - examples:
+          - She is short but strong.
+          - The meeting was short.
+        - synonyms: small
+        - antonyms: tall
+        - related words: length
+      - thin
+        - definition: having little, or too little, flesh or fat on the body.
+        - pronunciation: /θɪn/
+        - part of speech: adjective
+        - examples:
+          - The thin man walked quickly.
+          - She sliced a thin piece of bread.
+        - synonyms: slim, slender
+        - antonyms: fat, thick
+        - related words: thinness
+      - fat
+        - definition: having a large amount of excess flesh.
+        - pronunciation: /fæt/
+        - part of speech: adjective
+        - examples:
+          - The cat is getting fat.
+          - He wants to lose fat before summer.
+        - synonyms: overweight, heavy
+        - antonyms: thin, slim
+        - related words: fatty
+      - young
+        - definition: having lived or existed for only a short time.
+        - pronunciation: /jʌŋ/
+        - part of speech: adjective
+        - examples:
+          - She is too young to drive.
+          - The young trees need water.
+        - synonyms: youthful
+        - antonyms: old
+        - related words: youth
+      - old
+        - definition: having lived for a long time; no longer young.
+        - pronunciation: /oʊld/
+        - part of speech: adjective
+        - examples:
+          - My grandfather is very old.
+          - That is an old book.
+        - synonyms: aged
+        - antonyms: young
+        - related words: age
+      - beautiful
+        - definition: pleasing the senses or mind aesthetically.
+        - pronunciation: /ˈbjuːtɪfəl/
+        - part of speech: adjective
+        - examples:
+          - She is a beautiful dancer.
+          - The sunset was beautiful.
+        - synonyms: pretty, lovely
+        - antonyms: ugly
+        - related words: beauty
+      - handsome
+        - definition: (typically of a man) good-looking.
+        - pronunciation: /ˈhænsəm/
+        - part of speech: adjective
+        - examples:
+          - He is a handsome actor.
+          - She has a handsome salary.
+        - synonyms: attractive
+        - antonyms: unattractive
+        - related words: handsomeness
+      - hair
+        - definition: strands growing from the skin, especially on the head.
+        - pronunciation: /hɛər/
+        - part of speech: noun
+        - examples:
+          - She has long brown hair.
+          - He combed his hair.
+        - synonyms: locks
+        - antonyms: baldness
+        - related words: hairy
+      - eyes
+        - definition: the organs of sight.
+        - pronunciation: /aɪz/
+        - part of speech: noun
+        - examples:
+          - His eyes are blue.
+          - She closed her eyes.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: eyesight, eyeglasses
+    - Personality Traits
+      - friendly
+        - definition: kind and pleasant.
+        - pronunciation: /ˈfrɛndli/
+        - part of speech: adjective
+        - examples:
+          - She is a friendly person.
+          - The dog is very friendly.
+        - synonyms: kind, amiable
+        - antonyms: unfriendly, hostile
+        - related words: friend, friendliness
+      - shy
+        - definition: nervous or timid in the company of others.
+        - pronunciation: /ʃaɪ/
+        - part of speech: adjective
+        - examples:
+          - He is too shy to speak up.
+          - The shy child hid behind her mother.
+        - synonyms: timid, bashful
+        - antonyms: confident, outgoing
+        - related words: shyness
+      - kind
+        - definition: having a friendly, generous, and considerate nature.
+        - pronunciation: /kaɪnd/
+        - part of speech: adjective
+        - examples:
+          - She is always kind to everyone.
+          - It's kind of you to help.
+        - synonyms: compassionate, caring
+        - antonyms: cruel, unkind
+        - related words: kindness
+      - helpful
+        - definition: giving or ready to give help.
+        - pronunciation: /ˈhɛlpfəl/
+        - part of speech: adjective
+        - examples:
+          - The staff were very helpful.
+          - Thank you for being so helpful.
+        - synonyms: supportive, cooperative
+        - antonyms: unhelpful
+        - related words: help, helper
+      - lazy
+        - definition: unwilling to work or use energy.
+        - pronunciation: /ˈleɪzi/
+        - part of speech: adjective
+        - examples:
+          - He is too lazy to clean his room.
+          - Don't be lazy, finish your work.
+        - synonyms: idle, sluggish
+        - antonyms: hardworking, active
+        - related words: laziness
+      - active
+        - definition: engaging or ready to engage in physically energetic pursuits.
+        - pronunciation: /ˈæktɪv/
+        - part of speech: adjective
+        - examples:
+          - She leads an active lifestyle.
+          - The children are very active.
+        - synonyms: energetic, lively
+        - antonyms: inactive, lazy
+        - related words: activity, action
+      - intelligent
+        - definition: having or showing intelligence, especially of a high level.
+        - pronunciation: /ɪnˈtɛlɪdʒənt/
+        - part of speech: adjective
+        - examples:
+          - He is an intelligent student.
+          - Dolphins are intelligent animals.
+        - synonyms: smart, clever
+        - antonyms: unintelligent, stupid
+        - related words: intelligence
+      - funny
+        - definition: causing laughter or amusement; humorous.
+        - pronunciation: /ˈfʌni/
+        - part of speech: adjective
+        - examples:
+          - The movie was very funny.
+          - She told a funny joke.
+        - synonyms: amusing, humorous
+        - antonyms: serious, boring
+        - related words: fun, funniness
+    - Occupations
+      - teacher
+        - definition: a person who teaches, especially in a school.
+        - pronunciation: /ˈtiːtʃər/
+        - part of speech: noun
+        - examples:
+          - My mother is a teacher.
+          - The teacher gave us homework.
+        - synonyms: educator, instructor
+        - antonyms: student
+        - related words: teach, teaching
+      - doctor
+        - definition: a person licensed to practice medicine.
+        - pronunciation: /ˈdɒktər/
+        - part of speech: noun
+        - examples:
+          - She wants to be a doctor.
+          - The doctor examined the patient.
+        - synonyms: physician, medic
+        - antonyms: patient
+        - related words: medical, medicine
+      - nurse
+        - definition: a person trained to care for the sick or infirm.
+        - pronunciation: /nɜːrs/
+        - part of speech: noun
+        - examples:
+          - The nurse gave me an injection.
+          - Nurses work in hospitals.
+        - synonyms: caregiver
+        - antonyms: n/a
+        - related words: nursing
+      - student
+        - definition: a person who is studying at a school or college.
+        - pronunciation: /ˈstuːdənt/
+        - part of speech: noun
+        - examples:
+          - She is a student at the university.
+          - The students are in the classroom.
+        - synonyms: pupil, learner
+        - antonyms: teacher
+        - related words: study, studying
+      - engineer
+        - definition: a person who designs, builds, or maintains engines, machines, or structures.
+        - pronunciation: /ˌɛndʒɪˈnɪər/
+        - part of speech: noun
+        - examples:
+          - He works as an engineer.
+          - The engineer fixed the problem.
+        - synonyms: technician
+        - antonyms: n/a
+        - related words: engineering
+      - farmer
+        - definition: a person who owns or manages a farm.
+        - pronunciation: /ˈfɑːrmər/
+        - part of speech: noun
+        - examples:
+          - The farmer grows vegetables.
+          - She lives on a farm with her father.
+        - synonyms: agriculturist
+        - antonyms: n/a
+        - related words: farm, farming
+      - artist
+        - definition: a person who creates paintings or drawings.
+        - pronunciation: /ˈɑːrtɪst/
+        - part of speech: noun
+        - examples:
+          - She is a talented artist.
+          - The artist is painting a portrait.
+        - synonyms: painter, creator
+        - antonyms: n/a
+        - related words: art, artistic
+      - writer
+        - definition: a person who writes books, stories, or articles.
+        - pronunciation: /ˈraɪtər/
+        - part of speech: noun
+        - examples:
+          - He is a famous writer.
+          - She wants to become a writer.
+        - synonyms: author
+        - antonyms: reader
+        - related words: write, writing
+    - Life Events
+      - born
+        - definition: to come into existence by birth.
+        - pronunciation: /bɔːrn/
+        - part of speech: verb (past participle)
+        - examples:
+          - She was born in 1990.
+          - They were born in the same city.
+        - synonyms: n/a
+        - antonyms: die
+        - related words: birth
+      - grow up
+        - definition: to develop from a child into an adult.
+        - pronunciation: /ɡroʊ ʌp/
+        - part of speech: phrasal verb
+        - examples:
+          - I grew up in a small town.
+          - She wants to be a doctor when she grows up.
+        - synonyms: mature
+        - antonyms: n/a
+        - related words: upbringing
+      - marry
+        - definition: to join in marriage.
+        - pronunciation: /ˈmæri/
+        - part of speech: verb
+        - examples:
+          - They plan to marry next year.
+          - She married her college sweetheart.
+        - synonyms: wed
+        - antonyms: divorce
+        - related words: marriage
+      - die
+        - definition: to stop living.
+        - pronunciation: /daɪ/
+        - part of speech: verb
+        - examples:
+          - The plant will die without water.
+          - He died at the age of 80.
+        - synonyms: pass away
+        - antonyms: live
+        - related words: death
+      - study
+        - definition: to learn about a subject.
+        - pronunciation: /ˈstʌdi/
+        - part of speech: verb
+        - examples:
+          - She studies English every day.
+          - They are studying for the exam.
+        - synonyms: learn
+        - antonyms: n/a
+        - related words: student, studies
+      - work
+        - definition: to do a job, especially to earn money.
+        - pronunciation: /wɜːrk/
+        - part of speech: verb
+        - examples:
+          - He works at a bank.
+          - She is working hard.
+        - synonyms: labor, toil
+        - antonyms: rest, relax
+        - related words: worker, workplace
+      - travel
+        - definition: to make a journey, typically of some length.
+        - pronunciation: /ˈtrævəl/
+        - part of speech: verb
+        - examples:
+          - They love to travel abroad.
+          - She is traveling to Japan.
+        - synonyms: journey
+        - antonyms: stay
+        - related words: traveler, trip
+    - Hobbies and Interests
+      - read
+        - definition: to look at and comprehend the meaning of written or printed matter.
+        - pronunciation: /riːd/
+        - part of speech: verb
+        - examples:
+          - She likes to read books.
+          - He is reading the newspaper.
+        - synonyms: peruse
+        - antonyms: write
+        - related words: reader, reading
+      - write
+        - definition: to mark letters or words on a surface.
+        - pronunciation: /raɪt/
+        - part of speech: verb
+        - examples:
+          - He writes in his journal every day.
+          - She is writing a letter.
+        - synonyms: compose, scribble
+        - antonyms: read
+        - related words: writer, writing
+      - play
+        - definition: engage in activity for enjoyment.
+        - pronunciation: /pleɪ/
+        - part of speech: verb
+        - examples:
+          - The children are playing outside.
+          - She plays the piano.
+        - synonyms: frolic
+        - antonyms: work
+        - related words: player, playful
+      - music
+        - definition: vocal or instrumental sounds combined to produce harmony.
+        - pronunciation: /ˈmjuːzɪk/
+        - part of speech: noun
+        - examples:
+          - She enjoys listening to music.
+          - They make music together.
+        - synonyms: melody, song
+        - antonyms: noise
+        - related words: musical
+      - sport
+        - definition: an activity involving physical exertion and skill.
+        - pronunciation: /spɔːrt/
+        - part of speech: noun
+        - examples:
+          - Football is a popular sport.
+          - He plays several sports.
+        - synonyms: game, athletics
+        - antonyms: n/a
+        - related words: sporty
+      - game
+        - definition: a form of play or sport.
+        - pronunciation: /ɡeɪm/
+        - part of speech: noun
+        - examples:
+          - They are playing a game of chess.
+          - She likes computer games.
+        - synonyms: match
+        - antonyms: n/a
+        - related words: gameplay
+      - cook
+        - definition: to prepare food by heating it.
+        - pronunciation: /kʊk/
+        - part of speech: verb
+        - examples:
+          - He likes to cook Italian food.
+          - She is cooking dinner.
+        - synonyms: bake, prepare
+        - antonyms: eat
+        - related words: cooker, cooking
+    - Nationalities and Countries
+      - American
+        - definition: relating to the United States or its inhabitants.
+        - pronunciation: /əˈmɛrɪkən/
+        - part of speech: adjective, noun
+        - examples:
+          - She is an American citizen.
+          - American food is popular.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: America
+      - British
+        - definition: relating to Great Britain or the United Kingdom.
+        - pronunciation: /ˈbrɪtɪʃ/
+        - part of speech: adjective, noun
+        - examples:
+          - He is British.
+          - British culture is rich.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: Britain
+      - Chinese
+        - definition: relating to China or its language, culture, or people.
+        - pronunciation: /tʃaɪˈniːz/
+        - part of speech: adjective, noun
+        - examples:
+          - She is learning Chinese.
+          - Chinese food is delicious.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: China
+      - French
+        - definition: relating to France or its people or language.
+        - pronunciation: /frɛntʃ/
+        - part of speech: adjective, noun
+        - examples:
+          - He speaks French.
+          - French cuisine is famous.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: France
+      - Spanish
+        - definition: relating to Spain, its people, or its language.
+        - pronunciation: /ˈspænɪʃ/
+        - part of speech: adjective, noun
+        - examples:
+          - They are Spanish tourists.
+          - Spanish is a popular language.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: Spain
+      - country
+        - definition: a nation with its own government, occupying a particular territory.
+        - pronunciation: /ˈkʌntri/
+        - part of speech: noun
+        - examples:
+          - France is a beautiful country.
+          - She wants to travel to every country.
+        - synonyms: nation, state
+        - antonyms: city
+        - related words: countryside
+      - city
+        - definition: a large town.
+        - pronunciation: /ˈsɪti/
+        - part of speech: noun
+        - examples:
+          - New York is a big city.
+          - He lives in the city center.
+        - synonyms: metropolis
+        - antonyms: village, countryside
+        - related words: citizen
+      - hometown
+        - definition: the town where one was born or grew up.
+        - pronunciation: /ˈhoʊmˌtaʊn/
+        - part of speech: noun
+        - examples:
+          - She returned to her hometown.
+          - My hometown is small but beautiful.
+        - synonyms: birthplace
+        - antonyms: n/a
+        - related words: home, town
+    - Personal Details
+      - name
+        - definition: a word or set of words by which a person or thing is known.
+        - pronunciation: /neɪm/
+        - part of speech: noun
+        - examples:
+          - What is your name?
+          - She wrote her name on the paper.
+        - synonyms: designation
+        - antonyms: n/a
+        - related words: nameless
+      - age
+        - definition: the length of time that a person has lived.
+        - pronunciation: /eɪdʒ/
+        - part of speech: noun
+        - examples:
+          - He is 25 years of age.
+          - What's the age of this building?
+        - synonyms: years
+        - antonyms: n/a
+        - related words: aged, aging
+      - address
+        - definition: the particulars of the place where someone lives.
+        - pronunciation: /əˈdrɛs/ or /ˈædrɛs/
+        - part of speech: noun
+        - examples:
+          - Please write your address here.
+          - They moved to a new address.
+        - synonyms: location
+        - antonyms: n/a
+        - related words: addressee
+      - phone number
+        - definition: a sequence of digits assigned to a telephone.
+        - pronunciation: /foʊn ˈnʌmbər/
+        - part of speech: noun
+        - examples:
+          - Can I have your phone number?
+          - She changed her phone number.
+        - synonyms: telephone number
+        - antonyms: n/a
+        - related words: call, dial
+      - email
+        - definition: messages distributed by electronic means.
+        - pronunciation: /ˈiːmeɪl/
+        - part of speech: noun
+        - examples:
+          - Send me an email.
+          - She checks her email every day.
+        - synonyms: electronic mail
+        - antonyms: snail mail
+        - related words: mailbox
+      - date of birth
+        - definition: the date on which a person was born.
+        - pronunciation: /deɪt əv bɜːrθ/
+        - part of speech: noun
+        - examples:
+          - Please enter your date of birth.
+          - His date of birth is May 5th.
+        - synonyms: birthday
+        - antonyms: n/a
+        - related words: born
