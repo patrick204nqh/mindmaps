@@ -5,6 +5,7 @@ mkdocs-include-markdown-plugin[cache]
 mkdocs-git-revision-date-localized-plugin
 mkdocs-git-authors-plugin
 mkdocs-abs-rel-plugin
+mkdocs-macros-plugin
 mkdocs-markmap
 mistune
 mdx_truly_sane_lists

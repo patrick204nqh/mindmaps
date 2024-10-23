@@ -22,16 +22,15 @@ theme:
         name: Switch to light mode
       primary: custom
       accent: custom
-
   font:
     text: Roboto
     code: Roboto Mono
-
   logo: assets/img/logo.svg
   favicon: assets/img/favicon.ico
   icon:
     logo: material/cloudsync
     repo: fontawesome/brands/github-alt
+  custom_dir: overrides
 
   features:
     - search.suggest
@@ -54,6 +53,7 @@ theme:
 
 plugins:
   - search
+  - macros
   - tags
   # - info
   # - typeset
@@ -156,9 +156,9 @@ extra_css:
   - assets/css/extra.css
 
 extra_javascript:
-  - assets/js/markmap-d3.js
-  - assets/js/markmap-lib.js
-  - assets/js/markmap-view.js
+  - assets/js/mkdocs-markmap/markmap-d3.js
+  - assets/js/mkdocs-markmap/markmap-lib.js
+  - assets/js/mkdocs-markmap/markmap-view.js
 
 exclude_docs: |
   mkdocs.yml
