@@ -1,86 +1,23 @@
 # B1 Grammar Overview
 
-At the **B1 level**, you will dive deeper into grammar by learning to use more complex tenses to talk about **past experiences**, **future plans**, and **conditional situations**. You will also explore how to give advice using **modal verbs** and understand how to report what someone has said. Mastering these grammar points will help you **communicate more effectively** and handle more detailed conversations.
+This section provides essential **B1-level grammar** for intermediate learners to master more complex English structures. Each topic focuses on key grammar rules and concepts necessary for forming nuanced sentences and expressing a wider range of ideas.
 
-## Topics Covered:
+## Topics
 
----
+- [present perfect](present_perfect.md): Learn how to use the present perfect tense to describe actions that have relevance to the present.
+- [past continuous](past_continuous.md): Understand the past continuous tense for describing actions that were in progress at a specific time in the past.
+- [future forms (will, going to, present continuous)](future_forms.md): Explore different ways to express future intentions, plans, and predictions.
+- [first conditional](first_conditional.md): Master the first conditional for real and possible situations in the future.
+- [second conditional](second_conditional.md): Learn the second conditional to discuss hypothetical or unlikely situations.
+- [modal verbs (must, have to, might, may)](modal_verbs.md): Discover how to use modal verbs to express necessity, possibility, and permission.
+- [relative clauses](relative_clauses.md): Understand how to use relative clauses to add extra information to sentences.
+- [reported speech (statements and questions)](reported_speech.md): Learn how to report what someone else has said, both statements and questions.
+- [gerunds and infinitives](gerunds_infinitives.md): Explore the use of gerunds and infinitives after certain verbs and expressions.
+- [quantifiers (some, any, much, many)](quantifiers.md): Learn how to use quantifiers to talk about amounts and quantities.
+- [phrasal verbs (basic)](phrasal_verbs.md): Discover basic phrasal verbs to enhance your conversational English.
+- [articles (definite and indefinite)](articles.md): Master the use of definite and indefinite articles in various contexts.
+- [used to](used_to.md): Understand how to talk about past habits and states using "used to."
 
-### **1. Verb Tenses**
+## Wrapped Section
 
-Learn how to describe experiences and future events using **perfect tenses** and **future forms**.
-
-- **[Present Perfect](present_perfect.md)**: Understand how to use the **Present Perfect tense** to talk about **past actions with relevance to the present** or actions that **continue into the present**.
-  - Example: _I have lived in London for five years._
-- **[Future Tenses](future_tenses.md)**: Learn how to talk about future plans and predictions using **Future Simple**, **Future Continuous**, and **Future Perfect** tenses.
-  - Example: _I will meet her tomorrow._ (Future Simple)
-  - Example: _By this time next year, I will have finished my degree._ (Future Perfect)
-
----
-
-### **2. Conditionals**
-
-Explore the basics of **conditional sentences** to talk about possible and hypothetical situations.
-
-- **[First Conditional](first_conditional.md)**: Learn how to use the **First Conditional** to talk about **real, possible future events** and their likely outcomes.
-  - Example: _If it rains, we will cancel the picnic._
-
----
-
-### **3. Modals**
-
-Discover how to use **modal verbs** to give advice, express ability, necessity, or possibility.
-
-- **[Modals (can, could, must, should)](modals.md)**: Master the use of **modals** to express different meanings:
-  - _can_: ability (_I can swim._)
-  - _could_: past ability or possibility (_I could help you if you want._)
-  - _must_: necessity (_You must finish your homework._)
-  - _should_: advice (_You should eat more vegetables._)
-
----
-
-### **4. Reported Speech**
-
-Learn how to report what others have said using **Reported Speech**.
-
-- **[Reported Speech](reported_speech.md)**: Understand how to **transform direct speech into reported speech**, making changes to **pronouns**, **tenses**, and **time expressions**.
-  - Direct Speech: _She said, "I am tired."_
-  - Reported Speech: _She said that she was tired._
-
----
-
-### **5. Relative Clauses**
-
-Use **relative clauses** to give more information about a person, place, or thing without starting a new sentence.
-
-- **[Relative Clauses](relative_clauses.md)**: Learn how to use **defining and non-defining relative clauses** to provide additional information, using relative pronouns like _who, which, that_.
-  - Example: _The man who lives next door is a doctor._ (defining)
-  - Example: _My brother, who lives in Spain, is visiting us next week._ (non-defining)
-
----
-
-<!-- ### **Practice & Exercises**
-
-Reinforce your knowledge with exercises that focus on key grammar points:
-
-- **[B1 Present Perfect Practice](present_perfect_quiz.md)**: Practice forming sentences in the **Present Perfect tense** to talk about past experiences.
-- **[First Conditional Exercises](first_conditional_exercise.md)**: Apply your understanding of the **First Conditional** with real-life scenarios.
-- **[Modals Quiz](modals_quiz.md)**: Test your ability to use **modals** to express possibility, ability, advice, and obligation.
-- **[Reported Speech Exercises](reported_speech_exercise.md)**: Practice transforming direct speech into reported speech in various contexts.
-
---- -->
-
-### **What You’ll Achieve:**
-
-By the end of the **B1 Grammar Level**, you will be able to:
-
-- Use the **Present Perfect** to describe past experiences that are relevant to the present.
-- Talk about the future using **Future Simple, Future Continuous**, and **Future Perfect** tenses.
-- Form **First Conditional** sentences to talk about real, possible future outcomes.
-- Use **modal verbs** to give advice, express ability, and make suggestions.
-- Report what others have said using **Reported Speech**.
-- Add extra information to sentences using **relative clauses**.
-
----
-
-Keep practicing these grammar points, and you'll be well on your way to communicating with confidence and fluency at the B1 level!
+For a complete overview of all B1 grammar topics, visit the **[Wrapped](_wrapped.md)** page.
