@@ -12,7 +12,7 @@ from .config import get_markmap_config, get_formatting_settings, get_output_file
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
 
-def merge_child_index(folder_path, subdir_name):
+def merge_child_index(folder_path, subdir_name, seen_headings):
     """
     Merges the content of a child .wrapped.mm.md into the parent .wrapped.mm.md.
     Removes front matter and duplicate headings if present in the child content.
@@ -20,6 +20,7 @@ def merge_child_index(folder_path, subdir_name):
     Args:
         folder_path (str): Path to the parent folder.
         subdir_name (str): Name of the subdirectory.
+        seen_headings (set): A set to track already seen headings.
 
     Returns:
         list: Lines of merged content without duplicate headings and without front matter.
@@ -41,22 +42,19 @@ def merge_child_index(folder_path, subdir_name):
         # Split into lines
         lines = content_without_fm.splitlines()
 
-        # Track duplicate headings
-        seen_headings = set()
-
-        # Remove duplicate headings like '# Vocabulary'
+        # Remove duplicate headings like '# Grammar'
         clean_lines = []
         for line in lines:
             stripped_line = line.strip()
-            if stripped_line.startswith("# ") and stripped_line not in seen_headings:
-                seen_headings.add(stripped_line)
-                clean_lines.append(line)
-            elif stripped_line.startswith("# ") and stripped_line in seen_headings:
-                # Skip duplicate headings
-                print(
-                    f"  Skipping duplicate heading '{stripped_line}' from '{subdir_index_path}'."
-                )
-                continue
+            if stripped_line.startswith("# "):
+                if stripped_line not in seen_headings:
+                    seen_headings.add(stripped_line)
+                    clean_lines.append(line)
+                else:
+                    # Skip duplicate headings
+                    print(
+                        f"  Skipping duplicate heading '{stripped_line}' from '{subdir_index_path}'."
+                    )
             else:
                 clean_lines.append(line)
 
@@ -89,6 +87,9 @@ def process_folder(folder_path, is_root=False, front_matter_path=None):
         ]
     )
 
+    # Initialize a shared set to track seen headings
+    seen_headings = set()
+
     # Step 2: Recursively process each subdirectory first (depth-first)
     for subdir in subdirs:
         process_folder(os.path.join(folder_path, subdir), is_root=False)
@@ -101,7 +102,7 @@ def process_folder(folder_path, is_root=False, front_matter_path=None):
 
         # Step 4: Append content from subdirectories' output files
         for subdir in subdirs:
-            subdir_content = merge_child_index(folder_path, subdir)
+            subdir_content = merge_child_index(folder_path, subdir, seen_headings)
             if subdir_content:
                 markdown_output = (
                     markdown_output.rstrip()
@@ -160,7 +161,7 @@ def process_folder(folder_path, is_root=False, front_matter_path=None):
 
         # Step 3: Append content from subdirectories' output files
         for subdir in subdirs:
-            subdir_content = merge_child_index(folder_path, subdir)
+            subdir_content = merge_child_index(folder_path, subdir, seen_headings)
             if subdir_content:
                 markdown_output = (
                     markdown_output.rstrip()

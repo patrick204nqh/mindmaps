@@ -1,5 +1,3 @@
-# scripts/merge_markmap/settings.yml
-
 markmap:
   colorFreezeLevel: -1
   duration: 500
