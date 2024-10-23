@@ -1,13 +1,8 @@
 ---
 markmap:
-  colorFreezeLevel: -1
-  duration: 500
-  maxWidth: 0
+  maxWidth: 600
   initialExpandLevel: 5
-  extraJs: []
-  extraCss: []
-  zoom: true
-  pan: true
+  spacingVertical: 15
 ---
 
 # Grammar
