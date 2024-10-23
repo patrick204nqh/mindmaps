@@ -1,6 +1,9 @@
 ---
 markmap:
+  maxWidth: 600
   initialExpandLevel: 4
+  spacingHorizontal: 80
+  spacingVertical: 15
 ---
 
 # Vocabulary

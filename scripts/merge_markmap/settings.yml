@@ -1,12 +1,14 @@
 markmap:
   colorFreezeLevel: -1
   duration: 500
-  maxWidth: 0
+  maxWidth: 600
   initialExpandLevel: 3
   extraJs: []
   extraCss: []
   zoom: true
   pan: true
+  spacingHorizontal: 80
+  spacingVertical: 15
 
 formatting:
   indent_size: 2
