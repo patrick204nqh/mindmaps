@@ -1,0 +1,221 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- C2
+  - Advanced Idiomatic Expressions
+    - Legal & Justice
+      - letter of the law
+        - definition: the exact wording or literal interpretation of the law, without considering any intent or broader meaning.
+        - pronunciation: /ˈlɛt.ər əv ðə lɔː/
+        - part of speech: idiom (noun phrase)
+        - examples:
+          - He followed the letter of the law, but not the spirit.
+          - The judge interpreted the case according to the letter of the law.
+        - synonyms: strict interpretation, literal meaning
+        - antonyms: spirit of the law
+        - related words: legality, jurisprudence
+      - throw the book at someone
+        - definition: to punish someone as severely as possible.
+        - pronunciation: /θrəʊ ðə bʊk ət ˈsʌm.wʌn/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - The prosecutor decided to throw the book at him for his crimes.
+          - They will throw the book at anyone caught cheating.
+        - synonyms: punish harshly, penalize severely
+        - antonyms: let off lightly, be lenient
+        - related words: prosecution, sentencing
+    - Financial & Business
+      - crunch the numbers
+        - definition: to perform financial calculations.
+        - pronunciation: /krʌntʃ ðə ˈnʌm.bəz/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - We need to crunch the numbers before making a decision.
+          - She spent all night crunching the numbers for the budget proposal.
+        - synonyms: calculate, compute
+        - antonyms: estimate, guess
+        - related words: analysis, computation
+      - bottom line
+        - definition: the most important aspect; the final result or statement.
+        - pronunciation: /ˈbɒt.əm laɪn/
+        - part of speech: idiom (noun phrase)
+        - examples:
+          - The bottom line is that we need more funding.
+          - Profit is the bottom line for any business.
+        - synonyms: main point, essence
+        - antonyms: details, side issues
+        - related words: net result, outcome
+    - Relationships & Social
+      - bury the hatchet
+        - definition: to make peace; to settle a disagreement.
+        - pronunciation: /ˈbɛr.i ðə ˈhætʃ.ɪt/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - They decided to bury the hatchet and move on.
+          - After years of rivalry, the two teams finally buried the hatchet.
+        - synonyms: reconcile, make up
+        - antonyms: continue hostilities, feud
+        - related words: reconciliation, truce
+      - pull someone's leg
+        - definition: to tease or joke with someone.
+        - pronunciation: /pʊl ˈsʌm.wʌnz lɛɡ/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - Are you pulling my leg or is this for real?
+          - He said he won the lottery, but he was just pulling my leg.
+        - synonyms: tease, fool
+        - antonyms: be serious, be sincere
+        - related words: joke, prank
+    - Emotional States
+      - have a chip on one's shoulder
+        - definition: to be resentful or hold a grudge.
+        - pronunciation: /hæv ə tʃɪp ɒn wʌnz ˈʃəʊl.dər/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - He's got a chip on his shoulder about not going to college.
+          - She seems to have a chip on her shoulder these days.
+        - synonyms: resentful, aggrieved
+        - antonyms: content, satisfied
+        - related words: grudge, resentment
+      - jump on the bandwagon
+        - definition: to support something popular or successful.
+        - pronunciation: /dʒʌmp ɒn ðə ˈbænd.wæɡ.ən/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - Many companies are jumping on the bandwagon of green energy.
+          - He always jumps on the latest fad's bandwagon.
+        - synonyms: follow the trend, join in
+        - antonyms: resist, oppose
+        - related words: conformity, trend
+    - Time & Change
+      - the sands are shifting
+        - definition: circumstances are changing, often unpredictably.
+        - pronunciation: /ðə sændz ɑː ˈʃɪft.ɪŋ/
+        - part of speech: idiom (noun phrase)
+        - examples:
+          - In politics, the sands are always shifting.
+          - The sands are shifting in the industry due to new regulations.
+        - synonyms: changing, evolving
+        - antonyms: stable, constant
+        - related words: transformation, flux
+      - at the eleventh hour
+        - definition: at the last possible moment.
+        - pronunciation: /æt ði ɪˈlɛv.ənθ ˈaʊər/
+        - part of speech: idiom (adverbial phrase)
+        - examples:
+          - They reached an agreement at the eleventh hour.
+          - He submitted his assignment at the eleventh hour.
+        - synonyms: last minute, just in time
+        - antonyms: early, in advance
+        - related words: procrastination, urgency
+    - Health & Wellness
+      - burn the candle at both ends
+        - definition: to exhaust oneself by doing too much, especially both late at night and early in the morning.
+        - pronunciation: /bɜːn ðə ˈkæn.dəl ət bəʊθ ɛndz/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - She's been burning the candle at both ends preparing for exams.
+          - Don't burn the candle at both ends, or you'll get sick.
+        - synonyms: overwork, exhaust oneself
+        - antonyms: rest, take it easy
+        - related words: fatigue, burnout
+      - under the weather
+        - definition: feeling ill or unwell.
+        - pronunciation: /ˈʌn.dər ðə ˈwɛð.ər/
+        - part of speech: idiom (adjective phrase)
+        - examples:
+          - I'm feeling a bit under the weather today.
+          - He was under the weather and missed the meeting.
+        - synonyms: ill, sick
+        - antonyms: healthy, well
+        - related words: ailment, indisposed
+    - Work & Productivity
+      - up to speed
+        - definition: fully informed or up to date.
+        - pronunciation: /ʌp tu spiːd/
+        - part of speech: idiom (adjective phrase)
+        - examples:
+          - She quickly got up to speed with the new project.
+          - Is everyone up to speed on the latest developments?
+        - synonyms: informed, updated
+        - antonyms: uninformed, outdated
+        - related words: knowledgeable, aware
+      - raise the bar
+        - definition: to set higher standards or expectations.
+        - pronunciation: /reɪz ðə bɑː/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - The new product raises the bar for the competition.
+          - We need to raise the bar and strive for excellence.
+        - synonyms: improve standards, elevate expectations
+        - antonyms: lower the standards
+        - related words: benchmark, standard
+    - Communication
+      - read between the lines
+        - definition: to understand the implicit meaning or hidden message.
+        - pronunciation: /riːd bɪˈtwiːn ðə laɪnz/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - If you read between the lines, you can tell he is unhappy.
+          - She didn't say it directly, but I read between the lines.
+        - synonyms: infer, interpret
+        - antonyms: misunderstand, take literally
+        - related words: implication, insinuate
+      - speak volumes
+        - definition: to convey a great deal without using words.
+        - pronunciation: /spiːk ˈvɒl.juːmz/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - His silence spoke volumes about his feelings.
+          - The data speaks volumes about the issue.
+        - synonyms: reveal, indicate
+        - antonyms: conceal, hide
+        - related words: expression, convey
+    - Culture & Society
+      - the tip of the iceberg
+        - definition: a small, noticeable part of a problem, the total size of which is much greater.
+        - pronunciation: /ðə tɪp əv ði ˈaɪs.bɜːɡ/
+        - part of speech: idiom (noun phrase)
+        - examples:
+          - The reported cases are just the tip of the iceberg.
+          - The scandal was the tip of the iceberg for the corporation's issues.
+        - synonyms: small part, surface issue
+        - antonyms: entirety, whole
+        - related words: underlying, hidden
+      - on the same wavelength
+        - definition: sharing similar opinions or feelings.
+        - pronunciation: /ɒn ðə seɪm ˈweɪv.lɛŋθ/
+        - part of speech: idiom (adjective phrase)
+        - examples:
+          - They work well together because they're on the same wavelength.
+          - It's important to be on the same wavelength as your team.
+        - synonyms: in agreement, like-minded
+        - antonyms: disagreeing, at odds
+        - related words: harmony, understanding
+    - Emotions & Reactions
+      - get cold feet
+        - definition: to become nervous or anxious about something planned.
+        - pronunciation: /ɡɛt kəʊld fiːt/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - He got cold feet before the wedding.
+          - She was going to sing but got cold feet at the last minute.
+        - synonyms: become apprehensive, hesitate
+        - antonyms: remain confident, proceed
+        - related words: anxiety, doubt
+      - throw in the towel
+        - definition: to give up; to admit defeat.
+        - pronunciation: /θrəʊ ɪn ðə ˈtaʊəl/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - After years of struggle, he decided to throw in the towel.
+          - Don't throw in the towel; success might be around the corner.
+        - synonyms: surrender, quit
+        - antonyms: persevere, persist
+        - related words: resignation, capitulate

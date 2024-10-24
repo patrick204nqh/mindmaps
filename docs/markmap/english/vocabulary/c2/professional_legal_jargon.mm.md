@@ -1,0 +1,368 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- C2
+  - Professional & Legal Jargon
+    - Legal Terminology
+      - affidavit
+        - definition: a written statement confirmed by oath or affirmation, used as evidence in court.
+        - pronunciation: /ˌæf.ɪˈdeɪ.vɪt/
+        - part of speech: noun
+        - examples:
+          - She submitted an affidavit to support her claim.
+          - The witness's affidavit was crucial to the case.
+        - synonyms: sworn statement, deposition
+        - antonyms: testimony (in person)
+        - related words: deponent, affirmation
+      - jurisprudence
+        - definition: the theory or philosophy of law.
+        - pronunciation: /ˌdʒʊə.rɪsˈpruː.dəns/
+        - part of speech: noun
+        - examples:
+          - He is a professor of jurisprudence at the university.
+          - Jurisprudence explores the ethical aspects of legal systems.
+        - synonyms: legal theory, legal philosophy
+        - antonyms: practice (of law)
+        - related words: jurist, judicial
+      - subpoena
+        - definition: a writ ordering a person to attend a court.
+        - pronunciation: /səˈpiː.nə/
+        - part of speech: noun
+        - examples:
+          - The court issued a subpoena for the witness.
+          - Failure to comply with a subpoena can result in penalties.
+        - synonyms: summons, court order
+        - antonyms: invitation
+        - related words: summon, compel
+      - litigation
+        - definition: the process of taking legal action.
+        - pronunciation: /ˌlɪt.ɪˈɡeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - The company is involved in litigation over patent infringement.
+          - Litigation can be costly and time-consuming.
+        - synonyms: legal action, lawsuit
+        - antonyms: arbitration, settlement
+        - related words: litigate, litigator
+      - tort
+        - definition: a wrongful act leading to civil legal liability.
+        - pronunciation: /tɔːt/
+        - part of speech: noun
+        - examples:
+          - She sued the company for the tort of negligence.
+          - Tort law covers civil wrongs and damages.
+        - synonyms: civil wrong, misconduct
+        - antonyms: lawful act
+        - related words: tortious, tortfeasor
+    - Contract Law
+      - indemnify
+        - definition: to compensate for harm or loss.
+        - pronunciation: /ɪnˈdɛm.nɪ.faɪ/
+        - part of speech: verb
+        - examples:
+          - The insurance policy will indemnify you against theft.
+          - The contract includes a clause to indemnify the buyer.
+        - synonyms: compensate, reimburse
+        - antonyms: deprive
+        - related words: indemnity, indemnification
+      - consideration
+        - definition: something of value exchanged in a contract.
+        - pronunciation: /kənˌsɪd.əˈreɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Consideration is essential for a valid contract.
+          - The seller received payment as consideration for the goods.
+        - synonyms: recompense, payment
+        - antonyms: gratuity
+        - related words: consider, considerate
+      - breach
+        - definition: an act of breaking a law, agreement, or code of conduct.
+        - pronunciation: /briːtʃ/
+        - part of speech: noun
+        - examples:
+          - They sued for breach of contract.
+          - A breach of confidentiality can have legal consequences.
+        - synonyms: violation, infringement
+        - antonyms: compliance, observance
+        - related words: breach (verb), breaching
+      - force majeure
+        - definition: unforeseeable circumstances that prevent someone from fulfilling a contract.
+        - pronunciation: /fɔːs maˈʒɜː/
+        - part of speech: noun
+        - examples:
+          - The contract includes a force majeure clause.
+          - Natural disasters are considered force majeure events.
+        - synonyms: act of God, unavoidable accident
+        - antonyms: predictable event
+        - related words: unforeseen, unavoidable
+      - rescind
+        - definition: to revoke, cancel, or repeal a law, order, or agreement.
+        - pronunciation: /rɪˈsɪnd/
+        - part of speech: verb
+        - examples:
+          - The buyer decided to rescind the contract.
+          - The policy was rescinded due to legal issues.
+        - synonyms: revoke, annul
+        - antonyms: enact, enforce
+        - related words: rescission, rescindable
+    - Corporate Law
+      - fiduciary
+        - definition: involving trust, especially with regard to the relationship between a trustee and a beneficiary.
+        - pronunciation: /fɪˈdjuː.ʃjə.ri/
+        - part of speech: adjective
+        - examples:
+          - Directors have a fiduciary duty to the shareholders.
+          - A fiduciary relationship requires honesty and integrity.
+        - synonyms: trustee, guardian
+        - antonyms: self-serving
+        - related words: fiduciary (noun), fiduciaries
+      - subsidiary
+        - definition: a company controlled by a holding or parent company.
+        - pronunciation: /səbˈsɪd.i.ə.ri/
+        - part of speech: noun
+        - examples:
+          - The corporation owns several subsidiaries worldwide.
+          - The subsidiary operates independently but reports to the parent company.
+        - synonyms: branch, affiliate
+        - antonyms: parent company
+        - related words: subordination, subordinate
+      - merger
+        - definition: a combination of two things, especially companies, into one.
+        - pronunciation: /ˈmɜː.dʒər/
+        - part of speech: noun
+        - examples:
+          - The merger of the two firms created a market leader.
+          - They are negotiating a potential merger.
+        - synonyms: amalgamation, consolidation
+        - antonyms: separation, split
+        - related words: merge, merging
+      - insolvency
+        - definition: the state of being unable to pay debts owed.
+        - pronunciation: /ɪnˈsɒl.vən.si/
+        - part of speech: noun
+        - examples:
+          - The company declared insolvency last year.
+          - Insolvency proceedings have been initiated.
+        - synonyms: bankruptcy, liquidation
+        - antonyms: solvency, profitability
+        - related words: insolvent, insolvencies
+      - proxy
+        - definition: the authority to represent someone else, especially in voting.
+        - pronunciation: /ˈprɒk.si/
+        - part of speech: noun
+        - examples:
+          - She voted by proxy at the shareholder meeting.
+          - He appointed a proxy to act on his behalf.
+        - synonyms: agent, representative
+        - antonyms: principal
+        - related words: proxied, proxies
+    - Intellectual Property
+      - infringement
+        - definition: the action of breaking the terms of a law or agreement.
+        - pronunciation: /ɪnˈfrɪndʒ.mənt/
+        - part of speech: noun
+        - examples:
+          - The company was sued for patent infringement.
+          - Copyright infringement carries legal penalties.
+        - synonyms: violation, breach
+        - antonyms: compliance, observance
+        - related words: infringe, infringing
+      - trademark
+        - definition: a symbol, word, or words legally registered for use by a single company.
+        - pronunciation: /ˈtreɪd.mɑːk/
+        - part of speech: noun
+        - examples:
+          - The logo is a registered trademark.
+          - Unauthorized use of a trademark is illegal.
+        - synonyms: brand, insignia
+        - antonyms: generic
+        - related words: trademarked, trade dress
+      - patent
+        - definition: a government authority or license conferring a right or title for a set period.
+        - pronunciation: /ˈpæt.ənt/
+        - part of speech: noun
+        - examples:
+          - She holds a patent for her invention.
+          - Applying for a patent can protect your intellectual property.
+        - synonyms: copyright, license
+        - antonyms: public domain
+        - related words: patentable, patenting
+      - copyright
+        - definition: the exclusive legal right to reproduce, publish, sell, or distribute the matter and form of something.
+        - pronunciation: /ˈkɒp.i.raɪt/
+        - part of speech: noun
+        - examples:
+          - The author owns the copyright to the book.
+          - Copying material without permission is a copyright violation.
+        - synonyms: intellectual property right
+        - antonyms: public domain
+        - related words: copyrighted, copywriter
+      - trade secret
+        - definition: a secret device or technique used by a company in manufacturing its products.
+        - pronunciation: /treɪd ˈsiː.krət/
+        - part of speech: noun
+        - examples:
+          - The formula is a closely guarded trade secret.
+          - Employees are required to protect trade secrets.
+        - synonyms: confidential information
+        - antonyms: disclosed information
+        - related words: confidentiality, proprietary
+    - Litigation
+      - deposition
+        - definition: the process of giving sworn evidence.
+        - pronunciation: /ˌdɛp.əˈzɪʃ.ən/
+        - part of speech: noun
+        - examples:
+          - Her deposition was recorded for the trial.
+          - The lawyer prepared the witness for the deposition.
+        - synonyms: testimony, affidavit
+        - antonyms: silence
+        - related words: depose, deponent
+      - arbitration
+        - definition: the use of an arbitrator to settle a dispute.
+        - pronunciation: /ˌɑː.bɪˈtreɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - The contract includes an arbitration clause.
+          - They resolved the dispute through arbitration.
+        - synonyms: mediation, adjudication
+        - antonyms: litigation
+        - related words: arbitrate, arbitrator
+      - plaintiff
+        - definition: a person who brings a case against another in a court of law.
+        - pronunciation: /ˈpleɪn.tɪf/
+        - part of speech: noun
+        - examples:
+          - The plaintiff alleges that the defendant breached the contract.
+          - The court ruled in favor of the plaintiff.
+        - synonyms: complainant, accuser
+        - antonyms: defendant
+        - related words: plaint, complaint
+      - injunction
+        - definition: an authoritative warning or order, especially a court order.
+        - pronunciation: /ɪnˈdʒʌŋk.ʃən/
+        - part of speech: noun
+        - examples:
+          - The court issued an injunction to stop the construction.
+          - They sought an injunction against the publication of the book.
+        - synonyms: order, mandate
+        - antonyms: permission
+        - related words: enjoin, injunctive
+      - precedent
+        - definition: a previous case or legal decision that may be or must be followed in subsequent similar cases.
+        - pronunciation: /ˈprɛs.ɪ.dənt/
+        - part of speech: noun
+        - examples:
+          - The ruling sets a legal precedent.
+          - Lawyers cited precedent to support their arguments.
+        - synonyms: example, model
+        - antonyms: novelty
+        - related words: precedential, precede
+    - Criminal Law
+      - culpable
+        - definition: deserving blame.
+        - pronunciation: /ˈkʌl.pə.bəl/
+        - part of speech: adjective
+        - examples:
+          - The jury found him culpable for the crime.
+          - Negligence made the company culpable.
+        - synonyms: guilty, blameworthy
+        - antonyms: innocent, blameless
+        - related words: culpability, culprit
+      - mens rea
+        - definition: the intention or knowledge of wrongdoing that constitutes part of a crime.
+        - pronunciation: /ˌmɛnz ˈriː.ə/
+        - part of speech: noun
+        - examples:
+          - Proving mens rea is essential in criminal cases.
+          - Without mens rea, the act may not be considered a crime.
+        - synonyms: guilty mind, intent
+        - antonyms: innocence
+        - related words: actus reus
+      - habeas corpus
+        - definition: a legal action or writ by means of which detainees can seek relief from unlawful imprisonment.
+        - pronunciation: /ˌheɪ.bi.əs ˈkɔː.pəs/
+        - part of speech: noun
+        - examples:
+          - He filed a habeas corpus petition.
+          - Habeas corpus protects individual freedom.
+        - synonyms: legal remedy
+        - antonyms: arbitrary detention
+        - related words: due process, legal rights
+      - exonerate
+        - definition: to absolve someone from blame for a fault or wrongdoing.
+        - pronunciation: /ɪɡˈzɒn.ə.reɪt/
+        - part of speech: verb
+        - examples:
+          - New evidence may exonerate the defendant.
+          - He was exonerated after the real culprit was found.
+        - synonyms: absolve, clear
+        - antonyms: convict, incriminate
+        - related words: exoneration, exculpate
+      - arraignment
+        - definition: the action of arraigning someone in court.
+        - pronunciation: /əˈreɪn.mənt/
+        - part of speech: noun
+        - examples:
+          - The arraignment is scheduled for next week.
+          - During arraignment, the charges are formally read.
+        - synonyms: indictment, charging
+        - antonyms: acquittal
+        - related words: arraign, arraigned
+    - Professional Terminology
+      - due diligence
+        - definition: reasonable steps taken by a person to avoid committing a tort or offense.
+        - pronunciation: /djuː ˈdɪl.ɪ.dʒəns/
+        - part of speech: noun
+        - examples:
+          - Investors are advised to perform due diligence before investing.
+          - Due diligence revealed significant risks.
+        - synonyms: carefulness, prudence
+        - antonyms: negligence
+        - related words: diligent, diligently
+      - conflict of interest
+        - definition: a situation in which a person is in a position to derive personal benefit from actions or decisions made in their official capacity.
+        - pronunciation: /ˈkɒn.flɪkt əv ˈɪn.trəst/
+        - part of speech: noun
+        - examples:
+          - He recused himself due to a conflict of interest.
+          - The lawyer avoided any conflict of interest in the case.
+        - synonyms: self-dealing, incompatibility
+        - antonyms: impartiality
+        - related words: conflicting, interest
+      - non-disclosure agreement
+        - definition: a legal contract between parties to keep certain information confidential.
+        - pronunciation: /nɒn dɪsˈkləʊ.ʒər əˈɡriː.mənt/
+        - part of speech: noun
+        - examples:
+          - She signed a non-disclosure agreement before starting the project.
+          - The NDA prohibits sharing trade secrets.
+        - synonyms: confidentiality agreement
+        - antonyms: disclosure agreement
+        - related words: disclose, confidentiality
+      - pro bono
+        - definition: denoting work undertaken without charge, especially legal work for a client on low income.
+        - pronunciation: /ˌprəʊ ˈbəʊ.nəʊ/
+        - part of speech: adjective, adverb
+        - examples:
+          - The lawyer offered pro bono services to the charity.
+          - She takes on pro bono cases to give back to the community.
+        - synonyms: free of charge, voluntary
+        - antonyms: for profit
+        - related words: volunteer, philanthropy
+      - letter of intent
+        - definition: a document outlining the understanding between two or more parties before the final agreement.
+        - pronunciation: /ˈlɛt.ər əv ɪnˈtɛnt/
+        - part of speech: noun
+        - examples:
+          - They signed a letter of intent to proceed with the merger.
+          - The letter of intent is not legally binding.
+        - synonyms: memorandum of understanding
+        - antonyms: final contract
+        - related words: intent, intentional

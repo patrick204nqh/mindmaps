@@ -1,0 +1,317 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- C2
+  - Technical & Scientific Vocabulary
+    - Quantum Mechanics
+      - superposition
+        - definition: the principle that a physical system exists partly in all its particular, theoretically possible states simultaneously.
+        - pronunciation: /ˌsuː.pə.pəˈzɪʃ.ən/
+        - part of speech: noun
+        - examples:
+          - In quantum mechanics, particles can exist in a state of superposition.
+          - The concept of superposition challenges classical physics.
+        - synonyms: overlap, combination
+        - antonyms: singularity
+        - related words: quantum state, entanglement
+      - entanglement
+        - definition: a phenomenon where particles become linked and instantaneously affect each other regardless of distance.
+        - pronunciation: /ɪnˈtæŋ.ɡəl.mənt/
+        - part of speech: noun
+        - examples:
+          - Quantum entanglement is essential for quantum computing.
+          - Einstein referred to entanglement as "spooky action at a distance."
+        - synonyms: interconnection, linkage
+        - antonyms: independence
+        - related words: entangle, disentanglement
+      - decoherence
+        - definition: the process by which quantum systems interact with their environments, leading to the loss of coherent properties.
+        - pronunciation: /ˌdiː.kəʊˈhɪə.rəns/
+        - part of speech: noun
+        - examples:
+          - Decoherence explains the transition from quantum to classical behavior.
+          - Minimizing decoherence is a major challenge in quantum computing.
+        - synonyms: disintegration, dephasing
+        - antonyms: coherence
+        - related words: coherent, decohere
+      - eigenvalue
+        - definition: a special set of scalars associated with a linear system of equations.
+        - pronunciation: /ˈaɪ.ɡənˌvæl.juː/
+        - part of speech: noun
+        - examples:
+          - Eigenvalues are critical in solving Schrödinger's equation.
+          - The operator's eigenvalues correspond to measurable quantities.
+        - synonyms: characteristic value
+        - antonyms: -
+        - related words: eigenvector, eigenspace
+      - uncertainty principle
+        - definition: the principle stating that certain pairs of physical properties cannot both be known to arbitrary precision.
+        - pronunciation: /ʌnˈsɜː.tən.ti ˈprɪn.sə.pəl/
+        - part of speech: noun
+        - examples:
+          - The uncertainty principle limits our ability to predict particle behavior.
+          - It asserts that position and momentum cannot both be precisely measured.
+        - synonyms: indeterminacy principle
+        - antonyms: certainty
+        - related words: Heisenberg, quantum indeterminacy
+    - Biotechnology
+      - recombinant DNA
+        - definition: DNA molecules formed by laboratory methods of genetic recombination.
+        - pronunciation: /riːˈkɒm.bɪ.nənt ˌdiː.enˈeɪ/
+        - part of speech: noun
+        - examples:
+          - Recombinant DNA technology has revolutionized medicine.
+          - The production of insulin uses recombinant DNA techniques.
+        - synonyms: genetic recombination
+        - antonyms: native DNA
+        - related words: cloning, genetic engineering
+      - CRISPR
+        - definition: a genome editing tool allowing precise modification of DNA sequences.
+        - pronunciation: /ˈkrɪs.pər/
+        - part of speech: noun
+        - examples:
+          - CRISPR technology holds potential for curing genetic diseases.
+          - Researchers use CRISPR for gene knockout studies.
+        - synonyms: gene editing, genetic scissors
+        - antonyms: traditional breeding
+        - related words: Cas9, genome editing
+      - bioinformatics
+        - definition: the science of collecting and analyzing complex biological data.
+        - pronunciation: /ˌbaɪ.əʊˌɪn.fəˈmæt.ɪks/
+        - part of speech: noun
+        - examples:
+          - Bioinformatics is essential for handling genomic sequences.
+          - She specializes in bioinformatics to study protein interactions.
+        - synonyms: computational biology
+        - antonyms: wet lab research
+        - related words: genomics, proteomics
+      - proteomics
+        - definition: the large-scale study of proteins, their structures, and functions.
+        - pronunciation: /prəʊˈtiː.ə.mɪks/
+        - part of speech: noun
+        - examples:
+          - Advances in proteomics have led to new biomarker discoveries.
+          - Proteomics complements genomic studies in understanding diseases.
+        - synonyms: protein analysis
+        - antonyms: genomics
+        - related words: proteome, proteinomics
+      - bioremediation
+        - definition: the use of microorganisms to remove pollutants from the environment.
+        - pronunciation: /ˌbaɪ.əʊ.rɪˌmiː.diˈeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Bioremediation techniques clean up oil spills efficiently.
+          - The company employs bioremediation for wastewater treatment.
+        - synonyms: biological cleanup
+        - antonyms: chemical remediation
+        - related words: biodegradation, bioaugmentation
+    - Artificial Intelligence
+      - machine learning
+        - definition: a subset of AI that enables systems to learn from data patterns.
+        - pronunciation: /məˈʃiːn ˈlɜː.nɪŋ/
+        - part of speech: noun
+        - examples:
+          - Machine learning algorithms improve predictive accuracy over time.
+          - He develops machine learning models for financial forecasting.
+        - synonyms: automated learning
+        - antonyms: manual programming
+        - related words: supervised learning, unsupervised learning
+      - neural network
+        - definition: computing systems inspired by biological neural networks.
+        - pronunciation: /ˈnjʊə.rəl ˈnɛt.wɜːk/
+        - part of speech: noun
+        - examples:
+          - Neural networks are fundamental to deep learning applications.
+          - The AI uses a neural network to recognize speech patterns.
+        - synonyms: artificial neural network
+        - antonyms: linear classifier
+        - related words: neurons, synaptic weights
+      - algorithm
+        - definition: a process or set of rules to solve problems in a finite number of steps.
+        - pronunciation: /ˈæl.ɡə.rɪ.ðəm/
+        - part of speech: noun
+        - examples:
+          - The encryption algorithm secures online transactions.
+          - Optimizing the algorithm improved system performance.
+        - synonyms: procedure, formula
+        - antonyms: heuristic
+        - related words: computational, algorithmic
+      - natural language processing
+        - definition: a field of AI focused on the interaction between computers and human language.
+        - pronunciation: /ˈnætʃ.ər.əl ˈlæŋ.ɡwɪdʒ ˈprəʊ.sɛs.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - Natural language processing enables chatbots to understand users.
+          - He researches NLP to enhance machine translation accuracy.
+        - synonyms: NLP, computational linguistics
+        - antonyms: computer language processing
+        - related words: sentiment analysis, text mining
+      - reinforcement learning
+        - definition: a type of machine learning where an agent learns by interacting with its environment.
+        - pronunciation: /ˌriː.ɪnˈfɔːs.mənt ˈlɜː.nɪŋ/
+        - part of speech: noun
+        - examples:
+          - Reinforcement learning algorithms have mastered complex games.
+          - The robot uses reinforcement learning to navigate obstacles.
+        - synonyms: trial-and-error learning
+        - antonyms: supervised learning
+        - related words: agent, reward function
+    - Nanotechnology
+      - nanoparticle
+        - definition: a microscopic particle with at least one dimension less than 100 nanometers.
+        - pronunciation: /ˈnæn.əʊˌpɑː.tɪ.kəl/
+        - part of speech: noun
+        - examples:
+          - Nanoparticles are used in targeted drug delivery systems.
+          - The sunscreen contains nanoparticles of zinc oxide.
+        - synonyms: ultrafine particle
+        - antonyms: bulk material
+        - related words: nanomaterial, nanostructure
+      - self-assembly
+        - definition: the process by which molecules adopt a defined arrangement without guidance.
+        - pronunciation: /sɛlf əˈsɛm.bli/
+        - part of speech: noun
+        - examples:
+          - Researchers study self-assembly to create novel nanomaterials.
+          - Self-assembly is fundamental in biological systems.
+        - synonyms: spontaneous organization
+        - antonyms: directed assembly
+        - related words: self-organization, nanofabrication
+      - quantum dot
+        - definition: semiconductor particles that confine electrons in three dimensions.
+        - pronunciation: /ˈkwɒn.təm dɒt/
+        - part of speech: noun
+        - examples:
+          - Quantum dots have unique optical and electronic properties.
+          - The display uses quantum dot technology for better color.
+        - synonyms: semiconductor nanocrystal
+        - antonyms: bulk semiconductor
+        - related words: nanocrystal, photoluminescence
+      - nanotube
+        - definition: cylindrical nanostructures composed of carbon atoms.
+        - pronunciation: /ˈnæn.əʊ.tjuːb/
+        - part of speech: noun
+        - examples:
+          - Carbon nanotubes are incredibly strong and lightweight.
+          - The sensor incorporates nanotubes to detect gases.
+        - synonyms: nanowire
+        - antonyms: macrostructure
+        - related words: graphene, fullerene
+      - molecular nanotechnology
+        - definition: technology that allows the manipulation of individual atoms and molecules.
+        - pronunciation: /məˈlɛk.jʊ.lər ˌnæn.əʊˈtɛk.nə.lə.dʒi/
+        - part of speech: noun
+        - examples:
+          - Molecular nanotechnology aims to build devices at the molecular scale.
+          - The field envisions molecular nanotechnology for precise manufacturing.
+        - synonyms: molecular manufacturing
+        - antonyms: bulk manufacturing
+        - related words: nanorobotics, mechanosynthesis
+    - Cybersecurity
+      - encryption
+        - definition: converting information into code to prevent unauthorized access.
+        - pronunciation: /ɪnˈkrɪp.ʃən/
+        - part of speech: noun
+        - examples:
+          - Encryption is essential for secure online communication.
+          - The data was protected through end-to-end encryption.
+        - synonyms: encoding, ciphering
+        - antonyms: decryption
+        - related words: encrypt, cryptography
+      - firewall
+        - definition: a network security system that monitors and filters incoming and outgoing network traffic.
+        - pronunciation: /ˈfaɪə.wɔːl/
+        - part of speech: noun
+        - examples:
+          - Installing a firewall can prevent cyber attacks.
+          - The firewall detected suspicious activity on the network.
+        - synonyms: security barrier, filter
+        - antonyms: open access
+        - related words: firewalling, intrusion prevention
+      - malware
+        - definition: software intentionally designed to cause damage to a computer.
+        - pronunciation: /ˈmæl.weər/
+        - part of speech: noun
+        - examples:
+          - Malware can steal personal information.
+          - The system was infected with ransomware, a type of malware.
+        - synonyms: malicious software, virus
+        - antonyms: antivirus
+        - related words: spyware, trojan
+      - vulnerability
+        - definition: a flaw or weakness that can be exploited to compromise a system.
+        - pronunciation: /ˌvʌl.nərəˈbɪl.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Regular updates can fix vulnerabilities in software.
+          - Hackers exploited a vulnerability in the application.
+        - synonyms: weakness, susceptibility
+        - antonyms: strength, security
+        - related words: vulnerable, exploit
+      - authentication
+        - definition: verifying the identity of a user or device.
+        - pronunciation: /ɔːˌθɛn.tɪˈkeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Two-factor authentication adds an extra layer of security.
+          - Authentication protocols prevent unauthorized access.
+        - synonyms: verification, validation
+        - antonyms: falsification
+        - related words: authenticate, authorization
+    - Robotics
+      - actuator
+        - definition: a component that moves or controls a mechanism or system.
+        - pronunciation: /ˈæk.tʃuː.eɪ.tər/
+        - part of speech: noun
+        - examples:
+          - The robot's actuator controls its arm movements.
+          - They developed a precise actuator for the robotic hand.
+        - synonyms: mover, driver
+        - antonyms: sensor
+        - related words: actuation, actuate
+      - kinematics
+        - definition: the study of motion without considering its causes.
+        - pronunciation: /ˌkɪn.əˈmæt.ɪks/
+        - part of speech: noun
+        - examples:
+          - Kinematics is crucial for programming robot movement.
+          - The robot's kinematics determine its range of motion.
+        - synonyms: motion study
+        - antonyms: dynamics
+        - related words: kinematic, kinetics
+      - autonomy
+        - definition: the ability of a robot to perform tasks without human intervention.
+        - pronunciation: /ɔːˈtɒn.ə.mi/
+        - part of speech: noun
+        - examples:
+          - Autonomous robots can navigate complex environments.
+          - The drone operates with a high degree of autonomy.
+        - synonyms: independence, self-governance
+        - antonyms: dependence
+        - related words: autonomous, autonomously
+      - haptics
+        - definition: technology that simulates the sense of touch.
+        - pronunciation: /ˈhæp.tɪks/
+        - part of speech: noun
+        - examples:
+          - Haptics enhances user interaction with virtual objects.
+          - The robotic arm uses haptics to handle delicate items.
+        - synonyms: tactile feedback
+        - antonyms: -
+        - related words: haptic, tactile
+      - servomechanism
+        - definition: an automatic device that uses error-sensing feedback to correct performance.
+        - pronunciation: /ˌsɜː.vəʊˈmɛk.ə.nɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - The robot's servomechanism adjusts its position precisely.
+          - Servomechanisms are essential in automation systems.
+        - synonyms: servo, control system
+        - antonyms: open-loop system
+        - related words: servo, servomotor

@@ -1,0 +1,290 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- C2
+  - Academic Research & Analysis
+    - Advanced Research Methodologies
+      - triangulation
+        - definition: the use of multiple methods or data sources in qualitative research to develop a comprehensive understanding of phenomena.
+        - pronunciation: /traɪˌæŋ.ɡjʊˈleɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Triangulation enhances the credibility of research findings.
+          - By employing triangulation, the researcher validated the results.
+        - synonyms: cross-verification, corroboration
+        - antonyms: singular approach
+        - related words: triangulate, triangulated
+      - phenomenology
+        - definition: a qualitative research approach focused on exploring how individuals perceive and experience a phenomenon.
+        - pronunciation: /fɪˌnɒm.ɪˈnɒl.ə.dʒi/
+        - part of speech: noun
+        - examples:
+          - The study employed phenomenology to understand patients' experiences.
+          - Phenomenology emphasizes the subjective interpretation of experiences.
+        - synonyms: experiential study, lived experience analysis
+        - antonyms: positivism
+        - related words: phenomenological, phenomenologist
+      - hermeneutics
+        - definition: the theory and methodology of interpretation, especially of scriptural texts.
+        - pronunciation: /ˌhɜː.məˈnjuː.tɪks/
+        - part of speech: noun
+        - examples:
+          - Hermeneutics is applied in qualitative research to interpret meanings.
+          - He utilized hermeneutics to analyze the textual data.
+        - synonyms: interpretation, exegesis
+        - antonyms: literalism
+        - related words: hermeneutic, hermeneutical
+    - Data Analysis Techniques
+      - multivariate analysis
+        - definition: a set of statistical techniques used for analysis of data that contains more than one variable.
+        - pronunciation: /ˌmʌl.tɪˈveə.ri.ət əˈnæl.ɪ.sɪs/
+        - part of speech: noun
+        - examples:
+          - Multivariate analysis revealed significant patterns in the data.
+          - The research utilized multivariate analysis to assess the variables.
+        - synonyms: multivariable analysis
+        - antonyms: univariate analysis
+        - related words: multivariate, multivariable
+      - meta-analysis
+        - definition: a statistical technique for combining the findings from independent studies.
+        - pronunciation: /ˈmɛt.ə əˈnæl.ɪ.sɪs/
+        - part of speech: noun
+        - examples:
+          - The meta-analysis synthesized results from multiple trials.
+          - Meta-analysis can increase the statistical power of findings.
+        - synonyms: systematic review, quantitative synthesis
+        - antonyms: individual study
+        - related words: meta-analytic, meta-analyze
+      - heteroscedasticity
+        - definition: a situation in which the variance of the errors varies across observations in a regression model.
+        - pronunciation: /ˌhɛt.ər.əʊ.skɪˈdæs.tɪ.sɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Heteroscedasticity can invalidate statistical tests.
+          - The presence of heteroscedasticity was tested using statistical methods.
+        - synonyms: non-constant variance
+        - antonyms: homoscedasticity
+        - related words: heteroscedastic, heteroscedasticity-consistent
+    - Critical Evaluation & Theoretical Frameworks
+      - epistemology
+        - definition: the study of the nature and scope of knowledge and justified belief.
+        - pronunciation: /ɪˌpɪs.tɪˈmɒl.ə.dʒi/
+        - part of speech: noun
+        - examples:
+          - Understanding epistemology is crucial for developing a theoretical framework.
+          - The researcher's epistemology influenced their methodological choices.
+        - synonyms: theory of knowledge
+        - antonyms: n/a
+        - related words: epistemological, epistemologist
+      - paradigmatic
+        - definition: serving as a typical example of something; relating to a paradigm.
+        - pronunciation: /ˌpær.ə.dɪɡˈmæt.ɪk/
+        - part of speech: adjective
+        - examples:
+          - The study offers a paradigmatic shift in the field.
+          - Paradigmatic approaches can redefine research methodologies.
+        - synonyms: exemplary, model
+        - antonyms: atypical
+        - related words: paradigm, paradigmatically
+      - dialectical
+        - definition: relating to the logical discussion of ideas and opinions; examining or discussing opposing ideas to find the truth.
+        - pronunciation: /ˌdaɪ.əˈlɛk.tɪ.kəl/
+        - part of speech: adjective
+        - examples:
+          - The dialectical method was used to explore conflicting theories.
+          - Dialectical reasoning facilitates critical analysis.
+        - synonyms: logical, analytical
+        - antonyms: illogical
+        - related words: dialectic, dialectics
+    - Academic Publishing & Peer Review
+      - dissemination
+        - definition: the act of spreading information or knowledge so that it reaches many people.
+        - pronunciation: /dɪˌsɛm.ɪˈneɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Effective dissemination of research findings is essential.
+          - The conference aids in the dissemination of new ideas.
+        - synonyms: distribution, propagation
+        - antonyms: suppression
+        - related words: disseminate, disseminator
+      - predatory journal
+        - definition: a publication that exploits authors by charging publication fees without providing the editorial and publishing services associated with legitimate journals.
+        - pronunciation: /ˈprɛd.ə.tɔː.ri ˈdʒɜː.nəl/
+        - part of speech: noun
+        - examples:
+          - Researchers should avoid submitting to predatory journals.
+          - Predatory journals undermine the credibility of academic publishing.
+        - synonyms: illegitimate journal
+        - antonyms: reputable journal
+        - related words: predation, predator
+      - double-blind review
+        - definition: a peer review process where both the reviewers and the authors remain anonymous to each other.
+        - pronunciation: /ˈdʌb.əl blaɪnd rɪˈvjuː/
+        - part of speech: noun
+        - examples:
+          - The journal employs a double-blind review to ensure impartiality.
+          - Double-blind review minimizes bias in the evaluation process.
+        - synonyms: anonymous review
+        - antonyms: open review
+        - related words: peer review, blind review
+    - Statistical Analysis
+      - multicollinearity
+        - definition: a statistical phenomenon in which two or more predictor variables in a multiple regression model are highly correlated.
+        - pronunciation: /ˌmʌl.tɪ.kɒl.ɪˈnɛə.rɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Multicollinearity can affect the stability of regression coefficients.
+          - Detecting multicollinearity is crucial in regression analysis.
+        - synonyms: collinearity
+        - antonyms: independence
+        - related words: multicollinear, collinear
+      - heterogeneity
+        - definition: the quality or state of being diverse in character or content.
+        - pronunciation: /ˌhɛt.ər.əʊ.dʒəˈniː.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - The study accounted for heterogeneity among participants.
+          - Heterogeneity can complicate the interpretation of results.
+        - synonyms: diversity, variability
+        - antonyms: homogeneity
+        - related words: heterogeneous, heterogeneously
+      - kurtosis
+        - definition: a statistical measure used to describe the distribution of observed data around the mean.
+        - pronunciation: /kɜːˈtəʊ.sɪs/
+        - part of speech: noun
+        - examples:
+          - High kurtosis indicates heavy tails or outliers in the data.
+          - Kurtosis is assessed alongside skewness in data analysis.
+        - synonyms: peakedness
+        - antonyms: flatness
+        - related words: kurtotic, leptokurtic
+    - Philosophical Underpinnings
+      - positivism
+        - definition: a philosophical system recognizing only that which can be scientifically verified or which is capable of logical or mathematical proof.
+        - pronunciation: /ˈpɒz.ɪ.tɪ.vɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Positivism underpins many quantitative research methodologies.
+          - Critics argue that positivism overlooks subjective experiences.
+        - synonyms: empiricism
+        - antonyms: interpretivism
+        - related words: positivist, positivistic
+      - constructivism
+        - definition: a philosophical viewpoint about the nature of knowledge, suggesting that humans construct knowledge through their experiences and interactions.
+        - pronunciation: /kənˈstrʌk.tɪ.vɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Constructivism emphasizes the subjective creation of meaning.
+          - The study adopts a constructivist approach.
+        - synonyms: interpretivism
+        - antonyms: objectivism
+        - related words: constructivist, construct
+      - interpretivism
+        - definition: a research approach emphasizing the meaningful nature of people's participation in social and cultural life.
+        - pronunciation: /ɪnˈtɜː.prɪ.tɪ.vɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Interpretivism values subjective experiences over quantifiable data.
+          - She chose interpretivism for her qualitative study.
+        - synonyms: constructivism
+        - antonyms: positivism
+        - related words: interpretivist, interpretive
+    - Ethical Considerations in Research
+      - beneficence
+        - definition: the ethical principle of doing good and preventing harm.
+        - pronunciation: /bɪˈnɛf.ɪ.səns/
+        - part of speech: noun
+        - examples:
+          - Researchers must ensure beneficence towards participants.
+          - Beneficence guides ethical decision-making in studies.
+        - synonyms: kindness, goodwill
+        - antonyms: maleficence
+        - related words: beneficent, beneficial
+      - debriefing
+        - definition: the process of informing participants about the true nature of a study after its completion.
+        - pronunciation: /diːˈbriː.fɪŋ/
+        - part of speech: noun
+        - examples:
+          - Debriefing is essential when deception is used in research.
+          - The participants received a thorough debriefing post-experiment.
+        - synonyms: explanation, review
+        - antonyms: briefing
+        - related words: debrief, debriefed
+      - confidentiality
+        - definition: the ethical principle that personal information should be kept private and not disclosed without consent.
+        - pronunciation: /ˌkɒn.fɪ.den.ʃɪˈæl.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Confidentiality must be maintained to protect participant privacy.
+          - The researcher ensured confidentiality of the data.
+        - synonyms: privacy, secrecy
+        - antonyms: disclosure
+        - related words: confidential, confidentially
+    - Advanced Academic Vocabulary
+      - peripatetic
+        - definition: traveling from place to place, especially working or based in various places for relatively short periods.
+        - pronunciation: /ˌpɛr.ɪ.pəˈtɛt.ɪk/
+        - part of speech: adjective
+        - examples:
+          - The peripatetic researcher gathered data across multiple countries.
+          - His peripatetic lifestyle influenced his diverse perspectives.
+        - synonyms: itinerant, nomadic
+        - antonyms: settled
+        - related words: peripatetics, peripatetically
+      - intransigent
+        - definition: unwilling or refusing to change one's views or to agree about something.
+        - pronunciation: /ɪnˈtræn.sɪ.dʒənt/
+        - part of speech: adjective
+        - examples:
+          - The committee remained intransigent despite new evidence.
+          - An intransigent stance can hinder collaborative research.
+        - synonyms: uncompromising, inflexible
+        - antonyms: compliant
+        - related words: intransigence, intransigently
+      - synecdoche
+        - definition: a figure of speech in which a part is made to represent the whole or vice versa.
+        - pronunciation: /sɪˈnɛk.də.ki/
+        - part of speech: noun
+        - examples:
+          - The author used synecdoche to enhance the literary effect.
+          - Understanding synecdoche is important in textual analysis.
+        - synonyms: figure of speech, metaphor
+        - antonyms: literal expression
+        - related words: synecdochic, synecdochical
+    - Interdisciplinary Approaches
+      - consilience
+        - definition: the linking together of principles from different disciplines to form a comprehensive theory.
+        - pronunciation: /kənˈsɪl.i.əns/
+        - part of speech: noun
+        - examples:
+          - Consilience can lead to breakthroughs in research.
+          - The project aims for consilience between biology and sociology.
+        - synonyms: convergence, unity
+        - antonyms: divergence
+        - related words: consilient
+      - transdisciplinary
+        - definition: relating to or involving more than one discipline or branch of learning.
+        - pronunciation: /ˌtrænz.dɪsˈsɪp.lɪ.nər.i/
+        - part of speech: adjective
+        - examples:
+          - Transdisciplinary research addresses complex problems.
+          - The team adopted a transdisciplinary methodology.
+        - synonyms: cross-disciplinary, interdisciplinary
+        - antonyms: monodisciplinary
+        - related words: transdisciplinarity
+      - epistemic
+        - definition: relating to knowledge or the conditions for acquiring it.
+        - pronunciation: /ˌɛp.ɪˈstiː.mɪk/
+        - part of speech: adjective
+        - examples:
+          - Epistemic considerations are vital in interdisciplinary studies.
+          - The epistemic value of the research was questioned.
+        - synonyms: cognitive, intellectual
+        - antonyms: n/a
+        - related words: epistemology, epistemically

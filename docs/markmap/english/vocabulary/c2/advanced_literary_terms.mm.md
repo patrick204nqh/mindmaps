@@ -1,0 +1,317 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- C2
+  - Advanced Literary Terms
+    - Figures of Speech
+      - synecdoche
+        - definition: a figure of speech in which a part is made to represent the whole or vice versa.
+        - pronunciation: /sɪˈnɛk.də.ki/
+        - part of speech: noun
+        - examples:
+          - "All hands on deck" is a synecdoche where "hands" represent sailors.
+          - The phrase "new wheels" is a synecdoche for a new car.
+        - synonyms: part for whole, metonymy
+        - antonyms: literal expression
+        - related words: metaphor, symbolism
+      - metonymy
+        - definition: a figure of speech in which a thing is referred to by the name of something closely associated with it.
+        - pronunciation: /mɪˈtɒn.ɪ.mi/
+        - part of speech: noun
+        - examples:
+          - "The pen is mightier than the sword" uses "pen" to represent words and "sword" to represent force.
+          - Referring to the business executive as "the suit" is a metonymy.
+        - synonyms: substitution, figure of speech
+        - antonyms: plain speech
+        - related words: synecdoche, symbolism
+      - anaphora
+        - definition: the repetition of a word or phrase at the beginning of successive clauses.
+        - pronunciation: /əˈnæf.ərə/
+        - part of speech: noun
+        - examples:
+          - "Every day, every night, in every way, I am getting better."
+          - Martin Luther King Jr.'s speech "I Have a Dream" extensively uses anaphora.
+        - synonyms: repetition, parallelism
+        - antonyms: epiphora
+        - related words: rhetorical device, emphasis
+      - chiasmus
+        - definition: a rhetorical or literary figure in which words, grammatical constructions, or concepts are repeated in reverse order.
+        - pronunciation: /kaɪˈæz.məs/
+        - part of speech: noun
+        - examples:
+          - "Ask not what your country can do for you; ask what you can do for your country."
+          - "She has all my love; my heart belongs to her."
+        - synonyms: reversal, inversion
+        - antonyms: parallelism
+        - related words: antimetabole, rhetoric
+      - litotes
+        - definition: ironical understatement in which an affirmative is expressed by the negative of its contrary.
+        - pronunciation: /ˈlaɪ.təʊˌtiːz/
+        - part of speech: noun
+        - examples:
+          - Saying "He's not bad looking" to mean he is attractive.
+          - "It wasn't the worst meal I've had" implies it was good.
+        - synonyms: understatement, meiosis
+        - antonyms: hyperbole
+        - related words: irony, understatement
+    - Poetic Devices
+      - enjambment
+        - definition: the continuation of a sentence without a pause beyond the end of a line, couplet, or stanza.
+        - pronunciation: /ɪnˈdʒæmb.mənt/
+        - part of speech: noun
+        - examples:
+          - The poet uses enjambment to maintain the flow of thought.
+          - Enjambment creates a sense of urgency and movement.
+        - synonyms: run-on line, continuation
+        - antonyms: end-stop
+        - related words: poetry, verse
+      - caesura
+        - definition: a pause near the middle of a line of poetry.
+        - pronunciation: /sɪˈzjʊə.rə/
+        - part of speech: noun
+        - examples:
+          - "To be, or not to be — that is the question."
+          - The use of caesura adds dramatic effect to the poem.
+        - synonyms: pause, break
+        - antonyms: flow
+        - related words: meter, rhythm
+      - assonance
+        - definition: the repetition of vowel sounds in non-rhyming words.
+        - pronunciation: /ˈæs.ə.nəns/
+        - part of speech: noun
+        - examples:
+          - "Hear the mellow wedding bells."
+          - Assonance enriches the musical quality of poetry.
+        - synonyms: vowel rhyme, internal rhyme
+        - antonyms: dissonance
+        - related words: consonance, alliteration
+      - consonance
+        - definition: the repetition of consonant sounds, typically at the end of words.
+        - pronunciation: /ˈkɒn.sə.nəns/
+        - part of speech: noun
+        - examples:
+          - "The lumpy, bumpy road."
+          - Consonance adds rhythm to the verse.
+        - synonyms: harmony, accord
+        - antonyms: dissonance
+        - related words: assonance, alliteration
+      - metrical foot
+        - definition: a unit of stressed and unstressed syllables in a line of poetry.
+        - pronunciation: /ˈmɛt.rɪ.kəl fʊt/
+        - part of speech: noun
+        - examples:
+          - An iamb is a metrical foot with an unstressed syllable followed by a stressed syllable.
+          - The poem uses trochaic metrical feet throughout.
+        - synonyms: poetic foot, measure
+        - antonyms: prose rhythm
+        - related words: meter, rhythm
+    - Narrative Techniques
+      - stream of consciousness
+        - definition: a literary style that presents a character's continuous flow of thoughts.
+        - pronunciation: /striːm əv ˈkɒn.ʃəs.nəs/
+        - part of speech: noun
+        - examples:
+          - Virginia Woolf's novels often employ stream of consciousness.
+          - The narrative dives into the stream of consciousness of the protagonist.
+        - synonyms: interior monologue
+        - antonyms: objective narration
+        - related words: narration, inner thoughts
+      - unreliable narrator
+        - definition: a narrator whose credibility is compromised.
+        - pronunciation: /ˌʌn.rɪˈlaɪ.ə.bəl nəˈreɪ.tər/
+        - part of speech: noun
+        - examples:
+          - "The Tell-Tale Heart" features an unreliable narrator.
+          - The unreliable narrator adds complexity to the story.
+        - synonyms: deceptive narrator, biased storyteller
+        - antonyms: reliable narrator
+        - related words: first-person narration, subjectivity
+      - foreshadowing
+        - definition: a literary device used to give an indication of future events.
+        - pronunciation: /fɔːˈʃæd.əʊ.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - Dark clouds in the story foreshadowed trouble ahead.
+          - The author uses foreshadowing to build suspense.
+        - synonyms: prefiguration, omen
+        - antonyms: flashback
+        - related words: hint, prediction
+      - deus ex machina
+        - definition: an unexpected power or event saving a seemingly hopeless situation.
+        - pronunciation: /ˌdeɪ.əs ɛks ˈmæk.ɪ.nə/
+        - part of speech: noun
+        - examples:
+          - The hero is saved by a deus ex machina at the last moment.
+          - Critics argue the ending relies too heavily on deus ex machina.
+        - synonyms: plot device, contrivance
+        - antonyms: logical resolution
+        - related words: intervention, climax
+      - Bildungsroman
+        - definition: a novel focused on the psychological and moral growth of the protagonist.
+        - pronunciation: /ˈbɪl.dʊŋz.rəʊˌmɑːn/
+        - part of speech: noun
+        - examples:
+          - "Great Expectations" is a classic Bildungsroman.
+          - The story traces his journey in a Bildungsroman style.
+        - synonyms: coming-of-age story
+        - antonyms: none (specific genre)
+        - related words: development, maturation
+    - Literary Criticism
+      - hermeneutics
+        - definition: the study of interpretation, especially of texts.
+        - pronunciation: /ˌhɜː.məˈnjuː.tɪks/
+        - part of speech: noun
+        - examples:
+          - Hermeneutics is essential in literary criticism.
+          - She specializes in hermeneutics to analyze literary works.
+        - synonyms: interpretation, exegesis
+        - antonyms: misinterpretation
+        - related words: hermeneutic, interpretative
+      - intertextuality
+        - definition: the shaping of a text's meaning by another text.
+        - pronunciation: /ˌɪn.təˌtɛks.tʃuˈæl.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - The novel's intertextuality creates layers of meaning.
+          - Intertextuality connects the poem to historical events.
+        - synonyms: textual reference, cross-reference
+        - antonyms: isolation
+        - related words: intertextual, intertext
+      - deconstruction
+        - definition: a critical approach that dismantles and questions traditional assumptions about certainty, identity, and truth.
+        - pronunciation: /ˌdiː.kənˈstrʌk.ʃən/
+        - part of speech: noun
+        - examples:
+          - Deconstruction reveals hidden contradictions in the text.
+          - The critic employs deconstruction to challenge the text's meaning.
+        - synonyms: analysis, critique
+        - antonyms: construction
+        - related words: deconstruct, deconstructive
+      - postmodernism
+        - definition: a late 20th-century movement characterized by broad skepticism and subjectivism.
+        - pronunciation: /ˌpəʊstˈmɒd.ən.ɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Postmodernism often blurs the lines between reality and fiction.
+          - The author's style is influenced by postmodernism.
+        - synonyms: post-structuralism, deconstruction
+        - antonyms: modernism
+        - related words: postmodern, postmodernist
+      - structuralism
+        - definition: an intellectual movement positing that elements of human culture must be understood in terms of their relationship to a larger system.
+        - pronunciation: /ˈstrʌk.tʃər.ə.lɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Structuralism analyzes the underlying structures in cultural phenomena.
+          - The study applies structuralism to examine narrative patterns.
+        - synonyms: formalism, systemic analysis
+        - antonyms: individualism
+        - related words: structuralist, structure
+    - Genre & Form
+      - pastiche
+        - definition: a work that imitates the style of previous works.
+        - pronunciation: /pæˈstiːʃ/
+        - part of speech: noun
+        - examples:
+          - The film is a pastiche of 80s action movies.
+          - His artwork is a pastiche combining different styles.
+        - synonyms: imitation, parody
+        - antonyms: original work
+        - related words: homage, emulation
+      - epistolary
+        - definition: (of a literary work) in the form of letters.
+        - pronunciation: /ɪˈpɪs.tə.lər.i/
+        - part of speech: adjective
+        - examples:
+          - "The Color Purple" is an epistolary novel.
+          - The epistolary format provides intimate insights into the character's thoughts.
+        - synonyms: letter-based, correspondence
+        - antonyms: narrative
+        - related words: epistle, epistolic
+      - soliloquy
+        - definition: an act of speaking one's thoughts aloud when by oneself.
+        - pronunciation: /səˈlɪl.ə.kwi/
+        - part of speech: noun
+        - examples:
+          - The character's soliloquy reveals his inner turmoil.
+          - Shakespeare's plays frequently use soliloquies.
+        - synonyms: monologue, speech
+        - antonyms: dialogue
+        - related words: aside, monologue
+      - allegory
+        - definition: a story with a symbolic level of meaning.
+        - pronunciation: /ˈæl.ɪ.ɡə.ri/
+        - part of speech: noun
+        - examples:
+          - "The Pilgrim's Progress" is an allegory of spiritual journey.
+          - The fable operates as an allegory for human folly.
+        - synonyms: parable, symbolism
+        - antonyms: literal narrative
+        - related words: allegorical, metaphor
+      - satire
+        - definition: the use of humor or irony to criticize people's stupidity or vices.
+        - pronunciation: /ˈsæ.taɪər/
+        - part of speech: noun
+        - examples:
+          - "Gulliver's Travels" is a well-known satire.
+          - The play employs satire to highlight societal issues.
+        - synonyms: parody, lampoon
+        - antonyms: eulogy
+        - related words: satirical, satirist
+    - Rhetorical Devices
+      - aphorism
+        - definition: a concise statement that contains a general truth.
+        - pronunciation: /ˈæf.ər.ɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - "Actions speak louder than words" is an aphorism.
+          - The philosopher is known for his profound aphorisms.
+        - synonyms: maxim, proverb
+        - antonyms: verbosity
+        - related words: adage, saying
+      - anadiplosis
+        - definition: repetition of the last word of a preceding clause.
+        - pronunciation: /ˌæn.ə.dɪˈpləʊ.sɪs/
+        - part of speech: noun
+        - examples:
+          - "Fear leads to anger. Anger leads to hate."
+          - Anadiplosis creates a rhythmic flow in the text.
+        - synonyms: repetition, rhetorical device
+        - antonyms: n/a
+        - related words: anaphora, epistrophe
+      - antithesis
+        - definition: juxtaposition of contrasting ideas in balanced phrases.
+        - pronunciation: /ænˈtɪθ.ɪ.sɪs/
+        - part of speech: noun
+        - examples:
+          - "Speech is silver, but silence is golden."
+          - The use of antithesis highlights the paradox.
+        - synonyms: contrast, opposition
+        - antonyms: similarity
+        - related words: juxtaposition, contradiction
+      - polysyndeton
+        - definition: the deliberate use of many conjunctions.
+        - pronunciation: /ˌpɒl.iˈsɪn.dɪ.tən/
+        - part of speech: noun
+        - examples:
+          - "He ran and jumped and laughed for joy."
+          - Polysyndeton can slow down the pace of a sentence.
+        - synonyms: conjunction overuse
+        - antonyms: asyndeton
+        - related words: syntax, coordination
+      - zeugma
+        - definition: a figure of speech where a word applies to multiple parts of the sentence.
+        - pronunciation: /ˈzjuːɡ.mə/
+        - part of speech: noun
+        - examples:
+          - "She opened her door and her heart to the orphan."
+          - Zeugma adds a dramatic effect to the sentence.
+        - synonyms: syllepsis, wordplay
+        - antonyms: literal expression
+        - related words: pun, figure of speech

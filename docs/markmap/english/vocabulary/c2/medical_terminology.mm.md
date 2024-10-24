@@ -1,0 +1,368 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- C2
+  - Medical Terminology
+    - Anatomy
+      - myocardium
+        - definition: the muscular tissue of the heart.
+        - pronunciation: /ˌmaɪ.əʊˈkɑː.di.əm/
+        - part of speech: noun
+        - examples:
+          - The myocardium is responsible for the contractile function of the heart.
+          - Damage to the myocardium can lead to heart failure.
+        - synonyms: heart muscle
+        - antonyms: -
+        - related words: myocardial, myocarditis
+      - cerebellum
+        - definition: the part of the brain at the back of the skull, responsible for coordinating voluntary movements and balance.
+        - pronunciation: /ˌsɛr.ɪˈbɛl.əm/
+        - part of speech: noun
+        - examples:
+          - The cerebellum plays a key role in motor control.
+          - Damage to the cerebellum can result in loss of coordination.
+        - synonyms: little brain
+        - antonyms: cerebrum
+        - related words: cerebellar, cerebellitis
+      - epithelium
+        - definition: a membranous tissue forming the external layer of organs and blood vessels, as well as the inner surfaces of cavities in many internal organs.
+        - pronunciation: /ˌɛp.ɪˈθiː.li.əm/
+        - part of speech: noun
+        - examples:
+          - The epithelium acts as a barrier against pathogens.
+          - Cancer can originate in the epithelium of the lungs.
+        - synonyms: epithelial tissue
+        - antonyms: mesenchyme
+        - related words: epithelial, epithelia
+      - synapse
+        - definition: a junction between two nerve cells, where impulses pass by diffusion of a neurotransmitter.
+        - pronunciation: /ˈsɪn.æps/
+        - part of speech: noun
+        - examples:
+          - Synapses transmit signals between neurons.
+          - Neurotransmitters are released at the synapse.
+        - synonyms: neuronal junction
+        - antonyms: -
+        - related words: synaptic, synapsis
+      - nephron
+        - definition: the functional unit of the kidney, responsible for filtering and excreting waste.
+        - pronunciation: /ˈnɛf.rɒn/
+        - part of speech: noun
+        - examples:
+          - Each kidney contains millions of nephrons.
+          - Damage to nephrons can lead to renal failure.
+        - synonyms: kidney unit
+        - antonyms: -
+        - related words: nephrology, nephritic
+    - Pathology
+      - metastasis
+        - definition: the spread of cancer cells from the place where they first formed to another part of the body.
+        - pronunciation: /məˈtæs.tə.sɪs/
+        - part of speech: noun
+        - examples:
+          - The patient was diagnosed with metastasis to the liver.
+          - Preventing metastasis is crucial in cancer treatment.
+        - synonyms: spread, dissemination
+        - antonyms: localized
+        - related words: metastatic, metastasize
+      - ischemia
+        - definition: an inadequate blood supply to an organ or part of the body.
+        - pronunciation: /ɪˈskiː.mi.ə/
+        - part of speech: noun
+        - examples:
+          - Ischemia can lead to tissue damage due to lack of oxygen.
+          - Coronary artery disease can cause myocardial ischemia.
+        - synonyms: oxygen deprivation
+        - antonyms: hyperemia
+        - related words: ischemic, reperfusion
+      - neuropathy
+        - definition: disease or dysfunction of one or more peripheral nerves.
+        - pronunciation: /njʊəˈrɒp.ə.θi/
+        - part of speech: noun
+        - examples:
+          - Diabetic patients often suffer from peripheral neuropathy.
+          - Neuropathy can cause numbness and tingling in the extremities.
+        - synonyms: nerve damage
+        - antonyms: neural health
+        - related words: neuropathic, neurotherapy
+      - thrombosis
+        - definition: the formation of a blood clot inside a blood vessel.
+        - pronunciation: /θrɒmˈbəʊ.sɪs/
+        - part of speech: noun
+        - examples:
+          - Deep vein thrombosis is a serious medical condition.
+          - Prolonged immobility can increase the risk of thrombosis.
+        - synonyms: clotting
+        - antonyms: hemorrhage
+        - related words: thrombus, thrombotic
+      - anaphylaxis
+        - definition: a severe, potentially life-threatening allergic reaction.
+        - pronunciation: /ˌæn.ə.fɪˈlæk.sɪs/
+        - part of speech: noun
+        - examples:
+          - The patient experienced anaphylaxis after eating peanuts.
+          - Epinephrine is administered during an anaphylactic reaction.
+        - synonyms: allergic shock
+        - antonyms: tolerance
+        - related words: anaphylactic, hypersensitivity
+    - Pharmacology
+      - analgesic
+        - definition: a drug that relieves pain.
+        - pronunciation: /ˌæn.əlˈdʒiː.zɪk/
+        - part of speech: noun
+        - examples:
+          - The doctor prescribed an analgesic for the patient's pain.
+          - Over-the-counter analgesics are commonly used for headaches.
+        - synonyms: painkiller, anesthetic
+        - antonyms: nociceptive agent
+        - related words: analgesia, analgesic (adjective)
+      - antihistamine
+        - definition: a drug that counteracts the effects of histamine, used especially in the treatment of allergies.
+        - pronunciation: /ˌæn.tiˈhɪs.tə.miːn/
+        - part of speech: noun
+        - examples:
+          - She took an antihistamine to relieve her allergy symptoms.
+          - Antihistamines can cause drowsiness as a side effect.
+        - synonyms: allergy medication
+        - antonyms: histamine agonist
+        - related words: histamine, antihistaminic
+      - pharmacokinetics
+        - definition: the branch of pharmacology concerned with the movement of drugs within the body.
+        - pronunciation: /ˌfɑː.mə.kəʊ.kɪˈnɛt.ɪks/
+        - part of speech: noun
+        - examples:
+          - Pharmacokinetics studies how the body absorbs and eliminates drugs.
+          - Understanding pharmacokinetics is essential for proper dosing.
+        - synonyms: drug metabolism
+        - antonyms: pharmacodynamics
+        - related words: pharmacokinetic (adjective), kinetics
+      - bioavailability
+        - definition: the degree and rate at which a drug is absorbed into the bloodstream.
+        - pronunciation: /ˌbaɪ.əʊ.əˌveɪ.ləˈbɪl.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Oral medications have varying levels of bioavailability.
+          - Bioavailability affects the efficacy of a drug.
+        - synonyms: absorption rate
+        - antonyms: bio-inavailability
+        - related words: bioavailable, availability
+      - contraindication
+        - definition: a condition or factor that serves as a reason to withhold a certain medical treatment.
+        - pronunciation: /ˌkɒn.trəˌɪn.dɪˈkeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Pregnancy is a contraindication for this medication.
+          - The doctor checked for any contraindications before prescribing.
+        - synonyms: caution, warning
+        - antonyms: indication
+        - related words: contraindicate, contraindicated
+    - Procedures
+      - intubation
+        - definition: the insertion of a tube into a patient's airway to assist with breathing.
+        - pronunciation: /ˌɪn.tjuːˈbeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Emergency intubation was performed to secure the airway.
+          - Intubation is common during general anesthesia.
+        - synonyms: airway management
+        - antonyms: extubation
+        - related words: intubate, intubated
+      - laparotomy
+        - definition: a surgical incision into the abdominal cavity.
+        - pronunciation: /ˌlæp.əˈrɒt.ə.mi/
+        - part of speech: noun
+        - examples:
+          - The surgeon performed a laparotomy to remove the tumor.
+          - A laparotomy allows access to the abdominal organs.
+        - synonyms: abdominal surgery
+        - antonyms: laparoscopy
+        - related words: laparoscopic, laparoscopy
+      - angiography
+        - definition: an imaging technique used to visualize the inside of blood vessels.
+        - pronunciation: /ˌæn.dʒɪˈɒɡ.rə.fi/
+        - part of speech: noun
+        - examples:
+          - Coronary angiography can detect blockages in the heart's arteries.
+          - The patient underwent an angiography to assess vascular health.
+        - synonyms: vascular imaging
+        - antonyms: -
+        - related words: angiogram, angiographic
+      - biopsy
+        - definition: an examination of tissue removed from a living body to discover the presence of disease.
+        - pronunciation: /ˈbaɪ.ɒp.si/
+        - part of speech: noun
+        - examples:
+          - A biopsy confirmed the diagnosis of cancer.
+          - The doctor ordered a liver biopsy to investigate abnormalities.
+        - synonyms: tissue sampling
+        - antonyms: -
+        - related words: biopsied, biopsic
+      - endoscopy
+        - definition: a procedure using an instrument to examine the interior of a hollow organ.
+        - pronunciation: /ɛnˈdɒs.kə.pi/
+        - part of speech: noun
+        - examples:
+          - An endoscopy was performed to view the patient's gastrointestinal tract.
+          - Endoscopy can help diagnose ulcers and other conditions.
+        - synonyms: internal examination
+        - antonyms: external examination
+        - related words: endoscope, endoscopic
+    - Diagnostic Imaging
+      - MRI
+        - definition: Magnetic Resonance Imaging; a technique that uses magnetic fields to create detailed images of the organs.
+        - pronunciation: /ɛm ɑːr aɪ/
+        - part of speech: noun
+        - examples:
+          - The MRI scan revealed a lesion in the brain.
+          - MRI is useful for imaging soft tissues.
+        - synonyms: magnetic imaging
+        - antonyms: CT scan
+        - related words: MR imaging, magnetic resonance
+      - echocardiogram
+        - definition: an ultrasound of the heart.
+        - pronunciation: /ˌɛk.əʊˈkɑː.di.ə.ɡræm/
+        - part of speech: noun
+        - examples:
+          - An echocardiogram assesses heart function and structure.
+          - The cardiologist ordered an echocardiogram for further evaluation.
+        - synonyms: cardiac ultrasound
+        - antonyms: electrocardiogram
+        - related words: echocardiography, echocardiographer
+      - computed tomography
+        - definition: a medical imaging technique that uses computer-processed combinations of X-ray measurements to produce images.
+        - pronunciation: /kəmˈpjuː.tɪd təˈmɒɡ.rə.fi/
+        - part of speech: noun
+        - examples:
+          - Computed tomography, or CT scan, is used to detect internal injuries.
+          - The CT scan provided detailed images of the patient's organs.
+        - synonyms: CT scan, CAT scan
+        - antonyms: -
+        - related words: tomography, tomographic
+      - radiography
+        - definition: the use of X-rays to view a non-uniformly composed material such as the human body.
+        - pronunciation: /reɪˈdɪɒɡ.rə.fi/
+        - part of speech: noun
+        - examples:
+          - Radiography is commonly used to detect bone fractures.
+          - The radiographer performed the radiography procedure.
+        - synonyms: X-ray imaging
+        - antonyms: -
+        - related words: radiograph, radiographer
+      - ultrasound
+        - definition: sound or other vibrations having an ultrasonic frequency, used in medical imaging.
+        - pronunciation: /ˈʌl.trə.saʊnd/
+        - part of speech: noun
+        - examples:
+          - Ultrasound is used to monitor fetal development.
+          - The technician performed an abdominal ultrasound.
+        - synonyms: sonography
+        - antonyms: infrasound
+        - related words: ultrasonography, ultrasonic
+    - Genetics
+      - genotype
+        - definition: the genetic constitution of an individual organism.
+        - pronunciation: /ˈdʒɛn.ə.taɪp/
+        - part of speech: noun
+        - examples:
+          - The genotype determines the hereditary traits of an organism.
+          - Genotype analysis can reveal genetic disorders.
+        - synonyms: genetic makeup
+        - antonyms: phenotype
+        - related words: genotypic, genotyping
+      - phenotype
+        - definition: the set of observable characteristics resulting from the interaction of its genotype with the environment.
+        - pronunciation: /ˈfiː.nə.taɪp/
+        - part of speech: noun
+        - examples:
+          - The phenotype includes traits like eye color and height.
+          - Phenotype expression can be influenced by environmental factors.
+        - synonyms: observable traits
+        - antonyms: genotype
+        - related words: phenotypic, phenotyping
+      - allele
+        - definition: one of two or more alternative forms of a gene.
+        - pronunciation: /əˈliːl/
+        - part of speech: noun
+        - examples:
+          - Each parent contributes one allele for each gene.
+          - Dominant alleles mask the effects of recessive alleles.
+        - synonyms: gene variant
+        - antonyms: -
+        - related words: allelic, allelomorph
+      - epigenetics
+        - definition: the study of changes in organisms caused by modification of gene expression rather than alteration of the genetic code itself.
+        - pronunciation: /ˌɛp.ɪ.dʒəˈnɛt.ɪks/
+        - part of speech: noun
+        - examples:
+          - Epigenetics explores how environmental factors affect gene expression.
+          - Epigenetic changes can be heritable.
+        - synonyms: gene regulation
+        - antonyms: genetics (in terms of DNA sequence changes)
+        - related words: epigenetic, epigenome
+      - polymorphism
+        - definition: the occurrence of different forms among the members of a population.
+        - pronunciation: /ˌpɒl.iˈmɔː.fɪz.əm/
+        - part of speech: noun
+        - examples:
+          - Genetic polymorphism contributes to diversity within a species.
+          - The study focused on a polymorphism associated with disease risk.
+        - synonyms: genetic variation
+        - antonyms: monomorphism
+        - related words: polymorphic, polymorph
+    - Immunology
+      - immunoglobulin
+        - definition: any of a class of proteins present in the serum and cells of the immune system, which function as antibodies.
+        - pronunciation: /ˌɪm.jʊ.nəʊˈɡlɒb.jʊ.lɪn/
+        - part of speech: noun
+        - examples:
+          - Immunoglobulin G is the most common type of antibody.
+          - The patient received an immunoglobulin infusion.
+        - synonyms: antibody
+        - antonyms: antigen
+        - related words: IgG, IgA, IgM
+      - cytokine
+        - definition: small proteins released by cells that have a specific effect on interactions and communications between cells.
+        - pronunciation: /ˈsaɪ.təʊ.kaɪn/
+        - part of speech: noun
+        - examples:
+          - Cytokines play a crucial role in the immune response.
+          - An imbalance in cytokine levels can lead to inflammation.
+        - synonyms: cell signaling molecule
+        - antonyms: -
+        - related words: interleukin, chemokine
+      - antigen
+        - definition: a toxin or other foreign substance that induces an immune response in the body.
+        - pronunciation: /ˈæn.tɪ.dʒən/
+        - part of speech: noun
+        - examples:
+          - Vaccines contain antigens that stimulate immunity.
+          - The immune system produces antibodies to neutralize antigens.
+        - synonyms: immunogen
+        - antonyms: antibody
+        - related words: antigenic, antigenicity
+      - autoimmune
+        - definition: relating to disease caused by antibodies or lymphocytes produced against substances naturally present in the body.
+        - pronunciation: /ˌɔː.təʊ.ɪˈmjuːn/
+        - part of speech: adjective
+        - examples:
+          - Rheumatoid arthritis is an autoimmune disorder.
+          - Autoimmune diseases occur when the body attacks its own tissues.
+        - synonyms: self-reactive
+        - antonyms: -
+        - related words: autoimmunity, autoimmune disease
+      - immunodeficiency
+        - definition: failure of the immune system to protect the body adequately from infection.
+        - pronunciation: /ɪmˌjuː.nəʊ.dɪˈfɪʃ.ən.si/
+        - part of speech: noun
+        - examples:
+          - AIDS is a severe immunodeficiency caused by HIV.
+          - Patients with immunodeficiency are more susceptible to infections.
+        - synonyms: immune weakness
+        - antonyms: immunocompetence
+        - related words: immunodeficient, immune deficiency

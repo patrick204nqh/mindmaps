@@ -1,0 +1,378 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- C2
+  - Cross-Cultural Communication
+    - Cultural Concepts
+      - ethnocentrism
+        - definition: the belief in the inherent superiority of one's own culture.
+        - pronunciation: /ˌɛθ.nəʊˈsɛn.trɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Ethnocentrism can hinder effective cross-cultural communication.
+          - Overcoming ethnocentrism is essential in global interactions.
+        - synonyms: cultural bias, nationalism
+        - antonyms: cultural relativism
+        - related words: ethnocentric, ethnocentrically
+      - cultural relativism
+        - definition: the principle of understanding other cultures on their own terms.
+        - pronunciation: /ˈkʌl.tʃər.əl ˈrɛl.ə.tɪ.vɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Cultural relativism promotes tolerance and open-mindedness.
+          - Anthropologists often practice cultural relativism.
+        - synonyms: open-mindedness, pluralism
+        - antonyms: ethnocentrism
+        - related words: culture, relativism
+      - acculturation
+        - definition: the process of cultural change and psychological change that results following meeting between cultures.
+        - pronunciation: /əˌkʌl.tʃəˈreɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Acculturation can lead to the blending of cultural practices.
+          - Immigrants often experience acculturation in their new country.
+        - synonyms: cultural adaptation, assimilation
+        - antonyms: cultural preservation
+        - related words: acculturate, acculturative
+      - enculturation
+        - definition: the gradual acquisition of the characteristics and norms of a culture by a person.
+        - pronunciation: /ɪnˌkʌl.tʃəˈreɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Enculturation begins at birth within the family.
+          - Through enculturation, individuals learn their cultural identity.
+        - synonyms: socialization, indoctrination
+        - antonyms: deculturation
+        - related words: enculturate
+      - assimilation
+        - definition: the process by which a person or a group's culture come to resemble those of another group.
+        - pronunciation: /əˌsɪm.ɪˈleɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Assimilation can result in the loss of one's original culture.
+          - Policies often encourage assimilation into the dominant culture.
+        - synonyms: integration, absorption
+        - antonyms: segregation, differentiation
+        - related words: assimilate, assimilative
+      - cultural appropriation
+        - definition: the unacknowledged or inappropriate adoption of elements of one culture by members of another culture.
+        - pronunciation: /ˈkʌl.tʃər.əl əˌprəʊ.priˈeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Cultural appropriation can be offensive to the originating culture.
+          - The debate over cultural appropriation has intensified in recent years.
+        - synonyms: cultural misappropriation
+        - antonyms: cultural appreciation
+        - related words: appropriate (verb), appropriation
+    - Communication Styles
+      - high-context communication
+        - definition: communication style where much of the information is implicit in the context or shared knowledge.
+        - pronunciation: /haɪ ˈkɒn.tɛkst kəˌmjuː.nɪˈkeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - In high-context communication cultures, nonverbal cues are crucial.
+          - Japan is often cited as a high-context communication culture.
+        - synonyms: implicit communication
+        - antonyms: low-context communication
+        - related words: context, high-context culture
+      - low-context communication
+        - definition: communication style that relies on explicit, direct, and clear verbal messages.
+        - pronunciation: /ləʊ ˈkɒn.tɛkst kəˌmjuː.nɪˈkeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - The United States is considered a low-context communication culture.
+          - Low-context communication requires detailed explanations.
+        - synonyms: explicit communication
+        - antonyms: high-context communication
+        - related words: context, low-context culture
+      - direct communication
+        - definition: a communication style that is straightforward and unambiguous.
+        - pronunciation: /dɪˈrɛkt kəˌmjuː.nɪˈkeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Direct communication is valued in many Western cultures.
+          - He appreciated her direct communication style.
+        - synonyms: straightforwardness, frankness
+        - antonyms: indirect communication
+        - related words: directness, directly
+      - indirect communication
+        - definition: a communication style that relies on subtlety and reading between the lines.
+        - pronunciation: /ˌɪn.dɪˈrɛkt kəˌmjuː.nɪˈkeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - In some cultures, indirect communication is a sign of politeness.
+          - She found indirect communication confusing.
+        - synonyms: implicitness, subtlety
+        - antonyms: direct communication
+        - related words: indirectness, indirectly
+      - paralanguage
+        - definition: the non-lexical component of communication by speech, such as intonation, pitch, and speed.
+        - pronunciation: /ˈpær.ə.læŋ.ɡwɪdʒ/
+        - part of speech: noun
+        - examples:
+          - Paralanguage can convey emotions beyond words.
+          - Understanding paralanguage is important in cross-cultural settings.
+        - synonyms: vocalics, nonverbal cues
+        - antonyms: verbal language
+        - related words: paralinguistic
+      - proxemics
+        - definition: the study of how space is used in communication.
+        - pronunciation: /prɒkˈsiː.mɪks/
+        - part of speech: noun
+        - examples:
+          - Proxemics varies significantly between different cultures.
+          - He studied proxemics to improve workplace design.
+        - synonyms: spatial communication
+        - antonyms: -
+        - related words: proximity, proxemic
+    - Nonverbal Communication
+      - kinesics
+        - definition: the study of body motions as a systematic mode of communication.
+        - pronunciation: /kɪˈniː.sɪks/
+        - part of speech: noun
+        - examples:
+          - Kinesics plays a significant role in conveying emotions.
+          - Understanding kinesics can improve cross-cultural interactions.
+        - synonyms: body language, gestural communication
+        - antonyms: verbal communication
+        - related words: kinetic, kinesiology
+      - haptics
+        - definition: the study of touch as a form of communication.
+        - pronunciation: /ˈhæp.tɪks/
+        - part of speech: noun
+        - examples:
+          - Haptics varies widely across cultures.
+          - She researched haptics to understand cultural norms of personal space.
+        - synonyms: tactile communication
+        - antonyms: non-tactile communication
+        - related words: haptic, touch
+      - oculesics
+        - definition: the study of eye movement or eye behavior.
+        - pronunciation: /ˌɒk.jʊˈliː.sɪks/
+        - part of speech: noun
+        - examples:
+          - Oculesics can indicate levels of interest or attention.
+          - In some cultures, oculesics such as direct eye contact can be disrespectful.
+        - synonyms: eye contact, gaze behavior
+        - antonyms: avoidance of eye contact
+        - related words: ocular, oculomotor
+      - chronemics
+        - definition: the study of the role of time in communication.
+        - pronunciation: /krəʊˈniː.mɪks/
+        - part of speech: noun
+        - examples:
+          - Chronemics explores how punctuality is perceived differently.
+          - Monochronic and polychronic are concepts within chronemics.
+        - synonyms: time perception
+        - antonyms: timelessness
+        - related words: chronemic, chronological
+      - silence
+        - definition: the absence of speech or noise, which can convey meaning in communication.
+        - pronunciation: /ˈsaɪ.ləns/
+        - part of speech: noun
+        - examples:
+          - In some cultures, silence is a sign of respect.
+          - He learned that silence can be a powerful communication tool.
+        - synonyms: quietness, muteness
+        - antonyms: speech, noise
+        - related words: silent, silently
+    - Intercultural Competence
+      - empathy
+        - definition: the ability to understand and share the feelings of another.
+        - pronunciation: /ˈɛm.pə.θi/
+        - part of speech: noun
+        - examples:
+          - Empathy is crucial in cross-cultural communication.
+          - Developing empathy can reduce misunderstandings.
+        - synonyms: compassion, understanding
+        - antonyms: apathy, indifference
+        - related words: empathetic, empathize
+      - cultural sensitivity
+        - definition: being aware of and respectful toward other cultures' values and practices.
+        - pronunciation: /ˈkʌl.tʃər.əl ˌsɛn.sɪˈtɪv.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Cultural sensitivity helps prevent offense in international settings.
+          - Training programs often focus on building cultural sensitivity.
+        - synonyms: cultural awareness, cultural competence
+        - antonyms: insensitivity, ignorance
+        - related words: sensitive, sensitization
+      - cultural intelligence
+        - definition: the capability to relate and work effectively across cultures.
+        - pronunciation: /ˈkʌl.tʃər.əl ɪnˈtɛl.ɪ.dʒəns/
+        - part of speech: noun
+        - examples:
+          - Leaders with high cultural intelligence can manage diverse teams.
+          - She enhanced her cultural intelligence through travel.
+        - synonyms: intercultural competence
+        - antonyms: cultural ignorance
+        - related words: intelligent, intelligence quotient
+      - stereotype threat
+        - definition: the risk of confirming negative stereotypes about an individual's racial, ethnic, gender, or cultural group.
+        - pronunciation: /ˈstɛr.i.ə.taɪp θrɛt/
+        - part of speech: noun
+        - examples:
+          - Stereotype threat can negatively impact performance.
+          - Awareness of stereotype threat is important in educational settings.
+        - synonyms: self-fulfilling prophecy
+        - antonyms: stereotype lift
+        - related words: stereotypical, threaten
+    - Cultural Dimensions
+      - individualism
+        - definition: a social theory favoring freedom of action for individuals over collective control.
+        - pronunciation: /ˌɪn.dɪˈvɪdʒ.u.ə.lɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Individualism emphasizes personal achievements.
+          - The United States is often considered an individualistic culture.
+        - synonyms: self-reliance, autonomy
+        - antonyms: collectivism
+        - related words: individualist, individualistic
+      - collectivism
+        - definition: the practice or principle of giving a group priority over each individual in it.
+        - pronunciation: /kəˈlɛk.tɪ.vɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Collectivism values group harmony and cohesion.
+          - Many Asian cultures are characterized by collectivism.
+        - synonyms: communalism, solidarity
+        - antonyms: individualism
+        - related words: collectivist, collective
+      - power distance
+        - definition: the extent to which less powerful members accept that power is distributed unequally.
+        - pronunciation: /ˈpaʊ.ər ˈdɪs.təns/
+        - part of speech: noun
+        - examples:
+          - High power distance cultures accept hierarchical order.
+          - Power distance influences communication styles.
+        - synonyms: authority gradient
+        - antonyms: power equality
+        - related words: hierarchy, authoritative
+      - uncertainty avoidance
+        - definition: the degree to which members of a culture feel uncomfortable with uncertainty and ambiguity.
+        - pronunciation: /ʌnˈsɜː.tən.ti əˈvɔɪ.dəns/
+        - part of speech: noun
+        - examples:
+          - Countries with high uncertainty avoidance prefer strict rules.
+          - Uncertainty avoidance affects how societies deal with change.
+        - synonyms: risk aversion
+        - antonyms: uncertainty acceptance
+        - related words: avoid, uncertain
+      - masculinity
+        - definition: a cultural preference for achievement, heroism, assertiveness, and material rewards.
+        - pronunciation: /ˌmæs.kjʊˈlɪn.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - High masculinity cultures value competitiveness.
+          - Masculinity versus femininity is a dimension in cultural studies.
+        - synonyms: assertiveness, dominance
+        - antonyms: femininity
+        - related words: masculine, masculinize
+    - Stereotypes & Prejudices
+      - stereotype
+        - definition: a widely held but fixed and oversimplified image or idea of a particular type of person or thing.
+        - pronunciation: /ˈstɛr.i.ə.taɪp/
+        - part of speech: noun
+        - examples:
+          - Stereotypes can lead to miscommunication.
+          - She challenged the stereotypes about her culture.
+        - synonyms: generalization, cliché
+        - antonyms: individuality
+        - related words: stereotypical, stereotyping
+      - prejudice
+        - definition: preconceived opinion not based on reason or actual experience.
+        - pronunciation: /ˈprɛdʒ.ʊ.dɪs/
+        - part of speech: noun
+        - examples:
+          - Prejudice hinders open communication.
+          - Overcoming prejudice requires education.
+        - synonyms: bias, discrimination
+        - antonyms: impartiality, fairness
+        - related words: prejudiced, prejudicial
+      - bias
+        - definition: inclination or prejudice for or against one person or group.
+        - pronunciation: /ˈbaɪ.əs/
+        - part of speech: noun
+        - examples:
+          - Unconscious bias can affect decision-making.
+          - They worked to eliminate bias in their policies.
+        - synonyms: partiality, favoritism
+        - antonyms: neutrality, objectivity
+        - related words: biased, unbiased
+      - xenophobia
+        - definition: dislike of or prejudice against people from other countries.
+        - pronunciation: /ˌzɛn.əˈfəʊ.bi.ə/
+        - part of speech: noun
+        - examples:
+          - Xenophobia can lead to social tension.
+          - Education can help combat xenophobia.
+        - synonyms: racism, ethnocentrism
+        - antonyms: tolerance, acceptance
+        - related words: xenophobic, xenophile
+      - discrimination
+        - definition: unjust or prejudicial treatment of different categories of people.
+        - pronunciation: /dɪˌskrɪm.ɪˈneɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Laws exist to prevent discrimination in the workplace.
+          - Discrimination undermines equality.
+        - synonyms: bias, prejudice
+        - antonyms: fairness, equality
+        - related words: discriminate, discriminatory
+    - Cultural Adaptation
+      - culture shock
+        - definition: the feeling of disorientation experienced when suddenly subjected to an unfamiliar culture.
+        - pronunciation: /ˈkʌl.tʃər ʃɒk/
+        - part of speech: noun
+        - examples:
+          - She experienced culture shock when she moved abroad.
+          - Culture shock can include feelings of anxiety and confusion.
+        - synonyms: disorientation, homesickness
+        - antonyms: cultural acclimatization
+        - related words: adjustment, adaptation
+      - honeymoon phase
+        - definition: the initial period of excitement and euphoria when experiencing a new culture.
+        - pronunciation: /ˈhʌn.i.muːn feɪz/
+        - part of speech: noun
+        - examples:
+          - During the honeymoon phase, everything seems fascinating.
+          - The honeymoon phase of cultural adaptation is often temporary.
+        - synonyms: initial enthusiasm
+        - antonyms: crisis phase
+        - related words: honeymoon, phase
+      - adjustment phase
+        - definition: the period during which one becomes accustomed to a new culture.
+        - pronunciation: /əˈdʒʌst.mənt feɪz/
+        - part of speech: noun
+        - examples:
+          - In the adjustment phase, she began to feel more comfortable.
+          - The adjustment phase requires patience and openness.
+        - synonyms: adaptation period
+        - antonyms: culture shock phase
+        - related words: adjust, adjusting
+      - integration
+        - definition: the process of combining or incorporating parts into a whole.
+        - pronunciation: /ˌɪn.tɪˈɡreɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Integration into a new culture takes time.
+          - Policies can support the integration of immigrants.
+        - synonyms: assimilation, incorporation
+        - antonyms: segregation, separation
+        - related words: integrate, integrative
+      - biculturalism
+        - definition: the presence of two different cultures in the same person or society.
+        - pronunciation: /ˌbaɪˈkʌl.tʃər.əl.ɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Biculturalism can enrich an individual's perspectives.
+          - She embraced biculturalism by honoring both her heritage and new culture.
+        - synonyms: dual culture
+        - antonyms: monoculturalism
+        - related words: bicultural, multiculturalism

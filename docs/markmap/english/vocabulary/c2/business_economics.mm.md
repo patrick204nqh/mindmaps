@@ -1,0 +1,419 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- C2
+  - Business & Economics
+    - Macroeconomics
+      - inflation
+        - definition: a general increase in prices and fall in the purchasing value of money.
+        - pronunciation: /ɪnˈfleɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - The central bank raised interest rates to combat inflation.
+          - High inflation can erode consumers' purchasing power.
+        - synonyms: price increase, rising prices
+        - antonyms: deflation
+        - related words: inflate, inflationary
+      - deflation
+        - definition: a decrease in the general price level of goods and services.
+        - pronunciation: /diːˈfleɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Deflation can lead to decreased economic activity.
+          - The economy is experiencing deflation due to reduced demand.
+        - synonyms: price decline, falling prices
+        - antonyms: inflation
+        - related words: deflate, deflationary
+      - fiscal policy
+        - definition: government policies regarding taxation and spending to influence the economy.
+        - pronunciation: /ˈfɪs.kəl ˈpɒl.ɪ.si/
+        - part of speech: noun
+        - examples:
+          - The government implemented expansionary fiscal policy to stimulate growth.
+          - Fiscal policy can be used to control inflation.
+        - synonyms: budgetary policy
+        - antonyms: monetary policy
+        - related words: fiscal, policymaking
+      - monetary policy
+        - definition: the process by which a central bank controls the supply of money.
+        - pronunciation: /ˈmʌn.ɪ.tri ˈpɒl.ɪ.si/
+        - part of speech: noun
+        - examples:
+          - The central bank adjusts interest rates as part of its monetary policy.
+          - Tight monetary policy can help reduce inflation.
+        - synonyms: financial policy
+        - antonyms: fiscal policy
+        - related words: monetary, central banking
+      - gross domestic product
+        - definition: the total value of goods produced and services provided in a country during one year.
+        - pronunciation: /ɡrəʊs dəˈmɛs.tɪk ˈprɒd.ʌkt/
+        - part of speech: noun
+        - examples:
+          - The country's gross domestic product grew by 3% last year.
+          - GDP is a key indicator of economic health.
+        - synonyms: GDP, national output
+        - antonyms: -
+        - related words: gross national product, economic growth
+    - Microeconomics
+      - elasticity
+        - definition: a measure of the responsiveness of demand or supply to changes in price or income.
+        - pronunciation: /ˌiː.læˈstɪs.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - The elasticity of demand for luxury goods is high.
+          - Price elasticity affects how consumers respond to price changes.
+        - synonyms: responsiveness, sensitivity
+        - antonyms: inelasticity
+        - related words: elastic, inelastic
+      - marginal cost
+        - definition: the cost of producing one additional unit of a good or service.
+        - pronunciation: /ˈmɑː.dʒɪ.nəl kɒst/
+        - part of speech: noun
+        - examples:
+          - Companies analyze marginal cost to optimize production levels.
+          - If the marginal cost exceeds the price, production is unprofitable.
+        - synonyms: incremental cost
+        - antonyms: average cost
+        - related words: marginal benefit, marginal analysis
+      - utility
+        - definition: a measure of satisfaction or happiness that a consumer derives from consuming goods and services.
+        - pronunciation: /juːˈtɪl.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Consumers aim to maximize their utility given budget constraints.
+          - The concept of utility is fundamental in microeconomics.
+        - synonyms: usefulness, benefit
+        - antonyms: disutility
+        - related words: utilitarian, utility function
+      - opportunity cost
+        - definition: the loss of potential gain from other alternatives when one alternative is chosen.
+        - pronunciation: /ˌɒp.əˈtjuː.nɪ.ti kɒst/
+        - part of speech: noun
+        - examples:
+          - Choosing to invest in stocks has an opportunity cost of not investing in bonds.
+          - Time spent on leisure activities has an opportunity cost of lost income.
+        - synonyms: trade-off, alternative cost
+        - antonyms: sunk cost
+        - related words: cost-benefit analysis, economic choice
+      - equilibrium
+        - definition: a state where supply equals demand for a product.
+        - pronunciation: /ˌiː.kwɪˈlɪb.ri.əm/
+        - part of speech: noun
+        - examples:
+          - The market reached equilibrium at a price of $10 per unit.
+          - Shifts in supply or demand can disrupt market equilibrium.
+        - synonyms: balance, stability
+        - antonyms: disequilibrium
+        - related words: equilibrate, equilibrium price
+    - Finance
+      - leverage
+        - definition: the use of borrowed capital for investment, expecting the profits made to be greater than the interest payable.
+        - pronunciation: /ˈlɛv.ər.ɪdʒ/
+        - part of speech: noun
+        - examples:
+          - The company increased its leverage to finance new projects.
+          - High leverage can amplify both gains and losses.
+        - synonyms: gearing, debt financing
+        - antonyms: deleverage
+        - related words: leveraged, leveraging
+      - liquidity
+        - definition: the availability of liquid assets to a market or company.
+        - pronunciation: /lɪˈkwɪd.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - The bank has sufficient liquidity to meet its obligations.
+          - Liquidity is important for firms to operate smoothly.
+        - synonyms: cash flow, solvency
+        - antonyms: illiquidity
+        - related words: liquid, liquidity ratio
+      - arbitrage
+        - definition: the simultaneous buying and selling of assets to profit from price differences.
+        - pronunciation: /ˈɑː.bɪ.trɑːʒ/
+        - part of speech: noun
+        - examples:
+          - Traders engage in arbitrage to exploit market inefficiencies.
+          - Currency arbitrage can be profitable in volatile markets.
+        - synonyms: speculation, trading
+        - antonyms: long-term investment
+        - related words: arbitrageur, arbitraging
+      - derivative
+        - definition: a financial instrument whose value is based on an underlying asset.
+        - pronunciation: /dɪˈrɪv.ə.tɪv/
+        - part of speech: noun
+        - examples:
+          - Derivatives can be used to hedge against price fluctuations.
+          - Options and futures are common types of derivatives.
+        - synonyms: financial instrument, security
+        - antonyms: underlying asset
+        - related words: derive, derivation
+      - securitization
+        - definition: the process of turning an asset into a marketable security.
+        - pronunciation: /sɪˌkjʊə.rɪ.taɪˈzeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Securitization allows banks to free up capital.
+          - The mortgage crisis was partly due to the securitization of risky loans.
+        - synonyms: asset-backed financing
+        - antonyms: -
+        - related words: securitize, security
+    - Marketing
+      - segmentation
+        - definition: dividing a market into distinct groups of buyers with different needs or behaviors.
+        - pronunciation: /ˌsɛɡ.mənˈteɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Market segmentation helps companies target specific audiences.
+          - Demographic segmentation is based on age, gender, income, etc.
+        - synonyms: division, categorization
+        - antonyms: mass marketing
+        - related words: segment, segmenting
+      - positioning
+        - definition: designing a product and its image to occupy a distinct place in the mind of the target market.
+        - pronunciation: /pəˈzɪʃ.ən.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - Effective positioning differentiates a brand from its competitors.
+          - The company is repositioning its product to appeal to younger consumers.
+        - synonyms: branding, placement
+        - antonyms: -
+        - related words: position, reposition
+      - brand equity
+        - definition: the value a brand adds to a product or service.
+        - pronunciation: /brænd ˈɛk.wɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Strong brand equity allows a company to charge premium prices.
+          - Advertising campaigns aim to build brand equity.
+        - synonyms: brand value, brand strength
+        - antonyms: brand dilution
+        - related words: branding, equity
+      - consumer behavior
+        - definition: the study of individuals and groups in selecting and using products.
+        - pronunciation: /kənˈsjuː.mər bɪˈheɪ.vjər/
+        - part of speech: noun
+        - examples:
+          - Understanding consumer behavior is crucial for marketing strategies.
+          - Consumer behavior research can reveal purchasing patterns.
+        - synonyms: buying habits, customer behavior
+        - antonyms: producer behavior
+        - related words: consumerism, behavioral analysis
+      - value proposition
+        - definition: a statement that summarizes why a consumer should buy a product.
+        - pronunciation: /ˈvæl.juː ˌprɒp.əˈzɪʃ.ən/
+        - part of speech: noun
+        - examples:
+          - A clear value proposition can attract more customers.
+          - The company's value proposition focuses on quality and affordability.
+        - synonyms: unique selling point, USP
+        - antonyms: -
+        - related words: proposition, propose
+    - Management
+      - benchmarking
+        - definition: comparing business processes and performance metrics to industry bests.
+        - pronunciation: /ˈbɛntʃ.mɑː.kɪŋ/
+        - part of speech: noun
+        - examples:
+          - Benchmarking helps organizations improve their performance.
+          - They are benchmarking against leading companies in the sector.
+        - synonyms: standardization, evaluation
+        - antonyms: -
+        - related words: benchmark, benchmarking study
+      - empowerment
+        - definition: giving employees the authority and responsibility to make decisions.
+        - pronunciation: /ɪmˈpaʊə.mənt/
+        - part of speech: noun
+        - examples:
+          - Employee empowerment can lead to increased motivation.
+          - The management implemented policies to encourage empowerment.
+        - synonyms: authorization, enablement
+        - antonyms: micromanagement
+        - related words: empower, empowered
+      - synergy
+        - definition: the interaction of elements that when combined produce a total effect greater than the sum of the individual elements.
+        - pronunciation: /ˈsɪn.ə.dʒi/
+        - part of speech: noun
+        - examples:
+          - The merger created synergy between the two companies.
+          - Teamwork can generate synergy and boost productivity.
+        - synonyms: collaboration, cooperation
+        - antonyms: antagonism
+        - related words: synergistic, synergize
+      - stakeholder
+        - definition: a person with an interest or concern in something, especially a business.
+        - pronunciation: /ˈsteɪkˌhəʊl.dər/
+        - part of speech: noun
+        - examples:
+          - Engaging stakeholders is essential for project success.
+          - The company considered the impact on all stakeholders.
+        - synonyms: interested party, shareholder
+        - antonyms: outsider
+        - related words: stake, holding
+      - corporate governance
+        - definition: the system of rules, practices, and processes by which a company is directed and controlled.
+        - pronunciation: /ˈkɔː.pər.ət ˈɡʌv.ə.nəns/
+        - part of speech: noun
+        - examples:
+          - Good corporate governance ensures accountability.
+          - The scandal raised questions about corporate governance.
+        - synonyms: management practices, oversight
+        - antonyms: mismanagement
+        - related words: govern, governance
+    - International Trade
+      - tariff
+        - definition: a tax or duty to be paid on a particular class of imports or exports.
+        - pronunciation: /ˈtær.ɪf/
+        - part of speech: noun
+        - examples:
+          - The government imposed tariffs on steel imports.
+          - Tariffs can protect domestic industries.
+        - synonyms: duty, import tax
+        - antonyms: free trade
+        - related words: tariff barrier, tariff schedule
+      - quota
+        - definition: a limited quantity of a particular product that can be produced, exported, or imported.
+        - pronunciation: /ˈkwəʊ.tə/
+        - part of speech: noun
+        - examples:
+          - There is a quota on the number of cars that can be imported.
+          - Quotas are used to control the supply of goods.
+        - synonyms: allotment, limit
+        - antonyms: unlimited
+        - related words: quantitative restriction, allocation
+      - balance of trade
+        - definition: the difference in value between a country's imports and exports.
+        - pronunciation: /ˈbæl.əns əv treɪd/
+        - part of speech: noun
+        - examples:
+          - The country has a favorable balance of trade.
+          - A trade deficit occurs when the balance of trade is negative.
+        - synonyms: trade balance
+        - antonyms: -
+        - related words: trade surplus, trade deficit
+      - globalization
+        - definition: the process by which businesses develop international influence or operate on an international scale.
+        - pronunciation: /ˌɡləʊ.bəl.aɪˈzeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Globalization has increased competition worldwide.
+          - The company expanded due to globalization.
+        - synonyms: internationalization, worldwide integration
+        - antonyms: isolationism
+        - related words: globalize, global
+      - exchange rate
+        - definition: the value of one currency for the purpose of conversion to another.
+        - pronunciation: /ɪksˈtʃeɪndʒ reɪt/
+        - part of speech: noun
+        - examples:
+          - The exchange rate fluctuates daily.
+          - A strong exchange rate can make exports more expensive.
+        - synonyms: currency rate, forex rate
+        - antonyms: -
+        - related words: foreign exchange, currency conversion
+    - Investment
+      - diversification
+        - definition: a risk management strategy that mixes a wide variety of investments within a portfolio.
+        - pronunciation: /daɪˌvɜː.sɪ.fɪˈkeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Diversification can reduce the overall risk of an investment portfolio.
+          - The investor emphasized the importance of diversification.
+        - synonyms: variety, assortment
+        - antonyms: concentration
+        - related words: diversify, diversified
+      - hedge fund
+        - definition: a limited partnership of investors that uses high-risk methods in hopes of realizing large capital gains.
+        - pronunciation: /hɛdʒ fʌnd/
+        - part of speech: noun
+        - examples:
+          - Hedge funds are available only to accredited investors.
+          - The hedge fund manager used aggressive strategies.
+        - synonyms: alternative investment
+        - antonyms: mutual fund
+        - related words: hedging, fund
+      - capital gains
+        - definition: a profit from the sale of property or an investment.
+        - pronunciation: /ˈkæp.ɪ.təl ɡeɪnz/
+        - part of speech: noun
+        - examples:
+          - Capital gains are subject to taxation.
+          - Selling the stock resulted in significant capital gains.
+        - synonyms: investment profit
+        - antonyms: capital losses
+        - related words: capital gain tax, gains
+      - portfolio
+        - definition: a range of investments held by a person or organization.
+        - pronunciation: /pɔːtˈfəʊ.li.əʊ/
+        - part of speech: noun
+        - examples:
+          - She manages a diversified investment portfolio.
+          - The portfolio includes stocks, bonds, and real estate.
+        - synonyms: investment collection
+        - antonyms: -
+        - related words: portfolio management, portfolio analysis
+      - yield
+        - definition: the income return on an investment.
+        - pronunciation: /jiːld/
+        - part of speech: noun
+        - examples:
+          - The bond offers a 5% yield.
+          - Investors seek high yields with low risk.
+        - synonyms: return, earnings
+        - antonyms: loss
+        - related words: yield (verb), high-yield
+    - Accounting
+      - depreciation
+        - definition: the reduction in the value of an asset over time.
+        - pronunciation: /dɪˌpriː.ʃiˈeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Depreciation is used for accounting and tax purposes.
+          - The company recorded depreciation expenses for its equipment.
+        - synonyms: devaluation, amortization
+        - antonyms: appreciation
+        - related words: depreciate, depreciable
+      - accrual
+        - definition: the recognition of revenue or expenses that have been incurred but not yet recorded.
+        - pronunciation: /əˈkruː.əl/
+        - part of speech: noun
+        - examples:
+          - Accrual accounting records revenues when earned.
+          - The accrual of interest increases the loan balance.
+        - synonyms: accumulation, buildup
+        - antonyms: cash accounting
+        - related words: accrue, accrued
+      - ledger
+        - definition: a book or other collection of financial accounts.
+        - pronunciation: /ˈlɛdʒ.ər/
+        - part of speech: noun
+        - examples:
+          - All transactions are recorded in the general ledger.
+          - The accountant updated the ledger at the end of the day.
+        - synonyms: account book, record
+        - antonyms: -
+        - related words: double-entry bookkeeping, ledger balance
+      - solvency
+        - definition: the ability of a company to meet its long-term financial obligations.
+        - pronunciation: /ˈsɒl.vən.si/
+        - part of speech: noun
+        - examples:
+          - The audit assessed the company's solvency.
+          - Maintaining solvency is crucial for business sustainability.
+        - synonyms: financial stability, liquidity
+        - antonyms: insolvency
+        - related words: solvent, solvency ratio
+      - audit
+        - definition: an official inspection of an organization's accounts.
+        - pronunciation: /ˈɔː.dɪt/
+        - part of speech: noun
+        - examples:
+          - The company underwent an external audit.
+          - Audits ensure compliance with accounting standards.
+        - synonyms: examination, inspection
+        - antonyms: -
+        - related words: auditor, auditing
