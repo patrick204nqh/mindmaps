@@ -1,0 +1,20 @@
+:root {
+  /* Primary Colors */
+  --md-primary-fg-color:               #4E78A0; /* Darker blue for primary text */
+  --md-primary-fg-color--light:        #6C92B8; /* Lighter shade for less prominent text */
+  --md-primary-fg-color--dark:         #345C7E; /* Dark blue for strong accents */
+  
+  /* Background Colors */
+  --md-primary-bg-color:               #1E1E2E; /* Dark background for main sections */
+  --md-primary-bg-color--light:        linear-gradient(135deg, #1E1E2E, #2B2B3B); /* Gradient for a more subtle background */
+
+  /* Accent Colors */
+  --md-accent-fg-color:                #4E78A0; /* Accent color matching the primary blue */
+  --md-accent-fg-color--transparent:   rgba(78, 120, 160, 0.1); /* Transparent accent for hover effects */
+  --md-accent-bg-color:                #2B2B3B; /* Darker accent background for buttons, menus, etc. */
+  --md-accent-bg-color--light:         rgba(43, 43, 59, 0.7); /* Slightly lighter and transparent for backgrounds */
+
+  /* Additional Styling for Background and Borders */
+  --md-background-color:               #1A1A28; /* Background for body or large sections */
+  --md-border-color:                   #3C3C55; /* Border color for dividing elements */
+}
