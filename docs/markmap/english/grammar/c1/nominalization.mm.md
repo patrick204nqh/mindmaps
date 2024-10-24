@@ -1,0 +1,356 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- C1
+  - Nominalization
+    - Forms of Nominalization
+      - verb to noun
+        - explanation: Transforming a verb into its corresponding noun form to shift focus from the action to the concept.
+        - examples:
+          - "decide" becomes "decision"
+          - "analyze" becomes "analysis"
+        - usage notes: Commonly used to create more formal and abstract language, especially in academic and professional writing.
+        - exceptions: Not all verbs have direct noun forms; some require different noun forms or restructuring.
+        - related rules: verb forms, abstract nouns
+      - adjective to noun
+        - explanation: Converting adjectives into nouns to emphasize qualities or states.
+        - examples:
+          - "happy" becomes "happiness"
+          - "strong" becomes "strength"
+        - usage notes: Useful for expressing abstract concepts and qualities in a more formal manner.
+        - exceptions: Some adjectives form nouns irregularly or require suffix changes.
+        - related rules: adjective forms, abstract nouns
+      - clause to noun
+        - explanation: Turning entire clauses into noun phrases to condense information and enhance clarity.
+        - examples:
+          - "that he arrived late" becomes "his late arrival"
+          - "to win the game" becomes "winning the game"
+        - usage notes: Helps in creating complex sentences by embedding ideas succinctly.
+        - exceptions: May lead to ambiguity if not clearly structured.
+        - related rules: clause transformation, sentence restructuring
+    - Reasons for Nominalization
+      - formality
+        - explanation: Using nominalization to adopt a more formal tone in writing and speech.
+        - examples:
+          - Instead of "We decided to start," use "We made a decision to start."
+          - Instead of "She solved the problem," use "She provided a solution to the problem."
+        - usage notes: Enhances the professionalism and sophistication of the language.
+        - exceptions: Overuse can make writing sound stiff or convoluted.
+        - related rules: formal language, stylistic choices
+      - conciseness
+        - explanation: Condensing information by transforming verbs and adjectives into nouns.
+        - examples:
+          - "The results of the experiment were significant." instead of "The experiment produced significant results."
+          - "Her improvement was noticeable." instead of "She improved noticeably."
+        - usage notes: Helps in reducing word count and streamlining sentences.
+        - exceptions: May sometimes obscure the action or make sentences less direct.
+        - related rules: sentence efficiency, clarity techniques
+      - emphasis
+        - explanation: Highlighting specific concepts or ideas by nominalizing relevant parts of the sentence.
+        - examples:
+          - "His dedication is commendable." emphasizes "dedication."
+          - "The implementation of the policy took time." emphasizes "implementation."
+        - usage notes: Directs the reader’s attention to the most important elements of the sentence.
+        - exceptions: Can lead to passive constructions that may reduce clarity if overused.
+        - related rules: emphatic structures, focus techniques
+    - Process of Nominalization
+      - adding suffixes
+        - explanation: Creating noun forms by appending specific suffixes to verbs or adjectives.
+        - examples:
+          - "-tion" as in "create" to "creation"
+          - "-ness" as in "happy" to "happiness"
+        - usage notes: Familiarizing with common suffixes aids in accurate and effective nominalization.
+        - exceptions: Some words require irregular suffixes or do not follow standard patterns.
+        - related rules: suffix usage, word formation
+      - using participles
+        - explanation: Utilizing present or past participles as nouns to represent actions or states.
+        - examples:
+          - "running" in "Running is fun."
+          - "broken" in "The broken was repaired."
+        - usage notes: Participles can add a dynamic quality to nouns, often used in gerund forms.
+        - exceptions: Not all participles can function as nouns; some may require additional modification.
+        - related rules: participle forms, gerunds
+    - Nominalization in Sentence Structure
+      - subject nominalization
+        - explanation: Using a noun formed from a verb or adjective as the subject of a sentence.
+        - examples:
+          - "Swimming is beneficial for health."
+          - "Her resilience was admirable."
+        - usage notes: Shifts the focus from the action to the concept, often used for general statements or definitions.
+        - exceptions: May require rephrasing to maintain subject-verb agreement and clarity.
+        - related rules: subject roles, sentence focus
+      - object nominalization
+        - explanation: Employing a nominalized form as the object of a verb to encapsulate actions or ideas.
+        - examples:
+          - "They discussed the implementation of the plan."
+          - "She values his honesty."
+        - usage notes: Facilitates the inclusion of complex ideas as single objects within sentences.
+        - exceptions: Some nominalized objects may require additional context to avoid ambiguity.
+        - related rules: object roles, sentence clarity
+      - prepositional nominalization
+        - explanation: Using nominalized phrases after prepositions to elaborate on relationships or conditions.
+        - examples:
+          - "In the event of a fire, evacuate immediately."
+          - "Despite his reluctance, he participated."
+        - usage notes: Enhances the preciseness and formality of prepositional phrases.
+        - exceptions: Overuse can make sentences bulky; balance is key for readability.
+        - related rules: prepositional phrases, sentence efficiency
+    - Common Nominalization Patterns
+      - using -tion, -ment, -ness, -ity
+        - explanation: Applying common suffixes to create nouns from verbs or adjectives.
+        - examples:
+          - "decide" to "decision" (-sion)
+          - "achieve" to "achievement" (-ment)
+          - "happy" to "happiness" (-ness)
+          - "active" to "activity" (-ity)
+        - usage notes: Mastering these suffixes allows for effective transformation and variety in writing.
+        - exceptions: Some words have irregular nominal forms or do not follow standard suffix patterns.
+        - related rules: suffix usage, word formation
+      - gerunds vs. nominalized nouns
+        - explanation: Choosing between using gerunds (verb + -ing) and nominalized nouns to convey similar ideas with different nuances.
+        - examples:
+          - Gerund: "Reading improves vocabulary."
+          - Nominalized: "Reading is an improvement to vocabulary." (less natural)
+          - More natural nominalized example: "The improvement of vocabulary through reading."
+        - usage notes: Gerunds are often more direct and natural, while nominalized nouns can add formality or complexity.
+        - exceptions: Some contexts may favor one form over the other based on stylistic or clarity needs.
+        - related rules: gerund usage, noun formation
+    - Avoiding Over-nominalization
+      - clarity
+        - explanation: Ensuring that nominalization does not obscure the meaning or make sentences harder to understand.
+        - examples:
+          - Over-nominalized: "The implementation of the policy resulted in the reduction of costs."
+          - Clearer: "Implementing the policy reduced costs."
+        - usage notes: Strive for a balance between formality and clarity to maintain reader engagement.
+        - exceptions: In highly formal contexts, some level of nominalization may be necessary.
+        - related rules: sentence clarity, conciseness
+      - readability
+        - explanation: Maintaining easy-to-read sentences by limiting excessive nominalization that can complicate sentence structure.
+        - examples:
+          - Over-nominalized: "The discovery of the phenomenon led to the advancement of the theory."
+          - Readable: "Discovering the phenomenon advanced the theory."
+        - usage notes: Use nominalization purposefully to enhance, not hinder, the flow of information.
+        - exceptions: Some complex ideas may inherently require nominalization for precise expression.
+        - related rules: sentence structure, readability techniques
+    - Nominalization in Academic Writing
+      - examples
+        - explanation: Illustrating how nominalization is effectively used in academic contexts to convey complex ideas succinctly.
+        - examples:
+          - "The analysis of the data revealed significant trends."
+          - "There has been a significant increase in productivity."
+        - usage notes: Enhances the formal tone and density of information in academic papers.
+        - exceptions: Avoid excessive nominalization that may reduce readability or engagement.
+        - related rules: academic writing style, formal language
+      - tips
+        - explanation: Providing strategies for effectively incorporating nominalization in academic writing.
+        - examples:
+          - Use nominalization to condense information and focus on key concepts.
+          - Combine nominalization with precise vocabulary to enhance clarity.
+        - usage notes: Balance nominalization with active structures to maintain variety and reader interest.
+        - exceptions: Over-reliance on nominalization can make writing seem abstract or impersonal.
+        - related rules: writing strategies, sentence variety
+    - Process of Nominalization
+      - identifying verbs and adjectives for transformation
+        - explanation: Recognizing which verbs and adjectives can be nominalized to effectively shift focus within sentences.
+        - examples:
+          - "decide" → "decision"
+          - "happy" → "happiness"
+        - usage notes: Familiarize yourself with common verbs and adjectives that readily nominalize.
+        - exceptions: Some verbs and adjectives have irregular or less common nominal forms.
+        - related rules: word categorization, noun formation
+      - applying appropriate suffixes
+        - explanation: Selecting and adding the correct suffixes to transform words into their nominal forms.
+        - examples:
+          - Adding "-tion": "inform" → "information"
+          - Adding "-ity": "active" → "activity"
+        - usage notes: Use standard suffix patterns to ensure grammatical accuracy and naturalness.
+        - exceptions: Irregular forms may require unique suffixes or restructuring.
+        - related rules: suffix usage, word formation
+      - restructuring sentences for nominalization
+        - explanation: Adjusting sentence structure to incorporate nominalized forms smoothly and logically.
+        - examples:
+          - Original: "They decided to implement the plan."
+            Nominalized: "Their decision to implement the plan was unanimous."
+          - Original: "She explained how the system works."
+            Nominalized: "Her explanation of how the system works was clear."
+        - usage notes: Ensure that the restructured sentences maintain clarity and coherence.
+        - exceptions: Some sentences may become cumbersome and require further refinement.
+        - related rules: sentence restructuring, clarity techniques
+    - Common Nominalization Patterns
+      - transformation of action verbs
+        - explanation: Converting verbs that denote actions into nouns to represent the actions as concepts or events.
+        - examples:
+          - "create" → "creation"
+          - "improve" → "improvement"
+        - usage notes: Useful for discussing actions in an abstract or formal manner.
+        - exceptions: Not all action verbs have direct nominal forms; some require different noun structures.
+        - related rules: verb forms, abstract nouns
+      - transformation of state adjectives
+        - explanation: Turning adjectives that describe states or qualities into nouns to represent those qualities as concepts.
+        - examples:
+          - "efficient" → "efficiency"
+          - "strong" → "strength"
+        - usage notes: Helps in emphasizing qualities or characteristics in a formal context.
+        - exceptions: Some adjectives form nouns irregularly or require suffix changes.
+        - related rules: adjective forms, abstract nouns
+      - using noun phrases to represent clauses
+        - explanation: Employing noun phrases derived from clauses to encapsulate complex ideas succinctly.
+        - examples:
+          - "that she arrived late" → "her late arrival"
+          - "to solve the problem" → "solving the problem"
+        - usage notes: Facilitates the inclusion of detailed ideas within a concise noun structure.
+        - exceptions: May lead to ambiguity if the noun phrase is not clearly defined.
+        - related rules: clause transformation, sentence restructuring
+    - Advanced Techniques
+      - layering nominalizations
+        - explanation: Using multiple nominalizations within a single sentence to convey layered or complex ideas.
+        - examples:
+          - "The implementation of the policy led to an increase in productivity."
+          - "Her understanding of the theory influenced her teaching methods."
+        - usage notes: Enhances the complexity and depth of information presented.
+        - exceptions: Can make sentences overly dense or difficult to follow if overused.
+        - related rules: sentence complexity, academic writing
+      - combining nominalization with other advanced structures
+        - explanation: Integrating nominalization with structures like relative clauses, conditionals, or passives to create sophisticated sentences.
+        - examples:
+          - "The decision that the committee made was final."
+          - "His analysis of the data, which was thorough, revealed new insights."
+        - usage notes: Adds nuance and detail to sentences, suitable for high-level writing.
+        - exceptions: Requires careful structuring to maintain clarity and coherence.
+        - related rules: relative clauses, sentence variety
+      - nominalization in complex sentences
+        - explanation: Employing nominalization within compound or complex sentences to manage and present multiple ideas efficiently.
+        - examples:
+          - "The proposal for increasing efficiency was approved, and its implementation will begin next month."
+          - "Her recommendation to enhance the curriculum led to significant changes in the program."
+        - usage notes: Helps in organizing and presenting multifaceted information in a streamlined manner.
+        - exceptions: Overcomplicating sentences can reduce readability; balance is essential.
+        - related rules: compound sentences, sentence organization
+    - Common Mistakes
+      - over-nominalization
+        - explanation: Excessively using nominalization, making sentences convoluted and hard to read.
+        - examples:
+          - Incorrect: "The implementation of the execution of the plan led to the achievement of the goals."
+          - Correct: "Implementing the plan led to achieving the goals."
+        - usage notes: Use nominalization judiciously to maintain clarity and readability.
+        - exceptions: In formal or academic contexts, some level of nominalization may be necessary for precision.
+        - related rules: sentence clarity, readability techniques
+      - incorrect suffix usage
+        - explanation: Applying the wrong suffixes when nominalizing verbs or adjectives, resulting in incorrect or awkward noun forms.
+        - examples:
+          - Incorrect: "Inform" → "informity"
+          - Correct: "Inform" → "information"
+          - Incorrect: "Happy" → "happity"
+          - Correct: "Happy" → "happiness"
+        - usage notes: Familiarize yourself with common suffix patterns and exceptions to ensure accurate nominalization.
+        - exceptions: Some words have irregular nominal forms that do not follow standard suffix rules.
+        - related rules: suffix usage, word formation
+      - ambiguity in nominalized sentences
+        - explanation: Creating sentences where the nominalized forms make the meaning unclear or obscure the original intent.
+        - examples:
+          - Ambiguous: "His improvement was due to his hard work."
+            (Unclear what "improvement" specifically refers to)
+          - Clear: "His academic improvement was due to his hard work."
+        - usage notes: Ensure that nominalized nouns are specific enough to convey the intended meaning without confusion.
+        - exceptions: Context may sometimes provide sufficient clarity despite nominalization.
+        - related rules: sentence clarity, specificity in language
+      - mismatch in verb forms
+        - explanation: Failing to align verb forms correctly with nominalized subjects or objects, leading to grammatical errors.
+        - examples:
+          - Incorrect: "The creation of the new system require careful planning."
+          - Correct: "The creation of the new system requires careful planning."
+          - Incorrect: "His happiness are evident."
+          - Correct: "His happiness is evident."
+        - usage notes: Ensure subject-verb agreement when nominalizing subjects or objects.
+        - exceptions: None specific; standard agreement rules apply.
+        - related rules: subject-verb agreement, verb conjugation
+      - neglecting to use gerunds when appropriate
+        - explanation: Choosing nominalized nouns over gerunds in contexts where gerunds are more natural or idiomatic.
+        - examples:
+          - Incorrect: "Her understanding of the topic is impressive."
+          - More natural: "Her understanding of the topic is impressive." (Both are acceptable, but gerunds can be more fluid in some contexts)
+          - Incorrect: "The recommendation of the committee was accepted."
+          - More natural: "The committee recommended accepting the proposal."
+        - usage notes: Assess whether a gerund or a nominalized noun better fits the sentence’s flow and meaning.
+        - exceptions: Some contexts may require nominalization for formality or emphasis.
+        - related rules: gerund usage, sentence fluidity
+    - Exceptions
+      - verbs that resist nominalization
+        - explanation: Certain verbs do not easily convert into nominal forms, often requiring alternative structures or phrases.
+        - examples:
+          - "arrive" → No direct noun form; use "arrival"
+          - "sleep" → No direct noun form; use "sleeping" or restructure the sentence
+        - usage notes: Use alternative nouns or rephrase sentences when nominalization is not straightforward.
+        - exceptions: Some verbs have irregular or less common nominal forms that must be memorized.
+        - related rules: verb forms, alternative structures
+      - nominalization altering the sentence meaning
+        - explanation: Transforming words into nouns can sometimes change the original meaning or introduce ambiguity.
+        - examples:
+          - "He decided to leave" vs. "His decision to leave"
+            (The focus shifts from the action to the decision)
+          - "She is happy" vs. "Her happiness"
+            (The focus shifts from the state to the quality)
+        - usage notes: Be mindful of how nominalization affects the focus and meaning of the sentence.
+        - exceptions: In some cases, nominalization enhances the intended meaning without altering it.
+        - related rules: sentence focus, meaning preservation
+      - over-reliance on nominalization in certain contexts
+        - explanation: In some writing styles or contexts, excessive nominalization can be counterproductive, making text dense or impersonal.
+        - examples:
+          - Academic writing might require nominalization, but in creative writing, it can reduce expressiveness.
+          - Over-nominalized: "The establishment of the foundation was crucial for the success."
+            More natural: "Establishing the foundation was crucial for success."
+        - usage notes: Adapt the use of nominalization based on the writing style and audience to maintain effectiveness.
+        - exceptions: Formal contexts may necessitate higher use of nominalization for precision and formality.
+        - related rules: writing style, audience awareness
+    - Related Rules
+      - passive voice
+        - explanation: A sentence structure where the subject receives the action, often used in nominalization to focus on the action or concept rather than the doer.
+        - examples:
+          - Active: "They implemented the policy."
+            Passive: "The policy was implemented."
+          - Active: "She conducted the research."
+            Passive: "The research was conducted by her."
+        - usage notes: Combining passive voice with nominalization can enhance formality and focus on actions or ideas.
+        - exceptions: Overusing passive voice can make writing vague or impersonal; balance is essential.
+        - related rules: passive structures, subject-verb agreement
+      - gerunds and infinitives
+        - explanation: Gerunds (verb + -ing) and infinitives (to + base verb) are often used as noun equivalents, similar to nominalization.
+        - examples:
+          - Gerund: "Running is healthy."
+          - Infinitive: "To run is healthy."
+        - usage notes: Choose between gerunds and infinitives based on the desired emphasis and sentence flow.
+        - exceptions: Some verbs and expressions specifically require gerunds or infinitives.
+        - related rules: verb forms, noun functions
+      - sentence restructuring
+        - explanation: Modifying sentence structures to incorporate nominalized forms, enhancing clarity and sophistication.
+        - examples:
+          - Original: "They plan to increase productivity."
+            Restructured: "Their plan to increase productivity is effective."
+          - Original: "She needs to improve her skills."
+            Restructured: "Her need to improve her skills is evident."
+        - usage notes: Use restructuring to seamlessly integrate nominalization while maintaining sentence coherence.
+        - exceptions: Some sentences may not lend themselves well to nominalization and require alternative approaches.
+        - related rules: sentence variety, clarity techniques
+      - abstract nouns
+        - explanation: Nouns that represent ideas, qualities, or concepts rather than concrete objects, often formed through nominalization.
+        - examples:
+          - "success" from "succeed"
+          - "freedom" from "free"
+        - usage notes: Abstract nouns are useful for discussing complex ideas in a concise and formal manner.
+        - exceptions: Some abstract concepts do not have direct nominal forms and require alternative expressions.
+        - related rules: abstract vs. concrete nouns, word formation
+      - advanced suffix usage
+        - explanation: Employing less common or more complex suffixes to create nuanced nominalized forms from verbs and adjectives.
+        - examples:
+          - "-ance" as in "maintain" to "maintenance"
+          - "-ence" as in "exist" to "existence"
+          - "-ity" as in "active" to "activity"
+        - usage notes: Understanding advanced suffixes allows for greater flexibility and precision in nominalization.
+        - exceptions: Some suffixes are irregular or have specific usage rules that must be memorized.
+        - related rules: suffix usage, word formation

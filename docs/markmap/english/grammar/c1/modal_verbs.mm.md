@@ -1,0 +1,343 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- C1
+  - Modal Verbs (Advanced Uses)
+    - Modal Perfect Forms
+      - must have + past participle
+        - explanation: Expressing strong probability or deduction about past actions.
+        - examples:
+          - She must have left early.
+          - They must have forgotten the meeting.
+        - usage notes: Indicates that something was very likely in the past.
+        - exceptions: Not used with actions that are impossible or have no evidence.
+        - related rules: probability expressions, deduction
+      - might have / could have + past participle
+        - explanation: Expressing possibility or uncertainty about past actions.
+        - examples:
+          - He might have missed the bus.
+          - They could have taken a different route.
+        - usage notes: Used when unsure about past events.
+        - exceptions: Cannot express certainty; use "must have" for strong deductions.
+        - related rules: possibility expressions, uncertainty
+      - should have + past participle
+        - explanation: Expressing regret or criticism about past actions.
+        - examples:
+          - You should have called me earlier.
+          - She should have studied harder.
+        - usage notes: Indicates that something was expected or advisable in the past but did not happen.
+        - exceptions: Not used for neutral statements about past events.
+        - related rules: expressing expectations, advice
+    - Modal Verbs in Conditionals
+      - first conditional with modals
+        - explanation: Using modal verbs to express real and possible conditions and their outcomes.
+        - examples:
+          - If you study hard, you can pass the exam.
+          - If it rains, we might cancel the trip.
+        - usage notes: Use modals to indicate possibility, ability, or permission in the conditional outcome.
+        - exceptions: Avoid using modals that imply impossibility in first conditional.
+        - related rules: conditionals, possibility expressions
+      - second conditional with modals
+        - explanation: Using modal verbs to express hypothetical or unlikely conditions and their possible outcomes.
+        - examples:
+          - If I won the lottery, I would travel the world.
+          - If she were here, she could help us.
+        - usage notes: Use modals to show ability or permission in hypothetical scenarios.
+        - exceptions: Not for expressing real conditions; use first conditional instead.
+        - related rules: conditionals, hypothetical situations
+      - third conditional with modals
+        - explanation: Using modal perfect forms to express hypothetical past conditions and their possible past outcomes.
+        - examples:
+          - If he had studied, he could have passed the exam.
+          - If they had left earlier, they might have caught the train.
+        - usage notes: Indicates that something was possible in the past but did not happen.
+        - exceptions: Do not use modal perfect forms in other conditional types.
+        - related rules: conditionals, past hypothetical
+    - Modal Verbs in Reported Speech
+      - reporting with modals
+        - explanation: Using modal verbs appropriately when converting direct speech to reported speech.
+        - examples:
+          - Direct: "I can help you," she said.
+            Reported: She said that she could help me.
+          - Direct: "You must finish your work," he told me.
+            Reported: He told me that I must finish my work.
+        - usage notes: Adjust modal verbs according to the context and tense shifts in reported speech.
+        - exceptions: Some modals may change meaning or not directly translate; maintain the original intent.
+        - related rules: reported speech, tense changes
+      - modal shifts in reported speech
+        - explanation: How modal verbs change when converting from direct to reported speech based on tense and context.
+        - examples:
+          - Present to past: "I will go" → "He said he would go."
+          - Modal change: "can" → "could"
+            - She can swim → She said she could swim.
+          - "must" can become "had to"
+            - You must leave now → He said that I had to leave then.
+        - usage notes: Understand the rules for shifting modals to maintain grammatical correctness and meaning.
+        - exceptions: Some modals do not change form if the context remains present.
+        - related rules: tense agreement, modal transformations
+    - Probability and Deduction
+      - expressing certainty
+        - explanation: Using modal verbs to express high degrees of probability or certainty about situations.
+        - examples:
+          - She must be at home by now.
+          - They definitely have finished the project.
+        - usage notes: Indicates strong deductions or logical conclusions.
+        - exceptions: Cannot express absolute certainty; use "must" or "can't" for strong probability.
+        - related rules: deduction, probability expressions
+      - expressing possibility
+        - explanation: Using modal verbs to indicate that something is possible but not certain.
+        - examples:
+          - He might come to the party tonight.
+          - They could be the winners of the competition.
+        - usage notes: Used to express likelihood without certainty.
+        - exceptions: Do not imply impossibility; use "must" or "can't" for stronger statements.
+        - related rules: possibility expressions, uncertainty
+      - expressing impossibility
+        - explanation: Using modal verbs to express that something is impossible or highly unlikely.
+        - examples:
+          - She can't be serious.
+          - They mustn't know about the surprise.
+        - usage notes: Emphasizes that a situation is not possible or allowed.
+        - exceptions: Not used for situations that are merely unlikely; use stronger modals.
+        - related rules: impossibility expressions, deduction
+    - Politeness and Formality
+      - polite requests
+        - explanation: Using modal verbs to make requests more polite and less direct.
+        - examples:
+          - Could you please pass the salt?
+          - Would you mind opening the window?
+        - usage notes: Enhances politeness in formal and informal contexts.
+        - exceptions: Avoid overusing to prevent sounding overly deferential.
+        - related rules: politeness strategies, request structures
+      - suggestions and advice
+        - explanation: Using modal verbs to offer suggestions or advice in a considerate manner.
+        - examples:
+          - You should consider applying for the scholarship.
+          - You might want to check your email.
+        - usage notes: Provides recommendations without imposing, suitable for formal advice.
+        - exceptions: Use appropriate modals to match the level of advice or suggestion.
+        - related rules: advice structures, suggestion techniques
+      - expressing obligation and necessity
+        - explanation: Using modal verbs to convey obligations, necessities, or requirements in formal contexts.
+        - examples:
+          - Employees must adhere to the company policies.
+          - You need to submit the report by Friday.
+        - usage notes: Clearly communicates rules, regulations, or essential actions.
+        - exceptions: Distinguish between different levels of obligation (must, have to, need to).
+        - related rules: expressing requirements, obligation expressions
+    - Modals in Passive Voice
+      - passive modal constructions
+        - explanation: Combining modal verbs with passive structures to emphasize the action rather than the doer.
+        - examples:
+          - The report must be finished by tomorrow.
+          - The application could be submitted online.
+        - usage notes: Maintains the focus on the action while indicating modality.
+        - exceptions: Not all modals pair naturally with passive constructions; ensure the passive form is appropriate.
+        - related rules: passive voice, modal usage
+      - modal perfect passive
+        - explanation: Using modal verbs with the perfect passive to express obligations or possibilities about past actions.
+        - examples:
+          - The documents should have been reviewed by now.
+          - The issue might have been resolved earlier.
+        - usage notes: Indicates that something was expected or possible in the past but may not have occurred.
+        - exceptions: Limited to expressing past modal nuances; ensure correct verb forms.
+        - related rules: modal perfect forms, passive voice
+    - Semi-Modals
+      - have to, need to, ought to, be able to
+        - explanation: Using semi-modal verbs to express necessity, obligation, advice, or ability with subtle differences from standard modals.
+        - examples:
+          - I have to finish my work by tonight.
+          - She needs to see a doctor.
+          - You ought to apologize.
+          - They are able to solve the problem.
+        - usage notes: Semi-modals often have similar meanings to modals but can have additional forms or uses.
+        - exceptions: Some semi-modals cannot be used in certain modal constructions or tenses.
+        - related rules: modal verbs, verb forms
+      - differences between modals and semi-modals
+        - explanation: Understanding how semi-modals differ from traditional modals in usage, form, and meaning.
+        - examples:
+          - Modal: "I can swim." / Semi-modal: "I am able to swim."
+          - Modal: "You should go." / Semi-modal: "You ought to go."
+        - usage notes: Choose between modals and semi-modals based on the required formality, tense, and nuance.
+        - exceptions: Some expressions are fixed with semi-modals and cannot use traditional modals.
+        - related rules: modal usage, verb forms
+    - Special Modal Uses
+      - expressing permission and prohibition
+        - explanation: Using modal verbs to grant or deny permission and to impose prohibitions.
+        - examples:
+          - You may leave the table.
+          - You must not smoke here.
+        - usage notes: Clearly indicates what is allowed or forbidden.
+        - exceptions: Not all modals are used for prohibition; use specific modals like "must not," "cannot."
+        - related rules: permission expressions, prohibition expressions
+      - expressing ability and possibility
+        - explanation: Using modals to denote capability or potential of events or actions.
+        - examples:
+          - She can speak three languages.
+          - It might rain later.
+        - usage notes: Differentiates between what is possible and what is achievable.
+        - exceptions: Ensure modal choice matches the intended degree of ability or possibility.
+        - related rules: ability expressions, possibility expressions
+      - expressing probability and deduction
+        - explanation: Using modals to indicate likelihood or to make logical deductions.
+        - examples:
+          - He must be the new manager.
+          - They might have already left.
+        - usage notes: Helps in making educated guesses or assumptions based on evidence.
+        - exceptions: Avoid overusing without sufficient basis; clarify uncertainty.
+        - related rules: deduction expressions, probability expressions
+      - expressing wishes and desires
+        - explanation: Using modal verbs to articulate wishes or desires in a nuanced manner.
+        - examples:
+          - I wish I could travel more.
+          - She would like to join the team.
+        - usage notes: Expresses longing or preferences softly and politely.
+        - exceptions: Some expressions have fixed modal choices for specific meanings.
+        - related rules: wish expressions, desire expressions
+    - Common Mistakes
+      - incorrect modal forms
+        - explanation: Using the wrong form of modal verbs, such as incorrect tense or incorrect follow-up verb form.
+        - examples:
+          - Incorrect: She can to swim.
+            Correct: She can swim.
+          - Incorrect: He should went to the meeting.
+            Correct: He should go to the meeting.
+        - usage notes: Ensure modal verbs are followed by the correct verb forms without "to" when required.
+        - exceptions: Some modals like "ought to" require "to."
+        - related rules: verb forms, modal usage
+      - mixing modals with different meanings
+        - explanation: Using modals interchangeably when they have distinct meanings, leading to confusion.
+        - examples:
+          - Incorrect: You must go to the party. (if meaning is obligation)
+            You should go to the party. (if meaning is recommendation)
+          - Incorrect: They might must attend the meeting.
+            Correct: They might attend the meeting. OR They must attend the meeting.
+        - usage notes: Understand the specific nuances of each modal to use them appropriately.
+        - exceptions: Some contexts may allow flexible usage, but clarity is key.
+        - related rules: modal meanings, nuance in language
+      - using modals in inappropriate contexts
+        - explanation: Applying modal verbs where they do not fit grammatically or semantically.
+        - examples:
+          - Incorrect: She must swimming every day.
+            Correct: She must swim every day.
+          - Incorrect: They can to go now.
+            Correct: They can go now.
+        - usage notes: Ensure that modal verbs are used with the correct structures and contexts.
+        - exceptions: Fixed expressions may sometimes deviate but require specific knowledge.
+        - related rules: grammatical context, modal structures
+      - overusing modals
+        - explanation: Excessive use of modal verbs, making sentences repetitive or unclear.
+        - examples:
+          - Overuse: He can do it, he should do it, he must do it.
+            Better: He should do it.
+        - usage notes: Use modals judiciously to maintain clarity and impact.
+        - exceptions: In contexts requiring emphasis, multiple modals may be appropriate.
+        - related rules: sentence variety, clarity in communication
+      - incorrect passive constructions with modals
+        - explanation: Misforming passive sentences when using modal verbs, leading to grammatical errors.
+        - examples:
+          - Incorrect: The report must finished by tomorrow.
+            Correct: The report must be finished by tomorrow.
+          - Incorrect: The cake could baked by her.
+            Correct: The cake could be baked by her.
+        - usage notes: Ensure proper passive structure when combining modals with passive voice, including "be."
+        - exceptions: None specific; passive structures require "be" with past participle.
+        - related rules: passive voice, modal usage
+    - Exceptions
+      - some modals cannot be used in certain tenses
+        - explanation: Certain modal verbs do not have past or continuous forms and cannot be used in specific tenses.
+        - examples:
+          - "can" cannot be directly used in past continuous.
+            - Incorrect: She was canning swim.
+            - Correct: She could swim.
+          - "must" does not have a past form; use "had to" instead.
+            - Incorrect: He must go yesterday.
+            - Correct: He had to go yesterday.
+        - usage notes: Be aware of the limitations and alternative forms for modals in different tenses.
+        - exceptions: Use semi-modals like "have to" to express past obligations.
+        - related rules: modal verb forms, tense usage
+      - distinguishing between "must" and "have to"
+        - explanation: Understanding the subtle differences in usage and meaning between "must" and "have to."
+        - examples:
+          - "Must" for personal obligation: I must finish my homework.
+          - "Have to" for external obligation: I have to go to work.
+        - usage notes: Use "must" for internal, personal necessity and "have to" for obligations imposed by external factors.
+        - exceptions: In negative forms, "must not" is used for prohibition, whereas "have to not" is not common.
+        - related rules: expressing obligations, modal nuances
+      - using modals with infinitives vs. bare verbs
+        - explanation: Knowing when to use the base form of the verb vs. the infinitive after modals, depending on the modal verb.
+        - examples:
+          - Always use base form: She can swim.
+          - Some semi-modals require "to": She ought to swim.
+        - usage notes: Modals are followed by base verb forms without "to," except for certain expressions.
+        - exceptions: Semi-modals like "ought to," "have to," etc., may require "to" or other forms.
+        - related rules: modal verb structures, infinitive usage
+      - zero vs. full forms in question and negative sentences
+        - explanation: Understanding when to omit "do" in questions or negatives when using modals.
+        - examples:
+          - Question: Can you help?
+            Not: Do you can help?
+          - Negative: She cannot swim.
+            Not: She do not can swim.
+        - usage notes: Use only modal verbs directly with subjects without auxiliary "do."
+        - exceptions: None specific; modals inherently carry their auxiliary function.
+        - related rules: question formation, negation structures
+    - Related Rules
+      - modal perfect forms
+        - explanation: Combining modal verbs with perfect tenses to express past possibilities, obligations, or deductions.
+        - examples:
+          - She must have left by now.
+          - They might have finished the project already.
+        - usage notes: Use to discuss actions that were possible or likely in the past.
+        - exceptions: Not used for actions that are certainly not true.
+        - related rules: modal usage, perfect tenses
+      - semi-modal verbs
+        - explanation: Verbs that function similarly to modal verbs but have distinct forms and usage patterns.
+        - examples:
+          - "need to," "have to," "ought to"
+          - "You need to submit the report."
+          - "They have to leave early."
+        - usage notes: Semi-modals often provide more specific nuances and can be used in a broader range of tenses.
+        - exceptions: Do not interchange with standard modals; they have specific uses.
+        - related rules: modal verbs, verb forms
+      - phrasal modals
+        - explanation: Modal expressions that include additional words, often prepositions or particles, to convey specific meanings.
+        - examples:
+          - "be able to," "have got to"
+          - "I have got to go now."
+          - "She is able to solve complex problems."
+        - usage notes: Use phrasal modals to add emphasis or convey precise meanings.
+        - exceptions: Some phrasal modals are informal and should be used appropriately based on context.
+        - related rules: modal verbs, verb phrases
+      - conditionals
+        - explanation: Structures that express dependent situations and their outcomes, often using modal verbs to indicate possibility or necessity.
+        - examples:
+          - If it rains, we might cancel the trip.
+          - If you study hard, you can achieve your goals.
+        - usage notes: Combine conditionals with modal verbs to express real or hypothetical outcomes.
+        - exceptions: Ensure consistency in tense and modal usage within conditional structures.
+        - related rules: conditionals, modal verbs
+      - reported speech
+        - explanation: Conveying what someone else has said, often involving shifts in modal verbs and tenses.
+        - examples:
+          - Direct: "They can attend," she said.
+            Reported: She said that they could attend.
+          - Direct: "You must leave," he told me.
+            Reported: He told me that I must leave.
+        - usage notes: Adjust modal verbs according to the reporting verb's tense and context.
+        - exceptions: Some modals may not change form if the context remains present.
+        - related rules: modal shifts, tense agreement
+      - subjunctive mood with modals
+        - explanation: Using modal verbs within subjunctive constructions to express wishes, demands, or hypothetical situations.
+        - examples:
+          - I suggest that he should go to the doctor.
+          - It is essential that she be informed immediately.
+        - usage notes: Employ modal verbs in subjunctive structures to convey recommendations or requirements.
+        - exceptions: Not all modals fit naturally within subjunctive mood; understand appropriate usage.
+        - related rules: subjunctive mood, recommendations

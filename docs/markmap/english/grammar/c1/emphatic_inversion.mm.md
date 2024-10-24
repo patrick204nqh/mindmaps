@@ -1,0 +1,191 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- C1
+  - Emphatic Inversion
+    - Types of Emphatic Inversion
+      - negative adverbs
+        - explanation: Using negative adverbs at the beginning of a sentence to create emphasis through inversion of the subject and auxiliary verb.
+        - examples:
+          - "Never have I seen such dedication."
+          - "Rarely does she arrive on time."
+        - usage notes: Commonly used with adverbs like never, rarely, seldom, hardly, scarcely, and barely to emphasize the negative aspect.
+        - exceptions: Not all negative adverbs can be used for inversion; some may require restructuring.
+        - related rules: negative inversion, subject-auxiliary inversion
+      - adverbs of frequency
+        - explanation: Placing adverbs of frequency at the beginning of a sentence to emphasize how often something occurs, followed by inversion.
+        - examples:
+          - "Often do they go hiking on weekends."
+          - "Sometimes does he forget his keys."
+        - usage notes: Enhances the emphasis on the frequency of an action, adding variety to sentence structures.
+        - exceptions: Only certain adverbs of frequency are suitable for inversion.
+        - related rules: adverb placement, sentence variety
+      - conditional sentences
+        - explanation: Inverting the subject and auxiliary verb in conditional sentences to create a more formal or emphatic tone.
+        - examples:
+          - "Had I known about the meeting, I would have attended."
+          - "Should you need any assistance, feel free to contact me."
+        - usage notes: Often used in formal writing or speech to add sophistication and emphasis.
+        - exceptions: Not used in everyday conversational English; primarily found in formal contexts.
+        - related rules: conditional inversion, formal sentence structures
+      - expressions with "so"
+        - explanation: Using "so" at the beginning of a sentence to emphasize a result, followed by inversion.
+        - examples:
+          - "So important was the evidence that the jury changed their verdict."
+          - "So effective was her presentation that everyone was impressed."
+        - usage notes: Highlights the significance or impact of the result, adding dramatic emphasis.
+        - exceptions: Limited to specific contexts where the result is being strongly emphasized.
+        - related rules: result emphasis, sentence restructuring
+    - Structure of Emphatic Inversion
+      - subject-auxiliary inversion
+        - explanation: Reversing the typical order of the subject and auxiliary verb to emphasize a particular element in the sentence.
+        - examples:
+          - "Rarely have I encountered such enthusiasm."
+          - "Scarcely had she finished when the phone rang."
+        - usage notes: Essential for creating emphatic sentences, often following negative or limiting adverbs.
+        - exceptions: Not applicable to all sentence types; typically used with specific adverbs or expressions.
+        - related rules: inversion, negative adverbs
+      - placement of adverbs
+        - explanation: Positioning adverbs at the beginning of a sentence to trigger inversion and add emphasis.
+        - examples:
+          - "Hardly had I started when the event was canceled."
+          - "Barely had they arrived when the storm began."
+        - usage notes: Proper placement is crucial for maintaining grammatical correctness and intended emphasis.
+        - exceptions: Some adverbs may not suit inversion and require alternative structures.
+        - related rules: adverb placement, sentence emphasis
+    - Functions of Emphatic Inversion
+      - emphasis
+        - explanation: Highlighting a particular part of the sentence to draw the reader’s or listener’s attention.
+        - examples:
+          - "Never have I felt so alive."
+          - "Seldom does he show his emotions."
+        - usage notes: Use to stress important information or create a strong impact.
+        - exceptions: Overuse can make writing seem forced or unnatural.
+        - related rules: emphasis techniques, sentence variety
+      - stylistic variety
+        - explanation: Adding different sentence structures to enhance the stylistic quality of writing or speech.
+        - examples:
+          - "Rarely have I seen such beauty."
+          - "Scarcely had they begun when the power went out."
+        - usage notes: Incorporates variety, making the text more engaging and dynamic.
+        - exceptions: Ensure that variety does not compromise clarity or flow.
+        - related rules: sentence variety, stylistic techniques
+    - Common Uses
+      - formal writing
+        - explanation: Employing emphatic inversion to achieve a formal tone and sophisticated style in written texts.
+        - examples:
+          - "Never have we witnessed such dedication in our team."
+          - "So crucial was the data that the study was extended."
+        - usage notes: Enhances professionalism and authority in academic or official documents.
+        - exceptions: Avoid in informal writing where simpler structures are preferred.
+        - related rules: formal sentence structures, academic writing
+      - literary expressions
+        - explanation: Using emphatic inversion to add dramatic effect and emphasis in literary works.
+        - examples:
+          - "Rarely had the hero faced such a formidable foe."
+          - "So silent was the night that even the stars seemed to hold their breath."
+        - usage notes: Contributes to the expressive and artistic quality of literature.
+        - exceptions: Must align with the narrative style and maintain readability.
+        - related rules: literary devices, expressive language
+    - Common Mistakes
+      - incorrect inversion
+        - explanation: Failing to properly invert the subject and auxiliary verb, leading to ungrammatical sentences.
+        - examples:
+          - Incorrect: "Never I have seen such chaos."
+          - Correct: "Never have I seen such chaos."
+          - Incorrect: "Rarely she arrives on time."
+          - Correct: "Rarely does she arrive on time."
+        - usage notes: Ensure that the auxiliary verb precedes the subject after the adverb or expression.
+        - exceptions: None; inversion must follow grammatical rules.
+        - related rules: subject-auxiliary inversion, grammatical correctness
+      - misplacing adverbs
+        - explanation: Placing adverbs in positions that do not trigger or support inversion, resulting in unclear emphasis.
+        - examples:
+          - Incorrect: "I have never seen such chaos."
+            (While grammatically correct, it lacks the inversion emphasis)
+          - Correct: "Never have I seen such chaos."
+        - usage notes: Position adverbs at the beginning of the sentence to activate inversion for emphasis.
+        - exceptions: Some adverbs may not be suitable for inversion and require alternative structures.
+        - related rules: adverb placement, sentence emphasis
+      - overusing emphatic inversion
+        - explanation: Applying emphatic inversion excessively, making writing or speech seem unnatural or overly dramatic.
+        - examples:
+          - "Rarely have I seen him, rarely do I hear from him."
+          - "Never have I been so surprised, never has anything like this happened before."
+        - usage notes: Use inversion sparingly to maintain its impact and avoid redundancy.
+        - exceptions: In highly dramatic or stylistic contexts, multiple inversions may be appropriate.
+        - related rules: sentence variety, stylistic balance
+      - forgetting auxiliary verbs
+        - explanation: Omitting necessary auxiliary verbs when performing inversion, resulting in incomplete sentences.
+        - examples:
+          - Incorrect: "Never I seen such chaos."
+          - Correct: "Never have I seen such chaos."
+          - Incorrect: "Rarely she arrives on time."
+          - Correct: "Rarely does she arrive on time."
+        - usage notes: Always include the appropriate auxiliary verb to complete the inversion structure.
+        - exceptions: None; auxiliary verbs are essential for grammatical inversion.
+        - related rules: verb forms, auxiliary usage
+    - Exceptions
+      - not applicable to all sentence types
+        - explanation: Emphatic inversion cannot be applied to every sentence; it is limited to specific structures that support emphasis.
+        - examples:
+          - "Never have I seen such chaos." (Applicable)
+          - "I saw him yesterday." (Inversion not applicable)
+        - usage notes: Use inversion only when the sentence structure allows for it and when emphasis is needed.
+        - exceptions: Simple declarative sentences without supporting adverbs or expressions cannot use inversion.
+        - related rules: sentence structure, emphasis techniques
+      - limited to certain adverbs and expressions
+        - explanation: Only specific adverbs and expressions can trigger emphatic inversion, such as never, rarely, seldom, barely, hardly, and so.
+        - examples:
+          - Applicable: "Seldom does she smile."
+          - Not applicable: "Quickly runs he." (Incorrect)
+        - usage notes: Familiarize with the adverbs and expressions that are compatible with inversion.
+        - exceptions: Some adverbs may require restructuring rather than inversion.
+        - related rules: adverb selection, sentence emphasis
+      - cannot be used with all verb forms
+        - explanation: Emphatic inversion typically requires auxiliary verbs and cannot be used with all verb forms, especially stative verbs without auxiliaries.
+        - examples:
+          - Applicable: "Never have I heard such a story."
+          - Not applicable: "Never know I what to say." (Incorrect)
+        - usage notes: Ensure that the main verb supports the inclusion of an auxiliary verb necessary for inversion.
+        - exceptions: Use alternative structures for verbs that do not naturally pair with auxiliaries.
+        - related rules: verb forms, auxiliary usage
+    - Related Rules
+      - negative inversion
+        - explanation: A specific type of emphatic inversion that occurs with negative adverbs to emphasize negation.
+        - examples:
+          - "Hardly had I arrived when the meeting started."
+          - "Scarcely had she finished her meal."
+        - usage notes: Use negative inversion to strongly emphasize the negative aspect of the action.
+        - exceptions: Limited to sentences where negation is a key element to emphasize.
+        - related rules: emphatic inversion, negative adverbs
+      - fronting
+        - explanation: Moving a sentence element to the front for emphasis, which often involves inversion.
+        - examples:
+          - "Rarely have I seen such beauty." (Fronting the adverb)
+          - "Only after the meeting did we realize the mistake." (Fronting the time expression)
+        - usage notes: Use fronting to highlight important information and add variety to sentence structures.
+        - exceptions: Ensure that fronted elements are compatible with inversion rules.
+        - related rules: emphatic inversion, sentence restructuring
+      - conditional inversion
+        - explanation: Inverting the subject and auxiliary verb in conditional sentences to create a more formal or emphatic tone.
+        - examples:
+          - "Had I known, I would have acted differently."
+          - "Should you need assistance, please let me know."
+        - usage notes: Adds sophistication and emphasis to hypothetical or conditional statements.
+        - exceptions: Not suitable for all conditional sentences; typically used in formal contexts.
+        - related rules: conditional sentences, formal sentence structures
+      - subject-verb agreement
+        - explanation: Ensuring that the verb agrees with the subject in number and person, even when inversion changes the usual word order.
+        - examples:
+          - "Never have they **been** so supportive."
+          - "Rarely does he **show** his emotions."
+        - usage notes: Pay attention to subject-verb agreement rules despite the inverted structure.
+        - exceptions: None specific; standard agreement rules apply regardless of sentence order.
+        - related rules: grammatical agreement, verb conjugation

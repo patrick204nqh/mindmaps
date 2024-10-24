@@ -1,0 +1,321 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- C1
+  - Advanced Passive Structures
+    - Tenses
+      - present simple passive
+        - explanation: The present simple passive is used to describe general truths, habits, or universal facts where the focus is on the action rather than the doer.
+        - examples:
+          - The novel **is written** by a renowned author.
+          - Decisions **are made** by the committee.
+        - usage notes: Emphasizes the action or process rather than who performs it.
+        - exceptions: Not used for ongoing actions; use present continuous passive instead.
+        - related rules: present simple active, subject-verb agreement
+      - past simple passive
+        - explanation: The past simple passive describes actions that were completed in the past, focusing on the action itself rather than the performer.
+        - examples:
+          - The project **was completed** last month.
+          - The cake **was baked** by Sarah.
+        - usage notes: Highlights the completion of an action without specifying the agent.
+        - exceptions: When the agent is important, it should be included.
+        - related rules: past simple active, passive voice formation
+      - present perfect passive
+        - explanation: The present perfect passive indicates that an action has been completed at an unspecified time before now, with relevance to the present.
+        - examples:
+          - The reports **have been reviewed** by the manager.
+          - The letters **have been sent** out today.
+        - usage notes: Connects past actions to the present situation.
+        - exceptions: Not used for actions that are still ongoing; use present perfect continuous instead.
+        - related rules: present perfect active, perfect tenses
+      - past perfect passive
+        - explanation: The past perfect passive refers to actions that were completed before another action in the past, emphasizing the action's completion.
+        - examples:
+          - The house **had been sold** before we **arrived**.
+          - All preparations **had been made** by the time the guests **arrived**.
+        - usage notes: Often used in narratives to show the sequence of past events.
+        - exceptions: Rarely used for actions that are still relevant to the present.
+        - related rules: past perfect active, narrative tenses
+      - future simple passive
+        - explanation: The future simple passive is used to describe actions that will occur in the future, focusing on the action rather than the doer.
+        - examples:
+          - The meeting **will be held** next Monday.
+          - New regulations **will be introduced** next year.
+        - usage notes: Emphasizes what will happen rather than who will do it.
+        - exceptions: When the agent is important, it should be included using "by."
+        - related rules: future simple active, passive voice formation
+    - Modal Passives
+      - modals + be + past participle
+        - explanation: Combines modal verbs with the passive form to express possibility, necessity, permission, or obligation in the passive voice.
+        - examples:
+          - The work **must be finished** by Friday.
+          - The documents **should be submitted** by the end of the day.
+        - usage notes: Allows expressing various modalities while maintaining the focus on the action.
+        - exceptions: Not all modals are commonly used in the passive form (e.g., "ought to be" is less common).
+        - related rules: modal verbs, passive voice with modals
+      - modals with get passive
+        - explanation: Uses "get" instead of "be" with modal verbs to form a less formal passive structure.
+        - examples:
+          - The car **could get repaired** soon.
+          - The tickets **might get sold** out quickly.
+        - usage notes: "Get" passives are more informal and often imply a change of state or action.
+        - exceptions: "Get" passives are not suitable for all situations and are less formal.
+        - related rules: get passive, modal verbs
+    - Perfect Passives
+      - present perfect passive
+        - explanation: The present perfect passive is used to indicate that an action has been completed at an unspecified time before now, emphasizing the result.
+        - examples:
+          - The bridge **has been built** recently.
+          - Many mistakes **have been made** in the report.
+        - usage notes: Focuses on the present relevance of a past action.
+        - exceptions: Not used for ongoing actions; use present perfect continuous passive instead.
+        - related rules: present perfect active, perfect tenses
+      - past perfect passive
+        - explanation: The past perfect passive describes actions that were completed before another past action, emphasizing the completion of the action.
+        - examples:
+          - The letter **had been sent** before he **left** the office.
+          - All tasks **had been completed** by the time the deadline **arrived**.
+        - usage notes: Often used in narratives to show the sequence of past events.
+        - exceptions: Rarely used for actions still relevant to the present.
+        - related rules: past perfect active, narrative tenses
+      - future perfect passive
+        - explanation: The future perfect passive describes actions that will have been completed before a specific future time, focusing on the completion.
+        - examples:
+          - By next year, the building **will have been renovated**.
+          - The report **will have been submitted** by the deadline.
+        - usage notes: Highlights the future completion of an action.
+        - exceptions: Rarely used in everyday conversation; more common in formal writing.
+        - related rules: future perfect active, passive voice formation
+    - Continuous Passives
+      - present continuous passive
+        - explanation: The present continuous passive describes actions that are currently ongoing, emphasizing the action rather than the doer.
+        - examples:
+          - The house **is being painted** right now.
+          - New policies **are being implemented** across the company.
+        - usage notes: Focuses on the ongoing nature of the action in the present.
+        - exceptions: Not used for completed actions; use present perfect continuous passive instead.
+        - related rules: present continuous active, passive voice formation
+      - past continuous passive
+        - explanation: The past continuous passive describes actions that were ongoing at a specific time in the past, emphasizing the action.
+        - examples:
+          - The building **was being constructed** when the storm **hit**.
+          - They **were being interviewed** by the committee all morning.
+        - usage notes: Highlights the ongoing nature of an action in the past.
+        - exceptions: Not used for actions completed before a past reference point; use past perfect continuous passive instead.
+        - related rules: past continuous active, passive voice formation
+    - Passives with Get
+      - get passive vs. be passive
+        - explanation: "Get" passives are less formal alternatives to "be" passives, often implying a change of state or action initiated by external factors.
+        - examples:
+          - The window **got broken** during the storm.
+          - She **got promoted** last month.
+        - usage notes: Use "get" passives in informal contexts or when emphasizing the action's effect.
+        - exceptions: "Get" passives are not suitable for all verbs or formal writing.
+        - related rules: be passive, informal passive structures
+      - get + past participle + by-agent
+        - explanation: Forming "get" passives with an agent introduced by "by" to specify the doer.
+        - examples:
+          - The door **got locked** by the janitor.
+          - The package **got delivered** by the courier.
+        - usage notes: Similar to "be" passives but with a more informal tone.
+        - exceptions: Not all "be" passives can be converted to "get" passives.
+        - related rules: get passive, by-agent usage
+    - Causative Passives
+      - passive forms with causative verbs
+        - explanation: Using causative verbs like "have," "get," "make," "let" in passive structures to indicate that someone causes an action to be done.
+        - examples:
+          - She **had the report done** by her assistant.
+          - They **got the car fixed** at the mechanic.
+        - usage notes: Emphasizes that an action was arranged or caused by someone.
+        - exceptions: Some causative verbs have specific patterns and cannot be used interchangeably.
+        - related rules: causative verbs, passive voice
+    - Passives in Complex Sentences
+      - passive in subordinate clauses
+        - explanation: Using the passive voice within subordinate clauses to maintain focus on the action rather than the doer.
+        - examples:
+          - She mentioned that the project **had been completed** on time.
+          - It is believed that the theory **was developed** by a renowned scientist.
+        - usage notes: Helps maintain clarity and focus in complex sentence structures.
+        - exceptions: Ensure proper tense agreement and clarity when embedding passives in subordinate clauses.
+        - related rules: complex sentences, subordinate clause structures
+    - Passives in Reported Speech
+      - transforming active to passive in reported speech
+        - explanation: Changing active sentences to passive when reporting someone's statements to shift focus from the speaker to the action.
+        - examples:
+          - Active: "They **built** the bridge last year," he said.
+            Reported Passive: He said that the bridge **was built** last year.
+          - Active: "She **is writing** a book," he mentioned.
+            Reported Passive: He mentioned that a book **is being written** by her.
+        - usage notes: Maintains the original meaning while adjusting the focus and structure.
+        - exceptions: Adjustments may be needed based on tense shifts and agent inclusion.
+        - related rules: reported speech, active to passive transformation
+    - Phrasal Verbs in Passive
+      - passives with phrasal verbs
+        - explanation: Using the passive voice with phrasal verbs to emphasize the action or state rather than the doer.
+        - examples:
+          - The meeting **was called off** due to unforeseen circumstances.
+          - The news **was turned down** by the spokesperson.
+        - usage notes: Maintains the integrity of the phrasal verb while shifting to passive voice.
+        - exceptions: Not all phrasal verbs can be used in the passive form; some may require restructuring.
+        - related rules: phrasal verbs, passive voice formation
+    - Agent Inclusion/Omission
+      - including the agent with "by"
+        - explanation: Adding the doer of the action in passive sentences using "by" to specify who performed the action.
+        - examples:
+          - The song **was written by** Taylor Swift.
+          - The experiment **was conducted by** the research team.
+        - usage notes: Use when the agent is important or needs to be specified.
+        - exceptions: When the agent is unknown, irrelevant, or obvious, it can be omitted.
+        - related rules: passive voice, agent specification
+      - omitting the agent
+        - explanation: Leaving out the doer of the action in passive sentences when it is unknown, irrelevant, or understood from context.
+        - examples:
+          - The window **was broken** during the storm.
+          - The decision **was made** yesterday.
+        - usage notes: Streamlines sentences by focusing solely on the action or result.
+        - exceptions: When clarity requires specifying the agent, include it using "by."
+        - related rules: passive voice, sentence focus
+    - Advanced Usage
+      - passives in different voices
+        - explanation: Exploring variations like middle voice or passive-like constructions to add nuance and complexity to sentences.
+        - examples:
+          - The book **gets read** by many people. (middle-like voice)
+          - The door **opens** automatically. (active but passive meaning)
+        - usage notes: Adds variety and subtlety to sentence structures, enhancing stylistic expression.
+        - exceptions: Not all verbs lend themselves to these variations; usage can be context-dependent.
+        - related rules: active vs. passive voice, sentence variety
+      - multiple passives in a sentence
+        - explanation: Using more than one passive structure within a single sentence to emphasize multiple actions or states.
+        - examples:
+          - The cake **was baked** by Mary and **was decorated** by John.
+          - The documents **were reviewed** by the committee and **were approved** by the board.
+        - usage notes: Ensures clarity by maintaining consistent passive structures and avoiding confusion.
+        - exceptions: Can lead to overly complex sentences if not managed carefully.
+        - related rules: compound sentences, sentence complexity
+    - Common Mistakes
+      - incorrect verb forms in passive
+        - explanation: Using incorrect verb forms when forming passive structures, leading to grammatical errors.
+        - examples:
+          - Incorrect: The book **is wrote** by an author.
+          - Correct: The book **is written** by an author.
+          - Incorrect: The letters **were send** yesterday.
+          - Correct: The letters **were sent** yesterday.
+        - usage notes: Ensure the correct past participle form is used in passive constructions.
+        - exceptions: Regular verbs follow standard -ed forms; irregular verbs must be memorized.
+        - related rules: past participle forms, verb conjugation
+      - mismatching tenses in passive structures
+        - explanation: Using inconsistent or incorrect tenses between the main and passive clauses, disrupting sentence coherence.
+        - examples:
+          - Incorrect: The project **is completed** last week.
+          - Correct: The project **was completed** last week.
+          - Incorrect: The report **has been submitted** tomorrow.
+          - Correct: The report **will be submitted** tomorrow.
+        - usage notes: Maintain tense consistency to ensure logical and grammatical accuracy.
+        - exceptions: When shifting tenses for reported speech or conditional structures.
+        - related rules: tense agreement, passive voice formation
+      - omitting necessary auxiliaries
+        - explanation: Leaving out auxiliary verbs required for passive structures, resulting in incomplete or incorrect sentences.
+        - examples:
+          - Incorrect: The cake **was baked** by Mary. (Correct)
+          - Incorrect: The cake **baked** by Mary.
+          - Correct: The cake **was baked** by Mary.
+        - usage notes: Always include the appropriate form of "be" as an auxiliary in passive sentences.
+        - exceptions: None specific; auxiliaries are essential for forming passives.
+        - related rules: auxiliary verbs, passive voice formation
+      - incorrect agent placement
+        - explanation: Placing the agent incorrectly within passive sentences, leading to confusion or grammatical errors.
+        - examples:
+          - Incorrect: The song **by Taylor Swift was written**.
+          - Correct: The song **was written by Taylor Swift**.
+          - Incorrect: The meeting **by the committee was held**.
+          - Correct: The meeting **was held by the committee**.
+        - usage notes: The agent should follow the past participle and be introduced by "by."
+        - exceptions: None specific.
+        - related rules: agent placement, passive voice structure
+      - confusing active and passive meanings
+        - explanation: Misinterpreting or incorrectly transforming active sentences to passive, altering the intended meaning.
+        - examples:
+          - Active: "The chef cooked the meal."
+            Incorrect Passive: "The meal cooked the chef."
+            Correct Passive: "The meal was cooked by the chef."
+          - Active: "They will announce the results."
+            Incorrect Passive: "The results will announce them."
+            Correct Passive: "The results will be announced by them."
+        - usage notes: Ensure that the subject and object are correctly transformed when switching voices.
+        - exceptions: None specific.
+        - related rules: active vs. passive voice, sentence structure
+    - Exceptions
+      - verbs that cannot be used in passive
+        - explanation: Certain intransitive verbs or verbs that do not naturally take a direct object cannot be transformed into passive structures.
+        - examples:
+          - "arrive" cannot be passivized: _Incorrect:_ The guests **were arrived**.
+          - "sleep" cannot be passivized: _Incorrect:_ He **was slept**.
+        - usage notes: Use only transitive verbs that can logically take a direct object in passive constructions.
+        - exceptions: Some phrasal verbs or idiomatic expressions may have passive forms.
+        - related rules: transitive vs. intransitive verbs, active voice usage
+      - passive with indefinite subjects
+        - explanation: When the agent is unknown or irrelevant, the passive sentence does not include the agent, which can sometimes lead to ambiguity.
+        - examples:
+          - The window **was broken**.
+          - Mistakes **were made**.
+        - usage notes: Use context to clarify the meaning when omitting the agent in passive sentences.
+        - exceptions: When the agent must be specified for clarity, include it using "by."
+        - related rules: agent omission, sentence clarity
+      - advanced verb forms in passive
+        - explanation: Some advanced verb forms, such as phrasal verbs or idiomatic expressions, have specific rules or limitations when used in the passive voice.
+        - examples:
+          - Active: "They **look up** the information."
+            Passive: "The information **is looked up** by them."
+          - Active: "Someone **turned off** the lights."
+            Passive: "The lights **were turned off** by someone."
+        - usage notes: Ensure that the phrasal verb maintains its meaning and structure when passivized.
+        - exceptions: Some phrasal verbs may not have natural passive forms or may change meaning.
+        - related rules: phrasal verbs, passive voice formation
+    - Related Rules
+      - Cleft Sentences
+        - explanation: Cleft sentences are used to emphasize a particular part of a sentence by splitting it into two clauses, often involving passive structures.
+        - examples:
+          - **It was** the manager **who** approved the budget.
+          - **It is** the environment **that** affects our health.
+        - usage notes: Useful for highlighting specific information and adding variety to sentence structures.
+        - exceptions: Can make sentences longer; use when emphasis is necessary.
+        - related rules: sentence restructuring, emphasis techniques
+      - Emphatic Do
+        - explanation: Using "do," "does," or "did" in affirmative sentences to add emphasis or express strong affirmation.
+        - examples:
+          - I **do** like your idea.
+          - She **does** understand the problem.
+          - They **did** finish the project on time.
+        - usage notes: Commonly used in responses to emphasize agreement or to counter disbelief.
+        - exceptions: Not used in negative statements or questions; typically found in spoken English.
+        - related rules: auxiliary verbs, emphasis techniques
+      - Fronting
+        - explanation: Moving a particular element of a sentence to the front for emphasis, often accompanied by inversion.
+        - examples:
+          - **This book**, I have never read.
+          - **Such dedication**, he shows every day.
+        - usage notes: Adds emphasis by altering the typical word order, making the highlighted part stand out.
+        - exceptions: May sound unnatural if overused; ensure clarity in meaning.
+        - related rules: sentence structure variation, emphasis techniques
+      - Subject-Verb Agreement in Passive
+        - explanation: Ensuring that the verb form in passive structures agrees with the subject in number and person.
+        - examples:
+          - The reports **are being reviewed** by the team.
+          - The decision **has been made** by the committee.
+        - usage notes: Pay attention to the singular or plural nature of the subject when forming passives.
+        - exceptions: None specific; standard subject-verb agreement rules apply.
+        - related rules: subject-verb agreement, passive voice formation
+      - Tense Consistency in Passive
+        - explanation: Maintaining consistent verb tenses throughout a sentence or paragraph when using passive structures.
+        - examples:
+          - The cake **was baked** yesterday and **was decorated** beautifully.
+          - The documents **have been submitted** and **are being processed**.
+        - usage notes: Ensures clarity and coherence by keeping verb tenses aligned.
+        - exceptions: When shifting tenses is necessary for narrative purposes or reported speech.
+        - related rules: tense agreement, sentence coherence

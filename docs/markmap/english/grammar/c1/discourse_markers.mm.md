@@ -1,0 +1,290 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- C1
+
+  - Discourse Markers
+
+    - Types of Discourse Markers
+
+      - additive
+        - explanation: Discourse markers that add information or ideas to what has already been said.
+        - examples:
+          - "in addition"
+          - "furthermore"
+        - usage notes: Use to expand on ideas or provide additional information.
+        - exceptions: Overusing additive markers can make writing seem redundant.
+        - related rules: coherence, linking ideas
+      - adversative
+        - explanation: Discourse markers that introduce a contrast or opposition.
+        - examples:
+          - "however"
+          - "on the other hand"
+        - usage notes: Use to present contrasting information or counterpoints.
+        - exceptions: Ensure that the contrast is clear to avoid confusion.
+        - related rules: contrastive structures, coherence
+      - causal
+        - explanation: Discourse markers that show cause and effect relationships.
+        - examples:
+          - "therefore"
+          - "as a result"
+        - usage notes: Use to explain reasons or consequences of an action or event.
+        - exceptions: Avoid using causal markers without a clear causal relationship.
+        - related rules: cause and effect structures
+      - sequential
+        - explanation: Discourse markers that indicate the order of events or ideas.
+        - examples:
+          - "firstly"
+          - "finally"
+        - usage notes: Use to organize points or steps in a logical order.
+        - exceptions: Ensure logical flow to maintain coherence.
+        - related rules: sequencing, organizing information
+      - clarifying
+        - explanation: Discourse markers that clarify or specify information.
+        - examples:
+          - "in other words"
+          - "that is to say"
+        - usage notes: Use to rephrase or explain a point more clearly.
+        - exceptions: Avoid redundancy by not overusing clarifying markers.
+        - related rules: explanation techniques, clarity
+      - concluding
+        - explanation: Discourse markers that signal a summary or conclusion.
+        - examples:
+          - "in conclusion"
+          - "to sum up"
+        - usage notes: Use at the end of a discussion to summarize key points.
+        - exceptions: Ensure that the summary accurately reflects the preceding content.
+        - related rules: summarization, coherence
+
+    - Functions of Discourse Markers
+
+      - linking ideas
+        - explanation: Discourse markers used to connect different ideas smoothly.
+        - examples:
+          - "and"
+          - "also"
+        - usage notes: Enhances the flow of ideas and maintains coherence.
+        - exceptions: Overuse can make writing seem monotonous.
+        - related rules: cohesion, sentence variety
+      - indicating contrast
+        - explanation: Discourse markers that highlight differences or oppositions.
+        - examples:
+          - "but"
+          - "nevertheless"
+        - usage notes: Useful in presenting alternative viewpoints or counterarguments.
+        - exceptions: Must ensure clarity in contrasting ideas.
+        - related rules: adversative markers, coherence
+      - showing cause and effect
+        - explanation: Discourse markers that establish a relationship between cause and consequence.
+        - examples:
+          - "because"
+          - "thus"
+        - usage notes: Essential for explaining reasons or outcomes.
+        - exceptions: Ensure logical consistency to avoid fallacies.
+        - related rules: causal markers, cause and effect structures
+      - organizing information
+        - explanation: Discourse markers that help structure content logically.
+        - examples:
+          - "firstly," "secondly," "finally"
+          - "to begin with"
+        - usage notes: Helps in presenting information in a clear and organized manner.
+        - exceptions: Must follow a logical sequence to maintain readability.
+        - related rules: sequencing, organizing information
+
+    - Position in Sentences
+
+      - beginning of sentence
+        - explanation: Discourse markers placed at the start of sentences to set the tone or direction.
+        - examples:
+          - "however,"
+          - "on the other hand,"
+        - usage notes: Use commas after discourse markers at the beginning of sentences.
+        - exceptions: Ensure that the sentence remains clear and not fragmented.
+        - related rules: sentence structure, punctuation
+      - middle of sentence
+        - explanation: Discourse markers inserted within sentences to connect ideas.
+        - examples:
+          - "The results, however, were inconclusive."
+          - "She is, in fact, an expert."
+        - usage notes: Use commas to separate discourse markers in the middle of sentences.
+        - exceptions: Overuse can interrupt the flow of the sentence.
+        - related rules: punctuation, sentence flow
+      - end of sentence
+        - explanation: Discourse markers placed at the end of sentences to reinforce or summarize.
+        - examples:
+          - "I didn't see him, either."
+          - "She was late, too."
+        - usage notes: Common in informal contexts to add agreement or additional information.
+        - exceptions: Avoid placing multiple markers at the end, which can be confusing.
+        - related rules: informal language, sentence emphasis
+
+    - Formal vs. Informal Usage
+
+      - formal discourse markers
+        - explanation: Markers suitable for formal writing and speeches, often more sophisticated.
+        - examples:
+          - "therefore"
+          - "moreover"
+        - usage notes: Use in academic, professional, and formal contexts to maintain a polished tone.
+        - exceptions: Avoid in casual conversations or informal writing.
+        - related rules: register in language, formal writing
+      - informal discourse markers
+        - explanation: Markers suitable for casual conversations and informal writing, often more conversational.
+        - examples:
+          - "so"
+          - "well"
+        - usage notes: Use in everyday speech, personal writing, and when a relaxed tone is appropriate.
+        - exceptions: Avoid in formal contexts where professionalism is required.
+        - related rules: conversational language, register in language
+
+    - Common Discourse Markers
+
+      - examples of additive
+        - explanation: Discourse markers that add information or ideas.
+        - examples:
+          - "furthermore"
+          - "in addition"
+        - usage notes: Use to introduce supplementary points.
+        - exceptions: Avoid overuse which can lead to redundancy.
+        - related rules: additive markers, linking ideas
+      - examples of adversative
+        - explanation: Discourse markers that indicate contrast or opposition.
+        - examples:
+          - "however"
+          - "on the contrary"
+        - usage notes: Use to show differences or opposing ideas.
+        - exceptions: Ensure that the contrast is clear and relevant.
+        - related rules: adversative markers, contrastive structures
+      - examples of causal
+        - explanation: Discourse markers that show cause and effect relationships.
+        - examples:
+          - "therefore"
+          - "as a result"
+        - usage notes: Use to explain reasons or outcomes.
+        - exceptions: Must ensure logical consistency.
+        - related rules: causal markers, cause and effect structures
+      - examples of sequential
+        - explanation: Discourse markers that indicate order or sequence of events.
+        - examples:
+          - "firstly"
+          - "finally"
+        - usage notes: Use to organize points or steps logically.
+        - exceptions: Maintain logical flow to avoid confusion.
+        - related rules: sequencing, organizing information
+
+    - Advanced Usage
+
+      - combining multiple discourse markers
+        - explanation: Using more than one discourse marker in a sentence to enhance coherence and flow.
+        - examples:
+          - "Firstly, we need to gather data; moreover, we should analyze it thoroughly."
+          - "She was tired; nevertheless, she continued working."
+        - usage notes: Use sparingly to avoid clutter; ensure each marker serves a distinct purpose.
+        - exceptions: Overuse can make writing seem forced or overly complex.
+        - related rules: sentence variety, coherence techniques
+      - nuanced meanings
+        - explanation: Understanding and using discourse markers that have subtle differences in meaning.
+        - examples:
+          - "although" vs. "though"
+            - "Although it was raining, we went out."
+            - "It was raining, though we went out."
+          - "since" (time) vs. "since" (cause)
+            - "I have been here since morning."
+            - "Since you are here, let's start."
+        - usage notes: Pay attention to context to use markers accurately.
+        - exceptions: Some markers have multiple meanings that can change based on context.
+        - related rules: semantic nuances, context-based usage
+      - integrating discourse markers in writing
+        - explanation: Effectively incorporating discourse markers to enhance the flow and coherence of written texts.
+        - examples:
+          - "The experiment was successful; therefore, we proceeded to the next phase."
+          - "In addition to the main findings, several secondary results were observed."
+        - usage notes: Use discourse markers to link paragraphs and ideas smoothly.
+        - exceptions: Avoid over-reliance on markers, which can make writing seem mechanical.
+        - related rules: paragraph linking, overall coherence
+      - discourse markers in spoken English
+        - explanation: Using discourse markers to manage conversation flow and express relationships between ideas.
+        - examples:
+          - "so" as a transition: "So, what do you want to do next?"
+          - "well" for hesitation or emphasis: "Well, I think that's a great idea."
+        - usage notes: Use naturally to maintain conversational flow and clarity.
+        - exceptions: Overusing can make speech seem hesitant or unfocused.
+        - related rules: conversational fluency, spoken discourse
+
+    - Common Mistakes
+
+      - overusing discourse markers
+        - explanation: Using too many discourse markers in a single text or conversation, making it cluttered or repetitive.
+        - examples:
+          - "Firstly, secondly, and thirdly, we need to, in addition, furthermore, also, and lastly..."
+        - usage notes: Use discourse markers judiciously to enhance clarity without overwhelming the reader or listener.
+        - exceptions: In formal or complex discussions, some use may be necessary for structure.
+        - related rules: sentence variety, coherence
+      - inappropriate marker choice
+        - explanation: Selecting discourse markers that do not fit the context or intended meaning.
+        - examples:
+          - Using "however" where "therefore" is needed.
+          - Using "in addition" to express contrast.
+        - usage notes: Ensure that the chosen marker aligns with the relationship you wish to express between ideas.
+        - exceptions: Some markers have flexible meanings but clarity is essential.
+        - related rules: semantic precision, context-based usage
+      - incorrect punctuation with discourse markers
+        - explanation: Misplacing commas or other punctuation when using discourse markers.
+        - examples:
+          - Incorrect: "However she was tired, she kept working."
+            Correct: "However, she was tired, she kept working."
+          - Incorrect: "Firstly we need to gather data."
+            Correct: "Firstly, we need to gather data."
+        - usage notes: Typically, commas follow discourse markers at the beginning or in the middle of sentences.
+        - exceptions: Some short markers may not require a comma based on the sentence flow.
+        - related rules: punctuation, sentence structure
+      - using informal markers in formal writing
+        - explanation: Employing casual discourse markers in contexts that require formal language.
+        - examples:
+          - Using "so" instead of "therefore."
+          - Using "like" as a filler in formal reports.
+        - usage notes: Match the formality of discourse markers to the context and audience.
+        - exceptions: Some informal markers can be used stylistically even in formal contexts, but it requires discretion.
+        - related rules: register in language, formality levels
+      - mismatching markers and sentence structures
+        - explanation: Using discourse markers that disrupt the grammatical structure or flow of a sentence.
+        - examples:
+          - "Because, I was late, I missed the meeting." (Incorrect)
+            Correct: "Because I was late, I missed the meeting."
+          - "In addition I have experience in marketing." (Missing comma)
+            Correct: "In addition, I have experience in marketing."
+        - usage notes: Ensure that discourse markers fit grammatically within the sentence structure.
+        - exceptions: Some markers may naturally flow without strict punctuation based on spoken usage.
+        - related rules: sentence structure, punctuation
+
+    - Related Rules
+      - coherence and cohesion
+        - explanation: Ensuring that discourse markers contribute to the logical flow and connectedness of ideas in a text.
+        - examples:
+          - "Firstly, we conducted research. Secondly, we analyzed the data."
+          - "The project was successful; therefore, we expanded it."
+        - usage notes: Use discourse markers to link ideas smoothly and logically.
+        - exceptions: Overuse can disrupt natural flow; balance is key.
+        - related rules: sentence variety, logical flow
+      - sentence variety
+        - explanation: Using a range of sentence structures and connectors to make writing more engaging and dynamic.
+        - examples:
+          - "She wanted to go for a walk. However, it started raining."
+          - "I studied hard; consequently, I passed the exam."
+        - usage notes: Incorporate different types of discourse markers to vary sentence patterns.
+        - exceptions: Ensure that varied structures still maintain clarity and coherence.
+        - related rules: syntactic diversity, stylistic techniques
+      - linking phrases
+        - explanation: Using phrases that connect different parts of a text, similar to discourse markers but often more extended.
+        - examples:
+          - "Due to the fact that"
+          - "In the absence of"
+        - usage notes: Use to provide detailed connections between ideas.
+        - exceptions: May be too wordy if overused; prefer concise markers where possible.
+        - related rules: discourse markers, cohesion

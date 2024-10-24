@@ -1,0 +1,231 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- C1
+  - Had Better, Would Rather
+    - Forms and Structures
+      - had better
+        - positive statements
+          - explanation: Used to give strong advice or warnings about future actions.
+          - examples:
+            - "You **had better** finish your homework before dinner."
+            - "She **had better** take an umbrella; it might rain."
+          - usage notes: Implies that there will be negative consequences if the advice is not followed.
+          - exceptions: Rarely used in the past tense; primarily for present or future situations.
+          - related rules: modal verbs, giving advice
+        - negative statements
+          - explanation: Used to advise against certain actions, indicating negative consequences.
+          - examples:
+            - "You **had better not** be late for the meeting."
+            - "They **had better not** forget to submit the report."
+          - usage notes: Strongly discourages specific actions by highlighting potential negative outcomes.
+          - exceptions: Not commonly used in polite requests or suggestions.
+          - related rules: prohibition expressions, modal verbs
+        - questions
+          - explanation: Formulating questions using "had better" to seek advice or confirmation.
+          - examples:
+            - "**Had better** we leave now to avoid traffic?"
+            - "**Had better** you call her before she leaves?"
+          - usage notes: Less common and can sound urgent or forceful; used when seeking immediate advice.
+          - exceptions: Typically used in informal contexts; not suitable for formal inquiries.
+          - related rules: question formation, modal inversion
+      - would rather
+        - simple preference
+          - explanation: Expresses a preference for one action over another.
+          - examples:
+            - "I **would rather** stay home tonight."
+            - "They **would rather** eat Italian food."
+          - usage notes: Used to indicate personal preferences in a straightforward manner.
+          - exceptions: Not used for strong advice or warnings.
+          - related rules: expressing preferences, modal verbs
+        - preference with different subjects
+          - explanation: Indicates a preference when the subjects of the two actions are different.
+          - examples:
+            - "I **would rather** you **come** early."
+            - "She **would rather** he **not join** the meeting."
+          - usage notes: Structure requires "would rather" followed by the subject and base verb of the preferred action.
+          - exceptions: Can be confusing when the subjects are not clearly stated; clarity is essential.
+          - related rules: subject-verb agreement, sentence structure
+        - negative preference
+          - explanation: Expresses a preference against a particular action.
+          - examples:
+            - "I **would rather not** go out tonight."
+            - "They **would rather not** discuss the matter now."
+          - usage notes: Softens the refusal or negative preference, making it more polite.
+          - exceptions: Less commonly used in very formal contexts.
+          - related rules: polite expressions, modal verbs
+        - expressing hypothetical preferences
+          - explanation: Indicates preferences in hypothetical or unreal situations.
+          - examples:
+            - "I **would rather** have stayed at home if I had known."
+            - "She **would rather** you **had told** her the truth."
+          - usage notes: Often used with past perfect to reflect on past hypothetical scenarios.
+          - exceptions: Requires careful tense usage to maintain clarity.
+          - related rules: conditional sentences, tense consistency
+    - Functions and Uses
+      - giving strong advice (had better)
+        - explanation: Provides urgent or important recommendations with implied consequences.
+        - examples:
+          - "You **had better** see a doctor if you're feeling sick."
+          - "They **had better** lock the doors before leaving."
+        - usage notes: Conveys a sense of urgency and seriousness in the advice.
+        - exceptions: Can sound forceful or bossy if overused.
+        - related rules: advice structures, modal verbs
+      - expressing preferences (would rather)
+        - explanation: Communicates personal likes or dislikes regarding actions or choices.
+        - examples:
+          - "He **would rather** read a book than watch TV."
+          - "We **would rather** take the train than drive."
+        - usage notes: Useful for discussing choices and personal inclinations.
+        - exceptions: Not suitable for conveying obligations or necessities.
+        - related rules: preference expressions, modal verbs
+      - making polite suggestions (would rather)
+        - explanation: Offers suggestions in a courteous manner by expressing preferences.
+        - examples:
+          - "I **would rather** you **join** us for dinner."
+          - "She **would rather** we **met** tomorrow."
+        - usage notes: Softens the suggestion, making it less direct and more polite.
+        - exceptions: May not be effective in very formal or directive situations.
+        - related rules: polite expressions, suggestion techniques
+      - indicating consequences (had better)
+        - explanation: Highlights potential negative outcomes if advice is not followed.
+        - examples:
+          - "You **had better** apologize, or she will be upset."
+          - "They **had better** finish the project on time to avoid penalties."
+        - usage notes: Emphasizes the importance of following the advice to prevent negative results.
+        - exceptions: Can create pressure or stress if used excessively.
+        - related rules: consequence expressions, modal verbs
+    - Comparison with Similar Structures
+      - had better vs should
+        - explanation: Both are used to give advice, but "had better" implies stronger consequences.
+        - examples:
+          - "You **should** study for the exam." vs. "You **had better** study for the exam."
+          - "He **should** see a doctor." vs. "He **had better** see a doctor."
+        - usage notes: Use "had better" when emphasizing urgency or potential negative outcomes.
+        - exceptions: "Should" is more versatile and less forceful, suitable for general advice.
+        - related rules: modal verb nuances, advice structures
+      - would rather vs prefer
+        - explanation: Both express preferences, but "would rather" is more direct and immediate.
+        - examples:
+          - "I **prefer** tea over coffee." vs. "I **would rather** have tea than coffee."
+          - "She **prefers** reading to watching TV." vs. "She **would rather** read than watch TV."
+        - usage notes: "Would rather" is often used in conversations for expressing specific choices.
+        - exceptions: "Prefer" can be used in a broader range of contexts, including more abstract preferences.
+        - related rules: preference expressions, modal verbs
+    - Common Mistakes
+      - incorrect verb forms after had better
+        - explanation: Using incorrect verb forms following "had better," which should be followed by the base form of the verb.
+        - examples:
+          - Incorrect: "You **had better** to go now."
+          - Correct: "You **had better** go now."
+          - Incorrect: "She **had better** studying harder."
+          - Correct: "She **had better** study harder."
+        - usage notes: Always follow "had better" with the base form of the verb without "to."
+        - exceptions: None; "had better" consistently requires the base verb form.
+        - related rules: verb forms, modal verb structures
+      - confusing subjects in would rather
+        - explanation: Mixing up the subjects when expressing preferences, especially when the subjects differ.
+        - examples:
+          - Incorrect: "I **would rather** she **go**."
+            Correct: "I **would rather** she **goes**." or "I **would rather** she **went**."
+          - Incorrect: "They **would rather** you **is** here."
+            Correct: "They **would rather** you **be** here."
+        - usage notes: Ensure that the verb form aligns correctly with the subject in "would rather" constructions.
+        - exceptions: Use correct subject-verb agreement based on tense and mood.
+        - related rules: subject-verb agreement, modal verb usage
+      - overusing had better
+        - explanation: Relying too frequently on "had better," making advice sound repetitive or authoritarian.
+        - examples:
+          - "You **had better** study, you **had better** eat, you **had better** sleep."
+        - usage notes: Use "had better" sparingly to maintain its effectiveness and avoid sounding bossy.
+        - exceptions: In contexts requiring strong recommendations or warnings, multiple uses may be appropriate.
+        - related rules: modal verb variety, advice structures
+      - using would rather for obligations
+        - explanation: Incorrectly using "would rather" to express obligations instead of preferences.
+        - examples:
+          - Incorrect: "You **would rather** finish your work by tonight."
+            Correct: "You **had better** finish your work by tonight."
+        - usage notes: "Would rather" is for preferences, not obligations or necessities.
+        - exceptions: None; "would rather" should not be used to impose obligations.
+        - related rules: modal verb functions, obligation expressions
+      - mixing had better with other modal verbs
+        - explanation: Combining "had better" with other modal verbs inappropriately, leading to grammatical errors.
+        - examples:
+          - Incorrect: "You **should had better** leave now."
+          - Correct: "You **had better** leave now."
+        - usage notes: "Had better" stands alone and should not be combined with other modals.
+        - exceptions: None; avoid mixing with other modal verbs.
+        - related rules: modal verb structures, grammatical correctness
+    - Advanced Applications
+      - using had better in conditional sentences
+        - explanation: Incorporating "had better" within conditional structures to express recommendations based on conditions.
+        - examples:
+          - "If you want to succeed, you **had better** work hard."
+          - "Should you need assistance, you **had better** ask for help."
+        - usage notes: Combines conditional clauses with strong advice or warnings.
+        - exceptions: Ensure that the condition clearly relates to the advice being given.
+        - related rules: conditional sentences, modal verbs
+      - using would rather with complex sentence structures
+        - explanation: Integrating "would rather" in sentences with multiple clauses or embedded structures to express nuanced preferences.
+        - examples:
+          - "I **would rather** you **had stayed** home than attended the party."
+          - "They **would rather** that we **meet** next week instead of today."
+        - usage notes: Allows for expressing preferences in past hypothetical or alternative scenarios.
+        - exceptions: Requires careful tense usage and clear subject alignment.
+        - related rules: hypothetical expressions, sentence complexity
+      - combining had better and would rather for emphasis
+        - explanation: Using both expressions in a single context to reinforce advice and preference.
+        - examples:
+          - "You **had better** leave now, and I **would rather** you **did not** come back late."
+          - "She **had better** complete the assignment, while he **would rather** take a break."
+        - usage notes: Adds layers of recommendation and preference for stronger emphasis.
+        - exceptions: Can become overly complex or forceful if not used carefully.
+        - related rules: modal verb combination, emphasis techniques
+      - formal and informal contexts
+        - explanation: Adapting the use of "had better" and "would rather" based on the formality of the situation to maintain appropriate tone.
+        - examples:
+          - Formal: "You **had better** submit your report by Friday."
+          - Informal: "I'd **rather** grab a coffee than go to the meeting."
+        - usage notes: Choose the expression that best fits the level of formality required.
+        - exceptions: Some contexts may allow for flexible usage, but maintaining consistency is important.
+        - related rules: register in language, tone adaptation
+    - Related Rules
+      - modal verbs
+        - explanation: "Had better" and "would rather" are part of the broader category of modal verbs, which express necessity, possibility, permission, or ability.
+        - examples:
+          - "can," "could," "should," "must," "might"
+          - "You **should** see a doctor."
+          - "They **can** come to the party."
+        - usage notes: Understand how different modals convey varying degrees of certainty, obligation, and preference.
+        - exceptions: Some modals do not have past forms or may change meaning based on context.
+        - related rules: modal verb functions, modal verb structures
+      - conditional sentences
+        - explanation: Conditional sentences express "if-then" scenarios and often work in tandem with modal verbs to indicate possibilities or hypothetical situations.
+        - examples:
+          - "If it rains, we **will** cancel the trip."
+          - "If I **had** more time, I **would** travel."
+        - usage notes: Use appropriate modal verbs to match the type of conditional being expressed.
+        - exceptions: Ensure consistency in tense and modal usage within the conditional structure.
+        - related rules: conditional types, modal verbs
+      - sentence variety
+        - explanation: Incorporating different sentence structures and expressions to enhance the readability and engagement of writing or speech.
+        - examples:
+          - "You **had better** study for the exam." vs. "You **should** study for the exam."
+          - "I **would rather** go now." vs. "I **prefer** to go now."
+        - usage notes: Use "had better" and "would rather" to add variety and avoid repetitive sentence patterns.
+        - exceptions: Maintain clarity and avoid overcomplicating sentences with excessive variety.
+        - related rules: stylistic techniques, sentence construction
+      - expressing obligation and preference
+        - explanation: Both "had better" and "would rather" are used to express obligation and preference, respectively, fitting into broader strategies for conveying needs and desires.
+        - examples:
+          - Obligation: "You **had better** follow the rules."
+          - Preference: "She **would rather** read a book than watch TV."
+        - usage notes: Distinguish between expressing strong advice or obligation ("had better") and personal preferences ("would rather").
+        - exceptions: Avoid confusing the two by ensuring that the context clearly indicates whether obligation or preference is being expressed.
+        - related rules: obligation expressions, preference expressions

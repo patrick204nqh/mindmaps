@@ -1,0 +1,228 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- C1
+  - Ellipsis & Substitution
+    - Types of Ellipsis
+      - verb phrase ellipsis
+        - explanation: Omitting the repeated verb phrase in the second clause when it can be inferred from the first clause.
+        - examples:
+          - She can play the guitar, and he **can** too.
+          - They were going to the party, but we **were not**.
+        - usage notes: Used to avoid repetition and make sentences more concise.
+        - exceptions: When the omitted verb phrase cannot be clearly inferred from the context.
+        - related rules: coordinating conjunctions, sentence variety
+      - gapping
+        - explanation: Omitting one or more words from the second clause, typically the verb and its auxiliaries, when they are identical to those in the first clause.
+        - examples:
+          - John can play the guitar, and Mary **can** the piano.
+          - She likes tea, and he **coffee**.
+        - usage notes: Common in coordinated clauses where the omitted elements are clear from the first clause.
+        - exceptions: Can lead to ambiguity if the omitted elements are not obvious.
+        - related rules: coordination, parallel structure
+      - stripping
+        - explanation: Removing redundant elements from a sentence, often leaving behind only the essential part.
+        - examples:
+          - I like coffee, and so **do** you.
+          - She can dance, and he **can** too.
+        - usage notes: Enhances readability by eliminating unnecessary repetition.
+        - exceptions: Limited to elements that can be clearly understood from context.
+        - related rules: pronoun substitution, auxiliary verbs
+      - nominal ellipsis
+        - explanation: Omitting nouns or noun phrases that are understood from the context.
+        - examples:
+          - She brought apples, and he oranges.
+          - They prefer classical music, while we jazz.
+        - usage notes: Useful for contrasting or comparing similar items without repetition.
+        - exceptions: Can cause confusion if the omitted noun is not clear.
+        - related rules: comparative structures, noun phrases
+      - comparative ellipsis
+        - explanation: Omitting parts of a comparative sentence that are identical to the first part.
+        - examples:
+          - She is taller than him, and he is taller than **her**.
+          - This book is more interesting than that one, and that one is more interesting than **this**.
+        - usage notes: Streamlines comparisons by removing redundant information.
+        - exceptions: Ensure the omitted parts do not lead to ambiguity.
+        - related rules: comparatives, sentence efficiency
+    - Types of Substitution
+      - pronoun substitution
+        - explanation: Replacing a noun or noun phrase with a pronoun to avoid repetition.
+        - examples:
+          - I prefer tea over coffee, and **so** does she.
+          - They went to the park, and **they** enjoyed it.
+        - usage notes: Enhances sentence flow and avoids redundancy.
+        - exceptions: Ensure the pronoun clearly refers to the intended noun.
+        - related rules: pronoun agreement, clarity in reference
+      - pro-form substitution
+        - explanation: Using pro-forms like "do so," "do that," or "one" to replace larger phrases or clauses.
+        - examples:
+          - She wants to travel, and I **do so** as well.
+          - They need to leave early, and we need to **do that** too.
+        - usage notes: Useful for replacing actions or ideas previously mentioned.
+        - exceptions: Context must make the substituted action or idea clear.
+        - related rules: pro-forms, verb phrase substitution
+      - dummy pronouns
+        - explanation: Using pronouns like "it" or "there" as placeholders when the actual subject is unclear or generalized.
+        - examples:
+          - **It** is raining.
+          - **There** are many challenges ahead.
+        - usage notes: Common in introductory phrases and to maintain sentence structure.
+        - exceptions: Overuse can make sentences vague or impersonal.
+        - related rules: subject placeholders, sentence structure
+    - Uses of Ellipsis & Substitution
+      - redundancy elimination
+        - explanation: Removing repetitive elements to make sentences more concise and readable.
+        - examples:
+          - She likes hiking, and he likes **it** too.
+          - They decided to leave early, and we decided to **leave** early too.
+        - usage notes: Improves clarity and efficiency in communication.
+        - exceptions: Avoid removing elements that are necessary for understanding.
+        - related rules: conciseness, sentence efficiency
+      - cohesion and coherence
+        - explanation: Using ellipsis and substitution to create smooth transitions and connections between ideas.
+        - examples:
+          - The first proposal was approved, and the second was **rejected**.
+          - He enjoys painting, and she enjoys **drawing**.
+        - usage notes: Enhances the logical flow and connectedness of the text.
+        - exceptions: Ensure that connections between ideas remain clear.
+        - related rules: transitional phrases, logical flow
+    - Structures
+      - comparative constructions with ellipsis
+        - explanation: Structuring comparative sentences to omit repeated elements, focusing on the key differences or similarities.
+        - examples:
+          - She is smarter than him, and he is **smarter** than **her**.
+          - This book is more exciting than that one, and that one is more exciting than **this**.
+        - usage notes: Facilitates clear and concise comparisons.
+        - exceptions: Avoid ambiguity by ensuring the omitted elements are clear.
+        - related rules: comparatives, sentence efficiency
+      - conjunctions with ellipsis
+        - explanation: Using conjunctions like "and," "but," or "or" in conjunction with ellipsis to link related clauses without repetition.
+        - examples:
+          - He can play the guitar, and she can **play** the piano.
+          - They wanted to go hiking, but we wanted to **stay** home.
+        - usage notes: Maintains sentence flow while avoiding unnecessary repetition.
+        - exceptions: Ensure the meaning remains clear without the repeated elements.
+        - related rules: coordinating conjunctions, sentence variety
+    - Advanced Usage
+      - ellipsis in complex sentences
+        - explanation: Applying ellipsis in sentences with multiple clauses or embedded structures to enhance readability and coherence.
+        - examples:
+          - Although she enjoys reading books, he prefers **reading** magazines.
+          - If you can handle the stress, I can **handle** the workload.
+        - usage notes: Helps manage complexity by reducing repetition in intricate sentence structures.
+        - exceptions: Can lead to confusion if the omitted elements are not clearly implied.
+        - related rules: complex sentences, clause linking
+      - integration with other grammatical structures
+        - explanation: Combining ellipsis and substitution with other grammatical elements like relative clauses or passive voice for sophisticated expression.
+        - examples:
+          - She completed the project, and he the report. (ellipsis with coordinated clauses)
+          - The cake was baked by Mary, and the frosting by John. (ellipsis in passive structures)
+        - usage notes: Enhances sentence sophistication and variety by blending multiple grammatical techniques.
+        - exceptions: Maintain clarity and avoid overcomplicating sentences.
+        - related rules: passive voice, relative clauses, sentence variety
+    - Common Mistakes
+      - overuse leading to ambiguity
+        - explanation: Excessive use of ellipsis and substitution can make sentences unclear or confusing.
+        - examples:
+          - They went to the store, and we went **too**. (Ambiguous what "too" refers to)
+          - She likes ice cream, and he **likes**. (Unclear what "likes")
+        - usage notes: Use ellipsis and substitution judiciously to maintain clarity.
+        - exceptions: In contexts where the omitted information is unmistakably clear.
+        - related rules: clarity in communication, sentence structure
+      - incorrect omission of necessary elements
+        - explanation: Removing essential parts of a sentence, resulting in incomplete or grammatically incorrect structures.
+        - examples:
+          - Incorrect: She can dance, and he **can**.
+          - Correct: She can dance, and he **can dance**.
+          - Incorrect: They wanted to leave early, and we wanted to.
+          - Correct: They wanted to leave early, and we wanted to leave early too.
+        - usage notes: Ensure that only non-essential, repetitive elements are omitted.
+        - exceptions: When the omitted elements are clearly understood from context.
+        - related rules: sentence completeness, grammatical accuracy
+      - unclear references in substitution
+        - explanation: Using substitution without a clear antecedent, making it difficult to understand what is being replaced.
+        - examples:
+          - She brought apples, and he brought **them**. (Clear antecedent: apples)
+          - They discussed the project, and we discussed **it**. (Clear antecedent: the project)
+          - Ambiguous: She brought apples, and he brought **it**.
+        - usage notes: Ensure that pronouns and pro-forms have clear and unambiguous references.
+        - exceptions: Contextual cues can sometimes clarify ambiguous references.
+        - related rules: pronoun agreement, clarity in reference
+      - mismatching forms in ellipsis
+        - explanation: Inconsistent use of verb forms when applying ellipsis, leading to grammatical errors.
+        - examples:
+          - Incorrect: She enjoys reading, and he enjoys **to read**.
+          - Correct: She enjoys reading, and he enjoys reading.
+          - Incorrect: They decided to leave early, and we decided **leave** early.
+          - Correct: They decided to leave early, and we decided to leave early too.
+        - usage notes: Maintain consistency in verb forms when omitting repeated elements.
+        - exceptions: Some verbs may allow different forms based on context, but clarity must be preserved.
+        - related rules: verb form consistency, grammatical agreement
+    - Exceptions
+      - contexts where ellipsis is not appropriate
+        - explanation: Situations where omitting elements can lead to confusion, loss of meaning, or grammatical inaccuracies.
+        - examples:
+          - Technical writing where precision is crucial: "The software updates the system, and the hardware updates."
+          - Legal documents where every element must be explicitly stated.
+        - usage notes: Use ellipsis and substitution only when the omitted information is clear and does not compromise meaning.
+        - exceptions: Highly formal or technical contexts may require full sentence structures.
+        - related rules: context-appropriate language, clarity in communication
+      - ambiguous omissions
+        - explanation: Omitting elements in a way that makes it unclear what is being referred to or replaced.
+        - examples:
+          - They went to the concert, and we went **there**. (Clear: to the concert)
+          - She likes reading novels, and he likes **reading**. (Clear: reading novels)
+          - Ambiguous: She likes reading novels, and he likes **reading**.
+        - usage notes: Ensure that the context provides sufficient clarity to avoid ambiguity.
+        - exceptions: When surrounding context makes the reference unmistakably clear.
+        - related rules: pronoun clarity, context cues
+      - requiring explicit mention for emphasis
+        - explanation: In cases where omission reduces the intended emphasis or clarity, explicit mention is necessary.
+        - examples:
+          - Emphasizing the action: "She won the race, and he won **the competition**."
+          - Maintaining focus: "They solved the problem, and we solved **it as well**."
+        - usage notes: Do not omit elements that are crucial for maintaining the intended emphasis or focus.
+        - exceptions: When the emphasis remains clear without the omitted elements.
+        - related rules: emphatic structures, sentence focus
+    - Related Rules
+      - coordinating conjunctions
+        - explanation: Words that connect words, phrases, or clauses of equal grammatical rank, often used in conjunction with ellipsis and substitution.
+        - examples:
+          - "and," "but," "or," "nor," "for," "so," "yet."
+          - She likes tea **and** he likes coffee.
+          - They wanted to go hiking **but** we wanted to stay home.
+        - usage notes: Use coordinating conjunctions to link related ideas while applying ellipsis or substitution to avoid repetition.
+        - exceptions: Avoid overusing conjunctions which can lead to run-on sentences.
+        - related rules: sentence variety, parallel structure
+      - relative clauses
+        - explanation: Dependent clauses that modify a noun or pronoun, providing additional information and often interacting with ellipsis and substitution for conciseness.
+        - examples:
+          - The book **that I read** was fascinating, and the movie **that I watched** was thrilling.
+          - She is the person **who helped** me, and he is the person **who supported** me.
+        - usage notes: Use ellipsis and substitution to streamline relative clauses and avoid redundancy.
+        - exceptions: Ensure that essential information in relative clauses is not lost through ellipsis.
+        - related rules: clause linking, sentence restructuring
+      - passive voice
+        - explanation: A sentence structure where the subject receives the action, often used alongside ellipsis and substitution to focus on the action rather than the doer.
+        - examples:
+          - The report **was completed** by the team, and the presentation **was prepared** by the manager.
+          - The cake **was baked** by Mary, and the frosting **was decorated** by John.
+        - usage notes: Combining passive voice with ellipsis and substitution can enhance formality and focus on actions.
+        - exceptions: Overuse can make writing seem impersonal or vague.
+        - related rules: passive structures, sentence focus
+      - verb phrase structures
+        - explanation: The arrangement of verbs and their complements within a sentence, which interacts with ellipsis and substitution to maintain grammatical integrity.
+        - examples:
+          - Active: "She can play the piano, and he can play the guitar."
+            Ellipsis: "She can play the piano, and he can too."
+          - Active: "They decided to leave early, and we decided to leave early as well."
+            Ellipsis: "They decided to leave early, and we decided to too."
+        - usage notes: Ensure that the remaining verb phrases after ellipsis or substitution are complete and grammatically correct.
+        - exceptions: Some complex verb phrases may not lend themselves well to ellipsis.
+        - related rules: sentence completeness, verb agreement

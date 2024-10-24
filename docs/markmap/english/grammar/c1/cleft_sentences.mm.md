@@ -1,0 +1,210 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- C1
+  - Cleft Sentences
+    - Types of Cleft Sentences
+      - it-cleft
+        - explanation: A structure that splits a single clause into two parts to emphasize a particular element, typically using "it" as the subject.
+        - examples:
+          - It was **John** who **solved** the problem.
+          - It is **the environment** that **affects** our health.
+        - usage notes: Use it-clefts to highlight specific information and add variety to sentence structures.
+        - exceptions: Can make sentences longer and more complex; use sparingly to maintain clarity.
+        - related rules: sentence restructuring, emphasis techniques
+      - wh-cleft
+        - explanation: Also known as pseudo-cleft, this structure uses "what," "who," "where," etc., to emphasize a particular part of the sentence.
+        - examples:
+          - What I need **is** a good night's sleep.
+          - Who she invited **is** still unknown.
+        - usage notes: Use wh-clefts to focus on specific information and make sentences more impactful.
+        - exceptions: Not suitable for all types of sentences; ensure the emphasized part is clear.
+        - related rules: it-cleft, sentence emphasis
+      - alternative cleft
+        - explanation: Combines elements of both it-cleft and wh-cleft to emphasize different parts of a sentence.
+        - examples:
+          - It was **because of the rain** that the event **was canceled**.
+          - What she wants **is** a new opportunity.
+        - usage notes: Use alternative clefts to emphasize reasons or specific desires within a sentence.
+        - exceptions: Can lead to overly complex sentences if overused.
+        - related rules: it-cleft, wh-cleft, sentence variety
+    - Uses of Cleft Sentences
+      - emphasis
+        - explanation: Cleft sentences are primarily used to place emphasis on a particular part of a sentence.
+        - examples:
+          - It was **her dedication** that **led to the success**.
+          - What you **need** is a reliable source.
+        - usage notes: Use cleft sentences to draw the reader's or listener's attention to important information.
+        - exceptions: Overusing emphasis can make writing seem forced or unnatural.
+        - related rules: emphatic structures, sentence focus
+      - clarification
+        - explanation: Cleft sentences help clarify which part of the sentence is most important or needs highlighting.
+        - examples:
+          - It is **the speed** that **makes this car special**.
+          - What he **really wants** is a chance to prove himself.
+        - usage notes: Use for clearer communication, especially when distinguishing between multiple elements.
+        - exceptions: May introduce redundancy if the context is already clear.
+        - related rules: sentence restructuring, clarity techniques
+      - contrast
+        - explanation: Cleft sentences can be used to contrast different ideas or elements within a sentence.
+        - examples:
+          - It was **not the price** but **the quality** that **won** the customers.
+          - What I like **about** this book **is** its intricate plot.
+        - usage notes: Employ cleft sentences to highlight differences or opposing elements effectively.
+        - exceptions: Ensure that the contrast is logical and enhances understanding.
+        - related rules: contrastive structures, adversative linking words
+    - Structure
+      - it-cleft structure
+        - explanation: Consists of "It + be + emphasized element + who/that + clause."
+        - examples:
+          - It is **she** who **called** earlier.
+          - It was **the manager** that **approved** the budget.
+        - usage notes: Follow the standard structure to maintain grammatical correctness and emphasis.
+        - exceptions: Ensure subject-verb agreement and proper placement of the emphasized element.
+        - related rules: subject-verb agreement, clause structure
+      - wh-cleft structure
+        - explanation: Begins with a wh-word (what, who, where, etc.) followed by a clause that completes the sentence.
+        - examples:
+          - What **I want** **is** a vacation.
+          - Where **they met** **is** still a mystery.
+        - usage notes: Use the appropriate wh-word based on what you wish to emphasize.
+        - exceptions: Not all sentences can be effectively transformed into wh-clefts.
+        - related rules: wh-questions, sentence emphasis
+      - alternative cleft structure
+        - explanation: Combines elements of it-cleft and wh-cleft to emphasize different parts of a sentence.
+        - examples:
+          - It was **because of the delay** that **they missed** the train.
+          - What **he needs** **is** more time to complete the project.
+        - usage notes: Use alternative clefts to emphasize reasons or specific desires within a sentence.
+        - exceptions: Can lead to overly complex sentences if overused.
+        - related rules: it-cleft, wh-cleft, sentence variety
+    - Advanced Features
+      - combining cleft sentences with other structures
+        - explanation: Integrating cleft sentences with other grammatical structures like conditionals or relative clauses to add complexity and emphasis.
+        - examples:
+          - It was **only after the meeting** that **we realized** the importance.
+          - What **she suggested** **was that we should delay** the project.
+        - usage notes: Enhances the depth and sophistication of sentences, suitable for advanced writing.
+        - exceptions: May make sentences too complex if not managed properly.
+        - related rules: compound sentences, sentence variety
+      - cleft sentences in reported speech
+        - explanation: Using cleft sentences within reported speech to emphasize specific information from the original statement.
+        - examples:
+          - He said that **it was the weather** that **had caused** the delay.
+          - She mentioned that **what she needed** **was** more support.
+        - usage notes: Maintains emphasis while accurately conveying the original speaker's intent.
+        - exceptions: Ensure proper tense alignment and clarity when embedding clefts in reported speech.
+        - related rules: reported speech, sentence restructuring
+      - cleft sentences with modal verbs
+        - explanation: Incorporating modal verbs within cleft sentences to express possibility, necessity, or obligation.
+        - examples:
+          - It **might be** that **they will attend** the conference.
+          - What **should be** done **is** to review the report thoroughly.
+        - usage notes: Adds nuance and sophistication to the expression of possibilities or obligations.
+        - exceptions: Ensure modal verbs are appropriately placed within the cleft structure.
+        - related rules: modal verbs, sentence emphasis
+    - Common Mistakes
+      - incorrect placement of "it"
+        - explanation: Misplacing "it" in the cleft sentence, leading to grammatical errors or unclear emphasis.
+        - examples:
+          - Incorrect: It was **who John** solved the problem.
+          - Correct: It was **John** who **solved** the problem.
+          - Incorrect: It was **because of the rain** that the event **was canceled**.
+          - Correct: It was **because of the rain** that **the event was canceled**.
+        - usage notes: Ensure "it" correctly precedes the emphasized element to maintain clarity and structure.
+        - exceptions: None specific.
+        - related rules: sentence structure, subject-verb agreement
+      - omitting necessary components
+        - explanation: Leaving out essential parts of the cleft sentence, resulting in incomplete or unclear sentences.
+        - examples:
+          - Incorrect: It was **John** solved the problem.
+          - Correct: It was **John** who **solved** the problem.
+          - Incorrect: What **is** a good vacation.
+          - Correct: What **I want** **is** a good vacation.
+        - usage notes: Always include all necessary components (e.g., who/that clauses) to form a complete cleft sentence.
+        - exceptions: None specific.
+        - related rules: sentence completeness, clause structure
+      - using the wrong cleft type
+        - explanation: Choosing between it-cleft and wh-cleft incorrectly, leading to mismatched emphasis or grammatical errors.
+        - examples:
+          - Incorrect: What **it was** that **he wanted**.
+          - Correct: It was **what he wanted** that **he pursued**.
+          - Incorrect: It **what I need** **is** a break.
+          - Correct: What **I need** **is** a break.
+        - usage notes: Select the appropriate cleft type based on what you intend to emphasize.
+        - exceptions: None specific.
+        - related rules: it-cleft, wh-cleft, sentence emphasis
+      - redundancy and overcomplication
+        - explanation: Making sentences unnecessarily complex or repetitive by overusing cleft structures.
+        - examples:
+          - Incorrect: It was **the fact that** she **was late** that **caused** the delay.
+          - Correct: It was **she** who **caused** the delay.
+          - Incorrect: What **what** I **really need** **is** a break.
+          - Correct: What **I really need** **is** a break.
+        - usage notes: Use cleft sentences judiciously to avoid clutter and maintain sentence clarity.
+        - exceptions: In persuasive or narrative writing, multiple clefts may be used for emphasis.
+        - related rules: sentence efficiency, clarity techniques
+    - Exceptions
+      - when cleft sentences are not appropriate
+        - explanation: Situations where cleft sentences may not be suitable due to redundancy, complexity, or lack of emphasis.
+        - examples:
+          - Simple statements where emphasis is not needed: "She solved the problem."
+          - Overly formal contexts where simpler structures are preferred.
+        - usage notes: Reserve cleft sentences for when emphasis or clarification is necessary; otherwise, use simpler sentence structures.
+        - exceptions: In creative writing, clefts can be used stylistically even when not strictly necessary.
+        - related rules: sentence variety, register in language
+      - ambiguous emphasis
+        - explanation: When the intended emphasis is unclear, leading to ambiguity in the sentence's meaning.
+        - examples:
+          - It was **the report** that **she wrote** and **he reviewed**.
+            (Unclear which action is being emphasized)
+        - usage notes: Ensure that the emphasized element is clearly identified to avoid confusion.
+        - exceptions: None specific.
+        - related rules: clarity techniques, sentence restructuring
+      - mixing cleft types
+        - explanation: Combining different cleft types within a single sentence or context, leading to inconsistency or confusion.
+        - examples:
+          - It was **what** she **wanted** that **she pursued** and **who** helped her.
+            (Mixing it-cleft and wh-cleft improperly)
+        - usage notes: Maintain consistency in cleft types within the same sentence or related context.
+        - exceptions: None specific.
+        - related rules: sentence consistency, emphasis techniques
+    - Related Rules
+      - emphatic structures
+        - explanation: Grammatical constructions used to place emphasis on particular parts of a sentence, similar to cleft sentences.
+        - examples:
+          - Using "do" for emphasis: "I **do** like your idea."
+          - Using fronting: "**This book**, I have never read."
+        - usage notes: Employ various emphatic structures to highlight important information and add variety to sentences.
+        - exceptions: Overusing emphatic structures can make writing seem forced or unnatural.
+        - related rules: sentence restructuring, emphasis techniques
+      - inversion
+        - explanation: Changing the normal word order of a sentence, often for emphasis or in specific grammatical contexts.
+        - examples:
+          - "Never have I **seen** such beauty."
+          - "Rarely does she **make** mistakes."
+        - usage notes: Use inversion to add formality or emphasis, especially in literary or formal contexts.
+        - exceptions: Not commonly used in everyday speech; can sound archaic if overused.
+        - related rules: emphatic structures, sentence variety
+      - passive voice
+        - explanation: A sentence structure where the subject receives the action, often used to focus on the action rather than the doer.
+        - examples:
+          - "The cake **was baked** by Mary."
+          - "The meeting **was conducted** by the committee."
+        - usage notes: Use passive voice to emphasize the action or when the doer is unknown or irrelevant.
+        - exceptions: Overusing passive voice can make writing seem vague or impersonal.
+        - related rules: passive structures, subject-verb agreement
+      - relative clauses
+        - explanation: Dependent clauses that modify a noun or pronoun, providing additional information within a sentence.
+        - examples:
+          - "The book **that I read** was fascinating."
+          - "She is the person **who helped** me."
+        - usage notes: Use relative clauses to add detail and clarity to sentences.
+        - exceptions: Overusing relative clauses can make sentences lengthy and complex.
+        - related rules: clause structures, sentence complexity
