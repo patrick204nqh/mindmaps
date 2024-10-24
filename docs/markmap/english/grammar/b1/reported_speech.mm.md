@@ -1,0 +1,196 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- B1
+  - Reported Speech (Statements and Questions)
+    - Reporting Statements
+      - backshifting tenses
+        - explanation: Shifting the tense of the verb in the reported speech one step back in time.
+        - examples:
+          - Direct: She says, "I am happy."
+          - Reported: She said that she was happy.
+        - usage notes: Common when the reporting verb is in the past tense.
+        - exceptions: Do not backshift if the reported statement is still true.
+        - related rules: sequence of tenses, present perfect in reported speech
+      - pronoun changes
+        - explanation: Adjusting pronouns to match the perspective of the reporter.
+        - examples:
+          - Direct: "I will call you," he said.
+          - Reported: He said that he would call me.
+        - usage notes: Ensure pronouns correctly reflect the relationship between the speaker and the listener.
+        - exceptions: Pronouns remain the same if the perspective does not change.
+        - related rules: pronoun agreement, perspective in reporting
+      - time expression changes
+        - explanation: Modifying time-related words to fit the context of the reported speech.
+        - examples:
+          - Direct: "I will see you tomorrow," she said.
+          - Reported: She said that she would see me the next day.
+        - usage notes: Adjust expressions like "today," "tomorrow," and "yesterday" appropriately.
+        - exceptions: Some time expressions do not change if the reporting and reported speech occur simultaneously.
+        - related rules: temporal expressions, context in reporting
+      - sentence structure
+        - explanation: Incorporating the reported statement into a subordinate clause.
+        - examples:
+          - Direct: "I enjoy reading," he said.
+          - Reported: He said that he enjoys reading.
+        - usage notes: Use conjunctions like "that" to introduce the reported statement.
+        - exceptions: "That" can be omitted in informal contexts.
+        - related rules: conjunctions in complex sentences
+    - Reporting Questions
+      - reporting yes/no questions
+        - explanation: Transforming yes/no questions from direct to reported speech without question word order.
+        - examples:
+          - Direct: "Are you coming?" she asked.
+          - Reported: She asked if I was coming.
+        - usage notes: Use "if" or "whether" to introduce the reported question.
+        - exceptions: "Whether" can be used interchangeably with "if."
+        - related rules: transforming question types, conjunctions
+      - reporting wh-questions
+        - explanation: Converting wh-questions by maintaining the question word and using statement word order.
+        - examples:
+          - Direct: "Where do you live?" he asked.
+          - Reported: He asked where I lived.
+        - usage notes: Keep the wh-question word (what, where, when, why, how) and use statement order.
+        - exceptions: None specific.
+        - related rules: question word usage, sentence restructuring
+      - question word changes
+        - explanation: Adjusting question words if necessary to fit the reported context.
+        - examples:
+          - Direct: "Why are you late?" she asked.
+          - Reported: She asked why I was late.
+        - usage notes: Generally, question words remain the same unless the meaning changes.
+        - exceptions: None specific.
+        - related rules: consistency in meaning, question types
+      - sentence structure
+        - explanation: Embedding the question into a statement without inversion.
+        - examples:
+          - Direct: "What are you doing?" he asked.
+          - Reported: He asked what I was doing.
+        - usage notes: Do not use auxiliary inversion when reporting questions.
+        - exceptions: None specific.
+        - related rules: statement vs. question forms, subordinate clauses
+    - Reporting Verbs
+      - say, tell, ask
+        - explanation: Common verbs used to introduce reported speech.
+        - examples:
+          - Say: She said that she was tired.
+          - Tell: He told me that he would arrive late.
+          - Ask: They asked if I could help.
+        - usage notes: "Tell" is usually followed by an object, while "say" and "ask" may not require one.
+        - exceptions: "Ask" often requires a question word in reported speech.
+        - related rules: choosing appropriate reporting verbs, verb-object agreement
+      - other reporting verbs
+        - explanation: Using verbs like "reply," "respond," "mention," "state," etc., to convey different nuances.
+        - examples:
+          - Reply: She replied that she was busy.
+          - Mention: He mentioned that he had visited Paris.
+        - usage notes: Different reporting verbs can add specific meanings or tones to the reported speech.
+        - exceptions: Some verbs may have specific grammatical structures.
+        - related rules: verb selection in reporting, nuance in language
+    - Reporting Commands and Requests
+      - imperative to infinitive
+        - explanation: Changing commands and requests from direct to reported speech using the infinitive form.
+        - examples:
+          - Direct: "Please sit down," he said.
+          - Reported: He asked me to sit down.
+        - usage notes: Use verbs like "ask," "tell," "order," followed by the infinitive.
+        - exceptions: Commands using "let's" are reported differently.
+        - related rules: expressing commands, imperative mood
+      - reporting verbs used
+        - explanation: Selecting appropriate verbs to report commands and requests.
+        - examples:
+          - Order: The manager ordered the team to start the project.
+          - Request: She requested that he arrive early.
+        - usage notes: Choose reporting verbs that accurately reflect the nature of the command or request.
+        - exceptions: Some commands may require specific reporting verbs.
+        - related rules: verb selection in commands, formality in requests
+    - Special Considerations
+      - no backshifting when reporting in present
+        - explanation: When the reporting verb is in the present tense, backshifting of tenses is not required.
+        - examples:
+          - Direct: "I love this song," she says.
+          - Reported: She says that she loves this song.
+        - usage notes: Maintain the original tense to reflect that the statement is still true.
+        - exceptions: If the reported statement is no longer true, backshifting may apply.
+        - related rules: tense consistency, present reporting
+      - universal truths and facts
+        - explanation: Do not backshift tenses when reporting statements that are universally true or factual.
+        - examples:
+          - Direct: "The Earth revolves around the Sun," he said.
+          - Reported: He said that the Earth revolves around the Sun.
+        - usage notes: Maintain present simple tense for facts and general truths.
+        - exceptions: None specific.
+        - related rules: factual statements, tense usage in reporting
+    - Common Mistakes
+      - incorrect backshifting
+        - explanation: Failing to shift tenses appropriately when reporting speech.
+        - examples:
+          - Incorrect: He said that he will come.
+          - Correct: He said that he would come.
+        - usage notes: Ensure tenses are shifted one step back when the reporting verb is in the past.
+        - exceptions: As noted in special considerations.
+        - related rules: backshifting rules, sequence of tenses
+      - improper pronoun changes
+        - explanation: Not adjusting pronouns to match the perspective of the reporter.
+        - examples:
+          - Incorrect: She said, "I am happy."
+          - Correct: She said that she was happy.
+        - usage notes: Carefully change pronouns based on who is speaking and who is being spoken to.
+        - exceptions: Pronouns may remain the same if the perspective does not change.
+        - related rules: pronoun agreement, perspective in language
+      - wrong word order in questions
+        - explanation: Maintaining question word order instead of using statement word order in reported questions.
+        - examples:
+          - Incorrect: He asked what are you doing.
+          - Correct: He asked what you were doing.
+        - usage notes: Use statement word order in the reported question clause.
+        - exceptions: None specific.
+        - related rules: question vs. statement structure, subordinate clauses
+      - omitting necessary conjunctions
+        - explanation: Forgetting to use "that" or appropriate conjunctions when introducing reported speech.
+        - examples:
+          - Incorrect: She said she is coming.
+          - Correct: She said that she was coming.
+        - usage notes: While "that" can be omitted in informal contexts, it helps clarify the sentence.
+        - exceptions: In very informal speech, omission is acceptable.
+        - related rules: sentence connectors, clarity in reporting
+    - Exceptions
+      - unchanged tenses for still true statements
+        - explanation: Keeping original tenses when the reported statement remains true at the time of reporting.
+        - examples:
+          - Direct: "Water boils at 100 degrees Celsius," he says.
+          - Reported: He says that water boils at 100 degrees Celsius.
+        - usage notes: Do not backshift tenses for universal truths or ongoing situations.
+        - exceptions: If the situation changes, backshifting may apply.
+        - related rules: factual statements, tense consistency
+    - Related Rules
+      - sequence of tenses
+        - explanation: The grammatical rule that the tense of verbs in subordinate clauses should follow the tense of the main clause.
+        - examples:
+          - Present to past: "I am happy," she said → She said that she was happy.
+          - Past to past perfect: "I ate lunch," he said → He said that he had eaten lunch.
+        - usage notes: Helps maintain consistency and clarity in reported speech.
+        - exceptions: As noted in special considerations.
+        - related rules: backshifting, tense agreement
+      - direct speech
+        - explanation: The original spoken words that are being reported indirectly.
+        - examples:
+          - Direct: He said, "I will help you."
+          - Reported: He said that he would help me.
+        - usage notes: Understanding direct speech is essential for accurate reporting.
+        - exceptions: None specific.
+        - related rules: reported speech, speech types
+      - reported questions vs. statements
+        - explanation: Differentiating between reporting statements and reporting questions requires different structures.
+        - examples:
+          - Statement: She said that she was tired.
+          - Question: He asked if I was coming.
+        - usage notes: Use appropriate reporting structures based on the type of original speech.
+        - exceptions: None specific.
+        - related rules: question reporting, statement reporting

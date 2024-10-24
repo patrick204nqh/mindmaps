@@ -1,0 +1,178 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- B1
+  - Quantifiers (some, any, much, many)
+    - Types of Quantifiers
+      - some
+        - explanation: Used to indicate an unspecified amount or number, typically in positive statements and offers/requests.
+        - examples:
+          - I have some friends in New York.
+          - Would you like some coffee?
+        - usage notes: Commonly used with countable and uncountable nouns in affirmative sentences, and in offers and requests.
+        - exceptions: Not typically used in negative sentences or questions where 'any' is preferred.
+        - related rules: any, offers and requests
+      - any
+        - explanation: Used to indicate an unspecified amount or number, typically in negative statements and questions.
+        - examples:
+          - I don’t have any money.
+          - Do you have any questions?
+        - usage notes: Commonly used with countable and uncountable nouns in negative sentences and questions.
+        - exceptions: Can be used in affirmative sentences to express a lack of restriction (e.g., You can take any book you like).
+        - related rules: some, negative sentences, questions
+      - much
+        - explanation: Used with uncountable nouns to indicate a large amount.
+        - examples:
+          - There isn’t much time left.
+          - How much water do you need?
+        - usage notes: Typically used in negative sentences and questions rather than positive statements.
+        - exceptions: Less common in affirmative sentences, often replaced by "a lot of" or "lots of."
+        - related rules: many, a lot of, much vs. many
+      - many
+        - explanation: Used with countable nouns to indicate a large number.
+        - examples:
+          - There are many books on the shelf.
+          - How many apples do you have?
+        - usage notes: Commonly used in positive statements, questions, and negative sentences.
+        - exceptions: Not used with uncountable nouns.
+        - related rules: much, a lot of, many vs. much
+    - Countable vs. Uncountable Nouns
+      - countable nouns
+        - explanation: Nouns that can be counted individually.
+        - examples:
+          - apples, cars, books
+        - usage notes: Use 'many' with countable nouns.
+        - exceptions: Some nouns can be both countable and uncountable depending on context (e.g., "chicken" as meat vs. the animal).
+        - related rules: much, quantifier usage
+      - uncountable nouns
+        - explanation: Nouns that cannot be counted individually.
+        - examples:
+          - water, information, rice
+        - usage notes: Use 'much' with uncountable nouns.
+        - exceptions: Some uncountable nouns can be made countable by adding a unit of measurement (e.g., "a piece of information").
+        - related rules: many, quantifier usage
+    - Sentence Types
+      - affirmative sentences
+        - explanation: Positive statements using quantifiers to indicate some or many.
+        - examples:
+          - She has some ideas for the project.
+          - They have many options to choose from.
+        - usage notes: 'Some' and 'many' are typically used in affirmative sentences.
+        - exceptions: 'Much' is rarely used in affirmative sentences.
+        - related rules: positive quantifier usage
+      - negative sentences
+        - explanation: Negative statements using quantifiers to indicate none or a lack.
+        - examples:
+          - He doesn’t have any siblings.
+          - There isn’t much sugar left.
+        - usage notes: 'Any' and 'much' are commonly used in negative sentences.
+        - exceptions: 'Some' is not typically used in negative sentences unless for emphasis.
+        - related rules: negative quantifier usage
+      - questions
+        - explanation: Questions using quantifiers to inquire about amounts or numbers.
+        - examples:
+          - Do you have any books on this topic?
+          - How much money do you need?
+        - usage notes: 'Any' and 'much' are commonly used in questions.
+        - exceptions: 'Some' can be used in questions when offering or requesting.
+        - related rules: interrogative quantifier usage
+    - Special Uses
+      - offers and requests
+        - explanation: Using quantifiers to make offers or requests more polite and indefinite.
+        - examples:
+          - Would you like some tea?
+          - Can I have some help?
+        - usage notes: 'Some' is typically used in offers and requests.
+        - exceptions: 'Any' is not used in positive offers or requests.
+        - related rules: polite expressions, some vs. any
+      - expressing preferences and choices
+        - explanation: Using quantifiers to express preferences or make choices.
+        - examples:
+          - You can choose any color you like.
+          - I don’t mind having some dessert.
+        - usage notes: 'Any' is used to express unlimited choices, while 'some' can indicate a limited or specific choice.
+        - exceptions: Context determines whether 'some' or 'any' is more appropriate.
+        - related rules: any vs. some in choices
+    - Common Mistakes
+      - using some in negative sentences
+        - explanation: Incorrectly using 'some' in negative contexts where 'any' is appropriate.
+        - examples:
+          - Incorrect: I don’t have some money.
+          - Correct: I don’t have any money.
+        - usage notes: Use 'any' in negative sentences instead of 'some'.
+        - exceptions: 'Some' can be used for emphasis in negative sentences.
+        - related rules: some vs. any in negatives
+      - using any in affirmative sentences
+        - explanation: Incorrectly using 'any' in positive statements where 'some' is appropriate.
+        - examples:
+          - Incorrect: She has any friends here.
+          - Correct: She has some friends here.
+        - usage notes: Use 'some' in affirmative sentences instead of 'any'.
+        - exceptions: 'Any' can be used in affirmative sentences to express no restriction.
+        - related rules: some vs. any in affirmatives
+      - confusing much and many
+        - explanation: Using 'much' with countable nouns or 'many' with uncountable nouns.
+        - examples:
+          - Incorrect: How much apples do you have?
+          - Correct: How many apples do you have?
+          - Incorrect: There aren’t many water left.
+          - Correct: There isn’t much water left.
+        - usage notes: 'Much' is for uncountable nouns, 'many' is for countable nouns.
+        - exceptions: None specific.
+        - related rules: countable vs. uncountable nouns
+      - omitting quantifiers where needed
+        - explanation: Forgetting to use 'some,' 'any,' 'much,' or 'many' in sentences where they are necessary.
+        - examples:
+          - Incorrect: Do you have books on this topic?
+          - Correct: Do you have any books on this topic?
+        - usage notes: Ensure that quantifiers are included to specify amounts or numbers.
+        - exceptions: Some sentences can imply quantity without explicit quantifiers.
+        - related rules: quantifier usage, sentence completeness
+    - Exceptions
+      - some in questions for offers and requests
+        - explanation: Using 'some' in questions when making offers or requests instead of 'any'.
+        - examples:
+          - Would you like some help?
+          - Can I have some water?
+        - usage notes: 'Some' is used to make offers and requests more polite and specific.
+        - exceptions: 'Any' is not used in these contexts.
+        - related rules: some vs. any in offers and requests
+      - no backshifting with universal truths
+        - explanation: Not changing quantifiers when reporting statements that are universally true or factual.
+        - examples:
+          - Direct: "Water boils at 100 degrees Celsius," he says.
+          - Reported: He says that water boils at 100 degrees Celsius.
+        - usage notes: Maintain original quantifiers when the statement is still valid.
+        - exceptions: If the truth of the statement has changed, backshifting may apply.
+        - related rules: reported speech, factual statements
+    - Related Rules
+      - a lot of and lots of
+        - explanation: Alternatives to 'some' and 'any' for indicating large quantities.
+        - examples:
+          - She has a lot of friends.
+          - There aren’t lots of chairs in the room.
+        - usage notes: 'A lot of' and 'lots of' can be used with both countable and uncountable nouns.
+        - exceptions: Less formal than 'some' and 'any.'
+        - related rules: some, any, much, many
+      - few and little
+        - explanation: Quantifiers indicating small quantities, with 'few' for countable nouns and 'little' for uncountable nouns.
+        - examples:
+          - She has few opportunities.
+          - There is little hope of success.
+        - usage notes: 'Few' and 'little' emphasize scarcity more than 'some' or 'any.'
+        - exceptions: 'A few' and 'a little' can indicate a small but sufficient quantity.
+        - related rules: some, any, much, many
+      - much vs. a lot of
+        - explanation: Alternatives for expressing large amounts with uncountable nouns.
+        - examples:
+          - How much money do you need?
+          - How a lot of money do you need?
+        - usage notes: 'Much' is often used in questions and negatives, while 'a lot of' is used in positive statements.
+        - exceptions: 'Much' is less common in affirmative sentences.
+        - related rules: much, a lot of, quantifier usage

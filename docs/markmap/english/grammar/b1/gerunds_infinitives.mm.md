@@ -1,0 +1,149 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- B1
+  - Gerunds and Infinitives
+    - Forms
+      - gerunds
+        - explanation: The -ing form of a verb used as a noun in a sentence.
+        - examples:
+          - Swimming is good for your health.
+          - I enjoy reading books.
+        - usage notes: Gerunds can function as subjects, objects, or complements in a sentence.
+        - exceptions: Some verbs are not followed by gerunds.
+        - related rules: noun forms of verbs, subject and object positions
+      - infinitives
+        - explanation: The base form of a verb preceded by "to," used as a noun, adjective, or adverb.
+        - examples:
+          - To travel around the world is my dream.
+          - She decided to join the club.
+        - usage notes: Infinitives can express purpose, intention, or future actions.
+        - exceptions: Some verbs are not followed by infinitives.
+        - related rules: verb complements, purpose expressions
+    - Usage
+      - after certain verbs
+        - explanation: Specific verbs are followed by either gerunds or infinitives.
+        - examples:
+          - Gerund: I enjoy **playing** tennis.
+          - Infinitive: She hopes **to visit** Paris.
+        - usage notes: Memorize which verbs are followed by gerunds, infinitives, or both.
+        - exceptions: Some verbs can be followed by both with little change in meaning.
+        - related rules: verb patterns, verb complementation
+      - expressing purpose
+        - explanation: Infinitives are used to indicate the purpose of an action.
+        - examples:
+          - I went to the store **to buy** milk.
+          - She called **to ask** a question.
+        - usage notes: Infinitives answer the "why" of an action.
+        - exceptions: When purpose is expressed using gerunds, it usually involves prepositions.
+        - related rules: adverbial phrases, expressing reasons
+      - as subject or object
+        - explanation: Gerunds and infinitives can function as subjects or objects in a sentence.
+        - examples:
+          - Subject (gerund): **Cooking** is fun.
+          - Object (infinitive): He likes **to swim**.
+        - usage notes: Choose gerunds or infinitives based on the verb's requirement and the sentence's meaning.
+        - exceptions: Some verbs prefer one form over the other in subject or object positions.
+        - related rules: sentence structure, noun phrases
+    - Sentence Structure
+      - affirmative sentences
+        - explanation: Using gerunds or infinitives in positive statements.
+        - examples:
+          - She loves **dancing**.
+          - They plan **to travel** next summer.
+        - usage notes: Ensure the correct form follows the main verb.
+        - exceptions: None specific.
+        - related rules: subject-verb agreement, verb complements
+      - negative sentences
+        - explanation: Forming negative statements with gerunds or infinitives.
+        - examples:
+          - I don't mind **waiting**.
+          - He decided **not to go**.
+        - usage notes: Use "not" before the gerund or infinitive as required.
+        - exceptions: Placement of "not" can vary with different verbs.
+        - related rules: negation in sentences, modal verbs with negation
+      - questions
+        - explanation: Using gerunds or infinitives within questions.
+        - examples:
+          - Do you enjoy **reading**?
+          - What do you want **to do**?
+        - usage notes: The form follows the main verb in questions as it does in statements.
+        - exceptions: None specific.
+        - related rules: question formation, auxiliary verbs
+    - Common Mistakes
+      - choosing gerund or infinitive incorrectly
+        - explanation: Selecting the wrong form after certain verbs.
+        - examples:
+          - Incorrect: I decided **playing** soccer.
+          - Correct: I decided **to play** soccer.
+        - usage notes: Learn which verbs require gerunds, infinitives, or both.
+        - exceptions: Some verbs can accept both forms with different meanings.
+        - related rules: verb patterns, meaning changes
+      - omitting "to" with infinitives
+        - explanation: Forgetting to include "to" before the base form of the verb.
+        - examples:
+          - Incorrect: She wants **go** home.
+          - Correct: She wants **to go** home.
+        - usage notes: "To" is necessary for infinitives unless used after certain verbs.
+        - exceptions: After modal verbs (can, should, must), "to" is omitted.
+        - related rules: modal verbs, verb complementation
+      - using gerunds instead of infinitives for purpose
+        - explanation: Using gerunds where infinitives are needed to express purpose.
+        - examples:
+          - Incorrect: I went to the store **buying** milk.
+          - Correct: I went to the store **to buy** milk.
+        - usage notes: Use infinitives to clearly express the purpose of an action.
+        - exceptions: When purpose is implicit, gerunds might be acceptable.
+        - related rules: expressing purpose, adverbial phrases
+    - Exceptions
+      - verbs followed by both gerunds and infinitives with different meanings
+        - explanation: Some verbs can be followed by either form, changing the sentence's meaning.
+        - examples:
+          - Remember:
+            - **Remember to do** something (to remember to perform an action in the future).
+            - **Remember doing** something (to remember a past action).
+          - Stop:
+            - **Stop to smoke** (to stop one activity to start smoking).
+            - **Stop smoking** (to quit smoking).
+        - usage notes: Pay attention to the context to choose the correct form.
+        - exceptions: Not all verbs change meaning; some maintain the same meaning regardless of the form.
+        - related rules: verb meanings, context clues
+      - verbs that do not take gerunds or infinitives
+        - explanation: Certain verbs cannot be followed by either gerunds or infinitives.
+        - examples:
+          - Need: You need **to study**, not _studying_.
+          - Want: She wants **to leave**, not _leaving_.
+        - usage notes: Memorize which verbs do not accept gerunds or infinitives.
+        - exceptions: Some verbs may have specific conditions under which they accept one form.
+        - related rules: verb restrictions, verb complementation
+    - Related Rules
+      - verb patterns
+        - explanation: The structure and forms that follow different verbs.
+        - examples:
+          - She enjoys **reading**.
+          - They decided **to move**.
+        - usage notes: Understanding verb patterns helps in selecting the correct gerund or infinitive.
+        - exceptions: Some verbs have unique patterns that need to be memorized.
+        - related rules: verb complementation, sentence structure
+      - noun forms of verbs
+        - explanation: Using verbs as nouns through gerunds or infinitives.
+        - examples:
+          - **Swimming** is fun.
+          - **To swim** every day is healthy.
+        - usage notes: Gerunds and infinitives can function as subjects, objects, or complements in sentences.
+        - exceptions: Some verbs do not easily convert to noun forms.
+        - related rules: parts of speech, noun phrases
+      - expressing purpose and intention
+        - explanation: Using gerunds and infinitives to indicate why an action is performed.
+        - examples:
+          - I exercise **to stay** healthy.
+          - His hobby is **painting**.
+        - usage notes: Infinitives are typically used to express purpose, while gerunds can express general activities.
+        - exceptions: Overlapping uses in some contexts may allow flexibility.
+        - related rules: adverbial expressions, intention statements

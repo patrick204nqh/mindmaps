@@ -1,0 +1,179 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- B1
+  - First Conditional
+    - Conditionals
+      - if-clauses
+        - explanation: Used to introduce a condition that must be fulfilled for the main clause to happen.
+        - examples:
+          - If it rains tomorrow, we will cancel the picnic.
+          - If you study hard, you will pass the exam.
+        - usage notes: The if-clause always uses the present simple tense.
+        - exceptions: In formal contexts, "should" can be used instead of "if" (e.g., Should you need assistance, please call).
+        - related rules: Zero conditional, second conditional
+      - main clauses
+        - explanation: Expresses the result or consequence of the condition stated in the if-clause.
+        - examples:
+          - She will travel to Spain if she gets the job.
+          - They will arrive on time if the train is not delayed.
+        - usage notes: The main clause uses "will" plus the base form of the verb.
+        - exceptions: Modal verbs other than "will" can sometimes be used for different nuances (e.g., can, may).
+        - related rules: Future forms, modal verbs
+    - Tenses
+      - present simple in if-clause
+        - explanation: The condition is stated using the present simple tense.
+        - examples:
+          - If you heat ice, it melts.
+          - If they invite me, I will attend the party.
+        - usage notes: Ensures that the condition is seen as possible or likely.
+        - exceptions: When expressing less likely conditions, other conditionals may be more appropriate.
+        - related rules: tense usage in conditionals
+      - will + base verb in main clause
+        - explanation: The future consequence is expressed using "will" followed by the base form of the verb.
+        - examples:
+          - If she finishes her work, she will join us for dinner.
+          - If we leave now, we will catch the movie.
+        - usage notes: Indicates a clear future outcome based on the condition.
+        - exceptions: Informal contractions like "I'll" and "you'll" are commonly used.
+        - related rules: future tense forms
+    - Sentence Structure
+      - affirmative sentences
+        - explanation: Both if-clause and main clause are in affirmative form.
+        - examples:
+          - If I see him, I will tell him the news.
+          - If they offer me the job, I will accept it.
+        - usage notes: Standard structure for expressing real future possibilities.
+        - exceptions: None specific.
+        - related rules: other conditional structures
+      - negative sentences
+        - explanation: Expressing what will not happen if the condition is met.
+        - examples:
+          - If you don't hurry, you will miss the bus.
+          - If she doesn't call, we won't know the outcome.
+        - usage notes: Use "don't" or "doesn't" in the if-clause and "won't" in the main clause.
+        - exceptions: Double negatives are not standard.
+        - related rules: forming negatives in conditionals
+      - questions
+        - explanation: Asking about the possibility of the condition and its outcome.
+        - examples:
+          - What will you do if it rains?
+          - Will you come to the party if you are invited?
+        - usage notes: The if-clause remains in present simple, while the main clause uses "will."
+        - exceptions: None specific.
+        - related rules: question forms in conditionals
+    - Usage
+      - real future possibilities
+        - explanation: Describes situations that are possible and likely to happen in the future.
+        - examples:
+          - If I have time, I will visit my grandparents.
+          - If the weather is good, we will go hiking.
+        - usage notes: Use when the speaker believes the condition is realistic.
+        - exceptions: For less likely scenarios, use second conditional.
+        - related rules: second conditional, probability expressions
+      - promises based on conditions
+        - explanation: Making promises that depend on certain conditions being met.
+        - examples:
+          - If you help me, I will cook dinner for you.
+          - If you finish your homework, I will take you to the park.
+        - usage notes: Often used to motivate or encourage actions.
+        - exceptions: None specific.
+        - related rules: making offers and promises
+      - warnings and threats
+        - explanation: Using the first conditional to issue warnings or threats based on conditions.
+        - examples:
+          - If you touch that wire, you will get an electric shock.
+          - If they don't stop, we will call the authorities.
+        - usage notes: Strong language may be used to emphasize consequences.
+        - exceptions: Tone and context are important to avoid sounding overly harsh.
+        - related rules: imperative mood in conditionals
+    - Time Expressions
+      - specific future times
+        - explanation: Using time expressions to indicate when the condition and result will occur.
+        - examples:
+          - If you arrive by 6 PM, we will start the meeting on time.
+          - If she completes the project next week, she will receive a bonus.
+        - usage notes: Helps to clarify the timing of the condition and outcome.
+        - exceptions: None specific.
+        - related rules: time expressions in future tenses
+      - general time expressions
+        - explanation: Referring to non-specific future times to express general possibilities.
+        - examples:
+          - If you practice regularly, you will improve your skills.
+          - If it gets colder, we will need to wear warmer clothes.
+        - usage notes: Suitable for expressing ongoing or habitual future possibilities.
+        - exceptions: None specific.
+        - related rules: indefinite future expressions
+    - Common Mistakes
+      - using present continuous in if-clause
+        - explanation: Incorrectly using present continuous instead of present simple in the if-clause.
+        - examples:
+          - Incorrect: If you are going to the store, let me know.
+          - Correct: If you go to the store, let me know.
+        - usage notes: Remember that the if-clause should use present simple for first conditional.
+        - exceptions: Present continuous can be used for fixed arrangements, but not in standard first conditional.
+        - related rules: present continuous usage
+      - mismatching tenses
+        - explanation: Using different tenses in if-clause and main clause that do not fit the first conditional structure.
+        - examples:
+          - Incorrect: If you will help me, I would be grateful.
+          - Correct: If you help me, I will be grateful.
+        - usage notes: Ensure the if-clause uses present simple and the main clause uses "will."
+        - exceptions: None specific.
+        - related rules: tense agreement in conditionals
+      - omitting auxiliary verbs
+        - explanation: Forgetting to include "will" in the main clause.
+        - examples:
+          - Incorrect: If it rains, we cancel the trip.
+          - Correct: If it rains, we will cancel the trip.
+        - usage notes: Always include "will" (or appropriate modal) in the main clause for first conditional.
+        - exceptions: None specific.
+        - related rules: sentence structure for conditionals
+    - Exceptions
+      - using modals other than "will"
+        - explanation: Sometimes other modal verbs can be used in the main clause to express different nuances.
+        - examples:
+          - If you study hard, you can achieve your goals.
+          - If it snows, we might stay home.
+        - usage notes: "Can," "may," "might," and "should" can replace "will" to convey ability, permission, possibility, or advice.
+        - exceptions: Not all modal verbs are interchangeable; meaning may change.
+        - related rules: modal verbs in conditionals
+      - inverted conditionals
+        - explanation: Formal or literary inversion of the first conditional without using "if."
+        - examples:
+          - Should you need assistance, please call.
+          - Were you to ask, I would help you.
+        - usage notes: Typically used in formal writing or speech.
+        - exceptions: Less common in everyday conversation.
+        - related rules: conditional inversion
+    - Related Rules
+      - zero conditional
+        - explanation: Used for general truths and habitual actions, with both clauses in present simple.
+        - examples:
+          - If you heat water, it boils.
+          - If she drinks coffee, she feels more awake.
+        - usage notes: Focuses on facts rather than future possibilities.
+        - exceptions: None specific.
+        - related rules: first conditional, second conditional
+      - second conditional
+        - explanation: Used for hypothetical or unlikely situations, with the if-clause in past simple and the main clause using "would."
+        - examples:
+          - If I won the lottery, I would travel the world.
+          - If he were taller, he would play basketball.
+        - usage notes: Expresses less probable conditions compared to the first conditional.
+        - exceptions: "Were" is used for all subjects in the if-clause.
+        - related rules: first conditional, modal verbs
+      - mixed conditionals
+        - explanation: Combines different conditional structures to express complex time relationships.
+        - examples:
+          - If I had studied harder, I would have a better job now.
+          - If she were here, she would help us.
+        - usage notes: Used to show a past condition with a present result or vice versa.
+        - exceptions: Requires understanding of multiple conditional types.
+        - related rules: first conditional, second conditional, third conditional

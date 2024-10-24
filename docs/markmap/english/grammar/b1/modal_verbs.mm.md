@@ -1,0 +1,153 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- B1
+  - Modal Verbs (must, have to, might, may)
+    - Functions
+      - must
+        - explanation: Expresses strong obligation, necessity, or certainty.
+        - examples:
+          - You must wear a helmet when riding a bike.
+          - She must be at home by now.
+        - usage notes: Used for rules, regulations, and strong recommendations.
+        - exceptions: Not typically used for personal obligations.
+        - related rules: have to, should
+      - have to
+        - explanation: Indicates external obligation or necessity.
+        - examples:
+          - I have to finish my homework before dinner.
+          - They have to follow the company policies.
+        - usage notes: Often used for obligations imposed by external factors.
+        - exceptions: Can be used interchangeably with "must" in some contexts.
+        - related rules: must, need to
+      - might
+        - explanation: Expresses possibility or a slight chance of something happening.
+        - examples:
+          - It might rain later today.
+          - She might come to the party if she finishes work.
+        - usage notes: Used when the speaker believes there is a lower probability.
+        - exceptions: Less formal than "may."
+        - related rules: may, could
+      - may
+        - explanation: Indicates possibility or permission.
+        - examples:
+          - You may leave the table once you finish your meal.
+          - They may join us for dinner tonight.
+        - usage notes: "May" is slightly more formal than "might" and can also be used to grant permission.
+        - exceptions: Less commonly used for possibility in informal contexts.
+        - related rules: might, can
+    - Sentence Structure
+      - affirmative sentences
+        - explanation: Constructed with the modal verb followed by the base form of the main verb.
+        - examples:
+          - You must study for the exam.
+          - She might travel to Japan next year.
+        - usage notes: The structure remains consistent across different modals.
+        - exceptions: None specific.
+        - related rules: sentence structures of other modal verbs
+      - negative sentences
+        - explanation: Formed by adding "not" after the modal verb.
+        - examples:
+          - You must not enter this area.
+          - They may not know the answer.
+        - usage notes: Contractions are commonly used in informal contexts (e.g., mustn't, mightn't, may not).
+        - exceptions: Some modals have irregular contractions (e.g., mustn't).
+        - related rules: forming negatives in other modal verbs
+      - questions
+        - explanation: Created by inverting the modal verb and the subject.
+        - examples:
+          - Must you leave so early?
+          - Might he join us for lunch?
+        - usage notes: Useful for making inquiries about obligations or possibilities.
+        - exceptions: None specific.
+        - related rules: question forms of other modal verbs
+    - Usage
+      - expressing obligation
+        - explanation: Using "must" and "have to" to indicate that something is necessary.
+        - examples:
+          - Students must submit their assignments by Friday.
+          - I have to attend a meeting this afternoon.
+        - usage notes: "Must" often implies a personal obligation, while "have to" implies an external requirement.
+        - exceptions: In some cases, "must" and "have to" can be used interchangeably.
+        - related rules: should for recommendations
+      - expressing possibility
+        - explanation: Using "might" and "may" to indicate that something is possible.
+        - examples:
+          - We might go hiking this weekend.
+          - She may not come to the interview.
+        - usage notes: "Might" is generally used for lower probability than "may."
+        - exceptions: "May" can also be used to express permission.
+        - related rules: could for possibility
+      - expressing permission
+        - explanation: Using "may" to grant or seek permission.
+        - examples:
+          - You may leave the table once you finish your meal.
+          - May I borrow your pen?
+        - usage notes: "May" is more formal and polite compared to "can."
+        - exceptions: "Might" is rarely used for permission.
+        - related rules: can for permission
+    - Common Mistakes
+      - confusing must and have to
+        - explanation: Misusing "must" and "have to" interchangeably without considering the source of obligation.
+        - examples:
+          - Incorrect: I must go to the store. (if it's an external requirement)
+          - Correct: I have to go to the store.
+        - usage notes: Use "must" for personal obligations and "have to" for external obligations.
+        - exceptions: In some contexts, they can be interchangeable.
+        - related rules: expressing obligation
+      - using might for strong possibilities
+        - explanation: Overusing "might" when a higher probability is intended.
+        - examples:
+          - Incorrect: It might definitely rain today.
+          - Correct: It may rain today.
+        - usage notes: "Might" implies a lower chance than "may."
+        - exceptions: Emphasizing uncertainty can justify using "might."
+        - related rules: expressing possibility
+      - incorrect negation of modals
+        - explanation: Misplacing "not" or using incorrect contractions in negative forms.
+        - examples:
+          - Incorrect: You must not to enter.
+          - Correct: You must not enter.
+        - usage notes: "Not" should directly follow the modal without additional words.
+        - exceptions: None specific.
+        - related rules: forming negatives in modal verbs
+    - Exceptions
+      - modals with multiple meanings
+        - explanation: Some modals like "may" can express both possibility and permission, depending on context.
+        - examples:
+          - Possibility: It may rain later.
+          - Permission: You may leave early today.
+        - usage notes: The meaning depends on the sentence structure and context.
+        - exceptions: Not all modals have multiple distinct meanings.
+        - related rules: context-dependent meanings
+      - formal vs. informal usage
+        - explanation: Certain modals are preferred in formal contexts over others.
+        - examples:
+          - Formal: May I present my report?
+          - Informal: Can I present my report?
+        - usage notes: "May" is often used in formal writing and speech, while "can" is used informally.
+        - exceptions: Context determines the appropriate level of formality.
+        - related rules: register and tone in language
+    - Related Rules
+      - other modal verbs
+        - explanation: Understanding how "must," "have to," "might," and "may" relate to other modals like "can," "should," and "could."
+        - examples:
+          - Should: You should see a doctor.
+          - Can: Can you help me?
+        - usage notes: Each modal has specific functions and uses that complement or overlap with "must," "have to," "might," and "may."
+        - exceptions: Some modals have unique uses that do not overlap with the selected modals.
+        - related rules: modal verbs in different contexts
+      - modal verbs in different tenses
+        - explanation: While modal verbs themselves do not change form, they can be used in different tense contexts.
+        - examples:
+          - Present: She must leave now.
+          - Past (reported speech): He said he had to leave early.
+        - usage notes: To express past obligations or possibilities, different structures are used since modals don't have past forms.
+        - exceptions: Some modals like "might" can imply past possibilities without changing form.
+        - related rules: expressing past obligations and possibilities

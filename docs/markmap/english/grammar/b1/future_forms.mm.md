@@ -1,0 +1,180 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- B1
+  - Future Forms (will, going to, Present Continuous)
+    - Tenses
+      - will
+        - explanation: Used to express spontaneous decisions, promises, offers, and predictions based on opinions.
+        - examples:
+          - I will help you with your homework.
+          - She thinks it will rain tomorrow.
+        - usage notes: Often used for decisions made at the moment of speaking and for promises or offers.
+        - exceptions: Not typically used for planned actions.
+        - related rules: promises and offers, predictions
+      - going to
+        - explanation: Used to express planned actions, intentions, and predictions based on present evidence.
+        - examples:
+          - They are going to start a new project next month.
+          - Look at those clouds! It is going to rain.
+        - usage notes: Use for actions that have been decided before speaking and for predictions based on current evidence.
+        - exceptions: Not used for spontaneous decisions.
+        - related rules: plans and intentions, evidence-based predictions
+      - present continuous
+        - explanation: Used to express definite future arrangements and plans.
+        - examples:
+          - We are meeting them at the restaurant tonight.
+          - She is traveling to Paris next week.
+        - usage notes: Often used when the future event is arranged or scheduled.
+        - exceptions: Not used for general predictions or spontaneous decisions.
+        - related rules: scheduled events, fixed arrangements
+    - Sentence Structure
+      - affirmative sentences
+        - explanation: Constructs vary depending on the future form used.
+        - examples:
+          - will: He will call you later.
+          - going to: They are going to move to a new house.
+          - present continuous: I am meeting my friend tomorrow.
+        - usage notes: Ensure the correct future form is used based on the intended meaning.
+        - exceptions: None specific.
+        - related rules: negative and question structures
+      - negative sentences
+        - explanation: Formed by adding not after the auxiliary verb.
+        - examples:
+          - will: She will not (won't) join us.
+          - going to: We are not going to attend the meeting.
+          - present continuous: They are not leaving today.
+        - usage notes: Contractions are common in informal contexts (e.g., won't, isn't).
+        - exceptions: None specific.
+        - related rules: forming negatives in other tenses
+      - questions
+        - explanation: Created by inverting the subject with the auxiliary verb.
+        - examples:
+          - will: Will you help me?
+          - going to: Are you going to travel this summer?
+          - present continuous: Are they coming to the party?
+        - usage notes: Use appropriate auxiliary verbs for each future form to form questions.
+        - exceptions: None specific.
+        - related rules: question forms in other tenses
+    - Usage
+      - predictions
+        - explanation: Expressing what is likely to happen in the future.
+        - examples:
+          - I think it will be a great success.
+          - It is going to snow tonight.
+        - usage notes: Use 'will' for opinions and 'going to' for evidence-based predictions.
+        - exceptions: Present continuous is not typically used for general predictions.
+        - related rules: will vs. going to in predictions
+      - plans and intentions
+        - explanation: Describing future plans or intentions.
+        - examples:
+          - I am going to start a new hobby.
+          - We are meeting with the client tomorrow.
+        - usage notes: Use 'going to' for intentions and present continuous for arranged plans.
+        - exceptions: 'Will' is not used for planned actions.
+        - related rules: present simple for scheduled events
+      - scheduled events
+        - explanation: Referring to events that are scheduled or part of a timetable.
+        - examples:
+          - The train is leaving at 6 PM.
+          - Our flight is departing next Monday.
+        - usage notes: Present continuous is commonly used for fixed schedules.
+        - exceptions: 'Will' and 'going to' are not typically used for scheduled events.
+        - related rules: present simple for timetables
+      - spontaneous decisions
+        - explanation: Decisions made at the moment of speaking.
+        - examples:
+          - I will answer the door.
+          - I'll have the chicken, please.
+        - usage notes: Use 'will' for actions decided spontaneously.
+        - exceptions: 'Going to' and present continuous are not used for spontaneous decisions.
+        - related rules: making offers and promises
+      - promises and offers
+        - explanation: Making commitments or offers to do something.
+        - examples:
+          - I will always support you.
+          - I'll help you with that.
+        - usage notes: 'Will' is used to make promises and offers.
+        - exceptions: Other future forms are not typically used for promises and offers.
+        - related rules: modal verbs for promises
+    - Time Expressions
+      - specific time expressions
+        - explanation: Using time indicators to specify when the future action will take place.
+        - examples:
+          - I will call you tomorrow.
+          - She is leaving next week.
+        - usage notes: Common expressions include tomorrow, next week, in two days, etc.
+        - exceptions: None specific.
+        - related rules: time expressions in other tenses
+      - general future expressions
+        - explanation: Referring to the future without specifying exact times.
+        - examples:
+          - We will see what happens.
+          - They are going to travel abroad.
+        - usage notes: Use when the exact time of the future action is not important or not known.
+        - exceptions: None specific.
+        - related rules: indefinite future expressions
+    - Common Mistakes
+      - confusion between forms
+        - explanation: Mixing up 'will', 'going to', and present continuous.
+        - examples:
+          - Incorrect: I am going to help you now. (if decision is spontaneous)
+          - Correct: I will help you now.
+        - usage notes: Pay attention to the context to choose the appropriate future form.
+        - exceptions: Some overlap exists in certain contexts.
+        - related rules: understanding the nuances of future forms
+      - using present continuous for spontaneous decisions
+        - explanation: Incorrectly using present continuous instead of 'will' for decisions made at the moment.
+        - examples:
+          - Incorrect: I am helping you now.
+          - Correct: I will help you now.
+        - usage notes: Reserve present continuous for arranged or planned actions.
+        - exceptions: Present continuous can be used for personal arrangements.
+        - related rules: making spontaneous decisions vs. planned actions
+      - omitting auxiliary verbs
+        - explanation: Forgetting to use 'will', 'going to', or appropriate forms in sentences.
+        - examples:
+          - Incorrect: She go to the store tomorrow.
+          - Correct: She is going to go to the store tomorrow.
+        - usage notes: Always include the correct auxiliary verb for future forms.
+        - exceptions: None specific.
+        - related rules: sentence structure for future forms
+    - Exceptions
+      - formal vs. informal contexts
+        - explanation: Certain future forms are preferred in formal writing or speech.
+        - examples:
+          - Formal: I will attend the meeting.
+          - Informal: I'm going to attend the meeting.
+        - usage notes: 'Will' is often more formal, while 'going to' and present continuous are used more in informal contexts.
+        - exceptions: Context determines the appropriate form.
+        - related rules: register and tone in language
+      - verbs that change meaning
+        - explanation: Some verbs have different meanings when used with different future forms.
+        - examples:
+          - I’m having dinner tonight. (arrangement) vs. I will have dinner tonight. (decision)
+        - usage notes: Be aware of how the choice of future form can alter the meaning.
+        - exceptions: Not all verbs exhibit this change.
+        - related rules: verb meanings in different tenses
+    - Related Rules
+      - present simple for scheduled events
+        - explanation: Used to talk about scheduled or timetabled events, especially in transportation.
+        - examples:
+          - The bus leaves at 8 PM.
+          - Her flight departs tomorrow morning.
+        - usage notes: Use present simple for official schedules and timetables.
+        - exceptions: Not used for personal plans or arrangements.
+        - related rules: present continuous for personal arrangements
+      - modal verbs for future
+        - explanation: Using other modal verbs like 'might', 'could', 'should' to express different shades of future meaning.
+        - examples:
+          - I might go to the party.
+          - You should see a doctor.
+        - usage notes: Modal verbs add nuance to future statements.
+        - exceptions: Each modal verb has its specific uses and meanings.
+        - related rules: modal verbs in other contexts

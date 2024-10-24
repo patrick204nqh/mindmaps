@@ -1,0 +1,179 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- B1
+  - Second Conditional
+    - Conditionals
+      - if-clauses
+        - explanation: Used to introduce a hypothetical or unreal condition that is unlikely to happen.
+        - examples:
+          - If I won the lottery, I would travel the world.
+          - If she were taller, she would play basketball.
+        - usage notes: The if-clause uses the past simple tense to indicate an unreal or unlikely situation.
+        - exceptions: In formal contexts, "were" is used for all subjects instead of "was."
+        - related rules: first conditional, third conditional
+      - main clauses
+        - explanation: Expresses the result or consequence of the hypothetical condition stated in the if-clause.
+        - examples:
+          - They would buy a new house if they had enough money.
+          - He would help you if he knew how.
+        - usage notes: The main clause uses "would" followed by the base form of the verb to indicate the outcome of the unreal condition.
+        - exceptions: Modal verbs other than "would" can sometimes be used for different nuances (e.g., could, might).
+        - related rules: future forms, modal verbs
+    - Tenses
+      - past simple in if-clause
+        - explanation: The condition is expressed using the past simple tense to denote an unreal or unlikely situation.
+        - examples:
+          - If I had more free time, I would learn to play the guitar.
+          - If they lived closer, we would visit them more often.
+        - usage notes: The past simple tense in the if-clause indicates that the condition is not true or is unlikely to be true.
+        - exceptions: Inverting the subject and "were" for all subjects in formal contexts (e.g., If were I in your position...).
+        - related rules: tense usage in conditionals
+      - would + base verb in main clause
+        - explanation: The result is expressed using "would" followed by the base form of the verb to show the consequence of the unreal condition.
+        - examples:
+          - If she studied harder, she would get better grades.
+          - If we had a car, we would drive to the beach.
+        - usage notes: "Would" indicates the hypothetical outcome based on the unreal condition.
+        - exceptions: Informal contractions like "I'd" and "you'd" are commonly used.
+        - related rules: modal verbs in conditionals
+    - Sentence Structure
+      - affirmative sentences
+        - explanation: Both the if-clause and the main clause are in affirmative form to express a hypothetical situation and its result.
+        - examples:
+          - If I knew the answer, I would tell you.
+          - If he had more time, he would take up a new hobby.
+        - usage notes: Standard structure for expressing unreal or unlikely situations.
+        - exceptions: None specific.
+        - related rules: other conditional structures
+      - negative sentences
+        - explanation: Expressing what would not happen if the hypothetical condition is met.
+        - examples:
+          - If you didn't smoke, you would be healthier.
+          - If they weren't so busy, they would join us for dinner.
+        - usage notes: Use "didn't" or "weren't" in the if-clause and "wouldn't" in the main clause.
+        - exceptions: Double negatives are not standard.
+        - related rules: forming negatives in conditionals
+      - questions
+        - explanation: Asking about hypothetical situations and their possible outcomes.
+        - examples:
+          - What would you do if you won a million dollars?
+          - Would you travel more if you had the chance?
+        - usage notes: The if-clause remains in past simple, while the main clause uses "would."
+        - exceptions: None specific.
+        - related rules: question forms in conditionals
+    - Usage
+      - hypothetical situations
+        - explanation: Describes imagined scenarios that are not true or are unlikely to happen.
+        - examples:
+          - If I were you, I would apologize.
+          - If we lived by the sea, we would go sailing every weekend.
+        - usage notes: Use to discuss dreams, wishes, or imaginary situations.
+        - exceptions: None specific.
+        - related rules: first conditional, third conditional
+      - unreal or unlikely conditions
+        - explanation: Expresses conditions that are contrary to reality or unlikely to occur.
+        - examples:
+          - If he spoke French, he would get the job.
+          - If they owned a bigger house, they would invite more friends.
+        - usage notes: Emphasizes that the condition is not true or is improbable.
+        - exceptions: None specific.
+        - related rules: first conditional, mixed conditionals
+      - giving advice or making suggestions
+        - explanation: Uses the second conditional structure to offer advice based on hypothetical scenarios.
+        - examples:
+          - If I were you, I would take that opportunity.
+          - If she were feeling better, she could join us for dinner.
+        - usage notes: Often used with advice verbs like "suggest," "recommend," or "advise."
+        - exceptions: None specific.
+        - related rules: imperative mood in conditionals
+    - Time Expressions
+      - future-oriented expressions
+        - explanation: Uses time expressions that refer to future or indefinite times to emphasize the hypothetical nature.
+        - examples:
+          - If you come tomorrow, we would discuss the project.
+          - If it rains next week, we would postpone the trip.
+        - usage notes: Helps to clarify that the condition pertains to the future.
+        - exceptions: Second conditional typically refers to present or future unreal situations, so past time expressions are not standard.
+        - related rules: time expressions in conditionals
+      - present-oriented expressions
+        - explanation: Refers to current unreal situations that affect the present.
+        - examples:
+          - If I had a car, I would drive to work.
+          - If she knew his number, she would call him.
+        - usage notes: Highlights that the condition is contrary to current reality.
+        - exceptions: None specific.
+        - related rules: present simple in conditionals
+    - Common Mistakes
+      - using present tense in if-clause
+        - explanation: Incorrectly using the present simple tense instead of the past simple in the if-clause.
+        - examples:
+          - Incorrect: If I know the answer, I would tell you.
+          - Correct: If I knew the answer, I would tell you.
+        - usage notes: Remember to use the past simple tense in the if-clause for second conditional.
+        - exceptions: None specific.
+        - related rules: tense agreement in conditionals
+      - mismatching tenses
+        - explanation: Using different tenses in the if-clause and main clause that do not fit the second conditional structure.
+        - examples:
+          - Incorrect: If you will help me, I would be grateful.
+          - Correct: If you helped me, I would be grateful.
+        - usage notes: Ensure the if-clause uses past simple and the main clause uses "would."
+        - exceptions: None specific.
+        - related rules: tense agreement in conditionals
+      - omitting auxiliary verbs
+        - explanation: Forgetting to include "would" in the main clause.
+        - examples:
+          - Incorrect: If it rained, we cancel the trip.
+          - Correct: If it rained, we would cancel the trip.
+        - usage notes: Always include "would" (or appropriate modal) in the main clause for second conditional.
+        - exceptions: None specific.
+        - related rules: sentence structure for conditionals
+    - Exceptions
+      - using modals other than "would"
+        - explanation: Sometimes other modal verbs can be used in the main clause to express different nuances.
+        - examples:
+          - If you studied harder, you could pass the exam.
+          - If they were here, they might help us.
+        - usage notes: "Can," "could," "might," and "should" can replace "would" to convey ability, possibility, or advice.
+        - exceptions: Not all modal verbs are interchangeable; meaning may change.
+        - related rules: modal verbs in conditionals
+      - inverted conditionals
+        - explanation: Formal or literary inversion of the second conditional without using "if."
+        - examples:
+          - Were I in your position, I would reconsider.
+          - Had he known, he would have acted differently.
+        - usage notes: Typically used in formal writing or speech.
+        - exceptions: Less common in everyday conversation.
+        - related rules: conditional inversion
+    - Related Rules
+      - first conditional
+        - explanation: Used for real and possible future situations, with the if-clause in present simple and the main clause using "will."
+        - examples:
+          - If it rains tomorrow, we will stay home.
+          - If she finishes her work, she will go out with us.
+        - usage notes: Focuses on conditions that are likely to happen.
+        - exceptions: None specific.
+        - related rules: second conditional, third conditional
+      - third conditional
+        - explanation: Used for hypothetical situations in the past, with the if-clause in past perfect and the main clause using "would have."
+        - examples:
+          - If I had known, I would have helped you.
+          - If they had left earlier, they would have caught the train.
+        - usage notes: Refers to unreal past conditions and their possible past outcomes.
+        - exceptions: None specific.
+        - related rules: second conditional, mixed conditionals
+      - mixed conditionals
+        - explanation: Combines different conditional structures to express complex time relationships between conditions and results.
+        - examples:
+          - If I had studied medicine, I would be a doctor now.
+          - If she were more organized, she would have finished the project on time.
+        - usage notes: Used to show a past condition with a present result or vice versa.
+        - exceptions: Requires understanding of multiple conditional types.
+        - related rules: first conditional, second conditional, third conditional

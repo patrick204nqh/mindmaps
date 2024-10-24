@@ -1,0 +1,187 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- B1
+  - Articles (Definite and Indefinite)
+    - Types of Articles
+      - definite article (the)
+        - explanation: Used to refer to specific or previously mentioned nouns.
+        - examples:
+          - Please close **the** door.
+          - **The** movie we watched was exciting.
+        - usage notes: Used with singular and plural nouns when the speaker and listener know the specific item.
+        - exceptions: Not used with names of most countries, languages, and single mountains.
+        - related rules: zero article, demonstratives
+      - indefinite articles (a, an)
+        - explanation: Used to refer to non-specific or general nouns.
+        - examples:
+          - She adopted **a** cat.
+          - He is **an** engineer.
+        - usage notes: "A" is used before words that begin with a consonant sound, and "an" before vowel sounds.
+        - exceptions: Some nouns do not take an indefinite article when used in a general sense.
+        - related rules: zero article, countable nouns
+      - zero article
+        - explanation: No article is used before certain nouns.
+        - examples:
+          - She goes to **school** every day.
+          - They live in **London**.
+        - usage notes: Commonly used with proper nouns, abstract nouns, and plural countable nouns when speaking generally.
+        - exceptions: Certain singular countable nouns may require an article.
+        - related rules: definite and indefinite articles, proper noun usage
+    - Usage Rules
+      - countable vs. uncountable nouns
+        - explanation: Articles are used differently depending on whether nouns are countable or uncountable.
+        - examples:
+          - Countable: I have **a** book.
+          - Uncountable: She needs **some** information.
+        - usage notes: Indefinite articles are only used with singular countable nouns.
+        - exceptions: Some uncountable nouns can take an indefinite article when they refer to a specific type.
+        - related rules: quantifiers, noun classification
+      - singular vs. plural nouns
+        - explanation: Articles change based on whether the noun is singular or plural.
+        - examples:
+          - Singular: I saw **a** dog in the park.
+          - Plural: I saw **dogs** in the park.
+        - usage notes: "The" can be used with both singular and plural nouns, while "a/an" is only for singular.
+        - exceptions: Certain plural nouns do not take an article when speaking generally.
+        - related rules: noun plurality, article usage
+      - specific vs. general reference
+        - explanation: Articles indicate whether a noun is specific or general.
+        - examples:
+          - Specific: **The** sun rises in the east.
+          - General: **Sun** rises in the east.
+        - usage notes: Use "the" for specific references and no article for general truths or concepts.
+        - exceptions: Some general references may still require an article based on context.
+        - related rules: definite and indefinite articles, universal truths
+      - geographical names
+        - explanation: Articles are used differently with geographical locations.
+        - examples:
+          - With "the": **The** United States, **the** Himalayas
+          - Without "the": **Canada**, **Mount Everest**
+        - usage notes: Learn specific rules for different types of geographical names.
+        - exceptions: Some geographical names always require an article, while others never do.
+        - related rules: proper noun usage, place names
+    - Special Uses
+      - professions
+        - explanation: Articles are not used when stating someone's profession.
+        - examples:
+          - She is **a** teacher.
+          - He became **an** artist.
+        - usage notes: Use indefinite articles when introducing professions.
+        - exceptions: When the profession is defined by additional information.
+        - related rules: indefinite articles, noun roles
+      - possessive nouns
+        - explanation: Articles are not used with possessive nouns.
+        - examples:
+          - This is **John's** book.
+          - **My** car is new.
+        - usage notes: Possessive pronouns and nouns eliminate the need for articles.
+        - exceptions: When combining possessives with specific articles for emphasis.
+        - related rules: possessive forms, noun modification
+      - superlatives and ordinals
+        - explanation: Articles are used with superlative and ordinal adjectives.
+        - examples:
+          - She is **the** best student.
+          - This is **the** first time I've visited.
+        - usage notes: Always use "the" with superlatives and ordinal numbers.
+        - exceptions: None specific.
+        - related rules: adjective usage, determiners
+    - Common Mistakes
+      - omitting the definite article when needed
+        - explanation: Failing to use "the" before specific nouns.
+        - examples:
+          - Incorrect: She went to **hospital**.
+          - Correct: She went to **the** hospital.
+        - usage notes: Use "the" when the noun is specific or previously mentioned.
+        - exceptions: Some places do not require "the."
+        - related rules: definite article usage, specific references
+      - using the indefinite article with uncountable nouns
+        - explanation: Incorrectly placing "a/an" before uncountable nouns.
+        - examples:
+          - Incorrect: She has **a** information.
+          - Correct: She has **some** information.
+        - usage notes: Indefinite articles are only for singular countable nouns.
+        - exceptions: When uncountable nouns refer to specific types.
+        - related rules: countable vs. uncountable nouns, article rules
+      - confusing "a" and "an"
+        - explanation: Using "a" before vowel sounds and "an" before consonant sounds.
+        - examples:
+          - Incorrect: She is **a** honest person.
+          - Correct: She is **an** honest person.
+          - Incorrect: He has **an** university degree.
+          - Correct: He has **a** university degree.
+        - usage notes: Focus on the initial sound, not the first letter.
+        - exceptions: Words where the first letter does not match the initial sound.
+        - related rules: vowel and consonant sounds, pronunciation
+      - unnecessary article usage with plural nouns
+        - explanation: Adding an article before plural nouns when not needed.
+        - examples:
+          - Incorrect: I like **the** apples.
+          - Correct: I like apples.
+        - usage notes: Use "the" for specific plural nouns, omit for general statements.
+        - exceptions: When specifying a particular group.
+        - related rules: plural noun usage, specific vs. general
+    - Exceptions
+      - names of countries and cities
+        - explanation: Most country and city names do not require an article.
+        - examples:
+          - **The** United Kingdom
+          - **Canada**, **Paris**
+        - usage notes: Use "the" for countries with plural names or those that include words like "kingdom" or "republic."
+        - exceptions: Some cities and countries do require "the" (e.g., **the** Netherlands, **the** United States).
+        - related rules: geographical name rules, article usage with places
+      - mass nouns with specific meanings
+        - explanation: Some uncountable nouns take "the" when referring to a specific instance.
+        - examples:
+          - **The** information you provided was helpful.
+          - **The** water in this bottle is cold.
+        - usage notes: Use "the" when the mass noun is specific and identifiable.
+        - exceptions: General references to mass nouns do not require an article.
+        - related rules: definite article usage, specific vs. general references
+      - abstract nouns
+        - explanation: Articles are not typically used with abstract nouns unless specified.
+        - examples:
+          - Freedom is important.
+          - The freedom to choose is valuable.
+        - usage notes: Omit articles when speaking about abstract concepts in general.
+        - exceptions: Use "the" when referring to a specific aspect or instance.
+        - related rules: abstract noun usage, article rules
+    - Related Rules
+      - demonstratives (this, that, these, those)
+        - explanation: Words used to indicate specific nouns in relation to the speaker's position.
+        - examples:
+          - **This** book is interesting.
+          - **Those** cars are expensive.
+        - usage notes: Can replace definite articles to specify particular items.
+        - exceptions: Not used for non-specific references.
+        - related rules: definite articles, noun specification
+      - possessive determiners (my, your, his, her, etc.)
+        - explanation: Words that show ownership or possession of a noun.
+        - examples:
+          - **My** car is new.
+          - **Her** house is beautiful.
+        - usage notes: Replace definite and indefinite articles when indicating possession.
+        - exceptions: When additional specification is needed beyond possession.
+        - related rules: possessive nouns, determiners
+      - partitives (some of, any of, a lot of)
+        - explanation: Phrases that combine quantifiers with "of" to specify portions of a whole.
+        - examples:
+          - I would like **some of** the cake.
+          - Do you have **any of** these books?
+        - usage notes: Used with specific quantities or portions from a group.
+        - exceptions: Not used when referring to the whole.
+        - related rules: quantifiers, portion expressions
+      - zero article
+        - explanation: Omitting articles in certain contexts where they are not needed.
+        - examples:
+          - She goes to **school** every day.
+          - They live in **Tokyo**.
+        - usage notes: Common with proper nouns, languages, meals, and abstract nouns in general.
+        - exceptions: Specific instances may require an article.
+        - related rules: definite and indefinite articles, proper noun usage

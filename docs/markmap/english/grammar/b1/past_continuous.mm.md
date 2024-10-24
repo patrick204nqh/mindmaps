@@ -1,0 +1,130 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- B1
+  - Past Continuous
+    - Tenses
+      - past continuous tense
+        - explanation: Describes actions that were ongoing at a specific time in the past.
+        - examples:
+          - I was reading a book yesterday at 5 PM.
+          - They were playing football when it started to rain.
+        - usage notes: Use to set the scene for another action or to describe parallel actions in the past.
+        - exceptions: Some verbs (stative verbs) are not typically used in continuous forms.
+        - related rules: past simple tense, present continuous tense
+    - Sentence Structure
+      - affirmative sentences
+        - explanation: Constructed with subject + was/were + verb-ing.
+        - examples:
+          - She was watching TV.
+          - We were studying for the exam.
+        - usage notes: Use 'was' with singular subjects and 'were' with plural subjects.
+        - exceptions: Irregular verbs may change spelling before adding -ing.
+        - related rules: present continuous sentence structure
+      - negative sentences
+        - explanation: Formed with subject + was/were + not + verb-ing.
+        - examples:
+          - He was not listening to the music.
+          - They were not coming to the party.
+        - usage notes: Contractions (wasn't, weren't) are common in informal contexts.
+        - exceptions: None specific.
+        - related rules: negative forms in other tenses
+      - questions
+        - explanation: Created by inverting was/were and the subject, followed by verb-ing.
+        - examples:
+          - Was she studying last night?
+          - Were you watching the movie?
+        - usage notes: Use inversion to form questions in the past continuous tense.
+        - exceptions: None specific.
+        - related rules: question forms in other tenses
+    - Usage
+      - actions in progress
+        - explanation: Describes actions that were happening at a particular moment in the past.
+        - examples:
+          - I was cooking dinner when the phone rang.
+          - They were driving to work at 8 AM.
+        - usage notes: Often used with 'when' or specific time expressions to indicate ongoing actions.
+        - exceptions: Some stative verbs are not used in continuous forms.
+        - related rules: past simple tense
+      - parallel actions
+        - explanation: Describes two or more actions happening simultaneously in the past.
+        - examples:
+          - While I was reading, she was writing a letter.
+          - They were singing and dancing at the party.
+        - usage notes: Use to show that multiple actions were occurring at the same time.
+        - exceptions: None specific.
+        - related rules: past simple vs. past continuous
+    - Time Expressions
+      - specific times
+        - explanation: Used with expressions like 'at 5 PM', 'when', 'while' to specify when the action was happening.
+        - examples:
+          - At 7 o'clock, I was having dinner.
+          - When you called, I was sleeping.
+        - usage notes: Time expressions help pinpoint the exact time of the ongoing action.
+        - exceptions: None specific.
+        - related rules: time expressions in other tenses
+      - duration phrases
+        - explanation: Utilizes phrases that indicate the length of time the action was occurring.
+        - examples:
+          - For two hours, she was studying.
+          - All day, they were working on the project.
+        - usage notes: Emphasizes how long the action was taking place.
+        - exceptions: None specific.
+        - related rules: duration phrases in other tenses
+    - Negative and Questions
+      - forming negatives
+        - explanation: Adds 'not' after was/were to make the past continuous negative.
+        - examples:
+          - I was not feeling well yesterday.
+          - They were not attending the meeting.
+        - usage notes: Common contractions include wasn't and weren't.
+        - exceptions: None specific.
+        - related rules: negative forms in other continuous tenses
+      - forming questions
+        - explanation: Inverts was/were with the subject to form questions.
+        - examples:
+          - Was he coming to the party?
+          - Were you studying all night?
+        - usage notes: Useful for asking about ongoing past actions.
+        - exceptions: None specific.
+        - related rules: question forms in other tenses
+    - Common Mistakes
+      - mixing tenses
+        - explanation: Incorrectly combining past simple and past continuous.
+        - examples:
+          - Incorrect: I was eat when you called.
+          - Correct: I was eating when you called.
+        - usage notes: Ensure verb forms match the continuous tense by using the -ing form.
+        - exceptions: None specific.
+        - related rules: agreement of verb forms in tenses
+      - using stative verbs
+        - explanation: Using stative verbs in continuous forms incorrectly.
+        - examples:
+          - Incorrect: I was knowing the answer.
+          - Correct: I knew the answer.
+        - usage notes: Some verbs (e.g., know, believe, like) are not typically used in continuous forms unless the meaning changes.
+        - exceptions: Certain stative verbs can be used in continuous forms with a different meaning (e.g., "I'm loving it").
+        - related rules: stative vs. dynamic verbs
+    - Exceptions
+      - irregular verbs
+        - explanation: Some verbs change spelling when adding -ing in the past continuous.
+        - examples:
+          - swim → swimming
+          - run → running
+        - usage notes: Pay attention to spelling rules for verbs ending in -e or consonant doubling.
+        - exceptions: Verbs that do not follow standard spelling changes.
+        - related rules: spelling rules for continuous forms
+      - short verbs
+        - explanation: One-syllable verbs may require doubling the final consonant before adding -ing.
+        - examples:
+          - sit → sitting
+          - run → running
+        - usage notes: Double the final consonant if the verb is single-syllable and ends with a single consonant preceded by a single vowel.
+        - exceptions: Verbs ending in -w, -x, -y do not double the consonant (e.g., play → playing).
+        - related rules: spelling rules for verb conjugation

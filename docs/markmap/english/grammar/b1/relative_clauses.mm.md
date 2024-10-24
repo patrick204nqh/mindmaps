@@ -1,0 +1,161 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- B1
+  - Relative Clauses
+    - Types of Relative Clauses
+      - defining relative clauses
+        - explanation: Provide essential information about the noun they modify, without which the sentence would change its meaning.
+        - examples:
+          - The book that I borrowed was fascinating.
+          - She is the teacher who helped me the most.
+        - usage notes: Do not use commas to separate defining relative clauses from the rest of the sentence.
+        - exceptions: When additional non-essential information is included, it becomes a non-defining relative clause.
+        - related rules: non-defining relative clauses, restrictive clauses
+      - non-defining relative clauses
+        - explanation: Add extra information about a noun, which can be omitted without changing the fundamental meaning of the sentence.
+        - examples:
+          - My brother, who lives in New York, is visiting us next week.
+          - The Eiffel Tower, which is in Paris, attracts millions of tourists each year.
+        - usage notes: Use commas to separate non-defining relative clauses from the main clause.
+        - exceptions: Non-defining clauses are only used with specific relative pronouns like who, which, whose.
+        - related rules: defining relative clauses, appositives
+    - Relative Pronouns
+      - who
+        - explanation: Refers to people and acts as the subject of the relative clause.
+        - examples:
+          - The artist who painted this masterpiece is famous.
+          - She is the friend who always supports me.
+        - usage notes: Use "who" when referring to the subject of the clause.
+        - exceptions: Do not use "who" for objects or things.
+        - related rules: whom, that
+      - whom
+        - explanation: Refers to people and acts as the object of the relative clause.
+        - examples:
+          - The person whom you met yesterday is my cousin.
+          - She is someone whom I admire greatly.
+        - usage notes: "Whom" is more formal and is used when the pronoun is the object in the clause.
+        - exceptions: In informal English, "whom" is often replaced with "who."
+        - related rules: who, that
+      - which
+        - explanation: Refers to animals or things and can act as the subject or object of the relative clause.
+        - examples:
+          - The car which I bought last week is already having issues.
+          - She adopted a dog which loves to play fetch.
+        - usage notes: Use "which" for non-human subjects.
+        - exceptions: Do not use "which" for people.
+        - related rules: that
+      - that
+        - explanation: Can refer to people, animals, or things and can act as the subject or object of the relative clause.
+        - examples:
+          - The house that Jack built is now for sale.
+          - She is the manager that oversees the project.
+        - usage notes: "That" is versatile and can be used in both defining and non-defining clauses (though less common in non-defining clauses).
+        - exceptions: Do not use "that" in non-defining relative clauses.
+        - related rules: who, which
+      - whose
+        - explanation: Indicates possession and can refer to people, animals, or things.
+        - examples:
+          - The student whose laptop was stolen reported it to the teacher.
+          - I found a book whose cover was torn.
+        - usage notes: Use "whose" to show ownership within the relative clause.
+        - exceptions: None specific.
+        - related rules: which, that
+    - Omitting Relative Pronouns
+      - explanation: In defining relative clauses, the relative pronoun can be omitted when it acts as the object of the clause.
+      - examples:
+        - The book I borrowed was fascinating.
+        - The person you called is unavailable.
+      - usage notes: Omission is only possible when the relative pronoun is the object, not the subject.
+      - exceptions: Cannot omit the relative pronoun when it is the subject of the clause.
+      - related rules: relative pronouns, defining relative clauses
+    - Reduced Relative Clauses
+      - explanation: Simplify relative clauses by removing the relative pronoun and using a present or past participle.
+      - examples:
+        - The man living next door is a doctor. (instead of "The man who is living next door is a doctor.")
+        - The cake baked by Sarah was delicious. (instead of "The cake that was baked by Sarah was delicious.")
+      - usage notes: Common in formal writing to make sentences more concise.
+      - exceptions: Not typically used in spoken English; clarity must be maintained.
+      - related rules: relative clauses, sentence reduction
+    - Sentence Structure
+      - position of relative clauses
+        - explanation: Relative clauses usually follow immediately after the noun they modify.
+        - examples:
+          - The teacher who teaches English is very kind.
+          - I visited the museum that opened last year.
+        - usage notes: Ensure that the relative clause is placed close to the noun it modifies to avoid confusion.
+        - exceptions: Complex sentences may require rephrasing to maintain clarity.
+        - related rules: noun phrases, modifier placement
+      - punctuation
+        - explanation: Use commas to set off non-defining relative clauses; no commas for defining relative clauses.
+        - examples:
+          - Defining: Students who study hard achieve better results.
+          - Non-defining: My friend, who lives abroad, is coming to visit.
+        - usage notes: Incorrect punctuation can change the meaning of the sentence.
+        - exceptions: Some styles may vary, but standard grammar rules should generally be followed.
+        - related rules: defining vs non-defining clauses, comma usage
+    - Common Mistakes
+      - using non-defining clauses without commas
+        - explanation: Omitting commas can make the sentence unclear and change its meaning.
+        - examples:
+          - Incorrect: My brother who lives in London is visiting.
+          - Correct: My brother, who lives in London, is visiting.
+        - usage notes: Always use commas for non-defining relative clauses to indicate additional information.
+        - exceptions: None specific.
+        - related rules: punctuation in relative clauses
+      - choosing incorrect relative pronouns
+        - explanation: Using "who" for objects or things instead of appropriate pronouns like "which" or "that."
+        - examples:
+          - Incorrect: The car who I bought is new.
+          - Correct: The car that I bought is new.
+        - usage notes: Ensure the relative pronoun matches the noun it refers to in terms of person, number, and type.
+        - exceptions: "That" can be used for people and things in defining clauses.
+        - related rules: relative pronouns usage
+      - incorrect omission of relative pronouns
+        - explanation: Removing the relative pronoun when it acts as the subject of the clause.
+        - examples:
+          - Incorrect: The teacher is very kind who helps us.
+          - Correct: The teacher who helps us is very kind.
+        - usage notes: Only omit relative pronouns when they are objects, not subjects.
+        - exceptions: None specific.
+        - related rules: relative pronouns, clause structure
+    - Exceptions
+      - non-defining clauses with "that"
+        - explanation: Typically, "that" is not used in non-defining relative clauses.
+        - examples:
+          - Incorrect: My house, that is old, needs repairs.
+          - Correct: My house, which is old, needs repairs.
+        - usage notes: Use "which" instead of "that" in non-defining relative clauses.
+        - exceptions: None specific.
+        - related rules: relative pronouns, defining vs non-defining clauses
+      - using "where" for places
+        - explanation: "Where" can be used as a relative adverb to refer to places, sometimes replacing "which."
+        - examples:
+          - The city where I was born is beautiful.
+          - This is the restaurant where we first met.
+        - usage notes: "Where" is specifically used to refer to locations.
+        - exceptions: Do not use "where" for non-place nouns.
+        - related rules: relative pronouns, relative adverbs
+    - Related Rules
+      - other relative pronouns
+        - explanation: Understanding how additional relative pronouns like "whose" and "where" function within clauses.
+        - examples:
+          - The person whose phone was stolen reported it.
+          - The park where we had a picnic is closed.
+        - usage notes: Different relative pronouns serve different functions and refer to different types of nouns.
+        - exceptions: Some relative pronouns have overlapping uses but may carry different nuances.
+        - related rules: relative clauses, relative pronouns
+      - agreement between pronouns and antecedents
+        - explanation: Ensuring that relative pronouns agree in number and gender with the nouns they refer to.
+        - examples:
+          - Singular: The woman who called is my aunt.
+          - Plural: The students who arrived early got good seats.
+        - usage notes: Match the relative pronoun to the antecedent in both number and, where applicable, gender.
+        - exceptions: Some nouns are gender-neutral and use "who" regardless of gender.
+        - related rules: pronoun-antecedent agreement, noun-pronoun agreement
