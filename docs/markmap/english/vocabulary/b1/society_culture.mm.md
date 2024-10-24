@@ -1,0 +1,268 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- B1
+  - Society & Culture
+    - Family & Relationships
+      - family
+        - definition: a group of one or more parents and their children living together as a unit.
+        - pronunciation: /ˈfæm.əl.i/
+        - part of speech: noun
+        - examples:
+          - She spends weekends with her family.
+          - Family gatherings are important to them.
+        - synonyms: household, relatives
+        - antonyms: stranger
+        - related words: familial, familiar
+      - friend
+        - definition: a person whom one knows and with whom one has a bond of mutual affection.
+        - pronunciation: /frɛnd/
+        - part of speech: noun
+        - examples:
+          - He is my best friend.
+          - She met her friends at the café.
+        - synonyms: companion, buddy
+        - antonyms: enemy, foe
+        - related words: friendship, friendly
+      - marriage
+        - definition: the legally or formally recognized union of two people as partners in a personal relationship.
+        - pronunciation: /ˈmær.ɪdʒ/
+        - part of speech: noun
+        - examples:
+          - Their marriage ceremony was beautiful.
+          - Marriage is a big commitment.
+        - synonyms: union, matrimony
+        - antonyms: divorce
+        - related words: marry, married
+      - neighbor
+        - definition: a person living near or next door to the speaker or person referred to.
+        - pronunciation: /ˈneɪ.bər/
+        - part of speech: noun
+        - examples:
+          - Our neighbor is very friendly.
+          - She borrowed a cup of sugar from her neighbor.
+        - synonyms: resident, local
+        - antonyms: stranger
+        - related words: neighborhood, neighboring
+    - Traditions & Customs
+      - tradition
+        - definition: the transmission of customs or beliefs from generation to generation.
+        - pronunciation: /trəˈdɪʃ.ən/
+        - part of speech: noun
+        - examples:
+          - It is a tradition to give gifts on birthdays.
+          - They follow the traditions of their ancestors.
+        - synonyms: custom, practice
+        - antonyms: innovation
+        - related words: traditional, traditionally
+      - custom
+        - definition: a traditional and widely accepted way of behaving or doing something specific to a particular society.
+        - pronunciation: /ˈkʌs.təm/
+        - part of speech: noun
+        - examples:
+          - Shaking hands is a common custom.
+          - They have different customs in that country.
+        - synonyms: tradition, practice
+        - antonyms: rarity
+        - related words: customary, customer
+      - festival
+        - definition: a day or period of celebration, typically for religious reasons.
+        - pronunciation: /ˈfɛs.tɪ.vəl/
+        - part of speech: noun
+        - examples:
+          - The city hosts a music festival every year.
+          - They celebrated the festival with fireworks.
+        - synonyms: celebration, fair
+        - antonyms: mourning
+        - related words: festive, festivity
+      - ceremony
+        - definition: a formal occasion, typically one celebrating a particular event.
+        - pronunciation: /ˈsɛr.ɪ.mə.ni/
+        - part of speech: noun
+        - examples:
+          - The award ceremony was held last night.
+          - They attended the opening ceremony.
+        - synonyms: ritual, observance
+        - antonyms: -
+        - related words: ceremonial, ceremonious
+    - Arts & Entertainment
+      - art
+        - definition: the expression or application of human creative skill and imagination.
+        - pronunciation: /ɑːt/
+        - part of speech: noun
+        - examples:
+          - She studied art in college.
+          - The museum has a great art collection.
+        - synonyms: creativity, craft
+        - antonyms: science
+        - related words: artistic, artist
+      - music
+        - definition: vocal or instrumental sounds combined to produce harmony and expression of emotion.
+        - pronunciation: /ˈmjuː.zɪk/
+        - part of speech: noun
+        - examples:
+          - He enjoys classical music.
+          - They listened to music all evening.
+        - synonyms: melody, harmony
+        - antonyms: noise
+        - related words: musician, musical
+      - culture
+        - definition: the arts and other manifestations of human intellectual achievement regarded collectively.
+        - pronunciation: /ˈkʌl.tʃər/
+        - part of speech: noun
+        - examples:
+          - They studied the culture of ancient Egypt.
+          - Culture varies from country to country.
+        - synonyms: civilization, society
+        - antonyms: barbarism
+        - related words: cultural, culturally
+      - theater
+        - definition: a building or area for dramatic performances or entertainment.
+        - pronunciation: /ˈθɪə.tər/
+        - part of speech: noun
+        - examples:
+          - They went to the theater to see a play.
+          - The theater was packed with people.
+        - synonyms: playhouse, auditorium
+        - antonyms: -
+        - related words: theatrical, theatrics
+    - Social Issues
+      - community
+        - definition: a group of people living in the same place or having a particular characteristic in common.
+        - pronunciation: /kəˈmjuː.nə.ti/
+        - part of speech: noun
+        - examples:
+          - The community came together to help.
+          - They live in a small rural community.
+        - synonyms: society, group
+        - antonyms: individual
+        - related words: communal, commune
+      - poverty
+        - definition: the state of being extremely poor.
+        - pronunciation: /ˈpɒv.ə.ti/
+        - part of speech: noun
+        - examples:
+          - They are working to reduce poverty.
+          - Poverty affects many people worldwide.
+        - synonyms: destitution, neediness
+        - antonyms: wealth
+        - related words: poor, impoverished
+      - equality
+        - definition: the state of being equal, especially in status, rights, or opportunities.
+        - pronunciation: /ɪˈkwɒl.ə.ti/
+        - part of speech: noun
+        - examples:
+          - They fight for gender equality.
+          - Equality is important in a fair society.
+        - synonyms: fairness, parity
+        - antonyms: inequality
+        - related words: equal, equally
+      - justice
+        - definition: just behavior or treatment; the quality of being fair and reasonable.
+        - pronunciation: /ˈdʒʌs.tɪs/
+        - part of speech: noun
+        - examples:
+          - They demand justice for the victims.
+          - The legal system should ensure justice.
+        - synonyms: fairness, righteousness
+        - antonyms: injustice
+        - related words: just, justify
+    - Religion & Beliefs
+      - religion
+        - definition: the belief in and worship of a superhuman controlling power.
+        - pronunciation: /rɪˈlɪdʒ.ən/
+        - part of speech: noun
+        - examples:
+          - She practices her religion regularly.
+          - Religion plays a big role in their culture.
+        - synonyms: faith, belief
+        - antonyms: atheism
+        - related words: religious, religiously
+      - belief
+        - definition: acceptance that something exists or is true, especially without proof.
+        - pronunciation: /bɪˈliːf/
+        - part of speech: noun
+        - examples:
+          - They have strong beliefs about right and wrong.
+          - Her belief in justice is unshaken.
+        - synonyms: conviction, faith
+        - antonyms: doubt
+        - related words: believe, believable
+      - faith
+        - definition: complete trust or confidence in someone or something.
+        - pronunciation: /feɪθ/
+        - part of speech: noun
+        - examples:
+          - He has faith in his abilities.
+          - Their faith gives them strength.
+        - synonyms: trust, belief
+        - antonyms: doubt
+        - related words: faithful, faithfully
+    - Languages & Communication
+      - language
+        - definition: the method of human communication, either spoken or written.
+        - pronunciation: /ˈlæŋ.ɡwɪdʒ/
+        - part of speech: noun
+        - examples:
+          - English is an international language.
+          - She is learning a new language.
+        - synonyms: tongue, speech
+        - antonyms: silence
+        - related words: linguistic, bilingual
+      - communication
+        - definition: the imparting or exchanging of information or news.
+        - pronunciation: /kəˌmjuː.nɪˈkeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Good communication is key in relationships.
+          - Technology has changed communication.
+        - synonyms: correspondence, dialogue
+        - antonyms: miscommunication
+        - related words: communicate, communicative
+      - conversation
+        - definition: a talk between two or more people.
+        - pronunciation: /ˌkɒn.vəˈseɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - They had a long conversation about art.
+          - Starting a conversation can be difficult.
+        - synonyms: dialogue, discussion
+        - antonyms: silence
+        - related words: converse, conversational
+    - Festivals & Celebrations
+      - celebration
+        - definition: the action of celebrating an important day or event.
+        - pronunciation: /ˌsɛl.ɪˈbreɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - They held a celebration for her birthday.
+          - The festival is a celebration of culture.
+        - synonyms: festivity, party
+        - antonyms: mourning
+        - related words: celebrate, celebratory
+      - holiday
+        - definition: a day of festivity or recreation when no work is done.
+        - pronunciation: /ˈhɒl.ɪ.deɪ/
+        - part of speech: noun
+        - examples:
+          - They are planning a holiday abroad.
+          - The office is closed for the holidays.
+        - synonyms: vacation, break
+        - antonyms: workday
+        - related words: holy, festive
+      - parade
+        - definition: a public procession, especially one celebrating a special day or event.
+        - pronunciation: /pəˈreɪd/
+        - part of speech: noun, verb
+        - examples:
+          - The parade will start at noon.
+          - They watched the parade from the balcony.
+        - synonyms: procession, march
+        - antonyms: -
+        - related words: display, show

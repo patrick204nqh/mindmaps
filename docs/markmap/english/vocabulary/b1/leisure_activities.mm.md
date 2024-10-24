@@ -1,0 +1,480 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- B1
+  - Leisure Activities
+    - Sports
+      - football
+        - definition: a game played by two teams of eleven players with a round ball.
+        - pronunciation: /ˈfʊt.bɔːl/
+        - part of speech: noun
+        - examples:
+          - He plays football every weekend.
+          - They watched a football match on TV.
+        - synonyms: soccer
+        - antonyms: -
+        - related words: player, team, match
+      - tennis
+        - definition: a game in which two or four players strike a ball with rackets over a net.
+        - pronunciation: /ˈtɛn.ɪs/
+        - part of speech: noun
+        - examples:
+          - She enjoys playing tennis.
+          - They booked a tennis court.
+        - synonyms: -
+        - antonyms: -
+        - related words: racket, serve, court
+      - swimming
+        - definition: the sport or activity of moving through water by moving your arms and legs.
+        - pronunciation: /ˈswɪm.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - Swimming is good exercise.
+          - He goes swimming every morning.
+        - synonyms: -
+        - antonyms: -
+        - related words: swim, swimmer, pool
+      - cycling
+        - definition: the sport or activity of riding a bicycle.
+        - pronunciation: /ˈsaɪ.klɪŋ/
+        - part of speech: noun
+        - examples:
+          - They enjoy cycling in the countryside.
+          - Cycling can improve your fitness.
+        - synonyms: biking
+        - antonyms: -
+        - related words: bicycle, cyclist, bike
+      - basketball
+        - definition: a game played by two teams where players score by throwing a ball through a hoop.
+        - pronunciation: /ˈbɑː.skɪt.bɔːl/
+        - part of speech: noun
+        - examples:
+          - He joined the basketball team.
+          - They watched a basketball game.
+        - synonyms: -
+        - antonyms: -
+        - related words: hoop, dribble, court
+      - jogging
+        - definition: the activity of running at a steady, gentle pace.
+        - pronunciation: /ˈdʒɒɡ.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - She goes jogging every morning.
+          - Jogging is part of his fitness routine.
+        - synonyms: running
+        - antonyms: -
+        - related words: jog, jogger
+    - Hobbies
+      - painting
+        - definition: the practice of applying paint to a surface.
+        - pronunciation: /ˈpeɪn.tɪŋ/
+        - part of speech: noun
+        - examples:
+          - She enjoys painting landscapes.
+          - Painting relaxes him.
+        - synonyms: art
+        - antonyms: -
+        - related words: paint, painter, artwork
+      - gardening
+        - definition: the activity of tending and cultivating a garden.
+        - pronunciation: /ˈɡɑː.dən.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - Gardening is her favorite hobby.
+          - He spends weekends gardening.
+        - synonyms: horticulture
+        - antonyms: -
+        - related words: garden, gardener, plant
+      - photography
+        - definition: the art or practice of taking and processing photographs.
+        - pronunciation: /fəˈtɒɡ.rə.fi/
+        - part of speech: noun
+        - examples:
+          - He took up photography last year.
+          - Photography allows her to be creative.
+        - synonyms: picture-taking
+        - antonyms: -
+        - related words: photograph, photographer, photo
+      - knitting
+        - definition: the craft of making fabric by interlocking loops of yarn.
+        - pronunciation: /ˈnɪt.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - She enjoys knitting scarves.
+          - Knitting helps him relax.
+        - synonyms: -
+        - antonyms: -
+        - related words: knit, knitter, yarn
+      - collecting
+        - definition: the hobby of acquiring items of a particular kind.
+        - pronunciation: /kəˈlɛktɪŋ/
+        - part of speech: noun
+        - examples:
+          - He has a passion for stamp collecting.
+          - Collecting coins is her hobby.
+        - synonyms: gathering, accumulating
+        - antonyms: disposing
+        - related words: collect, collector, collection
+    - Outdoor Activities
+      - hiking
+        - definition: the activity of going for long walks in the countryside.
+        - pronunciation: /ˈhaɪ.kɪŋ/
+        - part of speech: noun
+        - examples:
+          - They went hiking in the mountains.
+          - Hiking is a great way to explore nature.
+        - synonyms: trekking
+        - antonyms: -
+        - related words: hike, hiker, trail
+      - camping
+        - definition: the activity of spending a vacation living in a camp, tent, or camper.
+        - pronunciation: /ˈkæm.pɪŋ/
+        - part of speech: noun
+        - examples:
+          - Camping is popular in the summer.
+          - They enjoy camping by the lake.
+        - synonyms: -
+        - antonyms: -
+        - related words: camp, campsite, camper
+      - fishing
+        - definition: the activity of catching fish.
+        - pronunciation: /ˈfɪʃ.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - He goes fishing on weekends.
+          - Fishing requires patience.
+        - synonyms: angling
+        - antonyms: -
+        - related words: fish, fisherman, rod
+      - birdwatching
+        - definition: the activity of observing birds in their natural environment.
+        - pronunciation: /ˈbɜːdˌwɒtʃ.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - She took up birdwatching as a hobby.
+          - Birdwatching requires binoculars.
+        - synonyms: birding
+        - antonyms: -
+        - related words: bird, watcher, observe
+      - skateboarding
+        - definition: the sport of riding on a skateboard.
+        - pronunciation: /ˈskeɪt.bɔːdɪŋ/
+        - part of speech: noun
+        - examples:
+          - He practices skateboarding after school.
+          - Skateboarding is popular among teenagers.
+        - synonyms: -
+        - antonyms: -
+        - related words: skateboard, skater, ramp
+    - Indoor Activities
+      - reading
+        - definition: the action or skill of reading written or printed matter silently or aloud.
+        - pronunciation: /ˈriː.dɪŋ/
+        - part of speech: noun
+        - examples:
+          - She spends her evenings reading.
+          - Reading expands your knowledge.
+        - synonyms: perusing
+        - antonyms: writing
+        - related words: read, reader, book
+      - cooking
+        - definition: the practice or skill of preparing food.
+        - pronunciation: /ˈkʊk.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - He enjoys cooking Italian dishes.
+          - Cooking can be fun and creative.
+        - synonyms: culinary arts
+        - antonyms: -
+        - related words: cook, cookbook, cuisine
+      - playing board games
+        - definition: engaging in games that are played on a board.
+        - pronunciation: /ˈpleɪ.ɪŋ bɔːd ɡeɪmz/
+        - part of speech: verb phrase
+        - examples:
+          - They enjoy playing board games as a family.
+          - Playing board games is a good indoor activity.
+        - synonyms: tabletop games
+        - antonyms: -
+        - related words: game, player, dice
+      - sewing
+        - definition: the craft of fastening or attaching objects using stitches.
+        - pronunciation: /ˈsəʊ.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - She learned sewing from her grandmother.
+          - Sewing can be used to make clothes.
+        - synonyms: stitching
+        - antonyms: -
+        - related words: sew, seamstress, needle
+      - yoga
+        - definition: a Hindu spiritual and ascetic discipline for health and relaxation.
+        - pronunciation: /ˈjəʊ.ɡə/
+        - part of speech: noun
+        - examples:
+          - Yoga helps improve flexibility.
+          - He practices yoga every morning.
+        - synonyms: meditation
+        - antonyms: -
+        - related words: pose, stretch, yogi
+    - Arts & Crafts
+      - drawing
+        - definition: the act of making pictures using pencils, pens, or crayons.
+        - pronunciation: /ˈdrɔː.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - Drawing is her favorite pastime.
+          - He took a drawing class.
+        - synonyms: sketching
+        - antonyms: -
+        - related words: draw, artist, sketch
+      - pottery
+        - definition: the craft of making objects from clay.
+        - pronunciation: /ˈpɒt.ər.i/
+        - part of speech: noun
+        - examples:
+          - She enjoys pottery classes.
+          - Pottery requires patience and skill.
+        - synonyms: ceramics
+        - antonyms: -
+        - related words: potter, clay, kiln
+      - origami
+        - definition: the Japanese art of folding paper into decorative shapes.
+        - pronunciation: /ˌɒr.ɪˈɡɑː.mi/
+        - part of speech: noun
+        - examples:
+          - He learned origami from a book.
+          - Origami can create intricate designs.
+        - synonyms: paper folding
+        - antonyms: -
+        - related words: fold, paper, crane
+      - crafting
+        - definition: the activity of making decorative objects by hand.
+        - pronunciation: /ˈkrɑːft.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - Crafting is a popular hobby.
+          - They sell their crafting projects online.
+        - synonyms: handiwork
+        - antonyms: -
+        - related words: craft, crafter, handmade
+      - jewelry making
+        - definition: the craft of creating decorative items to wear.
+        - pronunciation: /ˈdʒuː.əl.ri ˈmeɪ.kɪŋ/
+        - part of speech: noun
+        - examples:
+          - She started jewelry making as a hobby.
+          - Jewelry making requires attention to detail.
+        - synonyms: adornment creation
+        - antonyms: -
+        - related words: jewelry, beads, necklace
+    - Entertainment
+      - cinema
+        - definition: a theater where movies are shown.
+        - pronunciation: /ˈsɪn.ə.mə/
+        - part of speech: noun
+        - examples:
+          - They went to the cinema to watch a film.
+          - The cinema was crowded on Saturday night.
+        - synonyms: movie theater
+        - antonyms: -
+        - related words: film, movie, screen
+      - concert
+        - definition: a musical performance given in public.
+        - pronunciation: /ˈkɒn.sɜːt/
+        - part of speech: noun
+        - examples:
+          - She attended a live concert.
+          - The concert tickets sold out quickly.
+        - synonyms: performance, gig
+        - antonyms: -
+        - related words: musician, audience, stage
+      - theater
+        - definition: a building where plays and other performances are given.
+        - pronunciation: /ˈθɪə.tər/
+        - part of speech: noun
+        - examples:
+          - They enjoy going to the theater.
+          - The theater was showing a classic play.
+        - synonyms: playhouse
+        - antonyms: -
+        - related words: actor, drama, performance
+      - amusement park
+        - definition: a large outdoor area with fairground rides and games.
+        - pronunciation: /əˈmjuːz.mənt pɑːk/
+        - part of speech: noun
+        - examples:
+          - They spent the day at the amusement park.
+          - The amusement park has many attractions.
+        - synonyms: theme park
+        - antonyms: -
+        - related words: ride, roller coaster, funfair
+      - festival
+        - definition: an organized series of concerts, plays, or movies.
+        - pronunciation: /ˈfɛs.tɪ.vəl/
+        - part of speech: noun
+        - examples:
+          - The music festival lasts for three days.
+          - They enjoy attending food festivals.
+        - synonyms: fair, celebration
+        - antonyms: -
+        - related words: festive, festivity, event
+    - Music & Dance
+      - singing
+        - definition: the activity of making musical sounds with the voice.
+        - pronunciation: /ˈsɪŋ.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - She takes singing lessons.
+          - Singing in a choir can be enjoyable.
+        - synonyms: vocalizing
+        - antonyms: -
+        - related words: sing, singer, song
+      - dancing
+        - definition: the activity of moving rhythmically to music.
+        - pronunciation: /ˈdɑːn.sɪŋ/
+        - part of speech: noun
+        - examples:
+          - They went dancing at the club.
+          - Dancing is a good way to exercise.
+        - synonyms: moving, performing
+        - antonyms: -
+        - related words: dance, dancer, choreography
+      - playing an instrument
+        - definition: the act of producing music using a musical instrument.
+        - pronunciation: /ˈpleɪ.ɪŋ ən ˈɪn.strə.mənt/
+        - part of speech: verb phrase
+        - examples:
+          - He enjoys playing the guitar.
+          - She is learning to play an instrument.
+        - synonyms: performing music
+        - antonyms: -
+        - related words: musician, practice, band
+      - listening to music
+        - definition: the activity of hearing music for enjoyment.
+        - pronunciation: /ˈlɪs.ənɪŋ tuː ˈmjuː.zɪk/
+        - part of speech: verb phrase
+        - examples:
+          - She relaxes by listening to music.
+          - They enjoy listening to music together.
+        - synonyms: -
+        - antonyms: -
+        - related words: headphones, playlist, song
+      - composing
+        - definition: creating or writing music.
+        - pronunciation: /kəmˈpəʊ.zɪŋ/
+        - part of speech: verb
+        - examples:
+          - He spends his time composing songs.
+          - Composing requires creativity.
+        - synonyms: creating, writing
+        - antonyms: performing
+        - related words: composer, composition, music
+    - Games & Puzzles
+      - chess
+        - definition: a board game of strategic skill for two players.
+        - pronunciation: /tʃes/
+        - part of speech: noun
+        - examples:
+          - He enjoys playing chess.
+          - Chess improves logical thinking.
+        - synonyms: -
+        - antonyms: -
+        - related words: checkmate, pawn, king
+      - crossword
+        - definition: a puzzle consisting of a grid of squares and blanks into which words are written.
+        - pronunciation: /ˈkrɒs.wɜːd/
+        - part of speech: noun
+        - examples:
+          - She does the crossword every morning.
+          - Crosswords can expand your vocabulary.
+        - synonyms: puzzle
+        - antonyms: -
+        - related words: clue, grid, word
+      - sudoku
+        - definition: a puzzle in which players insert numbers into a grid.
+        - pronunciation: /suːˈdəʊ.kuː/
+        - part of speech: noun
+        - examples:
+          - He finds sudoku challenging.
+          - Sudoku puzzles are good for the brain.
+        - synonyms: number puzzle
+        - antonyms: -
+        - related words: grid, logic, numbers
+      - video games
+        - definition: electronic games played using a computer or console.
+        - pronunciation: /ˈvɪd.i.əʊ ɡeɪmz/
+        - part of speech: noun
+        - examples:
+          - They spent the afternoon playing video games.
+          - Video games can be entertaining.
+        - synonyms: computer games
+        - antonyms: -
+        - related words: console, controller, gamer
+      - card games
+        - definition: games played with a deck of cards.
+        - pronunciation: /kɑːd ɡeɪmz/
+        - part of speech: noun
+        - examples:
+          - They enjoy playing card games like poker.
+          - Card games are popular at gatherings.
+        - synonyms: -
+        - antonyms: -
+        - related words: deck, shuffle, deal
+    - Social Activities
+      - dining out
+        - definition: eating a meal away from home, typically in a restaurant.
+        - pronunciation: /ˈdaɪ.nɪŋ aʊt/
+        - part of speech: verb phrase
+        - examples:
+          - They enjoy dining out on weekends.
+          - Dining out allows them to try new foods.
+        - synonyms: eating out
+        - antonyms: dining in
+        - related words: restaurant, meal, cuisine
+      - partying
+        - definition: enjoying oneself at a party or other lively gathering.
+        - pronunciation: /ˈpɑː.ti.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - They spent the night partying.
+          - Partying can be fun with friends.
+        - synonyms: celebrating, reveling
+        - antonyms: working
+        - related words: party, celebration, event
+      - shopping
+        - definition: the activity of buying goods from stores.
+        - pronunciation: /ˈʃɒp.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - She went shopping for new clothes.
+          - Shopping can be a leisure activity.
+        - synonyms: purchasing, buying
+        - antonyms: selling
+        - related words: shop, shopper, store
+      - volunteering
+        - definition: offering time and services willingly without pay.
+        - pronunciation: /ˌvɒl.ənˈtɪə.rɪŋ/
+        - part of speech: noun
+        - examples:
+          - Volunteering can help the community.
+          - She spends her free time volunteering.
+        - synonyms: helping, serving
+        - antonyms: -
+        - related words: volunteer, voluntary, service
+      - attending classes
+        - definition: participating in educational courses for personal interest.
+        - pronunciation: /əˈtɛndɪŋ ˈklɑːsɪz/
+        - part of speech: verb phrase
+        - examples:
+          - He enjoys attending cooking classes.
+          - Attending classes can be a way to learn new skills.
+        - synonyms: learning, studying
+        - antonyms: teaching
+        - related words: class, student, course

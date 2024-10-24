@@ -1,0 +1,389 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- B1
+  - Work & Employment
+    - Occupations
+      - accountant
+        - definition: a person whose job is to keep or inspect financial accounts.
+        - pronunciation: /əˈkaʊn.tənt/
+        - part of speech: noun
+        - examples:
+          - She works as an accountant at a multinational company.
+          - The accountant prepared the financial statements.
+        - synonyms: bookkeeper
+        - antonyms: debtor
+        - related words: accounting, account
+      - engineer
+        - definition: a person who designs, builds, or maintains engines, machines, or structures.
+        - pronunciation: /ˌɛn.dʒɪˈnɪər/
+        - part of speech: noun
+        - examples:
+          - He is an engineer specializing in civil construction.
+          - The engineer fixed the technical problem.
+        - synonyms: technician, designer
+        - antonyms: dismantler
+        - related words: engineering, engine
+      - manager
+        - definition: a person responsible for controlling or administering an organization or group of staff.
+        - pronunciation: /ˈmæn.ɪ.dʒər/
+        - part of speech: noun
+        - examples:
+          - The manager approved the new project.
+          - She was promoted to manager last month.
+        - synonyms: supervisor, administrator
+        - antonyms: employee, subordinate
+        - related words: management, manage
+      - nurse
+        - definition: a person trained to care for the sick or infirm, especially in a hospital.
+        - pronunciation: /nɜːs/
+        - part of speech: noun
+        - examples:
+          - The nurse checked the patient's vital signs.
+          - She is studying to become a nurse.
+        - synonyms: caregiver
+        - antonyms: patient
+        - related words: nursing, nursery
+      - lawyer
+        - definition: a person who practices or studies law; an attorney or counselor.
+        - pronunciation: /ˈlɔɪ.ər/
+        - part of speech: noun
+        - examples:
+          - He consulted a lawyer about the contract.
+          - The lawyer represented her in court.
+        - synonyms: attorney, advocate
+        - antonyms: client
+        - related words: law, lawful
+      - teacher
+        - definition: a person who teaches, especially in a school.
+        - pronunciation: /ˈtiː.tʃər/
+        - part of speech: noun
+        - examples:
+          - The teacher explained the lesson clearly.
+          - She is a math teacher at the high school.
+        - synonyms: educator, instructor
+        - antonyms: student, pupil
+        - related words: teach, teaching
+    - Workplace
+      - office
+        - definition: a room, set of rooms, or building used as a place for commercial, professional, or bureaucratic work.
+        - pronunciation: /ˈɒf.ɪs/
+        - part of speech: noun
+        - examples:
+          - He arrived at the office early.
+          - The office has modern facilities.
+        - synonyms: workplace, bureau
+        - antonyms: home, field
+        - related words: official, officer
+      - factory
+        - definition: a building or group of buildings where goods are manufactured or assembled chiefly by machine.
+        - pronunciation: /ˈfæk.tər.i/
+        - part of speech: noun
+        - examples:
+          - She works in a textile factory.
+          - The factory employs over 500 workers.
+        - synonyms: plant, mill
+        - antonyms: store, shop
+        - related words: manufacture, fabrication
+      - meeting room
+        - definition: a room where people hold meetings.
+        - pronunciation: /ˈmiː.tɪŋ ruːm/
+        - part of speech: noun
+        - examples:
+          - The team gathered in the meeting room.
+          - The meeting room is booked for the afternoon.
+        - synonyms: conference room
+        - antonyms: -
+        - related words: meeting, assemble
+      - warehouse
+        - definition: a large building where raw materials or manufactured goods may be stored.
+        - pronunciation: /ˈweə.haʊs/
+        - part of speech: noun
+        - examples:
+          - The products are kept in the warehouse.
+          - He works as a supervisor in the warehouse.
+        - synonyms: depot, storage facility
+        - antonyms: -
+        - related words: warehousing
+      - workshop
+        - definition: a room or building where goods are manufactured or repaired.
+        - pronunciation: /ˈwɜːk.ʃɒp/
+        - part of speech: noun
+        - examples:
+          - The carpenters are busy in the workshop.
+          - She attended a workshop on leadership.
+        - synonyms: studio, lab
+        - antonyms: office
+        - related words: work, shop
+    - Job Search
+      - resume
+        - definition: a document that summarizes one's education, qualifications, and previous experience.
+        - pronunciation: /rɪˈzjuːm/ (UK), /rɪˈzuːm/ (US)
+        - part of speech: noun
+        - examples:
+          - He updated his resume before applying.
+          - A well-written resume can help you get an interview.
+        - synonyms: CV, curriculum vitae
+        - antonyms: -
+        - related words: application, cover letter
+      - interview
+        - definition: a meeting of people face to face, especially for consultation.
+        - pronunciation: /ˈɪn.tə.vjuː/
+        - part of speech: noun, verb
+        - examples:
+          - She had an interview for the sales position.
+          - They will interview five candidates.
+        - synonyms: meeting, interrogation
+        - antonyms: -
+        - related words: interviewer, interviewee
+      - application
+        - definition: a formal request to be considered for a position or to be allowed to do or have something.
+        - pronunciation: /ˌæp.lɪˈkeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - She filled out the job application online.
+          - His application was accepted.
+        - synonyms: request, submission
+        - antonyms: withdrawal
+        - related words: apply, applicant
+      - vacancy
+        - definition: an unoccupied position or job.
+        - pronunciation: /ˈveɪ.kən.si/
+        - part of speech: noun
+        - examples:
+          - There is a vacancy for a receptionist.
+          - All vacancies have been filled.
+        - synonyms: opening, position
+        - antonyms: occupancy
+        - related words: vacant, vacate
+      - recruit
+        - definition: to find new people to join a company or organization.
+        - pronunciation: /rɪˈkruːt/
+        - part of speech: verb, noun
+        - examples:
+          - The company plans to recruit more staff.
+          - The new recruit started today.
+        - synonyms: hire, enlist
+        - antonyms: dismiss
+        - related words: recruitment, recruiter
+    - Work Activities
+      - collaborate
+        - definition: to work jointly with others or together especially in an intellectual endeavor.
+        - pronunciation: /kəˈlæb.ə.reɪt/
+        - part of speech: verb
+        - examples:
+          - The two companies will collaborate on the project.
+          - Researchers are collaborating to find a cure.
+        - synonyms: cooperate, team up
+        - antonyms: compete, oppose
+        - related words: collaboration, collaborative
+      - negotiate
+        - definition: to discuss something formally in order to reach an agreement.
+        - pronunciation: /nɪˈɡəʊ.ʃi.eɪt/
+        - part of speech: verb
+        - examples:
+          - They will negotiate the terms of the contract.
+          - She is skilled at negotiating deals.
+        - synonyms: bargain, discuss
+        - antonyms: disagree, refuse
+        - related words: negotiation, negotiator
+      - schedule
+        - definition: a plan of activities or events and when they will happen.
+        - pronunciation: /ˈʃɛd.juːl/ (UK), /ˈskɛdʒ.uːl/ (US)
+        - part of speech: noun, verb
+        - examples:
+          - The meeting is on the schedule for tomorrow.
+          - Let's schedule a time to meet.
+        - synonyms: timetable, agenda
+        - antonyms: -
+        - related words: reschedule, scheduled
+      - attend
+        - definition: to be present at an event, meeting, or function.
+        - pronunciation: /əˈtɛnd/
+        - part of speech: verb
+        - examples:
+          - She will attend the conference next week.
+          - Many people attended the seminar.
+        - synonyms: participate, be present
+        - antonyms: miss, skip
+        - related words: attendance, attendee
+      - report
+        - definition: to give a spoken or written account of something that one has observed, heard, done, or investigated.
+        - pronunciation: /rɪˈpɔːt/
+        - part of speech: verb, noun
+        - examples:
+          - He reports directly to the manager.
+          - She wrote a report on the findings.
+        - synonyms: inform, record
+        - antonyms: conceal, hide
+        - related words: reporter, reporting
+    - Employment Terms
+      - salary
+        - definition: a fixed regular payment, typically paid on a monthly or biweekly basis.
+        - pronunciation: /ˈsæl.ər.i/
+        - part of speech: noun
+        - examples:
+          - The job offers a high salary.
+          - She negotiated her salary before accepting.
+        - synonyms: pay, wage, income
+        - antonyms: expenses
+        - related words: salaried, payroll
+      - contract
+        - definition: a written or spoken agreement that is intended to be enforceable by law.
+        - pronunciation: /ˈkɒn.trækt/
+        - part of speech: noun, verb
+        - examples:
+          - They signed a two-year contract.
+          - The company contracted a new supplier.
+        - synonyms: agreement, deal
+        - antonyms: disagreement
+        - related words: contractual, contractor
+      - benefits
+        - definition: a payment or gift made by an employer, the state, or an insurance company.
+        - pronunciation: /ˈbɛn.ɪ.fɪts/
+        - part of speech: noun
+        - examples:
+          - The job comes with excellent benefits.
+          - Employees receive health insurance benefits.
+        - synonyms: perks, advantages
+        - antonyms: drawbacks
+        - related words: beneficial, benefit
+      - bonus
+        - definition: an extra payment added to what is usual or expected, typically as a reward.
+        - pronunciation: /ˈbəʊ.nəs/
+        - part of speech: noun
+        - examples:
+          - She received a bonus for her hard work.
+          - The company gives annual bonuses.
+        - synonyms: extra, reward
+        - antonyms: penalty
+        - related words: bonuses
+    - Work Conditions
+      - full-time
+        - definition: occupying or using the whole of someone's available working time, typically 40 hours a week.
+        - pronunciation: /ˌfʊlˈtaɪm/
+        - part of speech: adjective, adverb
+        - examples:
+          - He works full-time at the factory.
+          - She is looking for a full-time position.
+        - synonyms: permanent
+        - antonyms: part-time
+        - related words: full-timer
+      - part-time
+        - definition: for only part of the usual working day or week.
+        - pronunciation: /ˌpɑːtˈtaɪm/
+        - part of speech: adjective, adverb
+        - examples:
+          - She has a part-time job at the store.
+          - He works part-time while studying.
+        - synonyms: temporary
+        - antonyms: full-time
+        - related words: part-timer
+      - shift
+        - definition: a set period of working time, especially in a job that involves working at different times on different days.
+        - pronunciation: /ʃɪft/
+        - part of speech: noun
+        - examples:
+          - Nurses often work night shifts.
+          - The factory operates three shifts a day.
+        - synonyms: duty period
+        - antonyms: -
+        - related words: shift work, shift worker
+      - overtime
+        - definition: time worked beyond one's scheduled working hours.
+        - pronunciation: /ˈəʊ.və.taɪm/
+        - part of speech: noun, adverb
+        - examples:
+          - She is paid extra for overtime.
+          - They worked overtime to meet the deadline.
+        - synonyms: extra hours
+        - antonyms: time off
+        - related words: overwork
+    - Promotions and Career Development
+      - promotion
+        - definition: advancement to a higher position or rank in an organization.
+        - pronunciation: /prəˈməʊ.ʃən/
+        - part of speech: noun
+        - examples:
+          - He got a promotion after only a year.
+          - Hard work can lead to promotion.
+        - synonyms: advancement, elevation
+        - antonyms: demotion
+        - related words: promote, promotional
+      - training
+        - definition: the process of learning the skills needed for a particular job or activity.
+        - pronunciation: /ˈtreɪ.nɪŋ/
+        - part of speech: noun
+        - examples:
+          - New employees must attend training.
+          - She is in training to become a manager.
+        - synonyms: education, instruction
+        - antonyms: ignorance
+        - related words: train, trainer
+      - career
+        - definition: an occupation undertaken for a significant period of a person's life and with opportunities for progress.
+        - pronunciation: /kəˈrɪər/
+        - part of speech: noun
+        - examples:
+          - She wants a career in journalism.
+          - He is planning his career path.
+        - synonyms: profession, vocation
+        - antonyms: unemployment
+        - related words: careerist
+      - opportunity
+        - definition: a set of circumstances that makes it possible to do something.
+        - pronunciation: /ˌɒp.əˈtjuː.nə.ti/
+        - part of speech: noun
+        - examples:
+          - The job offers many opportunities for growth.
+          - He took the opportunity to learn new skills.
+        - synonyms: chance, prospect
+        - antonyms: obstacle
+        - related words: opportunistic, opportunist
+    - Unemployment
+      - unemployed
+        - definition: without a paid job but available to work.
+        - pronunciation: /ˌʌn.ɪmˈplɔɪd/
+        - part of speech: adjective
+        - examples:
+          - He has been unemployed since last year.
+          - Unemployed people can apply for benefits.
+        - synonyms: jobless, out of work
+        - antonyms: employed
+        - related words: unemployment, employ
+      - resign
+        - definition: to voluntarily leave a job or office.
+        - pronunciation: /rɪˈzaɪn/
+        - part of speech: verb
+        - examples:
+          - She decided to resign from her position.
+          - He resigned due to health reasons.
+        - synonyms: quit, leave
+        - antonyms: join, accept
+        - related words: resignation, resigning
+      - retire
+        - definition: to leave one's job and cease to work, typically upon reaching a certain age.
+        - pronunciation: /rɪˈtaɪər/
+        - part of speech: verb
+        - examples:
+          - He plans to retire at 65.
+          - She retired after 30 years with the company.
+        - synonyms: withdraw, stop working
+        - antonyms: start working
+        - related words: retirement, retired
+      - redundant
+        - definition: no longer employed because there is no more work available.
+        - pronunciation: /rɪˈdʌn.dənt/
+        - part of speech: adjective
+        - examples:
+          - Many workers were made redundant.
+          - She was made redundant due to company downsizing.
+        - synonyms: laid off
+        - antonyms: employed
+        - related words: redundancy

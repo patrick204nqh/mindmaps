@@ -1,0 +1,519 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- B1
+  - Environment & Nature
+    - Weather & Climate
+      - weather
+        - definition: the state of the atmosphere at a particular place and time.
+        - pronunciation: /ˈwɛð.ər/
+        - part of speech: noun
+        - examples:
+          - The weather today is sunny and warm.
+          - They always talk about the weather.
+        - synonyms: climate, conditions
+        - antonyms: -
+        - related words: weather forecast, weatherman
+      - climate
+        - definition: the weather conditions prevailing in an area over a long period.
+        - pronunciation: /ˈklaɪ.mət/
+        - part of speech: noun
+        - examples:
+          - The climate in this region is very dry.
+          - Climate change is a global concern.
+        - synonyms: weather pattern
+        - antonyms: -
+        - related words: climatic, climatology
+      - temperature
+        - definition: the degree of hotness or coldness of a body or environment.
+        - pronunciation: /ˈtɛmp(ə)rətʃər/
+        - part of speech: noun
+        - examples:
+          - The temperature dropped below zero last night.
+          - What's the temperature outside?
+        - synonyms: heat level
+        - antonyms: -
+        - related words: thermometer, temperate
+      - rain
+        - definition: moisture condensed from the atmosphere that falls visibly in separate drops.
+        - pronunciation: /reɪn/
+        - part of speech: noun, verb
+        - examples:
+          - It's going to rain this afternoon.
+          - The rain ruined our picnic.
+        - synonyms: rainfall, precipitation
+        - antonyms: sunshine
+        - related words: rainy, raincoat
+      - sunny
+        - definition: bright with sunlight.
+        - pronunciation: /ˈsʌn.i/
+        - part of speech: adjective
+        - examples:
+          - It was a sunny day at the beach.
+          - She prefers sunny weather.
+        - synonyms: bright, clear
+        - antonyms: cloudy
+        - related words: sun, sunshine
+      - cloudy
+        - definition: covered with or characterized by clouds; overcast.
+        - pronunciation: /ˈklaʊ.di/
+        - part of speech: adjective
+        - examples:
+          - The sky is cloudy today.
+          - It might rain because it's so cloudy.
+        - synonyms: overcast, gloomy
+        - antonyms: clear, sunny
+        - related words: cloud, cloudiness
+      - storm
+        - definition: a violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow.
+        - pronunciation: /stɔːm/
+        - part of speech: noun
+        - examples:
+          - The storm caused power outages.
+          - They stayed inside during the storm.
+        - synonyms: tempest, squall
+        - antonyms: calm
+        - related words: stormy, thunderstorm
+      - wind
+        - definition: the natural movement of the air.
+        - pronunciation: /wɪnd/
+        - part of speech: noun
+        - examples:
+          - The wind blew the leaves off the trees.
+          - It's too windy to go sailing.
+        - synonyms: breeze, gust
+        - antonyms: stillness
+        - related words: windy, windmill
+      - snow
+        - definition: atmospheric water vapor frozen into ice crystals and falling in light white flakes.
+        - pronunciation: /snəʊ/
+        - part of speech: noun, verb
+        - examples:
+          - It might snow tonight.
+          - The children played in the snow.
+        - synonyms: snowfall, flurries
+        - antonyms: -
+        - related words: snowy, snowflake
+    - Animals & Wildlife
+      - animal
+        - definition: a living organism that feeds on organic matter.
+        - pronunciation: /ˈæn.ɪ.məl/
+        - part of speech: noun
+        - examples:
+          - The zoo has many different animals.
+          - She loves all kinds of animals.
+        - synonyms: creature, beast
+        - antonyms: plant
+        - related words: animate, animalistic
+      - wildlife
+        - definition: wild animals collectively; the native fauna.
+        - pronunciation: /ˈwaɪld.laɪf/
+        - part of speech: noun
+        - examples:
+          - The park is home to a variety of wildlife.
+          - Protecting wildlife is important.
+        - synonyms: fauna, animals
+        - antonyms: domesticated animals
+        - related words: wild, life
+      - mammal
+        - definition: a warm-blooded vertebrate animal with hair or fur.
+        - pronunciation: /ˈmæm.əl/
+        - part of speech: noun
+        - examples:
+          - Humans are mammals.
+          - The whale is the largest mammal.
+        - synonyms: -
+        - antonyms: reptile, amphibian
+        - related words: mammalian
+      - bird
+        - definition: a warm-blooded egg-laying vertebrate distinguished by feathers.
+        - pronunciation: /bɜːd/
+        - part of speech: noun
+        - examples:
+          - The bird flew across the sky.
+          - She watches birds in the morning.
+        - synonyms: avian
+        - antonyms: -
+        - related words: birdwatching, birdhouse
+      - fish
+        - definition: a limbless cold-blooded vertebrate animal with gills and fins living in water.
+        - pronunciation: /fɪʃ/
+        - part of speech: noun, verb
+        - examples:
+          - They caught several fish.
+          - The pond is full of fish.
+        - synonyms: -
+        - antonyms: -
+        - related words: fishing, fisherman
+      - insect
+        - definition: a small arthropod animal with six legs and generally one or two pairs of wings.
+        - pronunciation: /ˈɪn.sekt/
+        - part of speech: noun
+        - examples:
+          - The garden is home to many insects.
+          - She is afraid of insects.
+        - synonyms: bug
+        - antonyms: -
+        - related words: insecticide, entomology
+      - species
+        - definition: a group of living organisms consisting of similar individuals.
+        - pronunciation: /ˈspiː.ʃiːz/
+        - part of speech: noun
+        - examples:
+          - Tigers are an endangered species.
+          - There are many species of birds here.
+        - synonyms: type, kind
+        - antonyms: -
+        - related words: specific, speciation
+      - habitat
+        - definition: the natural home or environment of an animal, plant, or other organism.
+        - pronunciation: /ˈhæb.ɪ.tæt/
+        - part of speech: noun
+        - examples:
+          - The forest is a habitat for many animals.
+          - Pollution destroys natural habitats.
+        - synonyms: environment, home
+        - antonyms: -
+        - related words: habitation, inhabit
+    - Plants & Trees
+      - plant
+        - definition: a living organism of the kind exemplified by trees, shrubs, herbs, grasses, ferns, and mosses.
+        - pronunciation: /plɑːnt/
+        - part of speech: noun, verb
+        - examples:
+          - She watered the plants in her garden.
+          - They plan to plant more trees.
+        - synonyms: vegetation
+        - antonyms: -
+        - related words: plantation, planting
+      - tree
+        - definition: a woody perennial plant, typically having a single stem or trunk.
+        - pronunciation: /triː/
+        - part of speech: noun
+        - examples:
+          - The tree provides shade.
+          - They climbed the apple tree.
+        - synonyms: timber
+        - antonyms: -
+        - related words: treetop, treeline
+      - flower
+        - definition: the seed-bearing part of a plant, consisting of reproductive organs.
+        - pronunciation: /ˈflaʊ.ər/
+        - part of speech: noun, verb
+        - examples:
+          - She received a bouquet of flowers.
+          - The flowers bloom in spring.
+        - synonyms: blossom, bloom
+        - antonyms: -
+        - related words: flowering, florist
+      - leaf
+        - definition: a flattened structure of a higher plant, typically green and bladelike.
+        - pronunciation: /liːf/
+        - part of speech: noun
+        - examples:
+          - The leaves turn red in autumn.
+          - A leaf fell from the tree.
+        - synonyms: foliage
+        - antonyms: -
+        - related words: leafy, leaflet
+      - forest
+        - definition: a large area covered chiefly with trees and undergrowth.
+        - pronunciation: /ˈfɒr.ɪst/
+        - part of speech: noun
+        - examples:
+          - They hiked through the forest.
+          - Forests are important for the environment.
+        - synonyms: woods, woodland
+        - antonyms: desert
+        - related words: forestry, deforestation
+      - grass
+        - definition: vegetation consisting of typically short plants with long narrow leaves.
+        - pronunciation: /ɡrɑːs/
+        - part of speech: noun
+        - examples:
+          - The children played on the grass.
+          - He mowed the grass yesterday.
+        - synonyms: lawn
+        - antonyms: -
+        - related words: grassy, grassland
+    - Natural Resources
+      - water
+        - definition: a colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain.
+        - pronunciation: /ˈwɔː.tər/
+        - part of speech: noun
+        - examples:
+          - We need clean water to survive.
+          - The bottle is filled with water.
+        - synonyms: H2O
+        - antonyms: -
+        - related words: watery, waterfall
+      - oil
+        - definition: a viscous liquid derived from petroleum.
+        - pronunciation: /ɔɪl/
+        - part of speech: noun
+        - examples:
+          - Oil prices have increased.
+          - They discovered oil in the region.
+        - synonyms: petroleum
+        - antonyms: -
+        - related words: oily, oilfield
+      - coal
+        - definition: a combustible black or dark brown rock used as fuel.
+        - pronunciation: /kəʊl/
+        - part of speech: noun
+        - examples:
+          - Coal is used in power plants.
+          - The coal mine is shutting down.
+        - synonyms: charcoal
+        - antonyms: -
+        - related words: coal miner, coalmine
+      - gas
+        - definition: an air-like fluid substance which expands freely to fill any space available.
+        - pronunciation: /ɡæs/
+        - part of speech: noun
+        - examples:
+          - Natural gas is used for heating.
+          - The car ran out of gas.
+        - synonyms: fuel
+        - antonyms: -
+        - related words: gaseous, gasoline
+      - mineral
+        - definition: a solid inorganic substance of natural occurrence.
+        - pronunciation: /ˈmɪn.ər.əl/
+        - part of speech: noun
+        - examples:
+          - The area is rich in minerals.
+          - Minerals are important for health.
+        - synonyms: ore
+        - antonyms: -
+        - related words: mining, mineralogy
+      - resource
+        - definition: a stock or supply of materials that can be drawn on.
+        - pronunciation: /rɪˈzɔːs/
+        - part of speech: noun
+        - examples:
+          - Natural resources should be conserved.
+          - Water is a valuable resource.
+        - synonyms: supply
+        - antonyms: -
+        - related words: resourceful, resourcefulness
+    - Pollution & Conservation
+      - pollution
+        - definition: the presence in or introduction into the environment of a substance which has harmful effects.
+        - pronunciation: /pəˈluː.ʃən/
+        - part of speech: noun
+        - examples:
+          - Air pollution is a serious problem.
+          - The river suffers from pollution.
+        - synonyms: contamination
+        - antonyms: purity
+        - related words: pollute, pollutant
+      - recycle
+        - definition: to convert waste into reusable material.
+        - pronunciation: /ˌriːˈsaɪ.kəl/
+        - part of speech: verb
+        - examples:
+          - We recycle paper and plastic.
+          - Recycling helps the environment.
+        - synonyms: reuse
+        - antonyms: waste
+        - related words: recycling, recyclable
+      - environment
+        - definition: the surroundings or conditions in which a person, animal, or plant lives.
+        - pronunciation: /ɪnˈvaɪ.rən.mənt/
+        - part of speech: noun
+        - examples:
+          - Protecting the environment is essential.
+          - They work to improve the local environment.
+        - synonyms: habitat, surroundings
+        - antonyms: -
+        - related words: environmental, environmentally
+      - conservation
+        - definition: prevention of wasteful use of a resource.
+        - pronunciation: /ˌkɒn.səˈveɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Conservation of energy is important.
+          - They support wildlife conservation.
+        - synonyms: preservation
+        - antonyms: destruction
+        - related words: conserve, conservative
+      - waste
+        - definition: material that is not wanted; the unusable remains.
+        - pronunciation: /weɪst/
+        - part of speech: noun, verb
+        - examples:
+          - We should reduce household waste.
+          - Don't waste water by leaving the tap running.
+        - synonyms: rubbish, garbage
+        - antonyms: conserve
+        - related words: wastage, wasteland
+      - sustainable
+        - definition: able to be maintained at a certain rate or level.
+        - pronunciation: /səˈsteɪ.nə.bəl/
+        - part of speech: adjective
+        - examples:
+          - They focus on sustainable development.
+          - Sustainable energy sources are important.
+        - synonyms: renewable
+        - antonyms: unsustainable
+        - related words: sustainability, sustain
+    - Landscapes & Landforms
+      - mountain
+        - definition: a large natural elevation of the earth's surface.
+        - pronunciation: /ˈmaʊn.tɪn/
+        - part of speech: noun
+        - examples:
+          - They climbed the mountain.
+          - The mountain is covered with snow.
+        - synonyms: peak, summit
+        - antonyms: valley
+        - related words: mountainous, mountaineer
+      - river
+        - definition: a large natural stream of water flowing in a channel to the sea, a lake, or another river.
+        - pronunciation: /ˈrɪv.ər/
+        - part of speech: noun
+        - examples:
+          - The river flows through the city.
+          - They went fishing by the river.
+        - synonyms: stream
+        - antonyms: -
+        - related words: riverbank, riverside
+      - lake
+        - definition: a large body of water surrounded by land.
+        - pronunciation: /leɪk/
+        - part of speech: noun
+        - examples:
+          - They swam in the lake.
+          - The lake is very deep.
+        - synonyms: pond
+        - antonyms: -
+        - related words: lakefront, lakeside
+      - ocean
+        - definition: a very large expanse of sea.
+        - pronunciation: /ˈəʊ.ʃən/
+        - part of speech: noun
+        - examples:
+          - The ship sailed across the ocean.
+          - The ocean is home to many species.
+        - synonyms: sea
+        - antonyms: land
+        - related words: oceanic, oceanography
+      - desert
+        - definition: a dry, barren area of land with little rainfall.
+        - pronunciation: /ˈdɛz.ət/
+        - part of speech: noun
+        - examples:
+          - The desert is hot during the day.
+          - Camels live in the desert.
+        - synonyms: wasteland
+        - antonyms: forest
+        - related words: desertification, deserted
+      - valley
+        - definition: a low area of land between hills or mountains.
+        - pronunciation: /ˈvæl.i/
+        - part of speech: noun
+        - examples:
+          - The village is in a beautiful valley.
+          - They hiked through the valley.
+        - synonyms: dale
+        - antonyms: mountain
+        - related words: valley floor, valley bottom
+    - Natural Disasters
+      - earthquake
+        - definition: a sudden violent shaking of the ground.
+        - pronunciation: /ˈɜːθ.kweɪk/
+        - part of speech: noun
+        - examples:
+          - The earthquake caused damage to buildings.
+          - They felt the earthquake last night.
+        - synonyms: tremor
+        - antonyms: -
+        - related words: seismic, seismology
+      - flood
+        - definition: an overflow of a large amount of water beyond its normal limits.
+        - pronunciation: /flʌd/
+        - part of speech: noun, verb
+        - examples:
+          - The heavy rain caused a flood.
+          - The river may flood the nearby areas.
+        - synonyms: inundation
+        - antonyms: drought
+        - related words: flooding, floodplain
+      - hurricane
+        - definition: a storm with violent wind, in particular a tropical cyclone.
+        - pronunciation: /ˈhʌr.ɪ.kən/
+        - part of speech: noun
+        - examples:
+          - The hurricane hit the coast.
+          - They prepared for the approaching hurricane.
+        - synonyms: cyclone, typhoon
+        - antonyms: calm
+        - related words: hurricane season
+      - volcano
+        - definition: a mountain or hill with a crater or vent through which lava erupts.
+        - pronunciation: /vɒlˈkeɪ.nəʊ/
+        - part of speech: noun
+        - examples:
+          - The volcano erupted last year.
+          - They visited an inactive volcano.
+        - synonyms: -
+        - antonyms: -
+        - related words: volcanic, volcanology
+      - drought
+        - definition: a prolonged period of abnormally low rainfall.
+        - pronunciation: /draʊt/
+        - part of speech: noun
+        - examples:
+          - The crops failed due to drought.
+          - Water is scarce during a drought.
+        - synonyms: dryness
+        - antonyms: flood
+        - related words: drought-resistant
+    - Ecosystems & Habitats
+      - ecosystem
+        - definition: a biological community of interacting organisms and their physical environment.
+        - pronunciation: /ˈiː.kəʊˌsɪs.təm/
+        - part of speech: noun
+        - examples:
+          - The forest ecosystem is very diverse.
+          - Pollution can harm ecosystems.
+        - synonyms: environment
+        - antonyms: -
+        - related words: ecological, ecology
+      - biodiversity
+        - definition: the variety of life in the world or in a particular habitat.
+        - pronunciation: /ˌbaɪ.əʊ.daɪˈvɜː.sɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Rainforests have high biodiversity.
+          - Conservation efforts help maintain biodiversity.
+        - synonyms: biological diversity
+        - antonyms: monoculture
+        - related words: diverse, diversify
+      - rainforest
+        - definition: a luxuriant, dense forest rich in biodiversity, found typically in tropical areas.
+        - pronunciation: /ˈreɪn.fɒr.ɪst/
+        - part of speech: noun
+        - examples:
+          - The Amazon is the largest rainforest.
+          - Rainforests are being cut down.
+        - synonyms: jungle
+        - antonyms: desert
+        - related words: rain, forest
+      - coral reef
+        - definition: a ridge of rock in the sea formed by the growth and deposit of coral.
+        - pronunciation: /ˈkɒr.əl riːf/
+        - part of speech: noun
+        - examples:
+          - The coral reef is home to many fish.
+          - They went diving near the coral reef.
+        - synonyms: reef
+        - antonyms: -
+        - related words: coral, reef

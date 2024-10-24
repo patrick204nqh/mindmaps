@@ -1,0 +1,451 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- B1
+  - Health & Medicine
+    - Body Parts
+      - head
+        - definition: the upper part of the human body, containing the brain, eyes, ears, nose, and mouth.
+        - pronunciation: /hɛd/
+        - part of speech: noun
+        - examples:
+          - She shook her head in disbelief.
+          - He has a headache.
+        - synonyms: skull, cranium
+        - antonyms: foot
+        - related words: forehead, brain
+      - arm
+        - definition: each of the two upper limbs of the human body from the shoulder to the hand.
+        - pronunciation: /ɑːm/
+        - part of speech: noun
+        - examples:
+          - She broke her arm while skating.
+          - He lifted the box with his strong arms.
+        - synonyms: limb
+        - antonyms: leg
+        - related words: elbow, wrist, hand
+      - leg
+        - definition: each of the limbs on which a person or animal walks and stands.
+        - pronunciation: /lɛɡ/
+        - part of speech: noun
+        - examples:
+          - He injured his leg during the match.
+          - Her legs were tired after the long walk.
+        - synonyms: limb
+        - antonyms: arm
+        - related words: knee, foot, ankle
+      - heart
+        - definition: the organ in your chest that pumps blood through your veins and arteries.
+        - pronunciation: /hɑːt/
+        - part of speech: noun
+        - examples:
+          - Exercise is good for the heart.
+          - She felt her heart beating fast.
+        - synonyms: ticker (informal)
+        - antonyms: -
+        - related words: cardiac, heartbeat
+      - stomach
+        - definition: the organ inside the body where food goes when you swallow it.
+        - pronunciation: /ˈstʌm.ək/
+        - part of speech: noun
+        - examples:
+          - He has a pain in his stomach.
+          - An empty stomach can cause discomfort.
+        - synonyms: belly, abdomen
+        - antonyms: back
+        - related words: digestive, gastric
+    - Health & Illness Vocabulary
+      - fever
+        - definition: a body temperature that is higher than normal.
+        - pronunciation: /ˈfiː.vər/
+        - part of speech: noun
+        - examples:
+          - She has a high fever.
+          - The medicine helped reduce his fever.
+        - synonyms: high temperature
+        - antonyms: normal temperature
+        - related words: feverish, febrile
+      - cough
+        - definition: to expel air from the lungs with a sudden sharp sound.
+        - pronunciation: /kɒf/
+        - part of speech: noun, verb
+        - examples:
+          - His cough kept him awake at night.
+          - She coughed loudly during the meeting.
+        - synonyms: hack
+        - antonyms: -
+        - related words: coughing, cough syrup
+      - pain
+        - definition: physical suffering or discomfort caused by illness or injury.
+        - pronunciation: /peɪn/
+        - part of speech: noun
+        - examples:
+          - He felt a sharp pain in his back.
+          - The medication relieved her pain.
+        - synonyms: ache, discomfort
+        - antonyms: comfort
+        - related words: painful, painless
+      - illness
+        - definition: a disease or period of sickness affecting the body or mind.
+        - pronunciation: /ˈɪl.nəs/
+        - part of speech: noun
+        - examples:
+          - She missed work due to illness.
+          - Preventing illness is better than curing it.
+        - synonyms: sickness, disease
+        - antonyms: health
+        - related words: ill, healthy
+      - injury
+        - definition: harm or damage to a person's body.
+        - pronunciation: /ˈɪn.dʒər.i/
+        - part of speech: noun
+        - examples:
+          - He suffered an injury during the game.
+          - The injury required medical attention.
+        - synonyms: wound, harm
+        - antonyms: healing
+        - related words: injure, injured
+    - Medical Professionals
+      - doctor
+        - definition: a person licensed to practice medicine.
+        - pronunciation: /ˈdɒk.tər/
+        - part of speech: noun
+        - examples:
+          - She went to see the doctor for a check-up.
+          - The doctor prescribed antibiotics.
+        - synonyms: physician, medic
+        - antonyms: patient
+        - related words: medical, doctorate
+      - nurse
+        - definition: a person trained to care for the sick or infirm.
+        - pronunciation: /nɜːs/
+        - part of speech: noun
+        - examples:
+          - The nurse took his temperature.
+          - She is studying to become a nurse.
+        - synonyms: caregiver
+        - antonyms: -
+        - related words: nursing, nursery
+      - pharmacist
+        - definition: a person qualified to prepare and dispense medicinal drugs.
+        - pronunciation: /ˈfɑː.mə.sɪst/
+        - part of speech: noun
+        - examples:
+          - The pharmacist filled the prescription.
+          - Consult the pharmacist for advice on medication.
+        - synonyms: chemist
+        - antonyms: -
+        - related words: pharmacy, pharmaceutical
+      - dentist
+        - definition: a person qualified to treat the diseases and conditions that affect the teeth and gums.
+        - pronunciation: /ˈdɛn.tɪst/
+        - part of speech: noun
+        - examples:
+          - She visited the dentist for a check-up.
+          - The dentist recommended brushing twice a day.
+        - synonyms: dental surgeon
+        - antonyms: -
+        - related words: dental, dentistry
+    - Medical Treatments
+      - medicine
+        - definition: a substance used for treating illness or injury.
+        - pronunciation: /ˈmɛd.ɪ.sɪn/
+        - part of speech: noun
+        - examples:
+          - He took medicine for his cold.
+          - Always read the label before taking medicine.
+        - synonyms: medication, drug
+        - antonyms: poison
+        - related words: medical, medicate
+      - injection
+        - definition: an act of putting a liquid into the body using a syringe.
+        - pronunciation: /ɪnˈdʒɛk.ʃən/
+        - part of speech: noun
+        - examples:
+          - She received an injection to relieve the pain.
+          - The vaccine is given by injection.
+        - synonyms: shot
+        - antonyms: extraction
+        - related words: inject, syringe
+      - surgery
+        - definition: medical treatment in which a doctor cuts into someone's body to repair or remove something.
+        - pronunciation: /ˈsɜː.dʒər.i/
+        - part of speech: noun
+        - examples:
+          - He needs surgery on his knee.
+          - The surgery was successful.
+        - synonyms: operation
+        - antonyms: -
+        - related words: surgeon, surgical
+      - therapy
+        - definition: treatment intended to relieve or heal a disorder.
+        - pronunciation: /ˈθɛr.ə.pi/
+        - part of speech: noun
+        - examples:
+          - She is undergoing therapy for her injury.
+          - Physical therapy helped him recover.
+        - synonyms: treatment
+        - antonyms: -
+        - related words: therapeutic, therapist
+    - Health Habits
+      - exercise
+        - definition: physical activity done to improve health and fitness.
+        - pronunciation: /ˈɛk.sə.saɪz/
+        - part of speech: noun, verb
+        - examples:
+          - Regular exercise keeps you healthy.
+          - He exercises at the gym every day.
+        - synonyms: workout, training
+        - antonyms: rest
+        - related words: exertion, fitness
+      - diet
+        - definition: the kinds of food that a person eats regularly.
+        - pronunciation: /ˈdaɪ.ət/
+        - part of speech: noun
+        - examples:
+          - A balanced diet is important for good health.
+          - She is on a special diet to lose weight.
+        - synonyms: nutrition, eating plan
+        - antonyms: overeating
+        - related words: dietary, dieting
+      - rest
+        - definition: to cease work or movement to relax or recover strength.
+        - pronunciation: /rɛst/
+        - part of speech: noun, verb
+        - examples:
+          - You need to get some rest.
+          - He rested after the long journey.
+        - synonyms: relaxation, sleep
+        - antonyms: activity
+        - related words: restful, restless
+      - hygiene
+        - definition: conditions or practices conducive to maintaining health and preventing disease.
+        - pronunciation: /ˈhaɪ.dʒiːn/
+        - part of speech: noun
+        - examples:
+          - Good hygiene includes regular hand washing.
+          - Dental hygiene is important for healthy teeth.
+        - synonyms: cleanliness, sanitation
+        - antonyms: dirtiness
+        - related words: hygienic, hygienist
+    - Diseases and Conditions
+      - flu
+        - definition: a common infectious illness that causes fever and weakness.
+        - pronunciation: /fluː/
+        - part of speech: noun
+        - examples:
+          - She is absent from work due to the flu.
+          - Flu symptoms include fever and sore throat.
+        - synonyms: influenza
+        - antonyms: health
+        - related words: virus, illness
+      - allergy
+        - definition: a medical condition that causes someone to become sick after eating, touching, or breathing something.
+        - pronunciation: /ˈæl.ə.dʒi/
+        - part of speech: noun
+        - examples:
+          - He has an allergy to pollen.
+          - Allergies can cause sneezing and itching.
+        - synonyms: hypersensitivity
+        - antonyms: tolerance
+        - related words: allergic, allergen
+      - asthma
+        - definition: a respiratory condition marked by spasms in the bronchi of the lungs.
+        - pronunciation: /ˈæz.mə/
+        - part of speech: noun
+        - examples:
+          - She uses an inhaler to control her asthma.
+          - Asthma can cause difficulty in breathing.
+        - synonyms: respiratory condition
+        - antonyms: -
+        - related words: asthmatic
+      - infection
+        - definition: the process of infecting or the state of being infected.
+        - pronunciation: /ɪnˈfɛk.ʃən/
+        - part of speech: noun
+        - examples:
+          - The wound showed signs of infection.
+          - Antibiotics can treat bacterial infections.
+        - synonyms: contamination
+        - antonyms: immunity
+        - related words: infect, infectious
+      - stress
+        - definition: a state of mental or emotional strain resulting from adverse circumstances.
+        - pronunciation: /strɛs/
+        - part of speech: noun, verb
+        - examples:
+          - He is under a lot of stress at work.
+          - Yoga helps reduce stress.
+        - synonyms: pressure, tension
+        - antonyms: relaxation
+        - related words: stressful, destress
+    - Medical Equipment
+      - thermometer
+        - definition: an instrument for measuring and indicating temperature.
+        - pronunciation: /θəˈmɒm.ɪ.tər/
+        - part of speech: noun
+        - examples:
+          - The nurse used a thermometer to check his temperature.
+          - The thermometer shows that she has a fever.
+        - synonyms: temperature gauge
+        - antonyms: -
+        - related words: thermal, temperature
+      - stethoscope
+        - definition: a medical instrument for listening to the action of someone's heart or breathing.
+        - pronunciation: /ˈstɛθ.ə.skəʊp/
+        - part of speech: noun
+        - examples:
+          - The doctor used a stethoscope to listen to his heartbeat.
+          - A stethoscope is essential for a doctor.
+        - synonyms: -
+        - antonyms: -
+        - related words: auscultation
+      - bandage
+        - definition: a strip of material used to bind a wound or to protect an injured part of the body.
+        - pronunciation: /ˈbæn.dɪdʒ/
+        - part of speech: noun, verb
+        - examples:
+          - She wrapped a bandage around his arm.
+          - The nurse bandaged his wound.
+        - synonyms: dressing
+        - antonyms: -
+        - related words: band-aid, bind
+      - syringe
+        - definition: a tube with a nozzle and piston for sucking in and ejecting liquid in a thin stream.
+        - pronunciation: /sɪˈrɪndʒ/
+        - part of speech: noun
+        - examples:
+          - The syringe was used to administer the injection.
+          - Dispose of used syringes properly.
+        - synonyms: injector
+        - antonyms: -
+        - related words: inject, injection
+    - Health Services
+      - hospital
+        - definition: an institution providing medical and surgical treatment.
+        - pronunciation: /ˈhɒs.pɪ.təl/
+        - part of speech: noun
+        - examples:
+          - She works as a nurse at the hospital.
+          - He was taken to the hospital after the accident.
+        - synonyms: medical center
+        - antonyms: -
+        - related words: hospitable, hospitality
+      - clinic
+        - definition: a place or hospital department where outpatients are given medical treatment.
+        - pronunciation: /ˈklɪn.ɪk/
+        - part of speech: noun
+        - examples:
+          - She has an appointment at the clinic.
+          - The clinic offers free health check-ups.
+        - synonyms: healthcare center
+        - antonyms: -
+        - related words: clinical, clinician
+      - pharmacy
+        - definition: a store where medicinal drugs are dispensed and sold.
+        - pronunciation: /ˈfɑː.mə.si/
+        - part of speech: noun
+        - examples:
+          - He went to the pharmacy to buy medicine.
+          - The pharmacy is open 24 hours.
+        - synonyms: drugstore, chemist
+        - antonyms: -
+        - related words: pharmacist, pharmaceutical
+      - emergency
+        - definition: a serious, unexpected situation requiring immediate action.
+        - pronunciation: /ɪˈmɜː.dʒən.si/
+        - part of speech: noun, adjective
+        - examples:
+          - Call this number in case of an emergency.
+          - The hospital has an emergency department.
+        - synonyms: crisis
+        - antonyms: routine
+        - related words: emerge, emergent
+    - Medical Procedures
+      - check-up
+        - definition: a thorough examination, especially a medical or dental one.
+        - pronunciation: /ˈtʃɛk.ʌp/
+        - part of speech: noun
+        - examples:
+          - She goes for a dental check-up twice a year.
+          - The doctor recommended a full check-up.
+        - synonyms: examination
+        - antonyms: -
+        - related words: check, examine
+      - prescription
+        - definition: an instruction written by a medical practitioner authorizing a patient to be issued a medicine.
+        - pronunciation: /prɪˈskrɪp.ʃən/
+        - part of speech: noun
+        - examples:
+          - The doctor gave him a prescription for antibiotics.
+          - You need a prescription to buy this medicine.
+        - synonyms: medication order
+        - antonyms: over-the-counter
+        - related words: prescribe, prescriptive
+      - vaccination
+        - definition: treatment with a vaccine to produce immunity against a disease.
+        - pronunciation: /ˌvæk.sɪˈneɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Children receive vaccinations to prevent diseases.
+          - The flu vaccination is available every year.
+        - synonyms: immunization
+        - antonyms: infection
+        - related words: vaccine, vaccinate
+      - diagnosis
+        - definition: the identification of the nature of an illness by examination of the symptoms.
+        - pronunciation: /ˌdaɪ.əɡˈnəʊ.sɪs/
+        - part of speech: noun
+        - examples:
+          - Early diagnosis can improve treatment outcomes.
+          - She received a diagnosis of diabetes.
+        - synonyms: identification
+        - antonyms: misdiagnosis
+        - related words: diagnose, diagnostic
+    - Symptoms
+      - headache
+        - definition: a continuous pain in the head.
+        - pronunciation: /ˈhɛd.eɪk/
+        - part of speech: noun
+        - examples:
+          - She took medicine for her headache.
+          - Stress can cause headaches.
+        - synonyms: migraine
+        - antonyms: -
+        - related words: head, ache
+      - sore throat
+        - definition: a condition in which your throat is red and feels painful.
+        - pronunciation: /sɔː θrəʊt/
+        - part of speech: noun
+        - examples:
+          - Drinking warm tea can soothe a sore throat.
+          - He has a sore throat and can't speak well.
+        - synonyms: throat pain
+        - antonyms: -
+        - related words: throat, soreness
+      - dizziness
+        - definition: a feeling of spinning and losing one's balance.
+        - pronunciation: /ˈdɪz.i.nəs/
+        - part of speech: noun
+        - examples:
+          - Standing up too quickly can cause dizziness.
+          - She felt dizziness after the ride.
+        - synonyms: lightheadedness
+        - antonyms: steadiness
+        - related words: dizzy, dizzily
+      - nausea
+        - definition: a feeling of sickness with an inclination to vomit.
+        - pronunciation: /ˈnɔː.zi.ə/
+        - part of speech: noun
+        - examples:
+          - The medication may cause nausea.
+          - She experienced nausea during the trip.
+        - synonyms: queasiness
+        - antonyms: comfort
+        - related words: nauseous, nauseate

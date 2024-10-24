@@ -1,0 +1,511 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- B1
+  - Science & Technology
+    - Scientific Disciplines
+      - biology
+        - definition: the study of living organisms.
+        - pronunciation: /baɪˈɒl.ə.dʒi/
+        - part of speech: noun
+        - examples:
+          - She is studying biology at university.
+          - Biology helps us understand life.
+        - synonyms: life science
+        - antonyms: -
+        - related words: biologist, biological
+      - chemistry
+        - definition: the branch of science concerned with substances and how they interact.
+        - pronunciation: /ˈkem.ɪ.stri/
+        - part of speech: noun
+        - examples:
+          - He finds chemistry very interesting.
+          - Chemistry experiments can be fun.
+        - synonyms: -
+        - antonyms: -
+        - related words: chemical, chemist
+      - physics
+        - definition: the science of matter, energy, and their interactions.
+        - pronunciation: /ˈfɪz.ɪks/
+        - part of speech: noun
+        - examples:
+          - Physics explains how the universe works.
+          - She has a degree in physics.
+        - synonyms: -
+        - antonyms: -
+        - related words: physical, physicist
+      - astronomy
+        - definition: the study of celestial objects and space.
+        - pronunciation: /əˈstrɒn.ə.mi/
+        - part of speech: noun
+        - examples:
+          - He is interested in astronomy.
+          - Astronomy helps us understand the stars.
+        - synonyms: stargazing
+        - antonyms: -
+        - related words: astronomer, astronomical
+      - geology
+        - definition: the science dealing with the Earth's physical structure.
+        - pronunciation: /dʒiˈɒl.ə.dʒi/
+        - part of speech: noun
+        - examples:
+          - Geology studies rocks and minerals.
+          - She took a course in geology.
+        - synonyms: earth science
+        - antonyms: -
+        - related words: geologist, geological
+    - Technological Devices
+      - computer
+        - definition: an electronic device for storing and processing data.
+        - pronunciation: /kəmˈpjuː.tər/
+        - part of speech: noun
+        - examples:
+          - He uses a computer for his work.
+          - Computers have become essential in modern life.
+        - synonyms: PC
+        - antonyms: -
+        - related words: computing, computation
+      - smartphone
+        - definition: a mobile phone with advanced features.
+        - pronunciation: /ˈsmɑːt.fəʊn/
+        - part of speech: noun
+        - examples:
+          - She checked her emails on her smartphone.
+          - Smartphones have changed how we communicate.
+        - synonyms: mobile phone
+        - antonyms: -
+        - related words: app, touchscreen
+      - tablet
+        - definition: a small portable computer with a touchscreen.
+        - pronunciation: /ˈtæb.lət/
+        - part of speech: noun
+        - examples:
+          - He reads books on his tablet.
+          - Tablets are convenient for travel.
+        - synonyms: -
+        - antonyms: desktop computer
+        - related words: touchscreen, device
+      - laptop
+        - definition: a portable computer suitable for use while traveling.
+        - pronunciation: /ˈlæp.tɒp/
+        - part of speech: noun
+        - examples:
+          - She carries her laptop to work.
+          - Laptops are lighter than desktop computers.
+        - synonyms: notebook computer
+        - antonyms: desktop
+        - related words: portable, notebook
+      - robot
+        - definition: a machine capable of carrying out complex actions automatically.
+        - pronunciation: /ˈrəʊ.bɒt/
+        - part of speech: noun
+        - examples:
+          - Robots can perform repetitive tasks.
+          - They are developing a robot to assist in surgery.
+        - synonyms: automaton, android
+        - antonyms: human
+        - related words: robotic, robotics
+    - Computer & Internet Terms
+      - software
+        - definition: programs and operating information used by a computer.
+        - pronunciation: /ˈsɒft.weər/
+        - part of speech: noun
+        - examples:
+          - She installed new software on her laptop.
+          - Software updates are important for security.
+        - synonyms: programs, applications
+        - antonyms: hardware
+        - related words: freeware, shareware
+      - hardware
+        - definition: the physical parts of a computer system.
+        - pronunciation: /ˈhɑːd.weər/
+        - part of speech: noun
+        - examples:
+          - The hardware needs to be repaired.
+          - He works in hardware development.
+        - synonyms: equipment
+        - antonyms: software
+        - related words: hard, ware
+      - internet
+        - definition: a global network providing information and communication.
+        - pronunciation: /ˈɪn.tə.net/
+        - part of speech: noun
+        - examples:
+          - The internet is a valuable resource.
+          - She spends a lot of time on the internet.
+        - synonyms: web, cyberspace
+        - antonyms: -
+        - related words: online, internetting
+      - website
+        - definition: a set of related web pages under a single domain.
+        - pronunciation: /ˈwɛb.saɪt/
+        - part of speech: noun
+        - examples:
+          - The company launched a new website.
+          - Visit our website for more information.
+        - synonyms: webpage
+        - antonyms: -
+        - related words: web, site
+      - email
+        - definition: messages distributed electronically from one user to another.
+        - pronunciation: /ˈiː.meɪl/
+        - part of speech: noun, verb
+        - examples:
+          - She sent an email to her colleague.
+          - Email is a common form of communication.
+        - synonyms: electronic mail
+        - antonyms: letter
+        - related words: inbox, attachment
+      - download
+        - definition: to copy data from one system to another.
+        - pronunciation: /ˈdaʊn.ləʊd/
+        - part of speech: verb, noun
+        - examples:
+          - He downloaded the latest software.
+          - The download took several minutes.
+        - synonyms: transfer, copy
+        - antonyms: upload
+        - related words: downloading, downloader
+      - upload
+        - definition: to transfer data from a smaller system to a larger one.
+        - pronunciation: /ʌpˈləʊd/
+        - part of speech: verb, noun
+        - examples:
+          - She uploaded the files to the server.
+          - The upload was successful.
+        - synonyms: transfer, send
+        - antonyms: download
+        - related words: uploading, uploader
+    - Scientific Processes
+      - experiment
+        - definition: a procedure to test a hypothesis.
+        - pronunciation: /ɪkˈsper.ɪ.mənt/
+        - part of speech: noun, verb
+        - examples:
+          - They conducted an experiment to test the theory.
+          - The experiment showed interesting results.
+        - synonyms: test, trial
+        - antonyms: -
+        - related words: experimental, experimentation
+      - research
+        - definition: systematic investigation into materials and sources.
+        - pronunciation: /rɪˈsɜːtʃ/
+        - part of speech: noun, verb
+        - examples:
+          - She is doing research on renewable energy.
+          - They researched the effects of the new drug.
+        - synonyms: investigation, study
+        - antonyms: -
+        - related words: researcher, researching
+      - analyze
+        - definition: to examine in detail.
+        - pronunciation: /ˈæn.ə.laɪz/
+        - part of speech: verb
+        - examples:
+          - He analyzed the data carefully.
+          - They will analyze the samples in the lab.
+        - synonyms: examine, study
+        - antonyms: ignore
+        - related words: analysis, analytical
+      - hypothesis
+        - definition: a proposed explanation based on limited evidence.
+        - pronunciation: /haɪˈpɒθ.ə.sɪs/
+        - part of speech: noun
+        - examples:
+          - The hypothesis was tested through experiments.
+          - She formulated a hypothesis about the results.
+        - synonyms: theory, supposition
+        - antonyms: fact
+        - related words: hypotheses, hypothetical
+      - data
+        - definition: facts and statistics collected for reference.
+        - pronunciation: /ˈdeɪ.tə/
+        - part of speech: noun
+        - examples:
+          - They collected data from various sources.
+          - The data shows a significant increase.
+        - synonyms: information, statistics
+        - antonyms: -
+        - related words: database, datum
+    - Innovations & Discoveries
+      - invention
+        - definition: the action of inventing something new.
+        - pronunciation: /ɪnˈvɛn.ʃən/
+        - part of speech: noun
+        - examples:
+          - The telephone was a significant invention.
+          - Her invention could change the world.
+        - synonyms: creation, innovation
+        - antonyms: -
+        - related words: invent, inventor
+      - innovation
+        - definition: introducing something new.
+        - pronunciation: /ˌɪn.əˈveɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Innovation drives progress in technology.
+          - They encourage innovation in the company.
+        - synonyms: invention, modernization
+        - antonyms: stagnation
+        - related words: innovate, innovative
+      - discovery
+        - definition: the action of discovering something.
+        - pronunciation: /dɪˈskʌv.ər.i/
+        - part of speech: noun
+        - examples:
+          - The discovery of penicillin saved many lives.
+          - They made a significant discovery in physics.
+        - synonyms: finding, revelation
+        - antonyms: loss
+        - related words: discover, discoverer
+      - patent
+        - definition: a license conferring a right or title.
+        - pronunciation: /ˈpæt.ənt/ or /ˈpeɪ.tənt/
+        - part of speech: noun
+        - examples:
+          - She applied for a patent for her invention.
+          - The patent protects their intellectual property.
+        - synonyms: license, copyright
+        - antonyms: -
+        - related words: patented, patentable
+    - Space & Astronomy
+      - planet
+        - definition: a celestial body orbiting a star.
+        - pronunciation: /ˈplæn.ɪt/
+        - part of speech: noun
+        - examples:
+          - Earth is the third planet from the sun.
+          - They are studying the planets in our solar system.
+        - synonyms: celestial body
+        - antonyms: -
+        - related words: planetary, planetoid
+      - astronaut
+        - definition: a person trained to travel in space.
+        - pronunciation: /ˈæs.trə.nɔːt/
+        - part of speech: noun
+        - examples:
+          - The astronaut went on a spacewalk.
+          - She dreams of becoming an astronaut.
+        - synonyms: space traveler
+        - antonyms: -
+        - related words: astronomy, astronomical
+      - telescope
+        - definition: an instrument for viewing distant objects.
+        - pronunciation: /ˈtel.ɪ.skəʊp/
+        - part of speech: noun
+        - examples:
+          - He looked at the stars through the telescope.
+          - Telescopes can reveal distant galaxies.
+        - synonyms: -
+        - antonyms: -
+        - related words: telescopic
+      - satellite
+        - definition: an artificial body placed in orbit.
+        - pronunciation: /ˈsæt.əl.aɪt/
+        - part of speech: noun
+        - examples:
+          - The satellite sends signals to Earth.
+          - They launched a new communication satellite.
+        - synonyms: space probe
+        - antonyms: -
+        - related words: orbit, satellite dish
+      - galaxy
+        - definition: a system of millions of stars.
+        - pronunciation: /ˈɡæl.ək.si/
+        - part of speech: noun
+        - examples:
+          - The Milky Way is our galaxy.
+          - Galaxies contain many stars and planets.
+        - synonyms: -
+        - antonyms: -
+        - related words: galactic
+    - Energy & Power
+      - electricity
+        - definition: energy from charged particles.
+        - pronunciation: /ɪˌlɛkˈtrɪs.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - The storm caused an electricity outage.
+          - They use electricity to power their home.
+        - synonyms: power, energy
+        - antonyms: -
+        - related words: electric, electrician
+      - battery
+        - definition: a device that stores energy.
+        - pronunciation: /ˈbæt.ər.i/
+        - part of speech: noun
+        - examples:
+          - My phone's battery is low.
+          - He replaced the batteries in the remote control.
+        - synonyms: cell
+        - antonyms: -
+        - related words: rechargeable, charge
+      - renewable
+        - definition: capable of being replenished.
+        - pronunciation: /rɪˈnjuː.ə.bəl/
+        - part of speech: adjective
+        - examples:
+          - They invest in renewable energy sources.
+          - Solar power is renewable energy.
+        - synonyms: sustainable
+        - antonyms: non-renewable
+        - related words: renew, renewal
+      - fuel
+        - definition: material burned for energy.
+        - pronunciation: /fjuːəl/
+        - part of speech: noun
+        - examples:
+          - The car runs on diesel fuel.
+          - Fuel prices have increased.
+        - synonyms: energy source
+        - antonyms: -
+        - related words: refuel, fuel-efficient
+      - solar
+        - definition: relating to the sun.
+        - pronunciation: /ˈsəʊ.lər/
+        - part of speech: adjective
+        - examples:
+          - They installed solar panels on the roof.
+          - Solar energy is clean and renewable.
+        - synonyms: sun-powered
+        - antonyms: lunar
+        - related words: solar system, solarize
+    - Biology & Medicine
+      - genetics
+        - definition: the study of heredity.
+        - pronunciation: /dʒəˈnɛt.ɪks/
+        - part of speech: noun
+        - examples:
+          - Genetics plays a role in many diseases.
+          - She is interested in genetics.
+        - synonyms: heredity
+        - antonyms: -
+        - related words: gene, genetic
+      - microscope
+        - definition: an instrument for viewing small objects.
+        - pronunciation: /ˈmaɪ.krə.skəʊp/
+        - part of speech: noun
+        - examples:
+          - They observed the cells under a microscope.
+          - A microscope magnifies tiny objects.
+        - synonyms: -
+        - antonyms: -
+        - related words: microscopic, microscopy
+      - vaccine
+        - definition: a substance providing immunity.
+        - pronunciation: /ˈvæk.siːn/
+        - part of speech: noun
+        - examples:
+          - The vaccine helps prevent disease.
+          - Children receive vaccines for protection.
+        - synonyms: immunization
+        - antonyms: -
+        - related words: vaccination, vaccinate
+      - laboratory
+        - definition: a place for scientific experiments.
+        - pronunciation: /ləˈbɒr.ə.tər.i/
+        - part of speech: noun
+        - examples:
+          - She works in a chemistry laboratory.
+          - The laboratory is testing samples.
+        - synonyms: lab
+        - antonyms: -
+        - related words: lab, laboratorian
+      - cell
+        - definition: the basic unit of life.
+        - pronunciation: /sɛl/
+        - part of speech: noun
+        - examples:
+          - The human body is made up of cells.
+          - They are studying cell biology.
+        - synonyms: -
+        - antonyms: -
+        - related words: cellular, multicellular
+    - Engineering & Mechanics
+      - engineer
+        - definition: a person who designs or builds machines.
+        - pronunciation: /ˌɛn.dʒɪˈnɪər/
+        - part of speech: noun
+        - examples:
+          - He is a civil engineer.
+          - Engineers solve practical problems.
+        - synonyms: technician
+        - antonyms: -
+        - related words: engineering, engineered
+      - machine
+        - definition: an apparatus using mechanical power.
+        - pronunciation: /məˈʃiːn/
+        - part of speech: noun
+        - examples:
+          - The factory uses modern machines.
+          - The washing machine is broken.
+        - synonyms: apparatus, device
+        - antonyms: -
+        - related words: machinery, machinist
+      - engine
+        - definition: a machine converting power into motion.
+        - pronunciation: /ˈɛn.dʒɪn/
+        - part of speech: noun
+        - examples:
+          - The car's engine needs repair.
+          - Steam engines were important in the past.
+        - synonyms: motor
+        - antonyms: -
+        - related words: engineer, engineering
+      - tool
+        - definition: a device used to carry out a function.
+        - pronunciation: /tuːl/
+        - part of speech: noun
+        - examples:
+          - He used a hammer as a tool.
+          - Software tools can improve productivity.
+        - synonyms: instrument, implement
+        - antonyms: -
+        - related words: toolkit, tooling
+    - Telecommunications
+      - network
+        - definition: interconnected system of things.
+        - pronunciation: /ˈnɛt.wɜːk/
+        - part of speech: noun
+        - examples:
+          - The computers are connected in a network.
+          - They expanded their social network.
+        - synonyms: web, system
+        - antonyms: -
+        - related words: networking, net
+      - signal
+        - definition: an indication or sign.
+        - pronunciation: /ˈsɪɡ.nəl/
+        - part of speech: noun, verb
+        - examples:
+          - The phone lost its signal.
+          - He gave a signal to start.
+        - synonyms: indication, sign
+        - antonyms: noise
+        - related words: sign, signaling
+      - wireless
+        - definition: transmitting without wires.
+        - pronunciation: /ˈwaɪə.ləs/
+        - part of speech: adjective
+        - examples:
+          - She uses a wireless mouse.
+          - Wireless networks are convenient.
+        - synonyms: cordless
+        - antonyms: wired
+        - related words: wire, wirelessness
+      - communication
+        - definition: exchanging information.
+        - pronunciation: /kəˌmjuː.nɪˈkeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Good communication is important.
+          - They use various communication methods.
+        - synonyms: correspondence, dialogue
+        - antonyms: silence
+        - related words: communicate, communicative

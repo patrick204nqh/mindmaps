@@ -1,0 +1,479 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- B1
+  - Travel & Tourism
+    - Modes of Transportation
+      - airplane
+        - definition: a powered flying vehicle with fixed wings.
+        - pronunciation: /ˈeə.pleɪn/
+        - part of speech: noun
+        - examples:
+          - She traveled to Paris by airplane.
+          - The airplane landed safely.
+        - synonyms: plane, aircraft
+        - antonyms: -
+        - related words: flight, airport
+      - train
+        - definition: a series of connected vehicles traveling on railways.
+        - pronunciation: /treɪn/
+        - part of speech: noun
+        - examples:
+          - They took the train to the city.
+          - The train departs at 6 pm.
+        - synonyms: railway, locomotive
+        - antonyms: -
+        - related words: railway, station
+      - bus
+        - definition: a large motor vehicle carrying passengers by road.
+        - pronunciation: /bʌs/
+        - part of speech: noun
+        - examples:
+          - She missed the bus this morning.
+          - We can take the bus downtown.
+        - synonyms: coach
+        - antonyms: -
+        - related words: bus stop, bus driver
+      - ferry
+        - definition: a boat or ship for conveying passengers and goods over a short distance.
+        - pronunciation: /ˈfɛr.i/
+        - part of speech: noun
+        - examples:
+          - They took a ferry across the river.
+          - The ferry departs every hour.
+        - synonyms: boat
+        - antonyms: -
+        - related words: port, voyage
+      - taxi
+        - definition: a car licensed to transport passengers in return for payment.
+        - pronunciation: /ˈtæk.si/
+        - part of speech: noun
+        - examples:
+          - We called a taxi to get to the hotel.
+          - The taxi driver was very friendly.
+        - synonyms: cab
+        - antonyms: -
+        - related words: fare, meter
+      - bicycle
+        - definition: a vehicle composed of two wheels held in a frame one behind the other.
+        - pronunciation: /ˈbaɪ.sɪ.kəl/
+        - part of speech: noun
+        - examples:
+          - They rented bicycles to explore the city.
+          - Riding a bicycle is good exercise.
+        - synonyms: bike
+        - antonyms: -
+        - related words: cycling, cyclist
+      - subway
+        - definition: an underground electric railroad.
+        - pronunciation: /ˈsʌb.weɪ/
+        - part of speech: noun
+        - examples:
+          - She takes the subway to work every day.
+          - The subway system is very efficient.
+        - synonyms: metro, underground
+        - antonyms: -
+        - related words: station, train
+      - car
+        - definition: a road vehicle, typically with four wheels, powered by an internal combustion engine.
+        - pronunciation: /kɑːr/
+        - part of speech: noun
+        - examples:
+          - They decided to rent a car for the trip.
+          - His car broke down on the way.
+        - synonyms: automobile
+        - antonyms: -
+        - related words: driver, drive
+    - Accommodation
+      - hotel
+        - definition: an establishment providing lodging and meals for travelers.
+        - pronunciation: /həʊˈtɛl/
+        - part of speech: noun
+        - examples:
+          - They stayed at a luxury hotel.
+          - The hotel has a swimming pool.
+        - synonyms: inn, lodge
+        - antonyms: -
+        - related words: hostel, motel
+      - hostel
+        - definition: an inexpensive lodging place for travelers, often with shared rooms.
+        - pronunciation: /ˈhɒs.təl/
+        - part of speech: noun
+        - examples:
+          - She booked a room at a youth hostel.
+          - Hostels are popular among backpackers.
+        - synonyms: dormitory
+        - antonyms: hotel
+        - related words: accommodation, lodging
+      - guesthouse
+        - definition: a private house offering accommodations to paying guests.
+        - pronunciation: /ˈɡɛst.haʊs/
+        - part of speech: noun
+        - examples:
+          - They rented a guesthouse near the beach.
+          - The guesthouse includes breakfast.
+        - synonyms: bed and breakfast, B&B
+        - antonyms: -
+        - related words: lodging, accommodation
+      - campsite
+        - definition: a place used for camping.
+        - pronunciation: /ˈkæmp.saɪt/
+        - part of speech: noun
+        - examples:
+          - They set up their tent at the campsite.
+          - The campsite has basic facilities.
+        - synonyms: campground
+        - antonyms: -
+        - related words: camping, tent
+      - motel
+        - definition: a roadside hotel designed primarily for motorists.
+        - pronunciation: /məʊˈtɛl/
+        - part of speech: noun
+        - examples:
+          - They stayed at a motel during their road trip.
+          - The motel offered free parking.
+        - synonyms: motor inn
+        - antonyms: -
+        - related words: hotel, accommodation
+      - resort
+        - definition: a place that is a popular destination for vacations or recreation.
+        - pronunciation: /rɪˈzɔːt/
+        - part of speech: noun
+        - examples:
+          - They spent a week at a beach resort.
+          - The ski resort was very crowded.
+        - synonyms: retreat
+        - antonyms: -
+        - related words: holiday, vacation
+    - Travel Documents
+      - passport
+        - definition: an official document issued by a government, certifying the holder's identity and citizenship.
+        - pronunciation: /ˈpɑːs.pɔːt/
+        - part of speech: noun
+        - examples:
+          - Don't forget to bring your passport.
+          - Her passport expires next year.
+        - synonyms: identification
+        - antonyms: -
+        - related words: visa, ID card
+      - visa
+        - definition: an endorsement on a passport indicating that the holder is allowed to enter, leave, or stay for a specified period.
+        - pronunciation: /ˈviː.zə/
+        - part of speech: noun
+        - examples:
+          - She applied for a tourist visa.
+          - His visa was approved.
+        - synonyms: entry permit
+        - antonyms: -
+        - related words: passport, immigration
+      - ticket
+        - definition: a piece of paper or card that gives the holder a certain right, especially to enter a place or travel.
+        - pronunciation: /ˈtɪk.ɪt/
+        - part of speech: noun
+        - examples:
+          - I bought a ticket to the concert.
+          - Make sure you have your train ticket.
+        - synonyms: pass, permit
+        - antonyms: -
+        - related words: boarding pass, reservation
+      - boarding pass
+        - definition: a pass for boarding an aircraft, given to passengers when checking in.
+        - pronunciation: /ˈbɔː.dɪŋ pɑːs/
+        - part of speech: noun
+        - examples:
+          - Don't lose your boarding pass.
+          - The boarding pass shows your seat number.
+        - synonyms: -
+        - antonyms: -
+        - related words: ticket, gate
+      - itinerary
+        - definition: a planned route or journey.
+        - pronunciation: /aɪˈtɪn.ər.ər.i/
+        - part of speech: noun
+        - examples:
+          - The travel agent provided an itinerary.
+          - Our itinerary includes three cities.
+        - synonyms: schedule, plan
+        - antonyms: -
+        - related words: route, journey
+    - Tourist Attractions
+      - museum
+        - definition: a building where objects of historical, scientific, artistic, or cultural interest are stored and exhibited.
+        - pronunciation: /mjuːˈziː.əm/
+        - part of speech: noun
+        - examples:
+          - They visited the art museum.
+          - The museum is closed on Mondays.
+        - synonyms: gallery
+        - antonyms: -
+        - related words: exhibition, curator
+      - monument
+        - definition: a statue, building, or other structure erected to commemorate a notable person or event.
+        - pronunciation: /ˈmɒn.jə.mənt/
+        - part of speech: noun
+        - examples:
+          - The monument honors the national heroes.
+          - They took photos at the famous monument.
+        - synonyms: memorial
+        - antonyms: -
+        - related words: landmark, statue
+      - landmark
+        - definition: an object or feature that is easily seen and recognized from a distance.
+        - pronunciation: /ˈlænd.mɑːk/
+        - part of speech: noun
+        - examples:
+          - The Eiffel Tower is a famous landmark.
+          - They used the church as a landmark to find their way.
+        - synonyms: milestone, monument
+        - antonyms: -
+        - related words: sight, attraction
+      - gallery
+        - definition: a room or building for the display or sale of works of art.
+        - pronunciation: /ˈɡæl.ər.i/
+        - part of speech: noun
+        - examples:
+          - She enjoyed the paintings at the gallery.
+          - The gallery showcases modern art.
+        - synonyms: exhibition hall
+        - antonyms: -
+        - related words: museum, exhibit
+      - theme park
+        - definition: an amusement park with a unifying setting or idea.
+        - pronunciation: /θiːm pɑːk/
+        - part of speech: noun
+        - examples:
+          - They spent the day at the theme park.
+          - The theme park has many exciting rides.
+        - synonyms: amusement park
+        - antonyms: -
+        - related words: roller coaster, attractions
+      - zoo
+        - definition: a place where wild animals are kept for public display.
+        - pronunciation: /zuː/
+        - part of speech: noun
+        - examples:
+          - The children loved visiting the zoo.
+          - The zoo has a new panda exhibit.
+        - synonyms: animal park
+        - antonyms: -
+        - related words: safari, wildlife
+    - Travel Activities
+      - sightseeing
+        - definition: the activity of visiting places of interest in a particular location.
+        - pronunciation: /ˈsaɪtˌsiː.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - They spent the day sightseeing in Rome.
+          - Sightseeing tours are available daily.
+        - synonyms: touring, exploring
+        - antonyms: -
+        - related words: tourist, guidebook
+      - hiking
+        - definition: the activity of going for long walks, especially across country or in the woods.
+        - pronunciation: /ˈhaɪ.kɪŋ/
+        - part of speech: noun
+        - examples:
+          - They went hiking in the mountains.
+          - Hiking is a popular activity here.
+        - synonyms: trekking, walking
+        - antonyms: -
+        - related words: trail, hike
+      - sunbathing
+        - definition: the activity of sitting or lying in the sun to get a tan.
+        - pronunciation: /ˈsʌnˌbeɪ.ðɪŋ/
+        - part of speech: noun
+        - examples:
+          - She spent the afternoon sunbathing on the beach.
+          - Sunbathing can be relaxing.
+        - synonyms: tanning
+        - antonyms: -
+        - related words: sunscreen, beach
+      - shopping
+        - definition: the activity of buying goods from stores.
+        - pronunciation: /ˈʃɒp.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - They went shopping for souvenirs.
+          - The city is known for its shopping districts.
+        - synonyms: purchasing, buying
+        - antonyms: selling
+        - related words: shop, shopper
+      - snorkeling
+        - definition: swimming underwater using a snorkel.
+        - pronunciation: /ˈsnɔː.kəl.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - They enjoyed snorkeling in the clear water.
+          - Snorkeling equipment is available for rent.
+        - synonyms: diving
+        - antonyms: -
+        - related words: snorkel, scuba diving
+      - camping
+        - definition: the activity of spending a vacation living in a camp, tent, or camper.
+        - pronunciation: /ˈkæm.pɪŋ/
+        - part of speech: noun
+        - examples:
+          - They went camping in the national park.
+          - Camping can be a fun family activity.
+        - synonyms: -
+        - antonyms: -
+        - related words: campsite, tent
+    - At the Airport
+      - departure
+        - definition: the action of leaving, typically to start a journey.
+        - pronunciation: /dɪˈpɑː.tʃər/
+        - part of speech: noun
+        - examples:
+          - Their flight's departure is at 9 am.
+          - Please proceed to the departure gate.
+        - synonyms: exit, leaving
+        - antonyms: arrival
+        - related words: depart, departure lounge
+      - arrival
+        - definition: the action or process of arriving.
+        - pronunciation: /əˈraɪ.vəl/
+        - part of speech: noun
+        - examples:
+          - The arrival of the train was delayed.
+          - We waited in the arrival hall.
+        - synonyms: coming, landing
+        - antonyms: departure
+        - related words: arrive, arrival time
+      - luggage
+        - definition: suitcases or other bags in which to pack personal belongings.
+        - pronunciation: /ˈlʌɡ.ɪdʒ/
+        - part of speech: noun
+        - examples:
+          - She checked her luggage at the counter.
+          - Keep an eye on your luggage.
+        - synonyms: baggage
+        - antonyms: -
+        - related words: suitcase, backpack
+      - security
+        - definition: procedures followed or measures taken to ensure safety.
+        - pronunciation: /sɪˈkjʊə.rɪ.ti/
+        - part of speech: noun
+        - examples:
+          - They passed through airport security.
+          - Security checks can take time.
+        - synonyms: safety, protection
+        - antonyms: danger
+        - related words: secure, securely
+      - customs
+        - definition: the place at a port, airport, or border where officials check incoming goods, travelers, or luggage.
+        - pronunciation: /ˈkʌs.təmz/
+        - part of speech: noun
+        - examples:
+          - They had to declare items at customs.
+          - Customs officers checked their bags.
+        - synonyms: -
+        - antonyms: -
+        - related words: customs officer, customs duty
+    - Travel Planning
+      - reservation
+        - definition: an arrangement to secure accommodations at a restaurant or hotel.
+        - pronunciation: /ˌrɛz.əˈveɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - I made a reservation at the hotel.
+          - Do you have a reservation for tonight?
+        - synonyms: booking
+        - antonyms: cancellation
+        - related words: reserve, reserved
+      - schedule
+        - definition: a plan for carrying out a process or procedure.
+        - pronunciation: /ˈʃɛd.juːl/ (UK), /ˈskɛdʒ.uːl/ (US)
+        - part of speech: noun, verb
+        - examples:
+          - Our train is on schedule.
+          - They scheduled their trip for June.
+        - synonyms: timetable, plan
+        - antonyms: -
+        - related words: reschedule, scheduled
+      - destination
+        - definition: the place to which someone or something is going.
+        - pronunciation: /ˌdɛs.tɪˈneɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Paris is their final destination.
+          - The plane reached its destination on time.
+        - synonyms: goal, end point
+        - antonyms: origin
+        - related words: destined, destiny
+      - budget
+        - definition: an estimate of income and expenditure for a set period of time.
+        - pronunciation: /ˈbʌdʒ.ɪt/
+        - part of speech: noun, verb
+        - examples:
+          - They have a small budget for travel.
+          - She budgeted her expenses carefully.
+        - synonyms: financial plan
+        - antonyms: -
+        - related words: budgeting, budgetary
+      - travel agent
+        - definition: a person whose job is to arrange travel for end clients on behalf of suppliers.
+        - pronunciation: /ˈtræv.əl ˈeɪ.dʒənt/
+        - part of speech: noun
+        - examples:
+          - They booked their trip through a travel agent.
+          - The travel agent found them a good deal.
+        - synonyms: -
+        - antonyms: -
+        - related words: agency, tour operator
+    - Directions & Navigation
+      - map
+        - definition: a diagrammatic representation of an area of land or sea.
+        - pronunciation: /mæp/
+        - part of speech: noun
+        - examples:
+          - They used a map to find the museum.
+          - The map shows all the nearby attractions.
+        - synonyms: chart, plan
+        - antonyms: -
+        - related words: mapping, mapper
+      - guidebook
+        - definition: a book of information about a place, designed for the use of visitors or tourists.
+        - pronunciation: /ˈɡaɪd.bʊk/
+        - part of speech: noun
+        - examples:
+          - She bought a guidebook for the city.
+          - The guidebook has useful tips.
+        - synonyms: travel guide
+        - antonyms: -
+        - related words: guide, handbook
+      - compass
+        - definition: an instrument containing a magnetized pointer showing the direction of magnetic north.
+        - pronunciation: /ˈkʌm.pəs/
+        - part of speech: noun
+        - examples:
+          - They used a compass during their hike.
+          - The compass pointed north.
+        - synonyms: -
+        - antonyms: -
+        - related words: navigation, direction
+      - GPS
+        - definition: Global Positioning System, a satellite-based navigation system.
+        - pronunciation: /ˌdʒiː.piːˈɛs/
+        - part of speech: noun
+        - examples:
+          - The car has a GPS for navigation.
+          - GPS helps you find your way.
+        - synonyms: navigation system
+        - antonyms: -
+        - related words: satellite, navigator
+      - directions
+        - definition: instructions on how to reach a destination.
+        - pronunciation: /dɪˈrɛk.ʃənz/ or /daɪˈrɛk.ʃənz/
+        - part of speech: noun
+        - examples:
+          - She asked for directions to the museum.
+          - The map gives clear directions.
+        - synonyms: guidance, route
+        - antonyms: -
+        - related words: direct, directional

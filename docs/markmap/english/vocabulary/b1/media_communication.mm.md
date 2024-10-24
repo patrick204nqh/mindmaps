@@ -1,0 +1,460 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- B1
+  - Media & Communication
+    - Types of Media
+      - newspaper
+        - definition: a printed publication containing news, articles, and advertisements.
+        - pronunciation: /ˈnjuːzˌpeɪ.pər/
+        - part of speech: noun
+        - examples:
+          - She reads the newspaper every morning.
+          - The story was on the front page of the newspaper.
+        - synonyms: journal, gazette
+        - antonyms: -
+        - related words: news, press
+      - magazine
+        - definition: a periodical publication containing articles and illustrations.
+        - pronunciation: /ˌmæɡ.əˈziːn/
+        - part of speech: noun
+        - examples:
+          - He bought a fashion magazine at the store.
+          - The magazine is published monthly.
+        - synonyms: periodical, journal
+        - antonyms: -
+        - related words: article, issue
+      - television
+        - definition: a system for transmitting visual images and sound that are reproduced on screens.
+        - pronunciation: /ˈtɛl.ɪˌvɪʒ.ən/
+        - part of speech: noun
+        - examples:
+          - They watched the news on television.
+          - She appears on a television show.
+        - synonyms: TV, telly
+        - antonyms: -
+        - related words: broadcast, channel
+      - radio
+        - definition: the transmission and reception of electromagnetic waves of radio frequency.
+        - pronunciation: /ˈreɪ.di.əʊ/
+        - part of speech: noun
+        - examples:
+          - He listens to music on the radio.
+          - The radio station plays pop songs.
+        - synonyms: wireless
+        - antonyms: -
+        - related words: broadcast, frequency
+      - internet
+        - definition: a global computer network providing information and communication facilities.
+        - pronunciation: /ˈɪn.tə.net/
+        - part of speech: noun
+        - examples:
+          - She uses the internet to research topics.
+          - The news spread quickly over the internet.
+        - synonyms: web, cyberspace
+        - antonyms: -
+        - related words: online, website
+    - Communication Devices
+      - telephone
+        - definition: a system for transmitting voices over a distance using wire or radio.
+        - pronunciation: /ˈtɛl.ɪ.fəʊn/
+        - part of speech: noun
+        - examples:
+          - He called me on the telephone.
+          - The telephone rang several times.
+        - synonyms: phone
+        - antonyms: -
+        - related words: call, dial
+      - smartphone
+        - definition: a mobile phone that performs many functions of a computer.
+        - pronunciation: /ˈsmɑːt.fəʊn/
+        - part of speech: noun
+        - examples:
+          - She took photos with her smartphone.
+          - Smartphones can access the internet.
+        - synonyms: mobile phone
+        - antonyms: -
+        - related words: app, touchscreen
+      - computer
+        - definition: an electronic device for storing and processing data.
+        - pronunciation: /kəmˈpjuː.tər/
+        - part of speech: noun
+        - examples:
+          - He uses his computer to write emails.
+          - Computers are essential for modern communication.
+        - synonyms: PC, laptop
+        - antonyms: -
+        - related words: hardware, software
+      - tablet
+        - definition: a small portable computer with a touchscreen interface.
+        - pronunciation: /ˈtæb.lət/
+        - part of speech: noun
+        - examples:
+          - She reads books on her tablet.
+          - The tablet is lightweight and easy to carry.
+        - synonyms: slate
+        - antonyms: desktop
+        - related words: touchscreen, mobile device
+    - Communication Verbs
+      - communicate
+        - definition: to share or exchange information, news, or ideas.
+        - pronunciation: /kəˈmjuː.nɪ.keɪt/
+        - part of speech: verb
+        - examples:
+          - They communicate via email.
+          - She finds it hard to communicate her feelings.
+        - synonyms: convey, express
+        - antonyms: conceal
+        - related words: communication, communicative
+      - inform
+        - definition: to give someone facts or information.
+        - pronunciation: /ɪnˈfɔːm/
+        - part of speech: verb
+        - examples:
+          - The teacher informed the students about the test.
+          - Please inform me of any changes.
+        - synonyms: notify, tell
+        - antonyms: misinform
+        - related words: information, informative
+      - publish
+        - definition: to prepare and issue a book, journal, or piece of music for public sale.
+        - pronunciation: /ˈpʌb.lɪʃ/
+        - part of speech: verb
+        - examples:
+          - The author published her first novel.
+          - They publish a monthly magazine.
+        - synonyms: release, issue
+        - antonyms: suppress
+        - related words: publisher, publication
+      - broadcast
+        - definition: to transmit a program or some information by radio or television.
+        - pronunciation: /ˈbrɔːd.kɑːst/
+        - part of speech: verb, noun
+        - examples:
+          - The concert was broadcast live.
+          - They broadcast the news every evening.
+        - synonyms: transmit, air
+        - antonyms: receive
+        - related words: broadcaster, broadcasting
+      - report
+        - definition: to give a spoken or written account of something observed, heard, done, or investigated.
+        - pronunciation: /rɪˈpɔːt/
+        - part of speech: verb, noun
+        - examples:
+          - She reports on local news.
+          - The report was published yesterday.
+        - synonyms: describe, narrate
+        - antonyms: conceal
+        - related words: reporter, reportage
+    - Social Media
+      - profile
+        - definition: a user's summary of personal details or interests on social media.
+        - pronunciation: /ˈprəʊ.faɪl/
+        - part of speech: noun
+        - examples:
+          - She updated her profile picture.
+          - His profile includes his hobbies.
+        - synonyms: account, bio
+        - antonyms: -
+        - related words: personalize, information
+      - post
+        - definition: to publish content on a website or social media platform.
+        - pronunciation: /pəʊst/
+        - part of speech: verb, noun
+        - examples:
+          - He posted a new photo online.
+          - Her post received many likes.
+        - synonyms: publish, upload
+        - antonyms: delete
+        - related words: posting, repost
+      - comment
+        - definition: a verbal or written remark expressing an opinion or reaction.
+        - pronunciation: /ˈkɒm.ent/
+        - part of speech: noun, verb
+        - examples:
+          - She left a comment on the blog.
+          - Please comment on the article.
+        - synonyms: remark, observation
+        - antonyms: silence
+        - related words: commentary, commentator
+      - share
+        - definition: to have a portion of something with others or to post content for others to see.
+        - pronunciation: /ʃeər/
+        - part of speech: verb
+        - examples:
+          - He shared the video with his friends.
+          - Please share this post if you like it.
+        - synonyms: distribute, disseminate
+        - antonyms: keep
+        - related words: sharing, shared
+      - like
+        - definition: to indicate one's approval or enjoyment of something.
+        - pronunciation: /laɪk/
+        - part of speech: verb, noun
+        - examples:
+          - She liked his photo on social media.
+          - The post received many likes.
+        - synonyms: appreciate, enjoy
+        - antonyms: dislike
+        - related words: liking, likable
+    - Media Professions
+      - journalist
+        - definition: a person who writes for newspapers, magazines, or news websites.
+        - pronunciation: /ˈdʒɜː.nə.lɪst/
+        - part of speech: noun
+        - examples:
+          - The journalist interviewed the actor.
+          - She works as a freelance journalist.
+        - synonyms: reporter, correspondent
+        - antonyms: -
+        - related words: journalism, journal
+      - editor
+        - definition: a person who is in charge of and determines the final content of a text.
+        - pronunciation: /ˈɛd.ɪ.tər/
+        - part of speech: noun
+        - examples:
+          - The editor corrected the article.
+          - He is the chief editor of the magazine.
+        - synonyms: reviser, copyreader
+        - antonyms: writer
+        - related words: edit, editorial
+      - presenter
+        - definition: a person who introduces or hosts television or radio programs.
+        - pronunciation: /prɪˈzɛn.tər/
+        - part of speech: noun
+        - examples:
+          - The presenter welcomed the guests.
+          - She is a TV show presenter.
+        - synonyms: host, announcer
+        - antonyms: audience
+        - related words: present, presentation
+      - photographer
+        - definition: a person who takes photographs, especially as a job.
+        - pronunciation: /fəˈtɒɡ.rə.fər/
+        - part of speech: noun
+        - examples:
+          - The photographer captured beautiful images.
+          - She hired a photographer for the event.
+        - synonyms: cameraman
+        - antonyms: -
+        - related words: photography, photograph
+      - broadcaster
+        - definition: a person or organization that transmits programs by radio or television.
+        - pronunciation: /ˈbrɔːd.kɑː.stər/
+        - part of speech: noun
+        - examples:
+          - The broadcaster announced the news.
+          - He works as a sports broadcaster.
+        - synonyms: announcer, presenter
+        - antonyms: listener
+        - related words: broadcast, broadcasting
+    - Internet and Digital Communication
+      - email
+        - definition: messages distributed by electronic means from one computer user to another.
+        - pronunciation: /ˈiː.meɪl/
+        - part of speech: noun, verb
+        - examples:
+          - She sent an email to her colleague.
+          - Please email me the details.
+        - synonyms: electronic mail
+        - antonyms: letter
+        - related words: inbox, attachment
+      - website
+        - definition: a set of related web pages located under a single domain name.
+        - pronunciation: /ˈwɛb.saɪt/
+        - part of speech: noun
+        - examples:
+          - The company launched a new website.
+          - You can find more information on our website.
+        - synonyms: webpage
+        - antonyms: -
+        - related words: web, internet
+      - download
+        - definition: to copy data from one computer system to another or to a disk.
+        - pronunciation: /ˈdaʊn.ləʊd/
+        - part of speech: verb, noun
+        - examples:
+          - She downloaded the document.
+          - The download took several minutes.
+        - synonyms: transfer, copy
+        - antonyms: upload
+        - related words: downloading, downloader
+      - chat
+        - definition: to talk in a friendly, informal way.
+        - pronunciation: /tʃæt/
+        - part of speech: verb, noun
+        - examples:
+          - They chatted online for hours.
+          - Join the group chat to stay updated.
+        - synonyms: talk, converse
+        - antonyms: be silent
+        - related words: chatter, chatty
+      - link
+        - definition: a connection between documents or sections of the same document.
+        - pronunciation: /lɪŋk/
+        - part of speech: noun, verb
+        - examples:
+          - Click on the link to visit the site.
+          - The website links to various resources.
+        - synonyms: connection, hyperlink
+        - antonyms: -
+        - related words: hyperlink, linked
+    - Advertising and Marketing
+      - advertisement
+        - definition: a notice or announcement promoting a product, service, or event.
+        - pronunciation: /ədˈvɜː.tɪs.mənt/
+        - part of speech: noun
+        - examples:
+          - The advertisement appeared in the newspaper.
+          - They created an advertisement for the new product.
+        - synonyms: ad, commercial
+        - antonyms: -
+        - related words: advertise, advertising
+      - campaign
+        - definition: an organized course of action to achieve a goal.
+        - pronunciation: /kæmˈpeɪn/
+        - part of speech: noun
+        - examples:
+          - The company launched a marketing campaign.
+          - The campaign increased sales.
+        - synonyms: drive, operation
+        - antonyms: -
+        - related words: campaigner, campaigning
+      - brand
+        - definition: a type of product manufactured by a particular company under a particular name.
+        - pronunciation: /brænd/
+        - part of speech: noun
+        - examples:
+          - She prefers that brand of coffee.
+          - The brand is known for quality.
+        - synonyms: label, trademark
+        - antonyms: generic
+        - related words: branding, brand name
+      - slogan
+        - definition: a short, memorable phrase used in advertising.
+        - pronunciation: /ˈsləʊ.ɡən/
+        - part of speech: noun
+        - examples:
+          - The slogan is catchy and memorable.
+          - They came up with a new slogan for the campaign.
+        - synonyms: motto, catchphrase
+        - antonyms: -
+        - related words: tagline, jingle
+      - market
+        - definition: an area or arena in which commercial dealings are conducted.
+        - pronunciation: /ˈmɑː.kɪt/
+        - part of speech: noun, verb
+        - examples:
+          - They plan to market the product internationally.
+          - The company dominates the local market.
+        - synonyms: sell, trade
+        - antonyms: buy
+        - related words: marketing, marketplace
+    - Press and Publishing
+      - article
+        - definition: a piece of writing included in a newspaper, magazine, or other publication.
+        - pronunciation: /ˈɑː.tɪ.kəl/
+        - part of speech: noun
+        - examples:
+          - She wrote an article on climate change.
+          - The article was well-received by readers.
+        - synonyms: essay, piece
+        - antonyms: -
+        - related words: editorial, reportage
+      - headline
+        - definition: a heading at the top of an article or page in a newspaper or magazine.
+        - pronunciation: /ˈhɛd.laɪn/
+        - part of speech: noun
+        - examples:
+          - The headline caught her attention.
+          - He reads the headlines every morning.
+        - synonyms: title, caption
+        - antonyms: -
+        - related words: headliner, subheading
+      - publisher
+        - definition: a person or company that prepares and issues books, journals, or music.
+        - pronunciation: /ˈpʌb.lɪ.ʃər/
+        - part of speech: noun
+        - examples:
+          - The publisher released a new edition.
+          - She works for a major publisher.
+        - synonyms: press, publishing house
+        - antonyms: -
+        - related words: publish, publication
+      - circulation
+        - definition: the number of copies a newspaper or magazine distributes on an average day.
+        - pronunciation: /ˌsɜː.kjəˈleɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - The newspaper's circulation has increased.
+          - They aim to boost circulation numbers.
+        - synonyms: distribution
+        - antonyms: -
+        - related words: circulate, circulatory
+      - column
+        - definition: a regular feature or series of articles in a newspaper or magazine.
+        - pronunciation: /ˈkɒl.əm/
+        - part of speech: noun
+        - examples:
+          - She writes a weekly column on technology.
+          - His column is very popular among readers.
+        - synonyms: article, piece
+        - antonyms: -
+        - related words: columnist, editorial
+    - Broadcast Media
+      - channel
+        - definition: a band of frequencies used in radio and television transmission.
+        - pronunciation: /ˈtʃæn.əl/
+        - part of speech: noun
+        - examples:
+          - She changed the TV channel.
+          - The news is on channel 5.
+        - synonyms: station, network
+        - antonyms: -
+        - related words: broadcast, programming
+      - program
+        - definition: a planned series of future events, items, or performances.
+        - pronunciation: /ˈprəʊ.ɡræm/
+        - part of speech: noun
+        - examples:
+          - They watched a documentary program.
+          - The TV program starts at 8 pm.
+        - synonyms: show, broadcast
+        - antonyms: -
+        - related words: programming, programmer
+      - audience
+        - definition: the assembled spectators or listeners at a public event.
+        - pronunciation: /ˈɔː.di.əns/
+        - part of speech: noun
+        - examples:
+          - The audience applauded at the end.
+          - The show attracted a large audience.
+        - synonyms: viewers, spectators
+        - antonyms: performer
+        - related words: auditory, auditorium
+      - documentary
+        - definition: a film or television program presenting facts about a person or event.
+        - pronunciation: /ˌdɒk.jəˈmɛn.tər.i/
+        - part of speech: noun
+        - examples:
+          - They watched a documentary about wildlife.
+          - The documentary was very informative.
+        - synonyms: factual film, non-fiction
+        - antonyms: fiction
+        - related words: document, documentation
+      - episode
+        - definition: an event or a group of events occurring as part of a larger sequence.
+        - pronunciation: /ˈɛp.ɪ.səʊd/
+        - part of speech: noun
+        - examples:
+          - She missed the latest episode of the series.
+          - The show has ten episodes this season.
+        - synonyms: installment, chapter
+        - antonyms: -
+        - related words: episodic, series

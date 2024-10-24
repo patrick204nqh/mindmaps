@@ -1,0 +1,419 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- B1
+  - Education & Learning
+    - School Subjects
+      - mathematics
+        - definition: the abstract science of number, quantity, and space.
+        - pronunciation: /ˌmæθ.əˈmæt.ɪks/
+        - part of speech: noun
+        - examples:
+          - She excels in mathematics and science.
+          - Mathematics is a required subject in school.
+        - synonyms: math
+        - antonyms: -
+        - related words: mathematician, mathematical
+      - history
+        - definition: the study of past events.
+        - pronunciation: /ˈhɪs.tər.i/
+        - part of speech: noun
+        - examples:
+          - He is interested in ancient history.
+          - We have a history test tomorrow.
+        - synonyms: past, chronicle
+        - antonyms: future
+        - related words: historian, historical
+      - biology
+        - definition: the study of living organisms.
+        - pronunciation: /baɪˈɒl.ə.dʒi/
+        - part of speech: noun
+        - examples:
+          - Biology is my favorite science subject.
+          - They are learning about cells in biology class.
+        - synonyms: life science
+        - antonyms: -
+        - related words: biological, biologist
+      - geography
+        - definition: the study of the physical features of the earth.
+        - pronunciation: /dʒiˈɒɡ.rə.fi/
+        - part of speech: noun
+        - examples:
+          - She studied geography to understand different cultures.
+          - Geography helps us learn about the world.
+        - synonyms: earth science
+        - antonyms: -
+        - related words: geographical, geographer
+      - literature
+        - definition: written works, especially those considered of superior or lasting artistic merit.
+        - pronunciation: /ˈlɪt.rə.tʃər/
+        - part of speech: noun
+        - examples:
+          - We are reading classic literature this semester.
+          - Literature class discusses famous authors.
+        - synonyms: writings, works
+        - antonyms: -
+        - related words: literary, literate
+    - Classroom Objects
+      - blackboard
+        - definition: a large board with a smooth black surface for writing on with chalk.
+        - pronunciation: /ˈblæk.bɔːd/
+        - part of speech: noun
+        - examples:
+          - The teacher wrote the lesson on the blackboard.
+          - She erased the blackboard after class.
+        - synonyms: chalkboard
+        - antonyms: whiteboard
+        - related words: chalk, eraser
+      - textbook
+        - definition: a book used as a standard work for the study of a particular subject.
+        - pronunciation: /ˈtɛkst.bʊk/
+        - part of speech: noun
+        - examples:
+          - I need to buy a new math textbook.
+          - The textbook covers all the topics for the course.
+        - synonyms: coursebook
+        - antonyms: -
+        - related words: workbook, notebook
+      - desk
+        - definition: a piece of furniture with a flat or sloped surface for writing and working.
+        - pronunciation: /dɛsk/
+        - part of speech: noun
+        - examples:
+          - She sat at her desk and began studying.
+          - The classroom has new desks and chairs.
+        - synonyms: table
+        - antonyms: -
+        - related words: desktop, desk lamp
+      - projector
+        - definition: a device that projects images or videos onto a surface.
+        - pronunciation: /prəˈdʒɛk.tər/
+        - part of speech: noun
+        - examples:
+          - The teacher used a projector to show slides.
+          - The movie was displayed on the wall with a projector.
+        - synonyms: -
+        - antonyms: -
+        - related words: projection, screen
+      - notebook
+        - definition: a small book with blank or ruled pages for writing notes.
+        - pronunciation: /ˈnəʊt.bʊk/
+        - part of speech: noun
+        - examples:
+          - She wrote down important points in her notebook.
+          - Don't forget to bring your notebook to class.
+        - synonyms: notepad, journal
+        - antonyms: -
+        - related words: note, laptop
+    - Learning Activities
+      - study
+        - definition: to devote time and attention to acquiring knowledge.
+        - pronunciation: /ˈstʌd.i/
+        - part of speech: verb
+        - examples:
+          - I need to study for the exam.
+          - She studies English every evening.
+        - synonyms: learn, review
+        - antonyms: neglect
+        - related words: student, studies
+      - revise
+        - definition: to review or go over material previously learned.
+        - pronunciation: /rɪˈvaɪz/
+        - part of speech: verb
+        - examples:
+          - He is revising his notes before the test.
+          - You should revise the chapter carefully.
+        - synonyms: review, study
+        - antonyms: forget
+        - related words: revision, revising
+      - practice
+        - definition: to perform an activity repeatedly to improve proficiency.
+        - pronunciation: /ˈpræk.tɪs/
+        - part of speech: verb, noun
+        - examples:
+          - She practices the piano every day.
+          - Practice makes perfect.
+        - synonyms: rehearse, exercise
+        - antonyms: -
+        - related words: practitioner, practical
+      - research
+        - definition: the systematic investigation into and study of materials and sources.
+        - pronunciation: /rɪˈsɜːtʃ/
+        - part of speech: noun, verb
+        - examples:
+          - They are conducting research on climate change.
+          - She researched information for her essay.
+        - synonyms: investigation, study
+        - antonyms: -
+        - related words: researcher, researched
+      - participate
+        - definition: to take part in an activity or event.
+        - pronunciation: /pɑːˈtɪs.ɪ.peɪt/
+        - part of speech: verb
+        - examples:
+          - Students are encouraged to participate in class discussions.
+          - He participates in extracurricular activities.
+        - synonyms: engage, join
+        - antonyms: abstain
+        - related words: participant, participation
+    - People in Education
+      - teacher
+        - definition: a person who teaches, especially in a school.
+        - pronunciation: /ˈtiː.tʃər/
+        - part of speech: noun
+        - examples:
+          - The teacher explained the lesson clearly.
+          - She is a science teacher.
+        - synonyms: educator, instructor
+        - antonyms: student
+        - related words: teach, teaching
+      - student
+        - definition: a person who is studying at a school or college.
+        - pronunciation: /ˈstjuː.dənt/
+        - part of speech: noun
+        - examples:
+          - The students listened carefully.
+          - He is a student at the university.
+        - synonyms: pupil, learner
+        - antonyms: teacher
+        - related words: study, studious
+      - professor
+        - definition: a university academic of the highest rank.
+        - pronunciation: /prəˈfɛs.ər/
+        - part of speech: noun
+        - examples:
+          - She is a professor of history.
+          - The professor gave an interesting lecture.
+        - synonyms: academic, lecturer
+        - antonyms: -
+        - related words: professorship, profess
+      - classmate
+        - definition: a fellow member of a class at school or college.
+        - pronunciation: /ˈklɑːs.meɪt/
+        - part of speech: noun
+        - examples:
+          - She studies with her classmates.
+          - His classmates threw a surprise party.
+        - synonyms: schoolmate, peer
+        - antonyms: -
+        - related words: class, mate
+      - principal
+        - definition: the person with the highest authority in a school.
+        - pronunciation: /ˈprɪn.sə.pəl/
+        - part of speech: noun
+        - examples:
+          - The principal addressed the students.
+          - She was appointed as the new principal.
+        - synonyms: headteacher, director
+        - antonyms: -
+        - related words: principle
+    - Exams and Grades
+      - exam
+        - definition: a formal test of a person's knowledge or proficiency.
+        - pronunciation: /ɪɡˈzæm/
+        - part of speech: noun
+        - examples:
+          - She is nervous about the final exam.
+          - They studied hard for the exams.
+        - synonyms: test, assessment
+        - antonyms: -
+        - related words: examination, examine
+      - grade
+        - definition: a particular level of rank, quality, proficiency, or value.
+        - pronunciation: /ɡreɪd/
+        - part of speech: noun, verb
+        - examples:
+          - He received a high grade on his essay.
+          - The teacher will grade the assignments.
+        - synonyms: score, mark
+        - antonyms: -
+        - related words: grading, grader
+      - pass
+        - definition: to be successful in an examination or test.
+        - pronunciation: /pɑːs/
+        - part of speech: verb
+        - examples:
+          - She hopes to pass all her exams.
+          - He passed the test with flying colors.
+        - synonyms: succeed
+        - antonyms: fail
+        - related words: passing, passer
+      - fail
+        - definition: to be unsuccessful in achieving one's goal.
+        - pronunciation: /feɪl/
+        - part of speech: verb
+        - examples:
+          - He was disappointed to fail the exam.
+          - If you don't study, you might fail.
+        - synonyms: flunk
+        - antonyms: pass, succeed
+        - related words: failure, failing
+      - score
+        - definition: the number of points achieved in a test or game.
+        - pronunciation: /skɔːr/
+        - part of speech: noun, verb
+        - examples:
+          - She got a high score on the test.
+          - The team scored two goals.
+        - synonyms: mark, grade
+        - antonyms: -
+        - related words: scoring, scoreboard
+    - Educational Institutions
+      - school
+        - definition: an institution for educating children.
+        - pronunciation: /skuːl/
+        - part of speech: noun
+        - examples:
+          - Children start school at the age of five.
+          - She teaches at a primary school.
+        - synonyms: academy, institution
+        - antonyms: -
+        - related words: schooling, preschool
+      - university
+        - definition: an educational institution designed for instruction and examination of students in many branches of advanced learning.
+        - pronunciation: /ˌjuː.nɪˈvɜː.sə.ti/
+        - part of speech: noun
+        - examples:
+          - He is studying law at university.
+          - The university has a large library.
+        - synonyms: college, institute
+        - antonyms: -
+        - related words: universal, universally
+      - college
+        - definition: an educational institution or establishment, in particular one providing higher education or specialized professional or vocational training.
+        - pronunciation: /ˈkɒl.ɪdʒ/
+        - part of speech: noun
+        - examples:
+          - She will attend college next year.
+          - The college offers various courses.
+        - synonyms: university, institute
+        - antonyms: -
+        - related words: collegiate, colleague
+      - classroom
+        - definition: a room in which a class of students is taught.
+        - pronunciation: /ˈklɑːs.ruːm/
+        - part of speech: noun
+        - examples:
+          - The students entered the classroom.
+          - The classroom is equipped with a projector.
+        - synonyms: -
+        - antonyms: -
+        - related words: class, room
+      - library
+        - definition: a building or room containing collections of books for people to read or borrow.
+        - pronunciation: /ˈlaɪ.brər.i/
+        - part of speech: noun
+        - examples:
+          - She borrowed a book from the library.
+          - The library is open until late.
+        - synonyms: archive, reading room
+        - antonyms: -
+        - related words: librarian, library card
+    - Study Habits
+      - homework
+        - definition: schoolwork that a student is required to do at home.
+        - pronunciation: /ˈhəʊm.wɜːk/
+        - part of speech: noun
+        - examples:
+          - He finished his homework before dinner.
+          - The teacher assigned a lot of homework.
+        - synonyms: assignment
+        - antonyms: -
+        - related words: work, home
+      - concentration
+        - definition: the action or power of focusing one's attention.
+        - pronunciation: /ˌkɒn.sənˈtreɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - She needs silence for better concentration.
+          - Concentration is key when studying.
+        - synonyms: focus, attention
+        - antonyms: distraction
+        - related words: concentrate, concentrated
+      - memorization
+        - definition: the process of committing something to memory.
+        - pronunciation: /ˌmem.ə.raɪˈzeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Memorization of vocabulary helps in language learning.
+          - The test requires memorization of facts.
+        - synonyms: learning by heart
+        - antonyms: forgetting
+        - related words: memorize, memory
+      - motivation
+        - definition: the reason or reasons one has for acting or behaving in a particular way.
+        - pronunciation: /ˌməʊ.tɪˈveɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - She lacks motivation to study.
+          - Motivation can improve performance.
+        - synonyms: drive, enthusiasm
+        - antonyms: apathy
+        - related words: motivate, motivational
+      - note-taking
+        - definition: the practice of recording information from different sources.
+        - pronunciation: /ˈnəʊt teɪ.kɪŋ/
+        - part of speech: noun
+        - examples:
+          - Effective note-taking helps with learning.
+          - He learned some new note-taking techniques.
+        - synonyms: -
+        - antonyms: -
+        - related words: notes, take notes
+    - Educational Technology
+      - computer
+        - definition: an electronic device for storing and processing data.
+        - pronunciation: /kəmˈpjuː.tər/
+        - part of speech: noun
+        - examples:
+          - Students use computers in the lab.
+          - She typed her essay on the computer.
+        - synonyms: PC, laptop
+        - antonyms: -
+        - related words: computing, computational
+      - internet
+        - definition: a global computer network providing a variety of information and communication facilities.
+        - pronunciation: /ˈɪn.tə.net/
+        - part of speech: noun
+        - examples:
+          - He researched the topic on the internet.
+          - The school provides internet access.
+        - synonyms: web, cyberspace
+        - antonyms: -
+        - related words: internetwork, internetting
+      - software
+        - definition: the programs and other operating information used by a computer.
+        - pronunciation: /ˈsɒft.weər/
+        - part of speech: noun
+        - examples:
+          - They use educational software for learning.
+          - The software needs to be updated.
+        - synonyms: program, application
+        - antonyms: hardware
+        - related words: freeware, shareware
+      - online
+        - definition: controlled by or connected to a computer or the internet.
+        - pronunciation: /ˈɒn.laɪn/
+        - part of speech: adjective, adverb
+        - examples:
+          - She takes online classes.
+          - The resources are available online.
+        - synonyms: digital, internet-based
+        - antonyms: offline
+        - related words: onliner, on-line
+      - tablet
+        - definition: a small portable computer that accepts input directly onto its screen.
+        - pronunciation: /ˈtæb.lət/
+        - part of speech: noun
+        - examples:
+          - The school provides tablets to students.
+          - He reads e-books on his tablet.
+        - synonyms: iPad, slate
+        - antonyms: desktop
+        - related words: touchscreen, mobile device
