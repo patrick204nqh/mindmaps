@@ -1,0 +1,321 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- C1
+  - Idioms & Expressions
+    - Body Parts
+      - cost an arm and a leg
+        - definition: to be very expensive.
+        - pronunciation: /kɒst ən ɑːm ænd ə lɛɡ/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - The designer handbag costs an arm and a leg.
+          - They want to buy a house in the city, but it would cost an arm and a leg.
+        - synonyms: be costly, be overpriced
+        - antonyms: be cheap, be affordable
+        - related words: expensive, pricey
+      - keep an eye on
+        - definition: to watch or look after something or someone.
+        - pronunciation: /kiːp ən aɪ ɒn/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - Can you keep an eye on my suitcase while I get a coffee?
+          - She kept an eye on the simmering pot to prevent it from boiling over.
+        - synonyms: watch over, monitor
+        - antonyms: neglect, ignore
+        - related words: oversight, supervision
+      - lend a hand
+        - definition: to help someone.
+        - pronunciation: /lɛnd ə hænd/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - He always lends a hand when there's heavy lifting to do.
+          - The volunteers lent a hand at the community event.
+        - synonyms: assist, help out
+        - antonyms: hinder, obstruct
+        - related words: assistance, helper
+    - Animals
+      - let the cat out of the bag
+        - definition: to reveal a secret unintentionally.
+        - pronunciation: /lɛt ðə kæt aʊt əv ðə bæɡ/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - She let the cat out of the bag about the surprise party.
+          - Don't let the cat out of the bag before the official announcement.
+        - synonyms: disclose, reveal
+        - antonyms: conceal, keep secret
+        - related words: disclosure, revelation
+      - the elephant in the room
+        - definition: an obvious problem or controversial issue that is ignored.
+        - pronunciation: /ði ˈɛl.ɪ.fənt ɪn ðə ruːm/
+        - part of speech: idiom (noun phrase)
+        - examples:
+          - Nobody wanted to address the elephant in the room during the meeting.
+          - Let's talk about the elephant in the room—our declining sales.
+        - synonyms: unspoken issue, taboo topic
+        - antonyms: openly discussed matter
+        - related words: avoidance, denial
+      - a wolf in sheep's clothing
+        - definition: someone who hides malicious intent under the guise of kindness.
+        - pronunciation: /ə wʊlf ɪn ʃiːps ˈkləʊ.ðɪŋ/
+        - part of speech: idiom (noun phrase)
+        - examples:
+          - Be cautious of him; he might be a wolf in sheep's clothing.
+          - The new manager seemed friendly but was a wolf in sheep's clothing.
+        - synonyms: impostor, deceiver
+        - antonyms: honest person, genuine individual
+        - related words: deception, disguise
+    - Colors
+      - once in a blue moon
+        - definition: very rarely.
+        - pronunciation: /wʌns ɪn ə bluː muːn/
+        - part of speech: idiom (adverbial phrase)
+        - examples:
+          - She visits her hometown once in a blue moon.
+          - Opportunities like this come once in a blue moon.
+        - synonyms: infrequently, seldom
+        - antonyms: often, frequently
+        - related words: rarity, uncommon
+      - green with envy
+        - definition: very jealous.
+        - pronunciation: /ɡriːn wɪð ˈɛn.vi/
+        - part of speech: idiom (adjective phrase)
+        - examples:
+          - They were green with envy when they saw his new car.
+          - Her promotion made her colleagues green with envy.
+        - synonyms: jealous, envious
+        - antonyms: content, satisfied
+        - related words: envy, covetousness
+      - see red
+        - definition: to become very angry.
+        - pronunciation: /siː rɛd/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - He saw red when he found out he was overcharged.
+          - She sees red whenever someone interrupts her.
+        - synonyms: become furious, lose temper
+        - antonyms: remain calm, stay composed
+        - related words: anger, rage
+    - Food
+      - spill the beans
+        - definition: to reveal secret information.
+        - pronunciation: /spɪl ðə biːnz/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - He spilled the beans about the merger plans.
+          - Try not to spill the beans about the surprise.
+        - synonyms: divulge, disclose
+        - antonyms: keep secret, withhold
+        - related words: confession, disclosure
+      - piece of cake
+        - definition: something very easy to do.
+        - pronunciation: /piːs əv keɪk/
+        - part of speech: idiom (noun phrase)
+        - examples:
+          - Solving this puzzle was a piece of cake.
+          - For her, cooking a gourmet meal is a piece of cake.
+        - synonyms: easy task, breeze
+        - antonyms: difficult task, challenge
+        - related words: simplicity, effortless
+      - take with a grain of salt
+        - definition: to view something skeptically.
+        - pronunciation: /teɪk wɪð ə ɡreɪn əv sɒlt/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - I take his advice with a grain of salt.
+          - You should take online reviews with a grain of salt.
+        - synonyms: be skeptical, question
+        - antonyms: accept blindly, believe fully
+        - related words: skepticism, doubt
+    - Time
+      - in the nick of time
+        - definition: just in time; at the last possible moment.
+        - pronunciation: /ɪn ðə nɪk əv taɪm/
+        - part of speech: idiom (adverbial phrase)
+        - examples:
+          - They arrived in the nick of time to catch the flight.
+          - The firefighters saved the family in the nick of time.
+        - synonyms: just in time, at the last moment
+        - antonyms: too late, delayed
+        - related words: punctuality, timeliness
+      - time flies
+        - definition: time passes very quickly.
+        - pronunciation: /taɪm flaɪz/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - Time flies when you're enjoying yourself.
+          - It's hard to believe we've been here a year already; time flies.
+        - synonyms: time passes quickly
+        - antonyms: time drags, slow passage of time
+        - related words: fleeting, transience
+      - beat around the bush
+        - definition: to avoid talking about the main point.
+        - pronunciation: /biːt əˈraʊnd ðə bʊʃ/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - Stop beating around the bush and tell me what's wrong.
+          - He tends to beat around the bush instead of being direct.
+        - synonyms: evade, procrastinate
+        - antonyms: be direct, confront
+        - related words: avoidance, circumlocution
+    - Weather
+      - under the weather
+        - definition: feeling ill or unwell.
+        - pronunciation: /ˈʌn.dər ðə ˈwɛð.ər/
+        - part of speech: idiom (adjective phrase)
+        - examples:
+          - She's feeling under the weather and won't attend the meeting.
+          - I was a bit under the weather last week.
+        - synonyms: ill, sick
+        - antonyms: healthy, well
+        - related words: ailment, indisposed
+      - rain on someone's parade
+        - definition: to spoil someone's plans or enthusiasm.
+        - pronunciation: /reɪn ɒn ˈsʌm.wʌnz pəˈreɪd/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - I hate to rain on your parade, but the event is canceled.
+          - Don't let setbacks rain on your parade.
+        - synonyms: spoil, ruin
+        - antonyms: support, encourage
+        - related words: disappointment, disruption
+      - storm in a teacup
+        - definition: a small event blown out of proportion.
+        - pronunciation: /stɔːm ɪn ə ˈtiː.kʌp/
+        - part of speech: idiom (noun phrase)
+        - examples:
+          - Their argument was just a storm in a teacup.
+          - The media turned the minor issue into a storm in a teacup.
+        - synonyms: fuss over nothing, overreaction
+        - antonyms: significant issue, serious matter
+        - related words: exaggeration, triviality
+    - Money
+      - break the bank
+        - definition: to cost too much money.
+        - pronunciation: /breɪk ðə bæŋk/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - Buying a new car might break the bank.
+          - They want to travel without breaking the bank.
+        - synonyms: be expensive, cost a fortune
+        - antonyms: be affordable, be cheap
+        - related words: expenditure, costly
+      - tighten one's belt
+        - definition: to spend less money than usual.
+        - pronunciation: /ˈtaɪ.tən wʌnz bɛlt/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - After the job loss, they had to tighten their belts.
+          - We need to tighten our belts and save more.
+        - synonyms: economize, cut back
+        - antonyms: splurge, spend freely
+        - related words: frugality, austerity
+      - go Dutch
+        - definition: to share the cost of something equally.
+        - pronunciation: /ɡəʊ dʌtʃ/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - Let's go Dutch on the dinner bill.
+          - They went Dutch on the movie tickets.
+        - synonyms: split the bill, share expenses
+        - antonyms: treat someone, pay for all
+        - related words: sharing, equality
+    - Health & Illness
+      - kick the bucket
+        - definition: to die.
+        - pronunciation: /kɪk ðə ˈbʌk.ɪt/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - The old man finally kicked the bucket.
+          - She wants to travel the world before she kicks the bucket.
+        - synonyms: pass away, die
+        - antonyms: be born, come to life
+        - related words: demise, death
+      - fit as a fiddle
+        - definition: to be in very good health.
+        - pronunciation: /fɪt æz ə ˈfɪd.əl/
+        - part of speech: idiom (adjective phrase)
+        - examples:
+          - Despite his age, he's fit as a fiddle.
+          - She recovered from the illness and is now fit as a fiddle.
+        - synonyms: healthy, robust
+        - antonyms: ill, weak
+        - related words: fitness, vitality
+      - under the knife
+        - definition: undergoing surgery.
+        - pronunciation: /ˈʌn.dər ðə naɪf/
+        - part of speech: idiom (adjective phrase)
+        - examples:
+          - He's going under the knife next week for his knee.
+          - She was nervous about going under the knife.
+        - synonyms: having surgery, being operated on
+        - antonyms: recovering, out of surgery
+        - related words: operation, surgical
+    - Work & Business
+      - hit the nail on the head
+        - definition: to describe exactly what is causing a situation or problem.
+        - pronunciation: /hɪt ðə neɪl ɒn ðə hɛd/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - You hit the nail on the head with your analysis.
+          - The manager hit the nail on the head about the issue.
+        - synonyms: be exactly right, pinpoint
+        - antonyms: miss the point, be inaccurate
+        - related words: accuracy, precision
+      - climb the corporate ladder
+        - definition: to advance in one's career within a company.
+        - pronunciation: /klaɪm ðə ˈkɔː.pər.ət ˈlæd.ər/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - She's eager to climb the corporate ladder.
+          - Hard work is necessary to climb the corporate ladder.
+        - synonyms: advance, get promoted
+        - antonyms: stagnate, get demoted
+        - related words: promotion, career advancement
+      - back to the drawing board
+        - definition: to start over after a failure or setback.
+        - pronunciation: /bæk tə ðə ˈdrɔː.ɪŋ bɔːd/
+        - part of speech: idiom (adverbial phrase)
+        - examples:
+          - The design didn't work; it's back to the drawing board.
+          - We need to go back to the drawing board and rethink our strategy.
+        - synonyms: start over, rethink
+        - antonyms: proceed, continue
+        - related words: redesign, reevaluate
+    - Relationships
+      - break the ice
+        - definition: to make people who have not met before feel more relaxed with each other.
+        - pronunciation: /breɪk ði aɪs/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - He told a joke to break the ice at the meeting.
+          - Games can help break the ice in a new group.
+        - synonyms: initiate conversation, ease tension
+        - antonyms: create awkwardness
+        - related words: icebreaker
+      - on the same wavelength
+        - definition: to share similar opinions and ideas.
+        - pronunciation: /ɒn ðə seɪm ˈweɪv.lɛŋθ/
+        - part of speech: idiom (adjective phrase)
+        - examples:
+          - They get along well because they're on the same wavelength.
+          - It's important to be on the same wavelength with your team.
+        - synonyms: in agreement, like-minded
+        - antonyms: disagreeing, at odds
+        - related words: harmony, understanding
+      - tie the knot
+        - definition: to get married.
+        - pronunciation: /taɪ ðə nɒt/
+        - part of speech: idiom (verb phrase)
+        - examples:
+          - They're planning to tie the knot next spring.
+          - After dating for years, they finally tied the knot.
+        - synonyms: marry, wed
+        - antonyms: divorce, separate
+        - related words: marriage, nuptials

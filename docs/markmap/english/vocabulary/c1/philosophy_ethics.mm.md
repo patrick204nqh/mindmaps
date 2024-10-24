@@ -1,0 +1,317 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- C1
+  - Philosophy & Ethics
+    - Philosophical Concepts
+      - epistemology
+        - definition: the branch of philosophy concerned with the theory of knowledge.
+        - pronunciation: /ɪˌpɪs.tɪˈmɒl.ə.dʒi/
+        - part of speech: noun
+        - examples:
+          - Epistemology examines the nature, origin, and limits of human knowledge.
+          - She specializes in epistemology and metaphysics.
+        - synonyms: theory of knowledge
+        - antonyms: n/a
+        - related words: epistemological, epistemologist
+      - metaphysics
+        - definition: a branch of philosophy that explores the fundamental nature of reality and existence.
+        - pronunciation: /ˌmɛt.əˈfɪz.ɪks/
+        - part of speech: noun
+        - examples:
+          - Metaphysics addresses questions that science cannot explain.
+          - His interest in metaphysics led him to study philosophy.
+        - synonyms: ontology, cosmology
+        - antonyms: n/a
+        - related words: metaphysical, metaphysician
+      - ontology
+        - definition: the philosophical study of being and existence.
+        - pronunciation: /ɒnˈtɒl.ə.dʒi/
+        - part of speech: noun
+        - examples:
+          - Ontology deals with the nature of reality.
+          - She wrote a paper on the ontology of time.
+        - synonyms: metaphysics, being
+        - antonyms: n/a
+        - related words: ontological, ontologist
+      - existentialism
+        - definition: a philosophical theory emphasizing individual existence, freedom, and choice.
+        - pronunciation: /ˌɛɡ.zɪˈstɛn.ʃəl.ɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Existentialism focuses on the individual's experience in a seemingly meaningless world.
+          - He explored existentialism in his novels.
+        - synonyms: existential philosophy
+        - antonyms: essentialism
+        - related words: existentialist, existential
+      - phenomenology
+        - definition: the study of structures of consciousness as experienced from the first-person point of view.
+        - pronunciation: /fɪˌnɒm.ɪˈnɒl.ə.dʒi/
+        - part of speech: noun
+        - examples:
+          - Phenomenology seeks to describe phenomena without theories about their causal explanation.
+          - She applied phenomenology to understand human perception.
+        - synonyms: experiential study
+        - antonyms: n/a
+        - related words: phenomenological, phenomenologist
+    - Ethical Theories
+      - utilitarianism
+        - definition: an ethical theory that promotes actions that maximize happiness and well-being for the majority.
+        - pronunciation: /ˌjuː.tɪl.ɪˈteə.ri.ə.nɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Utilitarianism assesses actions based on their consequences.
+          - He advocates for utilitarianism in public policy.
+        - synonyms: consequentialism
+        - antonyms: deontology
+        - related words: utilitarian, utility
+      - deontology
+        - definition: an ethical theory that uses rules to distinguish right from wrong.
+        - pronunciation: /ˌdiː.ɒnˈtɒl.ə.dʒi/
+        - part of speech: noun
+        - examples:
+          - Deontology emphasizes duties and adherence to rules.
+          - Kant's philosophy is grounded in deontology.
+        - synonyms: duty-based ethics
+        - antonyms: utilitarianism
+        - related words: deontological, deontologist
+      - virtue ethics
+        - definition: an ethical theory that emphasizes an individual's character as the key element of ethical thinking.
+        - pronunciation: /ˈvɜː.tʃuː ˈɛθ.ɪks/
+        - part of speech: noun
+        - examples:
+          - Virtue ethics focuses on moral character rather than rules.
+          - Aristotle is a major proponent of virtue ethics.
+        - synonyms: character ethics
+        - antonyms: consequentialism
+        - related words: virtue, virtuous
+      - consequentialism
+        - definition: the doctrine that the morality of an action is to be judged solely by its consequences.
+        - pronunciation: /ˌkɒn.sɪˈkwen.ʃə.lɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Consequentialism evaluates the outcomes of actions.
+          - Critics argue that consequentialism can justify unethical means.
+        - synonyms: results-based ethics
+        - antonyms: deontology
+        - related words: consequentialist, consequence
+      - moral relativism
+        - definition: the idea that there are no absolute or universal moral truths.
+        - pronunciation: /ˈmɒr.əl ˈrɛl.ə.tɪ.vɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Moral relativism suggests that ethics vary between cultures.
+          - He explored moral relativism in his thesis.
+        - synonyms: ethical relativism
+        - antonyms: moral absolutism
+        - related words: relativist, relativistic
+    - Logical Fallacies
+      - ad hominem
+        - definition: an argument directed against a person rather than the position they are maintaining.
+        - pronunciation: /æd ˈhɒm.ɪ.nəm/
+        - part of speech: noun
+        - examples:
+          - Resorting to ad hominem attacks weakens your argument.
+          - He avoided ad hominem fallacies during the debate.
+        - synonyms: personal attack
+        - antonyms: logical reasoning
+        - related words: fallacy, argumentum ad hominem
+      - straw man
+        - definition: misrepresenting someone's argument to make it easier to attack.
+        - pronunciation: /strɔː mæn/
+        - part of speech: noun
+        - examples:
+          - Setting up a straw man distracts from the real issue.
+          - The politician used a straw man to divert attention.
+        - synonyms: misrepresentation
+        - antonyms: accurate portrayal
+        - related words: fallacy, mischaracterization
+      - slippery slope
+        - definition: asserting that a relatively small first step leads to a chain of related events culminating in some significant effect.
+        - pronunciation: /ˈslɪp.ər.i sləʊp/
+        - part of speech: noun
+        - examples:
+          - The slippery slope argument suggests dire consequences without evidence.
+          - He warned against the slippery slope of increased surveillance.
+        - synonyms: domino effect
+        - antonyms: non-sequitur
+        - related words: fallacy, causal chain
+      - red herring
+        - definition: something that misleads or distracts from a relevant or important question.
+        - pronunciation: /rɛd ˈhɛr.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - Introducing irrelevant data is a red herring.
+          - The detective realized the clue was a red herring.
+        - synonyms: distraction, diversion
+        - antonyms: pertinent point
+        - related words: fallacy, misdirection
+      - circular reasoning
+        - definition: a logical fallacy in which the reasoner begins with what they are trying to end with.
+        - pronunciation: /ˈsɜː.kjə.lər ˈriː.zən.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - Claiming the Bible is true because it says so is circular reasoning.
+          - Circular reasoning fails to provide evidence.
+        - synonyms: begging the question
+        - antonyms: linear reasoning
+        - related words: fallacy, tautology
+    - Moral Philosophy
+      - altruism
+        - definition: selfless concern for the well-being of others.
+        - pronunciation: /ˈæl.truː.ɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Volunteering at the shelter is an act of altruism.
+          - Altruism is valued in many ethical systems.
+        - synonyms: selflessness, generosity
+        - antonyms: selfishness
+        - related words: altruistic, altruist
+      - egoism
+        - definition: an ethical theory that treats self-interest as the foundation of morality.
+        - pronunciation: /ˈiː.ɡəʊ.ɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - His decisions were guided by egoism.
+          - Egoism contrasts with altruism in moral philosophy.
+        - synonyms: self-interest
+        - antonyms: altruism
+        - related words: egoist, egoistic
+      - hedonism
+        - definition: the pursuit of pleasure as the highest good.
+        - pronunciation: /ˈhiː.dən.ɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Hedonism suggests that pleasure is the primary goal of life.
+          - Critics argue that hedonism can lead to excess.
+        - synonyms: pleasure-seeking
+        - antonyms: asceticism
+        - related words: hedonist, hedonistic
+      - nihilism
+        - definition: the rejection of all religious and moral principles, often in the belief that life is meaningless.
+        - pronunciation: /ˈnaɪ.ɪ.lɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Nihilism can result in a sense of despair.
+          - The philosophy of nihilism challenges established norms.
+        - synonyms: skepticism, pessimism
+        - antonyms: belief, optimism
+        - related words: nihilist, nihilistic
+      - moral absolutism
+        - definition: the ethical belief that certain actions are absolutely right or wrong, regardless of other contexts.
+        - pronunciation: /ˈmɒr.əl ˈæb.sə.luː.tɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Moral absolutism asserts that some actions are inherently unethical.
+          - He defended moral absolutism against relativist critiques.
+        - synonyms: ethical absolutism
+        - antonyms: moral relativism
+        - related words: absolutist, absolute
+    - Schools of Thought
+      - stoicism
+        - definition: a philosophy promoting the endurance of pain or hardship without complaint.
+        - pronunciation: /ˈstəʊ.ɪ.sɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - He faced adversity with stoicism.
+          - Stoicism teaches acceptance of fate.
+        - synonyms: fortitude, resilience
+        - antonyms: emotionalism
+        - related words: stoic, stoical
+      - empiricism
+        - definition: the theory that all knowledge is derived from sense-experience.
+        - pronunciation: /ɪmˈpɪr.ɪ.sɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Empiricism emphasizes observation in acquiring knowledge.
+          - The scientific method is grounded in empiricism.
+        - synonyms: experientialism
+        - antonyms: rationalism
+        - related words: empirical, empiricist
+      - rationalism
+        - definition: the belief that reason is the chief source of knowledge.
+        - pronunciation: /ˈræʃ.ən.əl.ɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Rationalism values logic over sensory experience.
+          - Descartes is a key figure in rationalism.
+        - synonyms: logical reasoning
+        - antonyms: empiricism
+        - related words: rationalist, rational
+      - skepticism
+        - definition: doubt as to the truth of something.
+        - pronunciation: /ˈskep.tɪ.sɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - His skepticism led him to question conventional wisdom.
+          - Philosophical skepticism challenges the possibility of certainty.
+        - synonyms: doubt, disbelief
+        - antonyms: conviction
+        - related words: skeptic, skeptical
+      - existentialism
+        - definition: a philosophy that emphasizes individual existence, freedom, and choice.
+        - pronunciation: /ˌɛɡ.zɪˈstɛn.ʃəl.ɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Existentialism explores the meaning of life.
+          - She was influenced by existentialism in her art.
+        - synonyms: existential philosophy
+        - antonyms: essentialism
+        - related words: existentialist, existential
+    - Metaphysics
+      - dualism
+        - definition: the division of something conceptually into two opposed aspects.
+        - pronunciation: /ˈdjuː.ə.lɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Dualism separates mind and body as distinct entities.
+          - The debate between dualism and monism is central to metaphysics.
+        - synonyms: dichotomy, binary
+        - antonyms: monism
+        - related words: dualist, dualistic
+      - monism
+        - definition: the doctrine that only one supreme being exists.
+        - pronunciation: /ˈmɒn.ɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Monism holds that all is one.
+          - Spinoza's philosophy is an example of monism.
+        - synonyms: unity, singularity
+        - antonyms: dualism
+        - related words: monist, monistic
+      - determinism
+        - definition: the philosophy that all events are determined completely by previously existing causes.
+        - pronunciation: /dɪˈtɜː.mɪ.nɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Determinism raises questions about free will.
+          - He believes in determinism rather than randomness.
+        - synonyms: fate, predestination
+        - antonyms: free will
+        - related words: deterministic, determine
+      - free will
+        - definition: the ability to choose between different possible courses of action unimpeded.
+        - pronunciation: /friː wɪl/
+        - part of speech: noun
+        - examples:
+          - The existence of free will is debated in philosophy.
+          - She argues that free will is compatible with determinism.
+        - synonyms: autonomy, volition
+        - antonyms: determinism
+        - related words: freedom, willing
+      - idealism
+        - definition: the theory that reality is mentally constructed or immaterial.
+        - pronunciation: /aɪˈdɪə.lɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Idealism posits that the mind shapes reality.
+          - Kant's philosophy includes elements of idealism.
+        - synonyms: immaterialism
+        - antonyms: materialism
+        - related words: idealist, idealistic

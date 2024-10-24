@@ -1,0 +1,348 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- C1
+  - Cultural Studies
+    - Cultural Identity
+      - identity
+        - definition: the qualities, beliefs, etc., that make a particular person or group different from others.
+        - pronunciation: /aɪˈdɛn.tɪ.ti/
+        - part of speech: noun
+        - examples:
+          - She struggled with her cultural identity after moving abroad.
+          - Language plays a crucial role in shaping one's identity.
+        - synonyms: individuality, selfhood
+        - antonyms: impersonality
+        - related words: identify, identification
+      - assimilation
+        - definition: the process of taking in and fully understanding information or ideas; absorption of people into a wider society or culture.
+        - pronunciation: /əˌsɪm.ɪˈleɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Assimilation can lead to the loss of cultural identity.
+          - The policy encouraged the assimilation of immigrants.
+        - synonyms: integration, absorption
+        - antonyms: segregation, differentiation
+        - related words: assimilate, assimilated
+      - multiculturalism
+        - definition: the presence of, or support for the presence of, several distinct cultural or ethnic groups within a society.
+        - pronunciation: /ˌmʌl.tiˈkʌl.tʃər.əl.ɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Multiculturalism promotes diversity and inclusion.
+          - The city is known for its multiculturalism.
+        - synonyms: cultural diversity, pluralism
+        - antonyms: monoculturalism
+        - related words: multicultural, multiculturalist
+      - acculturation
+        - definition: the process of cultural change and psychological change that results following the meeting between cultures.
+        - pronunciation: /əˌkʌl.tʃəˈreɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Acculturation can influence language use.
+          - They experienced acculturation after moving abroad.
+        - synonyms: adaptation, cultural exchange
+        - antonyms: deculturation
+        - related words: acculturate, acculturated
+      - ethnocentrism
+        - definition: evaluation of other cultures according to preconceptions originating in the standards of one's own culture.
+        - pronunciation: /ˌɛθ.nəʊˈsɛn.trɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Ethnocentrism can lead to cultural misunderstandings.
+          - Overcoming ethnocentrism is important in global interactions.
+        - synonyms: cultural bias, nationalism
+        - antonyms: cultural relativism
+        - related words: ethnocentric, ethnocentrically
+    - Representation
+      - stereotype
+        - definition: a widely held but oversimplified image or idea of a particular type of person or thing.
+        - pronunciation: /ˈstɛr.i.ə.taɪp/
+        - part of speech: noun, verb
+        - examples:
+          - The media often perpetuates stereotypes.
+          - She challenged the stereotype of the silent woman.
+        - synonyms: cliché, generalization
+        - antonyms: individuality
+        - related words: stereotypical, stereotyped
+      - otherness
+        - definition: the quality or fact of being different or distinct.
+        - pronunciation: /ˈʌð.ə.nəs/
+        - part of speech: noun
+        - examples:
+          - The concept of otherness is central to cultural studies.
+          - They explored themes of identity and otherness in the novel.
+        - synonyms: difference, alterity
+        - antonyms: sameness, familiarity
+        - related words: other, othering
+      - marginalization
+        - definition: treatment of a person, group, or concept as insignificant or peripheral.
+        - pronunciation: /ˌmɑː.dʒɪ.nə.laɪˈzeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Marginalization of minority groups can lead to social injustice.
+          - The study focuses on the marginalization in urban areas.
+        - synonyms: exclusion, disenfranchisement
+        - antonyms: inclusion, acceptance
+        - related words: marginalize, marginalized
+      - discourse
+        - definition: written or spoken communication or debate.
+        - pronunciation: /ˈdɪs.kɔːs/
+        - part of speech: noun
+        - examples:
+          - The discourse on gender has evolved over time.
+          - Academic discourse requires critical thinking.
+        - synonyms: conversation, dialogue
+        - antonyms: silence
+        - related words: discursive, discoursing
+      - narrative
+        - definition: a spoken or written account of connected events; a story.
+        - pronunciation: /ˈnær.ə.tɪv/
+        - part of speech: noun, adjective
+        - examples:
+          - The narrative reflects cultural values.
+          - She analyzed the narrative structure of the film.
+        - synonyms: story, tale
+        - antonyms: -
+        - related words: narrate, narrator
+    - Hegemony
+      - hegemony
+        - definition: leadership or dominance by one country or social group over others.
+        - pronunciation: /hɪˈdʒɛm.ə.ni/
+        - part of speech: noun
+        - examples:
+          - Cultural hegemony can influence societal norms.
+          - The empire established hegemony over its neighbors.
+        - synonyms: dominance, supremacy
+        - antonyms: subordination
+        - related words: hegemonic, hegemon
+      - ideology
+        - definition: a system of ideas and ideals forming the basis of economic or political theory.
+        - pronunciation: /ˌaɪ.dɪˈɒl.ə.dʒi/
+        - part of speech: noun
+        - examples:
+          - Their ideology shapes their cultural practices.
+          - The study examines the ideology behind media representations.
+        - synonyms: beliefs, doctrine
+        - antonyms: pragmatism
+        - related words: ideological, ideologue
+      - subaltern
+        - definition: of lower status; subordinate.
+        - pronunciation: /sʌbˈɔːl.tən/
+        - part of speech: adjective, noun
+        - examples:
+          - The voices of subaltern groups are often marginalized.
+          - Subaltern studies focus on perspectives from below.
+        - synonyms: subordinate, inferior
+        - antonyms: dominant, superior
+        - related words: subalternity
+      - discourse
+        - definition: written or spoken communication or debate.
+        - pronunciation: /ˈdɪs.kɔːs/
+        - part of speech: noun
+        - examples:
+          - Hegemonic discourse can suppress alternative viewpoints.
+          - They analyzed the discourse used in political speeches.
+        - synonyms: dialogue, discussion
+        - antonyms: silence
+        - related words: discursive, discoursing
+    - Cultural Capital
+      - cultural capital
+        - definition: non-financial social assets that promote social mobility.
+        - pronunciation: /ˈkʌl.tʃər.əl ˈkæp.ɪ.təl/
+        - part of speech: noun
+        - examples:
+          - Possessing cultural capital can influence one's success.
+          - Education is a form of cultural capital.
+        - synonyms: social assets, knowledge
+        - antonyms: material capital
+        - related words: capital, capitalize
+      - habitus
+        - definition: ingrained habits, skills, and dispositions.
+        - pronunciation: /ˈhæb.ɪ.təs/
+        - part of speech: noun
+        - examples:
+          - His habitus influenced his taste in art.
+          - Habitus shapes our perceptions and actions.
+        - synonyms: disposition, inclination
+        - antonyms: -
+        - related words: habitual, habit
+      - field
+        - definition: a sphere of activity or interest; social arena where people compete.
+        - pronunciation: /fiːld/
+        - part of speech: noun
+        - examples:
+          - She navigated the cultural field with expertise.
+          - The academic field is highly competitive.
+        - synonyms: domain, area
+        - antonyms: -
+        - related words: fieldwork, fielding
+      - symbolic capital
+        - definition: resources available to an individual based on honor, prestige, or recognition.
+        - pronunciation: /sɪmˈbɒl.ɪk ˈkæp.ɪ.təl/
+        - part of speech: noun
+        - examples:
+          - Titles and awards are forms of symbolic capital.
+          - He leveraged his symbolic capital to gain influence.
+        - synonyms: prestige, reputation
+        - antonyms: obscurity
+        - related words: symbol, symbolism
+      - social capital
+        - definition: networks of relationships among people who live and work in a particular society.
+        - pronunciation: /ˈsəʊ.ʃəl ˈkæp.ɪ.təl/
+        - part of speech: noun
+        - examples:
+          - Social capital facilitates coordination and cooperation.
+          - Building social capital can enhance community development.
+        - synonyms: networks, connections
+        - antonyms: isolation
+        - related words: society, socialize
+    - Postcolonialism
+      - postcolonialism
+        - definition: academic study of the cultural legacy of colonialism and imperialism.
+        - pronunciation: /ˌpəʊst.kəˈləʊ.ni.əl.ɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Postcolonialism critiques the impact of colonization.
+          - They examined literature through a postcolonial lens.
+        - synonyms: decolonization studies
+        - antonyms: colonialism
+        - related words: postcolonial, postcoloniality
+      - hybridity
+        - definition: the concept of mixing cultures and identities.
+        - pronunciation: /haɪˈbrɪd.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Hybridity challenges traditional cultural boundaries.
+          - The city's culture is a product of hybridity.
+        - synonyms: mixture, fusion
+        - antonyms: purity, homogeneity
+        - related words: hybrid, hybridization
+      - orientalism
+        - definition: the representation of Asia in a stereotyped way embodying a colonialist attitude.
+        - pronunciation: /ˌɔːr.iˈɛn.təl.ɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Orientalism has shaped Western perceptions of the East.
+          - The book critiques orientalism in art.
+        - synonyms: exoticism, othering
+        - antonyms: occidentalism
+        - related words: oriental, orientalist
+      - decolonization
+        - definition: the process of a colony gaining independence from a colonial power.
+        - pronunciation: /ˌdiːˌkɒl.ə.naɪˈzeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Decolonization movements spread across Africa and Asia.
+          - The effects of decolonization are still felt today.
+        - synonyms: liberation, independence
+        - antonyms: colonization
+        - related words: decolonize, decolonized
+      - imperialism
+        - definition: a policy of extending a country's power and influence through colonization or military force.
+        - pronunciation: /ɪmˈpɪə.ri.ə.lɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Imperialism led to the exploitation of indigenous peoples.
+          - The novel critiques the ideology of imperialism.
+        - synonyms: expansionism, colonialism
+        - antonyms: isolationism
+        - related words: imperialist, imperialistic
+    - Popular Culture
+      - popular culture
+        - definition: mainstream ideas, perspectives, attitudes, images, and other phenomena within the mainstream of a given culture.
+        - pronunciation: /ˈpɒp.jʊ.lər ˈkʌl.tʃər/
+        - part of speech: noun
+        - examples:
+          - Popular culture often reflects societal trends.
+          - She studies the influence of popular culture on youth.
+        - synonyms: mass culture, pop culture
+        - antonyms: high culture
+        - related words: popularity, popularize
+      - subculture
+        - definition: a cultural group within a larger culture, often having beliefs or interests at variance with those of the larger culture.
+        - pronunciation: /ˈsʌb.kʌl.tʃər/
+        - part of speech: noun
+        - examples:
+          - The punk subculture emerged in the 1970s.
+          - Subcultures can challenge mainstream norms.
+        - synonyms: subgroup, faction
+        - antonyms: mainstream
+        - related words: subcultural, subculturally
+      - consumerism
+        - definition: the preoccupation of society with the acquisition of consumer goods.
+        - pronunciation: /kənˈsjuː.mə.rɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Consumerism drives economic growth.
+          - Critics argue that consumerism leads to materialism.
+        - synonyms: materialism, consumption
+        - antonyms: minimalism
+        - related words: consumerist, consume
+      - mass culture
+        - definition: cultural elements that are administered by large organizations, lack spontaneity, and are phony.
+        - pronunciation: /mæs ˈkʌl.tʃər/
+        - part of speech: noun
+        - examples:
+          - Mass culture can lead to homogenization.
+          - Television played a significant role in shaping mass culture.
+        - synonyms: popular culture, mainstream culture
+        - antonyms: folk culture
+        - related words: mass media, mass production
+    - Subculture
+      - counterculture
+        - definition: a way of life and set of attitudes opposed to or at variance with the prevailing social norm.
+        - pronunciation: /ˈkaʊn.təˌkʌl.tʃər/
+        - part of speech: noun
+        - examples:
+          - The 1960s saw the rise of the counterculture movement.
+          - Countercultures challenge established values.
+        - synonyms: anti-establishment, dissent
+        - antonyms: conformity
+        - related words: countercultural
+      - identity politics
+        - definition: political positions based on the interests and perspectives of social groups with which people identify.
+        - pronunciation: /aɪˈdɛn.tɪ.ti ˈpɒl.ɪ.tɪks/
+        - part of speech: noun
+        - examples:
+          - Identity politics focuses on issues relevant to various groups.
+          - Debates over identity politics have intensified in recent years.
+        - synonyms: group politics, sectionalism
+        - antonyms: universalism
+        - related words: political identity
+      - appropriation
+        - definition: the action of taking something for one's own use, typically without the owner's permission.
+        - pronunciation: /əˌprəʊ.priˈeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Cultural appropriation can be controversial.
+          - The artist faced criticism for appropriation of indigenous motifs.
+        - synonyms: adoption, borrowing
+        - antonyms: original creation
+        - related words: appropriate, appropriated
+      - commodification
+        - definition: the action or process of treating something as a mere commodity.
+        - pronunciation: /kəˌmɒd.ɪ.fɪˈkeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Commodification of culture can lead to exploitation.
+          - They analyzed the commodification of art in capitalist societies.
+        - synonyms: commercialization, monetization
+        - antonyms: decommodification
+        - related words: commodify, commodity
+      - bricolage
+        - definition: construction or creation from a diverse range of available things.
+        - pronunciation: /ˌbriː.kəˈlɑːʒ/
+        - part of speech: noun
+        - examples:
+          - Subcultures often engage in bricolage to create new styles.
+          - The artwork is an example of cultural bricolage.
+        - synonyms: improvisation, assemblage
+        - antonyms: uniformity
+        - related words: bricoleur

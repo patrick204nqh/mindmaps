@@ -1,0 +1,511 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- C1
+  - Advanced Science & Technology
+    - Artificial Intelligence
+      - algorithm
+        - definition: a set of rules or steps used to solve a problem or perform a computation.
+        - pronunciation: /ˈæl.ɡəˌrɪð.əm/
+        - part of speech: noun
+        - examples:
+          - The algorithm improved the efficiency of the search engine.
+          - Encryption algorithms secure our online transactions.
+        - synonyms: procedure, formula
+        - antonyms: guesswork
+        - related words: computational, algorithmic
+      - machine learning
+        - definition: a branch of artificial intelligence that enables systems to learn from data and improve from experience without being explicitly programmed.
+        - pronunciation: /məˈʃiːn ˈlɜː.nɪŋ/
+        - part of speech: noun
+        - examples:
+          - Machine learning algorithms are used in recommendation systems.
+          - She specializes in machine learning and data science.
+        - synonyms: artificial intelligence, predictive modeling
+        - antonyms: manual programming
+        - related words: deep learning, neural networks
+      - neural network
+        - definition: a computational model inspired by the human brain's interconnected neuron structure.
+        - pronunciation: /ˈnjʊə.rəl ˈnɛt.wɜːk/
+        - part of speech: noun
+        - examples:
+          - Neural networks can recognize patterns in large datasets.
+          - The neural network was trained to detect anomalies.
+        - synonyms: artificial neural network, connectionist system
+        - antonyms: linear model
+        - related words: neurons, synapses
+      - data mining
+        - definition: the process of discovering patterns and relationships in large volumes of data.
+        - pronunciation: /ˈdeɪ.tə ˈmaɪ.nɪŋ/
+        - part of speech: noun
+        - examples:
+          - Data mining helps companies understand consumer behavior.
+          - She used data mining techniques to analyze the survey results.
+        - synonyms: data analysis, knowledge discovery
+        - antonyms: data ignorance
+        - related words: big data, analytics
+      - automation
+        - definition: the use of technology to perform tasks without human intervention.
+        - pronunciation: /ˌɔː.təˈmeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Automation has increased productivity in manufacturing.
+          - They implemented automation to reduce labor costs.
+        - synonyms: mechanization, robotization
+        - antonyms: manual operation
+        - related words: automate, automated
+    - Quantum Physics
+      - superposition
+        - definition: a fundamental principle of quantum mechanics where a physical system exists simultaneously in all its possible states.
+        - pronunciation: /ˌsuː.pə.pəˈzɪʃ.ən/
+        - part of speech: noun
+        - examples:
+          - The electron's superposition was observed in the experiment.
+          - Superposition allows particles to be in multiple states at once.
+        - synonyms: overlay, combination
+        - antonyms: singularity
+        - related words: quantum state, interference
+      - entanglement
+        - definition: a quantum phenomenon where particles become interconnected and the state of one cannot be described independently of the state of the other.
+        - pronunciation: /ɪnˈtæŋ.ɡəl.mənt/
+        - part of speech: noun
+        - examples:
+          - Quantum entanglement challenges classical notions of locality.
+          - The entanglement of particles was demonstrated experimentally.
+        - synonyms: interconnection, linkage
+        - antonyms: separation
+        - related words: entangle, entangled
+      - quantum computing
+        - definition: a type of computation that uses quantum bits to perform operations at speeds unattainable by classical computers.
+        - pronunciation: /ˈkwɒn.təm kəmˈpjuː.tɪŋ/
+        - part of speech: noun
+        - examples:
+          - Quantum computing could revolutionize data processing.
+          - Researchers are developing algorithms for quantum computing.
+        - synonyms: quantum computation
+        - antonyms: classical computing
+        - related words: qubit, superposition
+      - uncertainty principle
+        - definition: a fundamental theory in quantum mechanics stating that it is impossible to know both the position and momentum of a particle simultaneously with absolute precision.
+        - pronunciation: /ʌnˈsɜː.tən.ti ˈprɪn.sɪ.pəl/
+        - part of speech: noun
+        - examples:
+          - The uncertainty principle limits our ability to predict particle behavior.
+          - Heisenberg formulated the uncertainty principle.
+        - synonyms: indeterminacy principle
+        - antonyms: certainty, determinism
+        - related words: quantum mechanics, Heisenberg
+      - qubit
+        - definition: the basic unit of quantum information, analogous to a bit in classical computing.
+        - pronunciation: /ˈkjuː.bɪt/
+        - part of speech: noun
+        - examples:
+          - Qubits can represent both 0 and 1 simultaneously.
+          - The quantum computer uses superconducting qubits.
+        - synonyms: quantum bit
+        - antonyms: classical bit
+        - related words: quantum computing, superposition
+    - Biotechnology
+      - genome
+        - definition: the complete set of genes or genetic material present in a cell or organism.
+        - pronunciation: /ˈdʒiː.nəʊm/
+        - part of speech: noun
+        - examples:
+          - The human genome was sequenced in 2003.
+          - Genome editing allows for precise genetic modifications.
+        - synonyms: genetic code, genetic makeup
+        - antonyms: proteome
+        - related words: genomic, genomics
+      - genetic engineering
+        - definition: the deliberate modification of the characteristics of an organism by manipulating its genetic material.
+        - pronunciation: /dʒəˈnɛt.ɪk ˌɛn.dʒɪˈnɪə.rɪŋ/
+        - part of speech: noun
+        - examples:
+          - Genetic engineering has led to the development of GMOs.
+          - They used genetic engineering to produce insulin.
+        - synonyms: gene editing, genetic modification
+        - antonyms: natural selection
+        - related words: genetically modified, biotechnology
+      - CRISPR
+        - definition: a technology that can be used to edit genes and, as such, will likely change the world.
+        - pronunciation: /ˈkrɪs.pər/
+        - part of speech: noun
+        - examples:
+          - CRISPR allows for precise editing of DNA sequences.
+          - The CRISPR system was discovered in bacteria.
+        - synonyms: gene-editing tool
+        - antonyms: -
+        - related words: Cas9, gene editing
+      - cloning
+        - definition: the process of producing similar populations of genetically identical individuals.
+        - pronunciation: /ˈkləʊ.nɪŋ/
+        - part of speech: noun
+        - examples:
+          - Cloning has been used to replicate plants and animals.
+          - Ethical debates surround human cloning.
+        - synonyms: duplication, replication
+        - antonyms: diversification
+        - related words: clone, cloned
+      - bioethics
+        - definition: the study of the ethical issues emerging from advances in biology and medicine.
+        - pronunciation: /ˌbaɪ.əʊˈɛθ.ɪks/
+        - part of speech: noun
+        - examples:
+          - Bioethics addresses the moral implications of genetic engineering.
+          - She is a professor of bioethics.
+        - synonyms: medical ethics, moral philosophy
+        - antonyms: -
+        - related words: bioethical, bioethicist
+    - Nanotechnology
+      - nanoparticle
+        - definition: a microscopic particle whose size is measured in nanometers.
+        - pronunciation: /ˈnæn.əʊˌpɑː.tɪ.kəl/
+        - part of speech: noun
+        - examples:
+          - Nanoparticles are used in drug delivery systems.
+          - They studied the properties of gold nanoparticles.
+        - synonyms: ultrafine particle
+        - antonyms: macroparticle
+        - related words: nanoscale, nanomaterial
+      - nanomaterials
+        - definition: materials with structural components smaller than 100 nanometers.
+        - pronunciation: /ˌnæn.əʊ.məˈtɪə.ri.əlz/
+        - part of speech: noun (plural)
+        - examples:
+          - Nanomaterials have unique optical properties.
+          - The construction industry is exploring nanomaterials for stronger composites.
+        - synonyms: nanostructures
+        - antonyms: bulk materials
+        - related words: nanotechnology, nanofabrication
+      - nanoscale
+        - definition: referring to objects with dimensions of 1 to 100 nanometers.
+        - pronunciation: /ˈnæn.əʊ.skeɪl/
+        - part of speech: adjective
+        - examples:
+          - Nanoscale devices can interact with biological molecules.
+          - Researchers manipulate matter at the nanoscale.
+        - synonyms: nanoscopic
+        - antonyms: macroscale
+        - related words: nanometer, nanoscience
+      - self-assembly
+        - definition: a process by which molecules adopt a defined arrangement without guidance or management from an outside source.
+        - pronunciation: /sɛlf əˈsɛm.bli/
+        - part of speech: noun
+        - examples:
+          - Self-assembly is crucial in the formation of nanostructures.
+          - They studied the self-assembly of proteins.
+        - synonyms: spontaneous organization
+        - antonyms: externally assembled
+        - related words: self-assemble, self-assembling
+      - nanorobotics
+        - definition: the technology of creating machines or robots at or close to the scale of a nanometer.
+        - pronunciation: /ˌnæn.əʊ.rəʊˈbɒt.ɪks/
+        - part of speech: noun
+        - examples:
+          - Nanorobotics could revolutionize medicine by performing tasks inside the human body.
+          - The field of nanorobotics is rapidly advancing.
+        - synonyms: nanobots, nanomachines
+        - antonyms: macrorobotics
+        - related words: nanorobot, nanotechnology
+    - Cybersecurity
+      - encryption
+        - definition: the process of converting information or data into a code to prevent unauthorized access.
+        - pronunciation: /ɪnˈkrɪp.ʃən/
+        - part of speech: noun
+        - examples:
+          - Encryption secures sensitive data during transmission.
+          - They use strong encryption algorithms for security.
+        - synonyms: coding, enciphering
+        - antonyms: decryption
+        - related words: encrypt, encrypted
+      - firewall
+        - definition: a network security system that monitors and controls incoming and outgoing network traffic.
+        - pronunciation: /ˈfaɪə.wɔːl/
+        - part of speech: noun
+        - examples:
+          - The firewall blocked unauthorized access attempts.
+          - Companies install firewalls to protect their networks.
+        - synonyms: security barrier, filter
+        - antonyms: open access
+        - related words: firewalling
+      - malware
+        - definition: software designed to disrupt, damage, or gain unauthorized access to a computer system.
+        - pronunciation: /ˈmæl.weər/
+        - part of speech: noun
+        - examples:
+          - The malware infected thousands of computers.
+          - Anti-malware programs can detect and remove threats.
+        - synonyms: virus, spyware
+        - antonyms: antivirus
+        - related words: malicious software, trojan
+      - vulnerability
+        - definition: a weakness that can be exploited by a threat actor to perform unauthorized actions.
+        - pronunciation: /ˌvʌl.nərəˈbɪl.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - They patched the vulnerability in the software.
+          - Vulnerabilities can lead to security breaches.
+        - synonyms: weakness, susceptibility
+        - antonyms: strength, immunity
+        - related words: vulnerable, vulnerably
+      - authentication
+        - definition: the process of verifying the identity of a user or process.
+        - pronunciation: /ɔːˌθɛn.tɪˈkeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Two-factor authentication adds an extra layer of security.
+          - Authentication protocols ensure that users are legitimate.
+        - synonyms: verification, validation
+        - antonyms: falsification
+        - related words: authenticate, authentic
+    - Renewable Energy
+      - photovoltaics
+        - definition: technology that converts light into electrical energy using semiconducting materials.
+        - pronunciation: /ˌfəʊ.təʊ.vɒlˈteɪ.ɪks/
+        - part of speech: noun
+        - examples:
+          - Photovoltaics are used in solar panels to generate electricity.
+          - Advances in photovoltaics have reduced the cost of solar energy.
+        - synonyms: solar power technology
+        - antonyms: fossil fuel technology
+        - related words: photovoltaic cell, solar cell
+      - biomass
+        - definition: organic material that comes from plants and animals, used as a renewable energy source.
+        - pronunciation: /ˈbaɪ.əʊ.mæs/
+        - part of speech: noun
+        - examples:
+          - Biomass can be converted into biofuels.
+          - They use biomass for heating and electricity generation.
+        - synonyms: organic fuel, biofuel
+        - antonyms: inorganic matter
+        - related words: bioenergy, biogas
+      - geothermal
+        - definition: relating to or produced by the internal heat of the earth.
+        - pronunciation: /ˌdʒiː.əʊˈθɜː.məl/
+        - part of speech: adjective
+        - examples:
+          - Geothermal energy is harnessed from hot springs.
+          - They installed a geothermal heating system.
+        - synonyms: earth heat
+        - antonyms: atmospheric
+        - related words: geothermal energy, geothermal power
+      - sustainability
+        - definition: avoidance of the depletion of natural resources in order to maintain ecological balance.
+        - pronunciation: /səˌsteɪ.nəˈbɪl.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Sustainability is a key goal in environmental policy.
+          - They focus on sustainability in their business practices.
+        - synonyms: environmental responsibility, viability
+        - antonyms: unsustainability
+        - related words: sustainable, sustainably
+      - carbon footprint
+        - definition: the amount of carbon dioxide released into the atmosphere as a result of the activities of a particular individual, organization, or community.
+        - pronunciation: /ˈkɑː.bən ˈfʊt.prɪnt/
+        - part of speech: noun
+        - examples:
+          - Reducing your carbon footprint can mitigate climate change.
+          - The company aims to offset its carbon footprint.
+        - synonyms: carbon emissions
+        - antonyms: carbon sequestration
+        - related words: greenhouse gases, emissions
+    - Space Exploration
+      - exoplanet
+        - definition: a planet that orbits a star outside the solar system.
+        - pronunciation: /ˈɛk.səʊˌplæn.ɪt/
+        - part of speech: noun
+        - examples:
+          - Scientists discovered a new exoplanet in the habitable zone.
+          - Exoplanet research expands our understanding of the universe.
+        - synonyms: extrasolar planet
+        - antonyms: planet (within solar system)
+        - related words: exoplanetary, astrophysics
+      - propulsion
+        - definition: the action of driving or pushing forward.
+        - pronunciation: /prəˈpʌl.ʃən/
+        - part of speech: noun
+        - examples:
+          - Rocket propulsion enables spacecraft to escape Earth's gravity.
+          - They developed a new propulsion system for satellites.
+        - synonyms: thrust, drive
+        - antonyms: drag
+        - related words: propel, propellant
+      - orbital mechanics
+        - definition: the application of ballistics and celestial mechanics to the practical problems concerning the motion of rockets and other spacecraft.
+        - pronunciation: /ˈɔː.bɪ.təl mɪˈkæn.ɪks/
+        - part of speech: noun
+        - examples:
+          - Understanding orbital mechanics is essential for satellite deployment.
+          - He teaches a course on orbital mechanics.
+        - synonyms: astrodynamics
+        - antonyms: -
+        - related words: orbit, orbital
+      - astrophysics
+        - definition: the branch of astronomy concerned with the physical nature of stars and other celestial bodies.
+        - pronunciation: /ˌæs.trəʊˈfɪz.ɪks/
+        - part of speech: noun
+        - examples:
+          - Astrophysics explores the properties of black holes.
+          - She is an astrophysics researcher studying neutron stars.
+        - synonyms: astronomy, cosmology
+        - antonyms: -
+        - related words: astrophysicist, astrophysical
+      - interstellar
+        - definition: occurring or situated between stars.
+        - pronunciation: /ˌɪn.təˈstɛl.ər/
+        - part of speech: adjective
+        - examples:
+          - The spacecraft embarked on an interstellar mission.
+          - Interstellar travel remains a challenge for humanity.
+        - synonyms: space, cosmic
+        - antonyms: terrestrial
+        - related words: interstellar space, interplanetary
+    - Information Technology
+      - cloud computing
+        - definition: the practice of using a network of remote servers hosted on the internet to store, manage, and process data.
+        - pronunciation: /klaʊd kəmˈpjuː.tɪŋ/
+        - part of speech: noun
+        - examples:
+          - Cloud computing allows access to data from anywhere.
+          - They migrated their services to cloud computing platforms.
+        - synonyms: online storage, internet computing
+        - antonyms: local computing
+        - related words: cloud storage, cloud services
+      - bandwidth
+        - definition: the amount of data that can be transmitted in a fixed amount of time.
+        - pronunciation: /ˈbænd.wɪdθ/
+        - part of speech: noun
+        - examples:
+          - High bandwidth is necessary for streaming videos.
+          - The network's bandwidth was upgraded.
+        - synonyms: data rate, capacity
+        - antonyms: latency
+        - related words: broadband, bandwidth limit
+      - virtualization
+        - definition: the creation of a virtual version of something, such as a hardware platform, storage device, or network resources.
+        - pronunciation: /ˌvɜː.tʃu.ə.laɪˈzeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Virtualization allows multiple operating systems on one server.
+          - They implemented virtualization to optimize resource use.
+        - synonyms: simulation, emulation
+        - antonyms: physicalization
+        - related words: virtualize, virtual
+      - database
+        - definition: an organized collection of data, generally stored and accessed electronically.
+        - pronunciation: /ˈdeɪ.tə.beɪs/
+        - part of speech: noun
+        - examples:
+          - The database stores customer information securely.
+          - Database management systems are essential in IT.
+        - synonyms: data bank, data archive
+        - antonyms: -
+        - related words: data, databasing
+      - interoperability
+        - definition: the ability of computer systems or software to exchange and make use of information.
+        - pronunciation: /ˌɪn.tər.ɒp.ər.əˈbɪl.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Interoperability between devices improves user experience.
+          - Standards are important for ensuring interoperability.
+        - synonyms: compatibility, integration
+        - antonyms: incompatibility
+        - related words: interoperable, interoperate
+    - Robotics
+      - actuator
+        - definition: a component of a machine responsible for moving or controlling a mechanism or system.
+        - pronunciation: /ˈæk.tʃu.eɪ.tər/
+        - part of speech: noun
+        - examples:
+          - The robot's actuator controls its arm movements.
+          - They designed a new type of actuator for precision.
+        - synonyms: mover, driver
+        - antonyms: sensor
+        - related words: actuation, actuate
+      - humanoid
+        - definition: having an appearance or character resembling that of a human.
+        - pronunciation: /ˈhjuː.mə.nɔɪd/
+        - part of speech: adjective, noun
+        - examples:
+          - The humanoid robot can walk and talk.
+          - They are developing humanoid robots for assistance roles.
+        - synonyms: humanlike, anthropomorphic
+        - antonyms: robotic
+        - related words: human, anthropoid
+      - telemetry
+        - definition: the process of recording and transmitting the readings of an instrument.
+        - pronunciation: /tɪˈlɛm.ɪ.tri/
+        - part of speech: noun
+        - examples:
+          - Telemetry data helps monitor the robot's performance.
+          - They used telemetry to track the spacecraft.
+        - synonyms: remote measurement, data transmission
+        - antonyms: direct measurement
+        - related words: telemeter, telemetric
+      - autonomy
+        - definition: the ability of a system to make decisions and perform tasks without human intervention.
+        - pronunciation: /ɔːˈtɒn.ə.mi/
+        - part of speech: noun
+        - examples:
+          - The robot operates with a high level of autonomy.
+          - Autonomous vehicles rely on sensors and AI.
+        - synonyms: independence, self-governance
+        - antonyms: dependence
+        - related words: autonomous, autonomously
+    - Genetics
+      - heredity
+        - definition: the passing on of physical or mental characteristics genetically from one generation to another.
+        - pronunciation: /hɪˈrɛd.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Heredity plays a role in certain diseases.
+          - They studied patterns of heredity in plants.
+        - synonyms: genetic transmission, inheritance
+        - antonyms: acquired traits
+        - related words: hereditary, inherit
+      - mutation
+        - definition: the changing of the structure of a gene, resulting in a variant form.
+        - pronunciation: /mjuːˈteɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Mutations can lead to genetic disorders.
+          - The mutation caused a change in the protein structure.
+        - synonyms: alteration, variation
+        - antonyms: stability
+        - related words: mutate, mutagen
+      - phenotype
+        - definition: the set of observable characteristics of an individual resulting from the interaction of its genotype with the environment.
+        - pronunciation: /ˈfiː.nəʊ.taɪp/
+        - part of speech: noun
+        - examples:
+          - The phenotype is influenced by both genes and environment.
+          - They recorded the phenotypes of the experimental group.
+        - synonyms: appearance, trait
+        - antonyms: genotype
+        - related words: phenotypic, phenotypically
+      - genotype
+        - definition: the genetic constitution of an individual organism.
+        - pronunciation: /ˈdʒɛn.əʊ.taɪp/
+        - part of speech: noun
+        - examples:
+          - The genotype determines potential characteristics.
+          - They analyzed the genotypes of different strains.
+        - synonyms: genetic makeup, genome
+        - antonyms: phenotype
+        - related words: genotypic, genotyping
+      - epigenetics
+        - definition: the study of changes in organisms caused by modification of gene expression rather than alteration of the genetic code itself.
+        - pronunciation: /ˌɛp.ɪ.dʒəˈnɛt.ɪks/
+        - part of speech: noun
+        - examples:
+          - Epigenetics explores how environmental factors affect genes.
+          - She is researching epigenetic markers in cancer cells.
+        - synonyms: gene regulation
+        - antonyms: genetics
+        - related words: epigenetic, epigenome

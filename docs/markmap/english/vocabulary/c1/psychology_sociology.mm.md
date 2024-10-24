@@ -1,0 +1,521 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- C1
+  - Psychology & Sociology
+    - Psychological Theories
+      - psychoanalysis
+        - definition: a set of psychological theories and therapeutic techniques that deal with the unconscious mind.
+        - pronunciation: /ˌsaɪ.kəʊ.əˈnæl.ə.sɪs/
+        - part of speech: noun
+        - examples:
+          - Freud developed psychoanalysis as a method for treating mental illness.
+          - She studied psychoanalysis to understand human behavior.
+        - synonyms: depth psychology, Freudian therapy
+        - antonyms: behaviorism
+        - related words: psychoanalyst, psychoanalytic
+      - behaviorism
+        - definition: a theory of learning which states that all behaviors are acquired through conditioning.
+        - pronunciation: /bɪˈheɪ.vjər.ɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Behaviorism focuses on observable behaviors rather than internal states.
+          - He applied behaviorism principles in his teaching methods.
+        - synonyms: behavioral psychology
+        - antonyms: psychoanalysis
+        - related words: behaviorist, behavioral
+      - cognitive dissonance
+        - definition: the mental discomfort experienced by a person who holds contradictory beliefs or values.
+        - pronunciation: /ˈkɒɡ.nɪ.tɪv ˈdɪs.ə.nəns/
+        - part of speech: noun
+        - examples:
+          - She felt cognitive dissonance when her actions did not align with her beliefs.
+          - Cognitive dissonance can motivate individuals to change their attitudes.
+        - synonyms: psychological conflict
+        - antonyms: cognitive harmony
+        - related words: cognition, dissonant
+      - conditioning
+        - definition: the process of learning associations between environmental events and behavioral responses.
+        - pronunciation: /kənˈdɪʃ.ən.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - Classical conditioning involves learning by association.
+          - The dog learned to salivate through conditioning.
+        - synonyms: training, habituation
+        - antonyms: innate behavior
+        - related words: conditioned, conditioner
+      - reinforcement
+        - definition: in psychology, a consequence that will strengthen an organism's future behavior whenever that behavior is preceded by a specific antecedent stimulus.
+        - pronunciation: /ˌriː.ɪnˈfɔːs.mənt/
+        - part of speech: noun
+        - examples:
+          - Positive reinforcement can encourage desired behaviors.
+          - The teacher used reinforcement to improve class participation.
+        - synonyms: encouragement, strengthening
+        - antonyms: punishment
+        - related words: reinforce, reinforcer
+    - Social Behavior
+      - conformity
+        - definition: compliance with standards, rules, or laws; behavior in accordance with socially accepted conventions.
+        - pronunciation: /kənˈfɔː.mɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Peer pressure often leads to conformity among teenagers.
+          - Conformity can suppress individuality.
+        - synonyms: compliance, adherence
+        - antonyms: nonconformity, rebellion
+        - related words: conform, conformist
+      - obedience
+        - definition: compliance with an order, request, or law or submission to another's authority.
+        - pronunciation: /əˈbiː.di.əns/
+        - part of speech: noun
+        - examples:
+          - The experiment tested the participants' obedience to authority.
+          - Obedience is valued in hierarchical organizations.
+        - synonyms: compliance, submission
+        - antonyms: disobedience, defiance
+        - related words: obedient, obey
+      - social norms
+        - definition: the accepted behaviors within a society or group.
+        - pronunciation: /ˈsəʊ.ʃəl nɔːmz/
+        - part of speech: noun
+        - examples:
+          - Violating social norms can lead to social sanctions.
+          - Social norms vary across different cultures.
+        - synonyms: conventions, standards
+        - antonyms: deviance
+        - related words: norm, normality
+      - groupthink
+        - definition: the practice of thinking or making decisions as a group in a way that discourages creativity or individual responsibility.
+        - pronunciation: /ˈɡruːp.θɪŋk/
+        - part of speech: noun
+        - examples:
+          - Groupthink can lead to poor decision-making.
+          - The committee's groupthink prevented them from considering alternative solutions.
+        - synonyms: herd mentality, collective thinking
+        - antonyms: individuality, critical thinking
+        - related words: group dynamics
+      - altruism
+        - definition: the belief in or practice of selfless concern for the well-being of others.
+        - pronunciation: /ˈæl.tru.ɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Volunteering is an act of altruism.
+          - Altruism can enhance social cohesion.
+        - synonyms: selflessness, benevolence
+        - antonyms: selfishness, egoism
+        - related words: altruistic, altruist
+    - Mental Disorders
+      - schizophrenia
+        - definition: a long-term mental disorder involving a breakdown in the relation between thought, emotion, and behavior.
+        - pronunciation: /ˌskɪt.səʊˈfriː.ni.ə/
+        - part of speech: noun
+        - examples:
+          - Schizophrenia often requires lifelong treatment.
+          - Early intervention can improve outcomes for schizophrenia patients.
+        - synonyms: psychosis
+        - antonyms: sanity
+        - related words: schizophrenic
+      - anxiety
+        - definition: a feeling of worry, nervousness, or unease about something with an uncertain outcome.
+        - pronunciation: /æŋˈzaɪ.ə.ti/
+        - part of speech: noun
+        - examples:
+          - She experiences anxiety before public speaking.
+          - Techniques like meditation can help reduce anxiety.
+        - synonyms: worry, apprehension
+        - antonyms: calmness, tranquility
+        - related words: anxious, anxiously
+      - depression
+        - definition: a mental condition characterized by feelings of severe despondency and dejection.
+        - pronunciation: /dɪˈprɛʃ.ən/
+        - part of speech: noun
+        - examples:
+          - Depression can affect anyone regardless of age.
+          - He sought therapy to manage his depression.
+        - synonyms: melancholy, sadness
+        - antonyms: happiness, elation
+        - related words: depressive, depress
+      - bipolar disorder
+        - definition: a mental disorder marked by alternating periods of elation and depression.
+        - pronunciation: /ˌbaɪˈpəʊ.lər dɪsˈɔː.dər/
+        - part of speech: noun
+        - examples:
+          - Bipolar disorder requires careful management.
+          - She was diagnosed with bipolar disorder in her twenties.
+        - synonyms: manic depression
+        - antonyms: emotional stability
+        - related words: bipolar, mood disorder
+      - phobia
+        - definition: an extreme or irrational fear of or aversion to something.
+        - pronunciation: /ˈfəʊ.bi.ə/
+        - part of speech: noun
+        - examples:
+          - His phobia of heights prevented him from climbing the tower.
+          - Exposure therapy can help treat phobias.
+        - synonyms: fear, aversion
+        - antonyms: bravery
+        - related words: phobic, phobias
+    - Developmental Psychology
+      - adolescence
+        - definition: the transitional period between childhood and adulthood.
+        - pronunciation: /ˌæd.əˈlɛs.əns/
+        - part of speech: noun
+        - examples:
+          - Adolescence is marked by significant physical and emotional changes.
+          - During adolescence, individuals develop a sense of identity.
+        - synonyms: teenage years, youth
+        - antonyms: adulthood, infancy
+        - related words: adolescent
+      - maturation
+        - definition: the process of becoming mature; the emergence of personal and behavioral characteristics through growth processes.
+        - pronunciation: /ˌmætʃ.əˈreɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Maturation influences cognitive development.
+          - The maturation of the brain continues into early adulthood.
+        - synonyms: development, growth
+        - antonyms: regression
+        - related words: mature, maturing
+      - attachment
+        - definition: a deep and enduring emotional bond that connects one person to another.
+        - pronunciation: /əˈtætʃ.mənt/
+        - part of speech: noun
+        - examples:
+          - Early attachment affects later relationships.
+          - Attachment theory explores the bonds between children and caregivers.
+        - synonyms: bond, connection
+        - antonyms: detachment
+        - related words: attach, attached
+      - cognitive development
+        - definition: the construction of thought processes, including remembering, problem-solving, and decision-making.
+        - pronunciation: /ˈkɒɡ.nɪ.tɪv dɪˈvɛl.əp.mənt/
+        - part of speech: noun
+        - examples:
+          - Piaget's theory focuses on stages of cognitive development.
+          - Cognitive development continues throughout life.
+        - synonyms: intellectual growth
+        - antonyms: cognitive decline
+        - related words: cognition, developmental
+      - identity formation
+        - definition: the development of the distinct personality of an individual.
+        - pronunciation: /aɪˈdɛn.tɪ.ti fɔːˈmeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Identity formation is crucial during adolescence.
+          - Cultural factors influence identity formation.
+        - synonyms: self-development, individuation
+        - antonyms: identity confusion
+        - related words: identity, formation
+    - Research Methods
+      - qualitative
+        - definition: relating to, measuring, or measured by the quality of something rather than its quantity.
+        - pronunciation: /ˈkwɒl.ɪ.tə.tɪv/
+        - part of speech: adjective
+        - examples:
+          - Qualitative research involves open-ended interviews.
+          - They conducted a qualitative analysis of the data.
+        - synonyms: descriptive, subjective
+        - antonyms: quantitative
+        - related words: quality, qualitatively
+      - quantitative
+        - definition: relating to, measuring, or measured by the quantity of something.
+        - pronunciation: /ˈkwɒn.tɪ.tə.tɪv/
+        - part of speech: adjective
+        - examples:
+          - Quantitative methods include statistical analysis.
+          - The study used quantitative data to draw conclusions.
+        - synonyms: numerical, measurable
+        - antonyms: qualitative
+        - related words: quantity, quantitatively
+      - empirical
+        - definition: based on observation or experience rather than theory or pure logic.
+        - pronunciation: /ɛmˈpɪr.ɪ.kəl/
+        - part of speech: adjective
+        - examples:
+          - The hypothesis was supported by empirical evidence.
+          - Empirical research is essential in scientific studies.
+        - synonyms: experimental, observational
+        - antonyms: theoretical
+        - related words: empiricism, empirically
+      - hypothesis
+        - definition: a supposition or proposed explanation made on the basis of limited evidence.
+        - pronunciation: /haɪˈpɒθ.ə.sɪs/
+        - part of speech: noun
+        - examples:
+          - They tested the hypothesis through experiments.
+          - The null hypothesis was rejected.
+        - synonyms: theory, proposition
+        - antonyms: conclusion
+        - related words: hypotheses (plural), hypothetical
+      - variable
+        - definition: an element, feature, or factor that is liable to vary or change.
+        - pronunciation: /ˈveə.ri.ə.bəl/
+        - part of speech: noun, adjective
+        - examples:
+          - The independent variable was manipulated in the study.
+          - Variables must be controlled to ensure valid results.
+        - synonyms: factor, parameter
+        - antonyms: constant
+        - related words: variability, variation
+    - Social Institutions
+      - family
+        - definition: a group consisting of parents and children living together in a household.
+        - pronunciation: /ˈfæm.ɪ.li/
+        - part of speech: noun
+        - examples:
+          - The family is considered a primary social institution.
+          - Changes in society have altered family structures.
+        - synonyms: household, kin
+        - antonyms: individual
+        - related words: familial, familiar
+      - education
+        - definition: the process of receiving or giving systematic instruction.
+        - pronunciation: /ˌɛd.jʊˈkeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Education plays a vital role in socialization.
+          - Access to education varies across societies.
+        - synonyms: schooling, learning
+        - antonyms: ignorance
+        - related words: educate, educational
+      - religion
+        - definition: a particular system of faith and worship.
+        - pronunciation: /rɪˈlɪdʒ.ən/
+        - part of speech: noun
+        - examples:
+          - Religion can influence moral values.
+          - Sociologists study the role of religion in society.
+        - synonyms: faith, belief system
+        - antonyms: secularism
+        - related words: religious, religiosity
+      - government
+        - definition: the governing body of a nation, state, or community.
+        - pronunciation: /ˈɡʌv.ən.mənt/
+        - part of speech: noun
+        - examples:
+          - The government implements policies affecting society.
+          - Trust in government varies among populations.
+        - synonyms: administration, authority
+        - antonyms: anarchy
+        - related words: govern, governmental
+      - economy
+        - definition: the system by which a country's money and goods are produced and used.
+        - pronunciation: /ɪˈkɒn.ə.mi/
+        - part of speech: noun
+        - examples:
+          - The economy impacts social structures.
+          - Sociologists analyze the relationship between economy and class.
+        - synonyms: financial system, marketplace
+        - antonyms: -
+        - related words: economic, economize
+    - Group Dynamics
+      - leadership
+        - definition: the action of leading a group of people or an organization.
+        - pronunciation: /ˈliː.də.ʃɪp/
+        - part of speech: noun
+        - examples:
+          - Effective leadership fosters group cohesion.
+          - Leadership styles can influence group outcomes.
+        - synonyms: guidance, direction
+        - antonyms: followership
+        - related words: leader, lead
+      - cohesion
+        - definition: the action or fact of forming a united whole.
+        - pronunciation: /kəʊˈhiː.ʒən/
+        - part of speech: noun
+        - examples:
+          - Team cohesion improves performance.
+          - Social cohesion is important for community stability.
+        - synonyms: unity, solidarity
+        - antonyms: discord
+        - related words: cohesive, cohere
+      - conflict
+        - definition: a serious disagreement or argument.
+        - pronunciation: /ˈkɒn.flɪkt/
+        - part of speech: noun
+        - examples:
+          - Conflict within groups can lead to changes.
+          - They studied conflict resolution strategies.
+        - synonyms: dispute, clash
+        - antonyms: agreement
+        - related words: conflicting, conflictual
+      - communication
+        - definition: the imparting or exchanging of information by speaking, writing, or using some other medium.
+        - pronunciation: /kəˌmjuː.nɪˈkeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Open communication is essential in teams.
+          - Communication barriers can hinder understanding.
+        - synonyms: dialogue, correspondence
+        - antonyms: silence
+        - related words: communicate, communicative
+      - roles
+        - definition: the function assumed or part played by a person or thing in a particular situation.
+        - pronunciation: /rəʊlz/
+        - part of speech: noun (plural)
+        - examples:
+          - Individuals adopt different roles within a group.
+          - Role expectations influence behavior.
+        - synonyms: positions, responsibilities
+        - antonyms: -
+        - related words: role-playing, role-model
+    - Identity & Self
+      - self-esteem
+        - definition: confidence in one's own worth or abilities.
+        - pronunciation: /ˌsɛlf.ɪˈstiːm/
+        - part of speech: noun
+        - examples:
+          - Positive feedback can boost self-esteem.
+          - Low self-esteem may affect mental health.
+        - synonyms: self-respect, confidence
+        - antonyms: self-doubt
+        - related words: esteem, esteemed
+      - self-concept
+        - definition: an idea of the self constructed from the beliefs one holds about oneself.
+        - pronunciation: /ˌsɛlfˈkɒn.sɛpt/
+        - part of speech: noun
+        - examples:
+          - Self-concept influences how individuals perceive experiences.
+          - They explored the development of self-concept in children.
+        - synonyms: self-image, identity
+        - antonyms: -
+        - related words: conceptualize, conceptual
+      - identity crisis
+        - definition: a period of uncertainty and confusion in which a person's sense of identity becomes insecure.
+        - pronunciation: /aɪˈdɛn.tɪ.ti ˈkraɪ.sɪs/
+        - part of speech: noun
+        - examples:
+          - Adolescents may experience an identity crisis.
+          - Major life changes can trigger an identity crisis.
+        - synonyms: self-doubt, existential crisis
+        - antonyms: identity formation
+        - related words: identity, crisis
+      - self-actualization
+        - definition: the realization or fulfillment of one's talents and potentialities.
+        - pronunciation: /ˌsɛlf.æktʃuəlaɪˈzeɪʃən/
+        - part of speech: noun
+        - examples:
+          - Self-actualization is at the top of Maslow's hierarchy of needs.
+          - She pursued self-actualization through personal growth.
+        - synonyms: self-fulfillment, realization
+        - antonyms: stagnation
+        - related words: actualize, actualization
+      - introspection
+        - definition: the examination or observation of one's own mental and emotional processes.
+        - pronunciation: /ˌɪn.trəˈspɛk.ʃən/
+        - part of speech: noun
+        - examples:
+          - Introspection can lead to greater self-awareness.
+          - He engaged in introspection to understand his feelings.
+        - synonyms: self-examination, reflection
+        - antonyms: extrospection
+        - related words: introspect, introspective
+    - Social Stratification
+      - class
+        - definition: a system of ordering society whereby people are divided into sets based on perceived social or economic status.
+        - pronunciation: /klɑːs/
+        - part of speech: noun
+        - examples:
+          - Class differences can affect access to resources.
+          - They studied class mobility in modern societies.
+        - synonyms: social rank, status
+        - antonyms: equality
+        - related words: classism, classless
+      - inequality
+        - definition: difference in size, degree, circumstances; lack of equality.
+        - pronunciation: /ˌɪn.ɪˈkwɒl.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Economic inequality can lead to social unrest.
+          - Policies aim to reduce inequality in education.
+        - synonyms: disparity, imbalance
+        - antonyms: equality, parity
+        - related words: unequal, inequity
+      - mobility
+        - definition: the ability to move between different levels in society or employment.
+        - pronunciation: /məʊˈbɪl.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Social mobility allows individuals to improve their status.
+          - Barriers exist that limit upward mobility.
+        - synonyms: movement, progression
+        - antonyms: stagnation
+        - related words: mobile, mobilize
+      - caste
+        - definition: a rigid social system in which people are born into a social standing that they retain throughout their lives.
+        - pronunciation: /kɑːst/
+        - part of speech: noun
+        - examples:
+          - The caste system historically determined one's occupation.
+          - Efforts have been made to dismantle caste-based discrimination.
+        - synonyms: class, social stratification
+        - antonyms: classlessness
+        - related words: caste system, casteless
+      - status
+        - definition: the relative social, professional, or other standing of someone or something.
+        - pronunciation: /ˈsteɪ.təs/
+        - part of speech: noun
+        - examples:
+          - Social status can influence one's opportunities.
+          - He sought to improve his status within the community.
+        - synonyms: rank, position
+        - antonyms: insignificance
+        - related words: status quo, stateless
+    - Culture & Society
+      - norms
+        - definition: standards or patterns of social behavior that are typical or expected.
+        - pronunciation: /nɔːmz/
+        - part of speech: noun (plural)
+        - examples:
+          - Cultural norms dictate acceptable behavior.
+          - Deviating from norms can lead to social sanctions.
+        - synonyms: rules, standards
+        - antonyms: anomalies
+        - related words: normative, normal
+      - values
+        - definition: principles or standards of behavior; one's judgment of what is important in life.
+        - pronunciation: /ˈvæl.juːz/
+        - part of speech: noun (plural)
+        - examples:
+          - Societal values influence individual choices.
+          - They teach children core values like honesty.
+        - synonyms: beliefs, ideals
+        - antonyms: vices
+        - related words: value, valuable
+      - symbols
+        - definition: marks or characters used as conventional representations of objects, functions, or processes.
+        - pronunciation: /ˈsɪm.bəlz/
+        - part of speech: noun (plural)
+        - examples:
+          - Symbols carry significant cultural meanings.
+          - Language is a system of symbols.
+        - synonyms: signs, icons
+        - antonyms: -
+        - related words: symbolism, symbolic
+      - ethnocentrism
+        - definition: evaluation of other cultures according to preconceptions originating in the standards of one's own culture.
+        - pronunciation: /ˌɛθ.nəʊˈsɛn.trɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Ethnocentrism can lead to misunderstandings between cultures.
+          - Overcoming ethnocentrism is important in global interactions.
+        - synonyms: cultural bias, nationalism
+        - antonyms: cultural relativism
+        - related words: ethnocentric, ethnocentrically
+      - cultural relativism
+        - definition: the principle of regarding the beliefs, values, and practices of a culture from the viewpoint of that culture itself.
+        - pronunciation: /ˈkʌl.tʃər.əl ˈrɛl.ə.tɪ.vɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Cultural relativism promotes understanding and tolerance.
+          - Anthropologists often adopt a cultural relativism approach.
+        - synonyms: open-mindedness, pluralism
+        - antonyms: ethnocentrism
+        - related words: culture, relative
