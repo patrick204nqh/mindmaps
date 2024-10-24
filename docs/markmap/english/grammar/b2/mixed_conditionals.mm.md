@@ -1,0 +1,179 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- B2
+  - Mixed Conditionals
+    - Types of Mixed Conditionals
+      - Past condition, present result
+        - explanation: Combines a past unreal condition with a present unreal result, indicating how a past action affects the present situation.
+        - examples:
+          - If I **had studied** harder, I **would have a** better job now.
+          - If she **had taken** the earlier train, she **would not be** stuck in traffic today.
+        - usage notes: Used to show the impact of a past event on the current state.
+        - exceptions: Only used when the past condition directly influences the present result.
+        - related rules: third conditional, second conditional
+      - Present condition, past result
+        - explanation: Combines a present unreal condition with a past unreal result, indicating how a current state could have affected a past event.
+        - examples:
+          - If he **were** more organized, he **would have finished** the project on time.
+          - If they **had** more experience, they **would have been** hired last month.
+        - usage notes: Used to express regret or hypothetical scenarios where a present condition could have changed a past outcome.
+        - exceptions: Typically used with stative verbs to describe current states affecting past actions.
+        - related rules: second conditional, third conditional
+    - Tenses Used
+      - past perfect in if-clause
+        - explanation: The if-clause uses the past perfect tense to indicate an unreal past condition.
+        - examples:
+          - If I **had known**, I **would have acted** differently.
+          - If they **had left** earlier, they **would not have missed** the flight.
+        - usage notes: Ensures clarity that the condition is contrary to past reality.
+        - exceptions: None specific.
+        - related rules: third conditional, past perfect tense
+      - modal + have + past participle in main clause
+        - explanation: The main clause uses modal verbs like "would," "could," or "might" followed by "have" and the past participle to express the result of the unreal condition.
+        - examples:
+          - I **would have traveled** more if I **had the time**.
+          - She **could have helped** if she **had been available**.
+        - usage notes: Indicates hypothetical outcomes based on the unreal condition.
+        - exceptions: Different modals can convey varying degrees of certainty or possibility.
+        - related rules: modal verbs in conditionals, perfect infinitives
+    - Sentence Structure
+      - if-clause first
+        - explanation: The if-clause is placed before the main clause in the sentence.
+        - examples:
+          - If they **had prepared** better, they **would not have lost** the game.
+          - If I **were** you, I **would have taken** that opportunity.
+        - usage notes: Common in written and formal spoken English for emphasis.
+        - exceptions: None specific.
+        - related rules: conditional sentence order, third conditional
+      - main clause first
+        - explanation: The main clause precedes the if-clause, often used for stylistic variety.
+        - examples:
+          - She **would have succeeded** if she **had worked** harder.
+          - They **could have avoided** the accident if they **had been more careful**.
+        - usage notes: Less common but useful for emphasizing the result.
+        - exceptions: Ensure clarity to avoid confusion in meaning.
+        - related rules: sentence inversion, conditional sentence flexibility
+    - Usage
+      - expressing regret
+        - explanation: Used to express regret about past actions and their impact on the present.
+        - examples:
+          - If I **had listened**, I **would not be** in this situation.
+          - She **would have been** happier if she **had accepted** the job offer.
+        - usage notes: Highlights how different past actions could have led to a better present.
+        - exceptions: Applies only when the past action has a direct effect on the present.
+        - related rules: third conditional, expressing regret
+      - analyzing cause and effect
+        - explanation: Used to analyze how a past event could have influenced a present outcome.
+        - examples:
+          - If they **had invested** earlier, their business **would be** thriving now.
+          - If he **had taken** the medicine, he **would not be** sick today.
+        - usage notes: Helps in understanding the relationship between past actions and present results.
+        - exceptions: Only for hypothetical scenarios where the past action did not actually occur.
+        - related rules: cause and effect in conditionals, mixed conditional analysis
+      - hypothetical scenarios
+        - explanation: Used to create complex hypothetical scenarios involving different time frames.
+        - examples:
+          - If you **were** more patient, you **would have handled** the situation better.
+          - If we **had known** about the traffic, we **would not be** late now.
+        - usage notes: Useful in advanced discussions and nuanced expressions of hypotheticals.
+        - exceptions: Requires clear context to avoid ambiguity.
+        - related rules: second conditional, third conditional, mixed conditional versatility
+    - Common Mistakes
+      - incorrect tense usage
+        - explanation: Using wrong tenses in the if-clause or main clause, disrupting the conditional structure.
+        - examples:
+          - Incorrect: If I **know** about the meeting, I **would attend**.
+          - Correct: If I **had known** about the meeting, I **would have attended**.
+        - usage notes: Ensure past perfect in if-clause and modal + have + past participle in main clause.
+        - exceptions: None specific.
+        - related rules: tense agreement, conditional forms
+      - confusing second and third conditionals
+        - explanation: Applying second conditional structures to past hypotheticals instead of third conditional.
+        - examples:
+          - Incorrect: If I **knew**, I **would come**.
+          - Correct: If I **had known**, I **would have come**.
+        - usage notes: Remember third conditional is for past unreal situations, second is for present/future hypotheticals.
+        - exceptions: None specific.
+        - related rules: second conditional, third conditional distinctions
+      - omitting auxiliary verbs
+        - explanation: Leaving out necessary auxiliary verbs like "had" or "would have" in the structure.
+        - examples:
+          - Incorrect: If she **had taken** the bus, she **have arrived** earlier.
+          - Correct: If she **had taken** the bus, she **would have arrived** earlier.
+        - usage notes: Ensure all parts of the conditional structure are present for grammatical correctness.
+        - exceptions: None specific.
+        - related rules: auxiliary verb usage, sentence completeness
+      - incorrect word order in questions
+        - explanation: Maintaining question word order instead of statement order in reported or interrogative mixed conditionals.
+        - examples:
+          - Incorrect: Had you **known** the truth, would you **have acted** differently?
+          - Correct: Had you **known** the truth, would you **have acted** differently?
+        - usage notes: Use inversion in formal questions but ensure clarity in sentence structure.
+        - exceptions: Informal questions may use different structures.
+        - related rules: question formation, inversion in conditionals
+    - Exceptions
+      - actions still relevant to the present
+        - explanation: When a past action continues to have relevance or effects in the present, the third conditional may not require strict separation.
+        - examples:
+          - If I **had studied** medicine, I **would be** a doctor now.
+          - If they **had invested** wisely, their company **would be** successful today.
+        - usage notes: Focus on how past actions influence current realities, allowing for overlap.
+        - exceptions: Only when the past action has a direct and ongoing impact on the present.
+        - related rules: present perfect influence, mixed conditional relevance
+      - alternative modal verbs
+        - explanation: Using different modal verbs to express varying degrees of possibility, ability, or obligation in mixed conditionals.
+        - examples:
+          - If he **had left** earlier, he **might have arrived** on time.
+          - If they **had prepared**, they **could have succeeded**.
+        - usage notes: "Might have," "could have," and "should have" can replace "would have" for different nuances.
+        - exceptions: Each modal verb carries its own specific meaning and should be used appropriately.
+        - related rules: modal verbs in conditionals, expressing possibility and ability
+      - reporting mixed conditionals
+        - explanation: Using mixed conditionals in reported speech to convey someone else's hypothetical scenarios.
+        - examples:
+          - Direct: "If I **had known**, I **would have helped**," she said.
+          - Reported: She said that if she **had known**, she **would have helped**.
+        - usage notes: Maintain the mixed conditional structure when reporting someone's hypotheticals.
+        - exceptions: Follow reported speech rules for tense backshifting.
+        - related rules: reported speech, mixed conditionals in indirect statements
+    - Related Rules
+      - second conditional
+        - explanation: Used for hypothetical or unlikely situations in the present or future, with the if-clause in the past simple and the main clause using "would" + base verb.
+        - examples:
+          - If I **won** the lottery, I **would travel** the world.
+          - If she **were** taller, she **would play** basketball.
+        - usage notes: Unlike mixed conditionals, it deals with present or future hypotheticals rather than past.
+        - exceptions: Some stative verbs may have specific usages.
+        - related rules: third conditional, mixed conditionals
+      - third conditional
+        - explanation: Used for hypothetical situations in the past, with the if-clause in past perfect and the main clause using "would have" + past participle.
+        - examples:
+          - If I **had known**, I **would have acted** differently.
+          - They **would have won** the game if they **had trained** harder.
+        - usage notes: Specifically for unreal past conditions and their hypothetical past results.
+        - exceptions: None specific.
+        - related rules: mixed conditionals, past perfect tense
+      - sequence of tenses
+        - explanation: The grammatical rule that the tense of verbs in subordinate clauses should follow the tense of the main clause to maintain consistency.
+        - examples:
+          - Present: He says that he **is** happy.
+          - Past: He said that he **was** happy.
+          - Past Perfect: He had said that he **had been** happy.
+        - usage notes: Ensures clarity and logical consistency in complex sentences.
+        - exceptions: When the reported speech remains true or relevant, backshifting may not be necessary.
+        - related rules: reported speech, tense agreement
+      - conditional reporting
+        - explanation: Reporting conditional sentences, including mixed conditionals, in indirect speech.
+        - examples:
+          - Direct: "If I **had more time**, I **would travel** more," she said.
+          - Reported: She said that if she **had more time**, she **would travel** more.
+        - usage notes: Maintain the structure and tense consistency when converting direct to reported conditionals.
+        - exceptions: Adjust tenses according to the reporting verb's tense.
+        - related rules: reported speech, mixed conditionals

@@ -1,0 +1,380 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- B2
+  - Linking Words and Phrases
+    - Types of Linking Words
+      - additive linking words
+        - explanation: Words and phrases used to add information or ideas to a sentence.
+        - examples:
+          - She **is talented**, **and** she **is hardworking**.
+          - **Furthermore**, the project **is on schedule**.
+        - usage notes: Use to combine similar ideas or to reinforce a point.
+        - exceptions: Overuse can make writing repetitive; vary your linking words.
+        - related rules: coordinating conjunctions, parallel structure
+      - adversative linking words
+        - explanation: Words and phrases used to show contrast or opposition between ideas.
+        - examples:
+          - He **wanted to join**, **but** he **was too busy**.
+          - **However**, the results **were not as expected**.
+        - usage notes: Use to highlight differences or unexpected outcomes.
+        - exceptions: Some adversative words can also convey cause or condition based on context.
+        - related rules: contrasting conjunctions, sentence variety
+      - causal linking words
+        - explanation: Words and phrases that indicate reason or cause for something.
+        - examples:
+          - She **didn't attend** the meeting **because** she **was ill**.
+          - **Due to** the rain, the event **was canceled**.
+        - usage notes: Use to explain why something happens or happened.
+        - exceptions: Avoid redundancy when the cause is clear from context.
+        - related rules: expressing reasons, cause and effect
+      - temporal linking words
+        - explanation: Words and phrases that relate events in time, indicating when something happens.
+        - examples:
+          - **After** the movie, we **went** for dinner.
+          - **Meanwhile**, the team **continued** their work.
+        - usage notes: Use to sequence events or show simultaneity.
+        - exceptions: Ensure chronological accuracy to avoid confusion.
+        - related rules: sequencing events, chronological order
+      - conclusive linking words
+        - explanation: Words and phrases used to draw conclusions or summarize information.
+        - examples:
+          - **Therefore**, we **decided** to proceed with the plan.
+          - **Thus**, the experiment **proved** successful.
+        - usage notes: Use to indicate the result or outcome of previously stated information.
+        - exceptions: Avoid using overly formal conclusive words in casual contexts.
+        - related rules: summarizing, logical conclusions
+      - comparison linking words
+        - explanation: Words and phrases used to show similarity or comparison between ideas.
+        - examples:
+          - **Similarly**, the second project **was a success**.
+          - **In the same way**, she **approached** the task.
+        - usage notes: Use to highlight parallels or likenesses between different concepts or actions.
+        - exceptions: Ensure comparisons are logical and relevant.
+        - related rules: illustrating similarities, comparative structures
+      - exemplifying linking words
+        - explanation: Words and phrases used to provide examples or illustrate a point.
+        - examples:
+          - **For example**, many people **enjoy** traveling.
+          - **Such as** hiking, biking, and swimming, **are popular activities**.
+        - usage notes: Use to clarify or support statements with specific instances.
+        - exceptions: Avoid overloading sentences with too many examples.
+        - related rules: providing examples, supporting evidence
+      - purpose linking words
+        - explanation: Words and phrases that express the intention or purpose behind an action.
+        - examples:
+          - She **studied hard** **so that** she **could pass** the exam.
+          - He **left early** **in order to** catch the train.
+        - usage notes: Use to indicate why something is done.
+        - exceptions: Ensure the purpose is clear and directly related to the action.
+        - related rules: expressing intentions, causal relationships
+      - conditional linking words
+        - explanation: Words and phrases that set conditions for something to happen.
+        - examples:
+          - **Unless** you **finish** your work, you **cannot** leave.
+          - **Provided that** it **doesn't rain**, we **will have** a picnic.
+        - usage notes: Use to establish prerequisites or dependencies between events.
+        - exceptions: Avoid overly complex conditions that may confuse the reader.
+        - related rules: conditional sentences, cause and effect
+    - Functions of Linking Words
+      - addition
+        - explanation: Adding information to what has already been said.
+        - examples:
+          - She **not only** finished her work **but also** helped her colleagues.
+          - **Moreover**, the new policy **benefits** everyone.
+        - usage notes: Use to build upon ideas and provide more depth.
+        - exceptions: Ensure added information is relevant and not redundant.
+        - related rules: additive linking words, compound sentences
+      - contrast
+        - explanation: Highlighting differences or opposing ideas.
+        - examples:
+          - He is very friendly, **yet** he **can be** quite stubborn.
+          - **Although** it was raining, we **went** hiking.
+        - usage notes: Use to show balance or counterpoints within arguments.
+        - exceptions: Avoid overusing contrast to maintain clarity.
+        - related rules: adversative linking words, balancing clauses
+      - cause and effect
+        - explanation: Showing the relationship between a cause and its resulting effect.
+        - examples:
+          - She **was late** **because** her car **broke down**.
+          - **As a result**, the meeting **was postponed**.
+        - usage notes: Use to logically connect reasons with outcomes.
+        - exceptions: Ensure that the cause and effect are directly related.
+        - related rules: causal linking words, logical reasoning
+      - sequence
+        - explanation: Indicating the order in which events occur.
+        - examples:
+          - **First**, we **need to** gather all the materials.
+          - **Then**, we **can proceed** with the experiment.
+        - usage notes: Use to organize information chronologically.
+        - exceptions: Avoid confusing sequences by maintaining clear order.
+        - related rules: temporal linking words, chronological sequencing
+      - summarizing
+        - explanation: Concluding or summarizing information presented earlier.
+        - examples:
+          - **In conclusion**, the study **shows** significant improvements.
+          - **To sum up**, our efforts **have paid** off.
+        - usage notes: Use to provide closure or reinforce key points.
+        - exceptions: Ensure summaries accurately reflect the main ideas without introducing new information.
+        - related rules: conclusive linking words, summarizing techniques
+      - comparison
+        - explanation: Drawing parallels or highlighting similarities between different elements.
+        - examples:
+          - **Similarly**, the second approach **yields** better results.
+          - **Likewise**, she **handled** the situation with grace.
+        - usage notes: Use to reinforce points by showing likeness or similarity.
+        - exceptions: Ensure comparisons are meaningful and relevant.
+        - related rules: comparison linking words, illustrating similarities
+      - exemplification
+        - explanation: Providing examples to clarify or support a statement.
+        - examples:
+          - **For instance**, many animals **migrate** during the winter.
+          - **Such as** lions, tigers, and bears, **are** found in the zoo.
+        - usage notes: Use to make abstract ideas more concrete with specific examples.
+        - exceptions: Avoid providing too many examples that may overwhelm the reader.
+        - related rules: exemplifying linking words, providing evidence
+    - Linking Phrases
+      - furthermore
+        - explanation: Adds additional information that supports or enhances the previous statement.
+        - examples:
+          - The project **is ahead of schedule**; **furthermore**, it **is under budget**.
+          - He **is talented**; **furthermore**, he **is very dedicated**.
+        - usage notes: Use to introduce supplementary points.
+        - exceptions: Ensure the added information is relevant and adds value.
+        - related rules: additive linking words, compound sentences
+      - nevertheless
+        - explanation: Introduces a statement that contrasts with or seems to contradict something that has been said previously.
+        - examples:
+          - It was raining; **nevertheless**, we **went** for a walk.
+          - She **failed** the test; **nevertheless**, she **didn't give up**.
+        - usage notes: Use to show resilience or unexpected outcomes despite challenges.
+        - exceptions: Overusing can make writing sound overly formal or stiff.
+        - related rules: adversative linking words, contrasting ideas
+      - consequently
+        - explanation: Indicates that something is a result or effect of a previous action or situation.
+        - examples:
+          - He **didn't study**; **consequently**, he **failed** the exam.
+          - The company **cut costs**; **consequently**, many **employees were laid off**.
+        - usage notes: Use to show a clear cause-and-effect relationship.
+        - exceptions: Ensure the consequence logically follows the cause.
+        - related rules: causal linking words, cause and effect
+      - meanwhile
+        - explanation: Indicates that something is happening at the same time as something else.
+        - examples:
+          - She **was cooking dinner**; **meanwhile**, he **set the table**.
+          - The kids **played outside**; **meanwhile**, their parents **prepared lunch**.
+        - usage notes: Use to describe simultaneous actions or events.
+        - exceptions: Avoid ambiguity about the timing of events.
+        - related rules: temporal linking words, sequencing
+      - in contrast
+        - explanation: Highlights a significant difference between two things.
+        - examples:
+          - **In contrast**, his brother **is very outgoing**.
+          - The first proposal **was expensive**; **in contrast**, the second **is affordable**.
+        - usage notes: Use to emphasize differences clearly and effectively.
+        - exceptions: Ensure that the contrast is relevant to the discussion.
+        - related rules: adversative linking words, comparing differences
+      - for example
+        - explanation: Introduces specific examples to illustrate a point.
+        - examples:
+          - Many fruits are rich in vitamins, **for example**, oranges and strawberries.
+          - She enjoys outdoor activities, **for example**, hiking and cycling.
+        - usage notes: Use to clarify or provide evidence for a general statement.
+        - exceptions: Avoid overusing examples, which can make writing repetitive.
+        - related rules: exemplifying linking words, providing evidence
+      - in addition
+        - explanation: Adds extra information to support a statement.
+        - examples:
+          - The new policy **reduces waste**; **in addition**, it **saves money**.
+          - He **is a skilled programmer**; **in addition**, he **has excellent leadership qualities**.
+        - usage notes: Use to build upon ideas and add more depth to arguments.
+        - exceptions: Ensure the additional information is relevant and enhances the main point.
+        - related rules: additive linking words, supporting arguments
+      - as a result
+        - explanation: Indicates the outcome or consequence of a previous action or situation.
+        - examples:
+          - She **worked hard**; **as a result**, she **earned a promotion**.
+          - The team **lacked preparation**; **as a result**, they **lost the match**.
+        - usage notes: Use to clearly link cause and effect in a sentence.
+        - exceptions: Ensure that the result logically follows the cause to maintain coherence.
+        - related rules: causal linking words, logical conclusions
+      - on the other hand
+        - explanation: Presents a contrasting point or perspective.
+        - examples:
+          - The first plan **is cost-effective**; **on the other hand**, it **takes longer** to implement.
+          - He **enjoys solitary activities**; **on the other hand**, his sister **loves being around people**.
+        - usage notes: Use to introduce an alternative viewpoint or a contrasting idea.
+        - exceptions: Ensure that the contrast is clear and directly related to the previous statement.
+        - related rules: adversative linking words, presenting alternatives
+    - Punctuation with Linking Words
+      - commas with introductory linking words
+        - explanation: When a linking word or phrase starts a sentence, it is often followed by a comma.
+        - examples:
+          - **However**, the weather **didn't improve**.
+          - **For example**, many people **enjoy** traveling.
+        - usage notes: Use commas to separate introductory linking words from the main clause for clarity.
+        - exceptions: Short linking words may sometimes omit commas in less formal writing.
+        - related rules: comma usage, sentence clarity
+      - commas in the middle of sentences
+        - explanation: Linking words that connect two independent clauses are typically preceded by a comma.
+        - examples:
+          - She **wanted to go** to the party, **but** she **was too tired**.
+          - He **can speak** French, **and** he **can also** speak Spanish.
+        - usage notes: Use commas to separate contrasting or additive linking words within a sentence.
+        - exceptions: Avoid using commas with short, closely related clauses to prevent unnecessary pauses.
+        - related rules: compound sentences, comma placement
+      - no commas with essential linking words
+        - explanation: When linking words introduce essential information, commas are not used.
+        - examples:
+          - People **who exercise regularly** **are healthier**.
+          - Books **that have engaging stories** **are more popular**.
+        - usage notes: Do not use commas with defining linking words as the information is crucial to the sentence.
+        - exceptions: In rare cases, for emphasis or stylistic purposes, commas may be used.
+        - related rules: defining vs. non-defining clauses, sentence specificity
+    - Advanced Usage
+      - combining multiple linking words
+        - explanation: Using more than one linking word in a sentence to convey complex relationships between ideas.
+        - examples:
+          - She **not only** completed the project **but also** presented it successfully.
+          - **Although** it was raining, we **decided to** go hiking **and** had a great time.
+        - usage notes: Use multiple linking words to add depth and detail, ensuring clarity and coherence.
+        - exceptions: Avoid overly complex sentences that may confuse the reader.
+        - related rules: compound and complex sentences, sentence variety
+      - varied sentence structures
+        - explanation: Mixing different types of linking words and sentence structures to enhance writing style and flow.
+        - examples:
+          - **Furthermore**, the new system **reduces** errors, **while** it **increases** efficiency.
+          - He **didn't enjoy** the movie, **nor** did he **like** the acting.
+        - usage notes: Vary linking words to maintain reader interest and improve the overall quality of writing.
+        - exceptions: Ensure that varied structures still maintain logical relationships between ideas.
+        - related rules: sentence variety, linking word selection
+      - formal vs. informal linking words
+        - explanation: Choosing appropriate linking words based on the formality of the context or audience.
+        - examples:
+          - **Formal**: Therefore, the results **indicate** a significant improvement.
+          - **Informal**: So, the results **show** a big improvement.
+        - usage notes: Select linking words that match the tone and style of your writing or speech.
+        - exceptions: Some linking words can be used in both formal and informal contexts, depending on placement and usage.
+        - related rules: register in language, tone and style
+    - Common Mistakes
+      - overusing the same linking words
+        - explanation: Repeating the same linking words too frequently, making writing monotonous.
+        - examples:
+          - Incorrect: He **and** she **and** they **went** to the store.
+          - Correct: He, she, and they **went** to the store.
+          - Incorrect: She **because** she **because** she was late.
+          - Correct: She **was late because** she missed the bus.
+        - usage notes: Vary linking words to maintain interest and enhance readability.
+        - exceptions: In some cases, repetition may be stylistically intentional for emphasis.
+        - related rules: sentence variety, avoiding redundancy
+      - mismatching linking words with sentence meaning
+        - explanation: Using linking words that do not accurately reflect the relationship between ideas.
+        - examples:
+          - Incorrect: She **however** loves chocolate. (Should use "however" to contrast)
+          - Correct: She **loves chocolate; however**, she **prefers** vanilla.
+          - Incorrect: He **because** he was tired. (Missing main clause)
+          - Correct: He **went to bed early** **because** he was tired.
+        - usage notes: Ensure that the chosen linking word correctly represents the intended relationship.
+        - exceptions: None specific.
+        - related rules: linking word selection, logical relationships
+      - improper punctuation with linking words
+        - explanation: Incorrectly placing or omitting commas around linking words, leading to grammatical errors.
+        - examples:
+          - Incorrect: She was happy **but** she **didn't show it**.
+          - Correct: She was happy, **but** she **didn't show it**.
+          - Incorrect: **Moreover** the results were positive.
+          - Correct: **Moreover**, the results **were positive**.
+        - usage notes: Follow standard punctuation rules for linking words to maintain sentence clarity.
+        - exceptions: Some short linking words in informal writing may omit commas.
+        - related rules: comma usage, sentence clarity
+      - using linking words unnecessarily
+        - explanation: Adding linking words when they are not needed, making sentences cluttered or redundant.
+        - examples:
+          - Incorrect: She **and** and **also** he went to the market.
+          - Correct: She and he went to the market.
+          - Incorrect: He was tired, **so** he **therefore** went to bed.
+          - Correct: He was tired, **so** he went to bed.
+        - usage notes: Use linking words only when they enhance the connection between ideas.
+        - exceptions: In some stylistic contexts, redundancy may be used for emphasis.
+        - related rules: sentence efficiency, avoiding redundancy
+    - Exceptions
+      - linking words with multiple meanings
+        - explanation: Some linking words can serve different functions based on context, requiring careful usage to maintain clarity.
+        - examples:
+          - "Since" can indicate time or cause:
+            - Time: **Since** we **arrived**, we've been busy.
+            - Cause: We **have been busy** **since** we **arrived**.
+          - "While" can indicate contrast or simultaneity:
+            - Contrast: She likes tea, **while** he prefers coffee.
+            - Simultaneity: She **was reading** a book, **while** he **was cooking**.
+        - usage notes: Understand the different functions of versatile linking words to use them appropriately.
+        - exceptions: Some meanings are more common than others and may depend on regional usage.
+        - related rules: contextual meaning, polysemy in language
+      - linking words in questions and exclamations
+        - explanation: Using linking words within interrogative or exclamatory sentences, which may require different structures.
+        - examples:
+          - Question: **How** did she **manage** to finish so quickly?
+          - Exclamation: **What** a wonderful day **it is**!
+        - usage notes: Ensure that linking words fit grammatically within questions and exclamations.
+        - exceptions: Some linking words may not naturally fit in exclamatory sentences.
+        - related rules: question formation, exclamatory sentence structure
+      - informal linking phrases
+        - explanation: Using more casual or conversational linking phrases that may not follow strict grammatical rules.
+        - examples:
+          - She **isn't only** smart, **but also** funny.
+          - He **got** the job, **so yeah**, he's happy.
+        - usage notes: Suitable for informal writing or speech but may not be appropriate in formal contexts.
+        - exceptions: Avoid using informal linking phrases in academic or professional writing.
+        - related rules: register in language, formal vs. informal language
+    - Related Rules
+      - coordinating conjunctions
+        - explanation: Words that connect words, phrases, or clauses of equal grammatical rank.
+        - examples:
+          - **And**, **but**, **or**, **nor**, **for**, **so**, **yet**.
+          - She **likes** tea **and** coffee.
+          - He **wanted** to go, **but** he **was** too tired.
+        - usage notes: Use coordinating conjunctions to join similar elements within a sentence.
+        - exceptions: Avoid overusing to prevent run-on sentences.
+        - related rules: compound sentences, sentence variety
+      - subordinating conjunctions
+        - explanation: Words that connect a dependent clause to an independent clause, showing relationships like time, cause, condition, etc.
+        - examples:
+          - **Although**, **because**, **since**, **unless**, **while**, **whereas**.
+          - **Although** it was raining, we **went** for a walk.
+          - She **didn't attend** because she **was ill**.
+        - usage notes: Use to show more complex relationships between ideas in a sentence.
+        - exceptions: Some subordinating conjunctions have specific rules or usage contexts.
+        - related rules: complex sentences, clause relationships
+      - transition words
+        - explanation: Words and phrases that help guide the reader through the text by indicating relationships between ideas.
+        - examples:
+          - **Firstly**, **secondly**, **finally**.
+          - **In addition**, **moreover**, **furthermore**.
+          - **Therefore**, **thus**, **consequently**.
+        - usage notes: Use to organize information logically and improve the flow of writing.
+        - exceptions: Overusing transition words can make writing seem mechanical.
+        - related rules: organizing ideas, improving coherence
+      - conjunctive adverbs
+        - explanation: Adverbs that function as conjunctions to connect independent clauses, showing relationships like contrast, cause, effect, etc.
+        - examples:
+          - **However**, **therefore**, **meanwhile**, **nonetheless**.
+          - She **wanted** to join, **however**, she **was too busy**.
+          - He **was tired**; **therefore**, he **went to bed**.
+        - usage notes: Use with a semicolon or a period when connecting independent clauses.
+        - exceptions: Avoid using them as simple adverbs within a single clause.
+        - related rules: conjunctive adverb usage, punctuation with linking words
+      - prepositions as linking words
+        - explanation: Prepositions that can function to link ideas or show relationships between different parts of a sentence.
+        - examples:
+          - **Despite**, **in spite of**, **because of**, **due to**.
+          - **Despite** the rain, we **went** hiking.
+          - The game was canceled **due to** bad weather.
+        - usage notes: Use prepositions to show relationships like contrast, cause, and time between ideas.
+        - exceptions: Some prepositions require specific grammatical structures or verb forms.
+        - related rules: prepositional phrases, expressing relationships

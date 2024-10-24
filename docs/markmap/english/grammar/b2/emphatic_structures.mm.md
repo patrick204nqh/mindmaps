@@ -1,0 +1,244 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- B2
+  - Emphatic Structures
+    - Emphatic Do
+      - affirmative sentences
+        - explanation: Using "do" or "does" in affirmative sentences to add emphasis.
+        - examples:
+          - I **do** like chocolate.
+          - She **does** understand the problem.
+        - usage notes: Commonly used in responses to emphasize agreement or affirmation.
+        - exceptions: Not used in formal writing; typically found in spoken English.
+        - related rules: subject-verb agreement, auxiliary verbs
+      - negative sentences
+        - explanation: Using "do not" or "does not" in negative sentences to emphasize the negation.
+        - examples:
+          - I **do not** agree with that statement.
+          - He **does not** know the answer.
+        - usage notes: Emphasizes the denial or disagreement.
+        - exceptions: Similar to affirmative emphatic do, not commonly used in formal writing.
+        - related rules: negation, auxiliary verbs
+      - questions
+        - explanation: Using "do" or "does" in questions to add emphasis or to seek confirmation.
+        - examples:
+          - **Do** you **really** think so?
+          - **Does** she **indeed** know the truth?
+        - usage notes: Often used to express surprise or to confirm information.
+        - exceptions: Less common in highly formal contexts.
+        - related rules: question formation, auxiliary verbs
+    - Inversion for Emphasis
+      - negative adverbials
+        - explanation: Starting sentences with negative adverbials followed by inversion of the subject and auxiliary verb for emphasis.
+        - examples:
+          - **Never** have I **seen** such a beautiful sunset.
+          - **Rarely** does he **make** mistakes.
+        - usage notes: Adds a dramatic or formal emphasis to the statement.
+        - exceptions: Typically used in formal writing and speeches; less common in everyday conversation.
+        - related rules: negative inversion, formal sentence structures
+      - conditional inversion
+        - explanation: Omitting "if" and inverting the subject and auxiliary verb to create an emphatic conditional sentence.
+        - examples:
+          - **Had** I **known**, I **would have acted** differently.
+          - **Should** you **need** assistance, please call me.
+        - usage notes: Used for a more formal or literary tone, adding emphasis to the condition.
+        - exceptions: Less common in informal contexts; can sound archaic if overused.
+        - related rules: conditional sentences, formal inversion
+    - Cleft Sentences
+      - it-cleft
+        - explanation: Splitting a single clause into two parts to emphasize a particular element.
+        - examples:
+          - **It was** John **who** solved the problem.
+          - **It is** the environment **that** affects our health.
+        - usage notes: Highlights the emphasized part, improving clarity and focus.
+        - exceptions: Can make sentences longer and more complex; use sparingly for emphasis.
+        - related rules: sentence restructuring, emphasis techniques
+      - wh-cleft
+        - explanation: Using "what" or "who" to create cleft sentences for emphasis.
+        - examples:
+          - **What** I need **is** a good night's sleep.
+          - **Who** she invited **is** still unknown.
+        - usage notes: Focuses on specific information, making the sentence more impactful.
+        - exceptions: Not suitable for all types of sentences; ensure the focus is clear.
+        - related rules: it-cleft, sentence emphasis
+    - Cumulative Structures
+      - cumulative sentences
+        - explanation: Building up a sentence by adding clauses or phrases to emphasize a point.
+        - examples:
+          - She **went to the store**, **bought some groceries**, **and** **met her friend**.
+          - He **worked hard**, **saved money**, **and** **achieved his goals**.
+        - usage notes: Creates a sense of accumulation and emphasis through listing actions or qualities.
+        - exceptions: Overuse can lead to run-on sentences; maintain balance for clarity.
+        - related rules: compound sentences, sentence variety
+    - Causative Emphasis
+      - using "let" and "make"
+        - explanation: Employing causative verbs like "let" and "make" to emphasize causation or permission.
+        - examples:
+          - She **let** him **borrow** her car.
+          - The teacher **made** the students **stay** after class.
+        - usage notes: Highlights the cause-effect relationship between actions.
+        - exceptions: Ensure correct usage of causative verbs based on meaning (permission vs. compulsion).
+        - related rules: causative verbs, sentence structure
+    - Intensifiers and Emphatic Adverbs
+      - using intensifiers
+        - explanation: Adding words like "very," "really," "extremely" to strengthen the meaning of adjectives or adverbs.
+        - examples:
+          - He is **very** talented.
+          - She was **extremely** happy with the results.
+        - usage notes: Use to add emphasis and convey stronger emotions or opinions.
+        - exceptions: Overusing intensifiers can make writing seem exaggerated or less credible.
+        - related rules: adverb usage, adjective modification
+      - using emphatic adverbs
+        - explanation: Employing adverbs that inherently add emphasis, such as "absolutely," "completely," "totally."
+        - examples:
+          - I **absolutely** agree with you.
+          - She **completely** forgot about the meeting.
+        - usage notes: Enhances the intensity of the statement, making it more impactful.
+        - exceptions: Similar to intensifiers, avoid overuse to maintain effectiveness.
+        - related rules: adverb usage, emphasis techniques
+    - Cleft and Emphatic Constructions
+      - cleft sentences
+        - explanation: Dividing a single clause into two to emphasize a particular part.
+        - examples:
+          - **It was** the manager **who** approved the budget.
+          - **It is** his dedication **that** makes him successful.
+        - usage notes: Useful for highlighting specific information and adding variety to sentence structures.
+        - exceptions: Can make sentences longer; use when emphasis is necessary.
+        - related rules: sentence restructuring, emphasis techniques
+      - fronting for emphasis
+        - explanation: Moving a particular element to the front of the sentence to give it more prominence.
+        - examples:
+          - **This book**, I have never read.
+          - **Such dedication**, he shows every day.
+        - usage notes: Adds emphasis by altering the typical word order, making the highlighted part stand out.
+        - exceptions: May sound unnatural if overused; ensure clarity in meaning.
+        - related rules: sentence structure variation, emphasis techniques
+    - Advanced Emphatic Structures
+      - using "so" and "such" for emphasis
+        - explanation: Employing "so" before adjectives/adverbs and "such" before noun phrases to intensify meaning.
+        - examples:
+          - The movie was **so** interesting.
+          - It was **such** a challenging task.
+        - usage notes: Enhances descriptions, making statements more vivid and expressive.
+        - exceptions: Ensure correct placement of "so" and "such" to avoid grammatical errors.
+        - related rules: intensifiers, adjective and noun modification
+      - using "do" for emphasis in positive statements
+        - explanation: Reinforcing positive statements by inserting "do" before the main verb.
+        - examples:
+          - I **do** like your idea.
+          - She **does** enjoy playing the piano.
+        - usage notes: Adds conviction or assurance to the statement, often used in responses or to counter disbelief.
+        - exceptions: Not typically used in negative statements or questions.
+        - related rules: emphatic do, auxiliary verbs
+      - using "did" for emphasis in past statements
+        - explanation: Adding "did" before the base form of the verb in past tense statements for emphasis.
+        - examples:
+          - I **did** finish my homework.
+          - They **did** attend the meeting.
+        - usage notes: Emphasizes the completion or truth of a past action, often in contrast to doubt or disbelief.
+        - exceptions: Similar to present emphatic do, primarily used in spoken English.
+        - related rules: past tense verbs, emphatic do
+    - Common Mistakes
+      - overusing emphatic structures
+        - explanation: Using too many emphatic structures can make writing or speech seem forced or unnatural.
+        - examples:
+          - Incorrect: I **really do** **absolutely** love it **so** much.
+          - Correct: I **really** love it.
+        - usage notes: Use emphatic structures judiciously to maintain their effectiveness and naturalness.
+        - exceptions: In persuasive or dramatic contexts, multiple emphatic structures may be appropriate.
+        - related rules: sentence variety, natural language flow
+      - incorrect placement of emphatic words
+        - explanation: Misplacing "do," "so," or "such" within the sentence, leading to grammatical errors.
+        - examples:
+          - Incorrect: I love **do** chocolate.
+          - Correct: I **do** love chocolate.
+          - Incorrect: The task was **such** very challenging.
+          - Correct: The task was **so** challenging.
+        - usage notes: Ensure emphatic words are placed correctly according to grammatical rules.
+        - exceptions: None specific.
+        - related rules: word order, sentence structure
+      - confusing emphatic structures with other grammatical forms
+        - explanation: Mistaking emphatic structures for questions, negatives, or other forms, resulting in incorrect sentences.
+        - examples:
+          - Incorrect: **Do** you love chocolate? (intended as emphatic, but phrased as a question)
+          - Correct: I **do** love chocolate.
+          - Incorrect: She **does not** enjoy her work. (intended as emphatic, but phrased as a negative)
+          - Correct: She **does** enjoy her work.
+        - usage notes: Differentiate between emphatic structures and other grammatical forms to use them appropriately.
+        - exceptions: None specific.
+        - related rules: question formation, negation, sentence types
+      - omitting necessary auxiliary verbs in emphatic structures
+        - explanation: Leaving out "do," "does," or "did" when they are required for emphasis, leading to incomplete sentences.
+        - examples:
+          - Incorrect: I **love** it. (intended as emphatic)
+          - Correct: I **do** love it.
+          - Incorrect: She **enjoyed** the party. (intended as emphatic)
+          - Correct: She **did** enjoy the party.
+        - usage notes: Always include the appropriate emphatic auxiliary verb when aiming to add emphasis.
+        - exceptions: None specific.
+        - related rules: auxiliary verb usage, sentence completeness
+    - Exceptions
+      - formal writing restrictions
+        - explanation: Emphatic structures are less common in formal writing and may need to be toned down for appropriate style.
+        - examples:
+          - Informal: I **really do** think that's a great idea.
+          - Formal: I believe that is a great idea.
+        - usage notes: Use more neutral structures in formal contexts to maintain professionalism.
+        - exceptions: When emphasis is necessary for clarity or impact, careful use is acceptable.
+        - related rules: register in language, formal vs. informal writing
+      - limited use in certain tenses
+        - explanation: Emphatic structures are primarily used in the present and past simple tenses and may not be applicable in other tenses.
+        - examples:
+          - Incorrect: I **will do** love it. (future tense)
+          - Correct: I **do** love it.
+        - usage notes: Focus on using emphatic structures within appropriate tense contexts.
+        - exceptions: Some emphatic forms can be adapted for continuous or perfect aspects, but usage may vary.
+        - related rules: tense consistency, auxiliary verb usage
+      - overlapping meanings with other structures
+        - explanation: Emphatic structures can sometimes overlap with other grammatical forms, requiring careful selection to convey the intended meaning.
+        - examples:
+          - "I do like it" vs. "I really like it" (both add emphasis but in different ways)
+          - "She did finish her work" vs. "She definitely finished her work"
+        - usage notes: Choose the structure that best fits the desired level and type of emphasis.
+        - exceptions: Context may allow flexibility in choosing between different emphatic forms.
+        - related rules: sentence variety, expressing emphasis
+    - Related Rules
+      - emphasis in sentence construction
+        - explanation: Techniques and structures used to highlight or stress specific parts of a sentence.
+        - examples:
+          - Using repetition: "This is the best, the very best option."
+          - Using fronting: "This option, I believe, is the best."
+        - usage notes: Employ various methods to add emphasis and enhance the impact of your statements.
+        - exceptions: Avoid overusing emphasis techniques to maintain natural flow.
+        - related rules: emphatic structures, sentence variety
+      - contrastive structures
+        - explanation: Structures used to highlight differences or opposing ideas within sentences.
+        - examples:
+          - "He is talented, **but** he **isn't** hardworking."
+          - "She likes tea, **while** he prefers coffee."
+        - usage notes: Use contrastive structures to compare and show distinctions effectively.
+        - exceptions: Ensure that the contrast is clear and relevant to the context.
+        - related rules: adversative linking words, sentence balancing
+      - advanced punctuation for emphasis
+        - explanation: Using punctuation marks like commas, dashes, and parentheses to add emphasis or clarify meaning.
+        - examples:
+          - "I need you **now**, **not** later."
+          - "He was the best candidate — **undoubtedly**."
+        - usage notes: Employ punctuation strategically to guide the reader's attention and add emphasis.
+        - exceptions: Overuse of punctuation can make writing appear cluttered or disrupt readability.
+        - related rules: punctuation rules, sentence clarity
+      - stylistic variation in writing
+        - explanation: Incorporating different sentence structures and emphatic techniques to make writing more engaging and dynamic.
+        - examples:
+          - "I **do** believe in second chances."
+          - "**Never** have I seen such dedication."
+        - usage notes: Use a variety of stylistic elements to maintain the reader's interest and enhance expression.
+        - exceptions: Balance is key; too much variation can confuse or overwhelm the reader.
+        - related rules: sentence variety, expressive language

@@ -1,0 +1,220 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- B2
+  - Passive Voice
+    - Forms
+      - present simple passive
+        - explanation: Used to describe general truths or habitual actions where the focus is on the action rather than the doer.
+        - examples:
+          - The buildings **are cleaned** every week.
+          - English **is spoken** in many countries.
+        - usage notes: Formed using the present simple of "to be" (am/is/are) + past participle.
+        - exceptions: Some verbs do not typically appear in passive form.
+        - related rules: present simple tense, active vs. passive voice
+      - past simple passive
+        - explanation: Describes actions that were completed in the past with the focus on the action itself.
+        - examples:
+          - The cake **was baked** by Mary.
+          - The letters **were sent** yesterday.
+        - usage notes: Formed using the past simple of "to be" (was/were) + past participle.
+        - exceptions: Irregular past participles must be used correctly.
+        - related rules: past simple tense, active vs. passive voice
+      - present continuous passive
+        - explanation: Indicates actions that are currently ongoing with the focus on the action.
+        - examples:
+          - The house **is being painted** right now.
+          - New policies **are being implemented** at the moment.
+        - usage notes: Formed using the present continuous of "to be" (am/is/are being) + past participle.
+        - exceptions: Limited use with stative verbs.
+        - related rules: present continuous tense, active vs. passive voice
+      - present perfect passive
+        - explanation: Describes actions that have been completed at an unspecified time before now.
+        - examples:
+          - The project **has been completed**.
+          - All the tickets **have been sold**.
+        - usage notes: Formed using the present perfect of "to be" (has/have been) + past participle.
+        - exceptions: Ensure the correct form of "to be" is used based on the subject.
+        - related rules: present perfect tense, active vs. passive voice
+      - future passive
+        - explanation: Refers to actions that will happen in the future with the focus on the action.
+        - examples:
+          - The meeting **will be held** next Monday.
+          - The documents **will be reviewed** by the committee.
+        - usage notes: Formed using "will be" + past participle.
+        - exceptions: Less common in everyday speech, more frequent in formal contexts.
+        - related rules: future simple tense, active vs. passive voice
+      - passive with modal verbs
+        - explanation: Expresses possibility, necessity, or obligation in the passive voice.
+        - examples:
+          - The report **must be finished** by Friday.
+          - The window **can be opened** easily.
+        - usage notes: Formed using modal verb + "be" + past participle.
+        - exceptions: Some modals may alter meaning subtly.
+        - related rules: modal verbs, active vs. passive voice
+    - Sentence Structure
+      - affirmative sentences
+        - explanation: Positive statements using passive voice to emphasize the action.
+        - examples:
+          - The novel **was written** by George Orwell.
+          - The car **is being repaired**.
+        - usage notes: Subject receives the action, and the doer can be included with "by" or omitted.
+        - exceptions: Some sentences may become awkward if the doer is included unnecessarily.
+        - related rules: affirmative sentence structure, active vs. passive voice
+      - negative sentences
+        - explanation: Negative statements in passive voice to indicate that an action did not occur.
+        - examples:
+          - The window **was not broken** by the storm.
+          - The homework **hasn't been completed** yet.
+        - usage notes: Insert "not" after the form of "to be."
+        - exceptions: Double negatives are incorrect.
+        - related rules: negation in passive voice, negative sentence structure
+      - questions
+        - explanation: Interrogative sentences using passive voice to inquire about actions.
+        - examples:
+          - **Was** the movie **directed** by Spielberg?
+          - **Have** the documents **been signed**?
+        - usage notes: Invert the form of "to be" with the subject.
+        - exceptions: Some questions may require additional restructuring for clarity.
+        - related rules: question formation, passive voice questions
+    - Agent in Passive Voice
+      - including "by" phrases
+        - explanation: Specifies the doer of the action in passive sentences.
+        - examples:
+          - The song **was sung by** her favorite artist.
+          - The meal **was prepared by** a renowned chef.
+        - usage notes: Use "by" followed by the agent when the doer is important or known.
+        - exceptions: Omit the agent if it is unknown or irrelevant.
+        - related rules: active vs. passive voice, agent inclusion
+      - omitting the agent
+        - explanation: Excludes the doer of the action when it is unnecessary or unknown.
+        - examples:
+          - The bridge **was built** in 1920.
+          - The letters **were mailed** today.
+        - usage notes: Common in formal writing where the focus is on the action.
+        - exceptions: Situations where the doer adds essential information.
+        - related rules: passive voice emphasis, agent omission
+    - Passive in Different Tenses
+      - consistency in tense usage
+        - explanation: Maintaining the correct passive form across various tenses to match the time of action.
+        - examples:
+          - Past: The cake **was eaten**.
+          - Present Perfect: The report **has been submitted**.
+          - Future: The event **will be organized**.
+        - usage notes: Ensure the form of "to be" matches the intended tense.
+        - exceptions: Irregular past participles must be correctly used.
+        - related rules: tense consistency, active vs. passive voice
+      - continuous passive forms
+        - explanation: Using continuous tenses in passive voice to describe ongoing actions.
+        - examples:
+          - The house **is being renovated**.
+          - The letters **were being processed**.
+        - usage notes: Emphasizes that an action is in progress.
+        - exceptions: Limited use with certain verbs.
+        - related rules: present continuous passive, past continuous passive
+    - Usage
+      - emphasis on action over actor
+        - explanation: Passive voice shifts focus from who performed the action to the action itself.
+        - examples:
+          - Active: The chef **cooked** the meal.
+          - Passive: The meal **was cooked**.
+        - usage notes: Use passive voice when the actor is unknown, irrelevant, or less important.
+        - exceptions: When the actor is essential for clarity, passive may not be suitable.
+        - related rules: active vs. passive voice, sentence focus
+      - formal and scientific writing
+        - explanation: Passive voice is commonly used in formal, academic, and scientific contexts to present information objectively.
+        - examples:
+          - The experiment **was conducted** under controlled conditions.
+          - Results **were analyzed** using statistical methods.
+        - usage notes: Enhances objectivity and removes personal bias.
+        - exceptions: Overuse can make writing less engaging.
+        - related rules: formal writing styles, objective presentation
+    - Common Mistakes
+      - incorrect verb forms
+        - explanation: Using the wrong form of "to be" or past participle in passive constructions.
+        - examples:
+          - Incorrect: The book **is wrote** by the author.
+          - Correct: The book **is written** by the author.
+        - usage notes: Ensure proper forms of "to be" and correct past participles.
+        - exceptions: Irregular verbs require memorization.
+        - related rules: verb conjugation, passive voice accuracy
+      - unnecessary use of passive voice
+        - explanation: Applying passive voice when active voice is clearer or more direct.
+        - examples:
+          - Unnecessary: The cake **was eaten** by John. (Active: John **ate** the cake.)
+          - Necessary: The window **was broken** during the storm. (Actor unknown)
+        - usage notes: Use passive voice purposefully to enhance clarity or focus.
+        - exceptions: Some contexts naturally call for passive constructions.
+        - related rules: active vs. passive voice, sentence clarity
+      - omission of "by" when specifying the agent
+        - explanation: Forgetting to include "by" when the doer of the action is mentioned.
+        - examples:
+          - Incorrect: The song **was performed** her favorite artist.
+          - Correct: The song **was performed by** her favorite artist.
+        - usage notes: Always use "by" to introduce the agent in passive sentences.
+        - exceptions: None specific.
+        - related rules: agent inclusion, sentence structure
+      - mixing active and passive forms
+        - explanation: Inconsistent use of active and passive voice within the same sentence or context.
+        - examples:
+          - Incorrect: The manager approved the project and it **was implemented** by the team.
+          - Correct: The manager approved the project and the team **implemented** it.
+        - usage notes: Maintain consistent voice unless a shift is necessary for emphasis.
+        - exceptions: Shifts can be used for stylistic purposes.
+        - related rules: voice consistency, sentence coherence
+    - Exceptions
+      - verbs that are rarely used in passive voice
+        - explanation: Certain intransitive verbs or stative verbs do not typically form passive constructions.
+        - examples:
+          - Impossible: The information **was know** by everyone.
+          - Possible: She **is loved** by many.
+        - usage notes: Identify verbs that do not have a passive form due to their nature.
+        - exceptions: Some stative verbs can be passivized in specific contexts.
+        - related rules: verb types, intransitive vs. transitive verbs
+      - agent omission when necessary
+        - explanation: Omitting the agent when it is unknown, irrelevant, or obvious from context.
+        - examples:
+          - The window **was broken**.
+          - The letters **were mailed** yesterday.
+        - usage notes: Focus on the action without emphasizing the doer.
+        - exceptions: When the agent adds essential information, include it.
+        - related rules: agent omission, focus on action
+    - Related Rules
+      - active voice
+        - explanation: The subject of the sentence performs the action.
+        - examples:
+          - The teacher **explained** the lesson.
+          - The company **launched** a new product.
+        - usage notes: Active voice is direct and often more engaging.
+        - exceptions: Situations where passive voice is more appropriate.
+        - related rules: passive voice, sentence structure
+      - reported speech
+        - explanation: Converting direct speech into indirect speech, often requiring passive constructions.
+        - examples:
+          - Direct: "I completed the task," she said.
+          - Reported: She said that the task **had been completed**.
+        - usage notes: Maintain tense consistency and proper passive forms.
+        - exceptions: When the action remains ongoing or true.
+        - related rules: sequence of tenses, passive voice
+      - relative clauses
+        - explanation: Clauses that provide additional information about a noun, sometimes using passive constructions.
+        - examples:
+          - The book **that was written** by her is a bestseller.
+          - The car **which was repaired** yesterday is working fine.
+        - usage notes: Use passive forms to emphasize the noun being described.
+        - exceptions: Some relative clauses may require active voice for clarity.
+        - related rules: relative clauses, passive voice
+      - modal verbs in passive voice
+        - explanation: Using modal verbs to express ability, possibility, obligation, etc., in passive constructions.
+        - examples:
+          - The report **must be finished** by Monday.
+          - The project **can be completed** on time.
+        - usage notes: Combine modal verbs with "be" and the past participle.
+        - exceptions: Modal verbs that do not typically form passive constructions.
+        - related rules: modal verbs, passive voice

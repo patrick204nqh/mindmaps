@@ -1,0 +1,291 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- B2
+  - Relative Clauses (Advanced)
+    - Types of Relative Clauses
+      - defining relative clauses
+        - explanation: Clauses that provide essential information about the noun they modify, without which the sentence would change its meaning.
+        - examples:
+          - The book **that you gave me** is fascinating.
+          - Students **who study hard** achieve better results.
+        - usage notes: Do not use commas with defining relative clauses as the information is crucial to the meaning.
+        - exceptions: Some proper nouns may allow optional defining clauses.
+        - related rules: relative pronouns, sentence specificity
+      - non-defining relative clauses
+        - explanation: Clauses that add extra, non-essential information about the noun they modify, which can be omitted without changing the sentence's fundamental meaning.
+        - examples:
+          - My brother, **who lives abroad**, is visiting us next week.
+          - Paris, **which is known as the City of Light**, attracts millions of tourists.
+        - usage notes: Use commas to separate non-defining relative clauses from the rest of the sentence.
+        - exceptions: Certain formal or literary contexts may vary comma usage.
+        - related rules: relative pronouns, additional information
+    - Relative Pronouns
+      - who, whom, whose
+        - explanation: Pronouns used to refer to people, with "who" as the subject, "whom" as the object, and "whose" indicating possession.
+        - examples:
+          - The teacher **who** inspired me is retiring.
+          - The person **whom** you met yesterday is my friend.
+          - The artist **whose** work we admire is exhibiting her latest collection.
+        - usage notes: "Who" is used for subjects, "whom" for objects (often replaced by "who" in informal contexts), and "whose" for possession.
+        - exceptions: "Whom" is becoming less common in spoken English, often replaced by "who."
+        - related rules: relative pronoun cases, formal vs. informal usage
+      - which, that
+        - explanation: "Which" refers to animals and things, while "that" can refer to people, animals, and things in defining relative clauses.
+        - examples:
+          - The car **which** is parked outside belongs to Sarah.
+          - The house **that** Jack built is now a museum.
+        - usage notes: "That" is used exclusively in defining relative clauses and cannot be used in non-defining clauses.
+        - exceptions: "Which" can sometimes be used in defining clauses, especially in British English.
+        - related rules: relative pronoun selection, defining vs. non-defining clauses
+      - relative adverbs (where, when, why)
+        - explanation: Adverbs used to introduce relative clauses that provide information about place, time, or reason.
+        - examples:
+          - The café **where** we met is closed now.
+          - I remember the day **when** we first met.
+          - I don't know the reason **why** she left.
+        - usage notes: Use "where" for places, "when" for times, and "why" for reasons.
+        - exceptions: Some relative adverbs can be omitted if the meaning remains clear.
+        - related rules: relative adverb usage, sentence context
+    - Reduced Relative Clauses
+      - participle clauses
+        - explanation: Relative clauses can be reduced by using present or past participles, making the sentence more concise.
+        - examples:
+          - The man **standing** by the door is my uncle. (instead of "who is standing")
+          - The letters **sent** yesterday have arrived. (instead of "that were sent")
+        - usage notes: Use the present participle for active clauses and the past participle for passive clauses.
+        - exceptions: Only applicable when the relative pronoun is the subject of the clause.
+        - related rules: participle usage, clause reduction
+      - infinitive clauses
+        - explanation: Some relative clauses can be reduced using infinitives to express purpose or intent.
+        - examples:
+          - She has a lot of work **to do**. (instead of "that she has to do")
+          - He found a place **to stay**. (instead of "where he could stay")
+        - usage notes: Commonly used to express necessity, purpose, or intent in a more streamlined manner.
+        - exceptions: Not all relative clauses can be reduced to infinitive forms.
+        - related rules: infinitive usage, clause reduction
+    - Relative Clauses with Prepositions
+      - preposition placement
+        - explanation: When a relative clause includes a preposition, it can either precede or follow the relative pronoun.
+        - examples:
+          - The house **in which** I grew up is now a museum.
+          - The house **which I grew up in** is now a museum.
+        - usage notes: In formal writing, placing the preposition before the relative pronoun is preferred; in informal contexts, ending the clause with the preposition is acceptable.
+        - exceptions: Some prepositions are rarely placed before relative pronouns and are typically end-positioned.
+        - related rules: preposition usage, formal vs. informal structures
+      - prepositions in non-defining clauses
+        - explanation: Prepositions in non-defining relative clauses follow the standard placement rules with commas.
+        - examples:
+          - The restaurant, **at which** we dined, was excellent.
+          - The conference, **for which** she prepared extensively, was a success.
+        - usage notes: Maintain comma separation while correctly placing prepositions.
+        - exceptions: Limited flexibility in preposition placement in non-defining clauses.
+        - related rules: non-defining clauses, preposition placement
+    - Advanced Relative Clause Structures
+      - multiple relative clauses
+        - explanation: Sentences containing more than one relative clause to provide detailed information about multiple nouns.
+        - examples:
+          - The scientist **who discovered the cure**, **who is now retired**, has been honored.
+          - The book **that you lent me**, **which I found fascinating**, is on the shelf.
+        - usage notes: Ensure clarity by properly punctuating non-defining clauses and maintaining subject-verb agreement.
+        - exceptions: Avoid overly complex sentences that may confuse the reader.
+        - related rules: sentence complexity, clause organization
+      - relative clauses with conditionals
+        - explanation: Incorporating conditional statements within relative clauses to express hypothetical scenarios related to the noun.
+        - examples:
+          - The student **who would study harder** might have passed the exam.
+          - The project **that could have been completed** on time requires further review.
+        - usage notes: Align conditional structures with the appropriate relative pronouns and clause types.
+        - exceptions: Maintain logical consistency between conditional and relative clause elements.
+        - related rules: conditional sentences, clause integration
+      - relative clauses in passive voice
+        - explanation: Using relative clauses in the passive voice to shift focus from the subject performing the action to the action itself.
+        - examples:
+          - The report **that was submitted** by the team was excellent.
+          - The buildings **which were constructed** last year have already shown signs of wear.
+        - usage notes: Use passive forms when the doer is unknown, irrelevant, or less important than the action.
+        - exceptions: Some actions are more naturally expressed in the active voice.
+        - related rules: passive voice, clause focus
+    - Punctuation in Relative Clauses
+      - commas with non-defining clauses
+        - explanation: Non-defining relative clauses are separated from the rest of the sentence by commas to indicate that the information is additional and not essential.
+        - examples:
+          - My car, **which I bought last year**, has already needed repairs.
+          - The CEO, **who has been with the company for decades**, announced his retirement.
+        - usage notes: Always use commas with non-defining relative clauses to enhance readability.
+        - exceptions: Defining clauses never use commas.
+        - related rules: defining vs. non-defining clauses, sentence clarity
+      - no commas with defining clauses
+        - explanation: Defining relative clauses are essential to the meaning of the sentence and are not set off by commas.
+        - examples:
+          - The students **who missed the exam** will have to retake it.
+          - The book **that I borrowed** is overdue.
+        - usage notes: Do not use commas to separate defining relative clauses from the main clause.
+        - exceptions: Certain stylistic choices in specific contexts may vary.
+        - related rules: clause necessity, punctuation rules
+    - Omitting Relative Pronouns
+      - when the relative pronoun is the object
+        - explanation: Relative pronouns can be omitted when they function as the object of the relative clause.
+        - examples:
+          - The book **you gave me** is fascinating. (instead of "that you gave me")
+          - The person **whom I spoke to** is unavailable. (informally: "who I spoke to")
+        - usage notes: Omission simplifies sentences but is only possible when the pronoun is not the subject.
+        - exceptions: Must retain the pronoun when it is the subject of the clause.
+        - related rules: relative pronoun function, clause simplification
+      - relative adverbs cannot be omitted
+        - explanation: Relative adverbs like "where," "when," and "why" cannot be omitted from relative clauses.
+        - examples:
+          - The place **where** we met was beautiful.
+          - The time **when** she arrived was unexpected.
+        - usage notes: Always include relative adverbs to maintain the clause's meaning.
+        - exceptions: None specific.
+        - related rules: relative adverbs, clause completeness
+    - Advanced Relative Pronoun Usage
+      - whose with non-persons
+        - explanation: "Whose" can be used to show possession for non-person nouns, expanding its traditional use beyond people.
+        - examples:
+          - The company **whose** products are eco-friendly won the award.
+          - The car **whose** engine was damaged is being repaired.
+        - usage notes: Use "whose" to indicate possession regardless of whether the noun is animate or inanimate.
+        - exceptions: Avoid using "whose" with abstract nouns where possession is unclear.
+        - related rules: possession in relative clauses, relative pronoun selection
+      - that vs. which in defining clauses
+        - explanation: "That" is preferred in defining relative clauses, while "which" is often used in non-defining clauses.
+        - examples:
+          - Defining: The house **that** Jack built is on the corner.
+          - Non-defining: The house, **which** Jack built, is on the corner.
+        - usage notes: "That" introduces essential information, whereas "which" adds supplementary details.
+        - exceptions: In British English, "which" can sometimes be used in defining clauses.
+        - related rules: relative pronoun selection, clause type differentiation
+      - formal vs. informal relative clauses
+        - explanation: Advanced usage may require choosing more formal relative pronouns or structures depending on the context.
+        - examples:
+          - Formal: The individual **who has submitted** the application will be contacted.
+          - Informal: The person **who submitted** the application will be contacted.
+        - usage notes: Use more formal structures in academic or professional writing, and more relaxed forms in everyday conversation.
+        - exceptions: Some phrases maintain their formality regardless of context.
+        - related rules: register in language, relative pronoun choice
+    - Advanced Sentence Structures
+      - embedding relative clauses within other clauses
+        - explanation: Incorporating relative clauses inside other subordinate clauses to add multiple layers of information.
+        - examples:
+          - The teacher **who inspired** me **who also coached** the team retired.
+          - She met a friend **who lives** in Paris **who works** for a multinational company.
+        - usage notes: Ensure clear punctuation and logical flow to maintain sentence clarity.
+        - exceptions: Avoid overly complex sentences that may confuse the reader.
+        - related rules: sentence complexity, clause hierarchy
+      - relative clauses with inversion for emphasis
+        - explanation: Using inversion in relative clauses to emphasize certain elements of the sentence.
+        - examples:
+          - The man **whom I saw** is a famous actor. → The man **I saw** is a famous actor.
+          - The solution **that we found** was effective. → The solution **we found** was effective.
+        - usage notes: Inversion is often used for stylistic purposes to highlight specific parts of the sentence.
+        - exceptions: Only applicable when the relative pronoun is the object.
+        - related rules: sentence emphasis, stylistic variation
+    - Common Mistakes
+      - incorrect relative pronoun usage
+        - explanation: Using the wrong relative pronoun for the context, leading to confusion or grammatical errors.
+        - examples:
+          - Incorrect: The person **which** called you is waiting.
+          - Correct: The person **who** called you is waiting.
+          - Incorrect: The car **that** he drives to work, **which** is new, is very fast.
+          - Correct: The car **that** he drives to work is very fast. **Which** is new.
+        - usage notes: Select relative pronouns based on whether they refer to people or things and their grammatical role in the clause.
+        - exceptions: British English may allow more flexibility in pronoun usage.
+        - related rules: relative pronoun selection, person vs. thing
+      - punctuation errors in non-defining clauses
+        - explanation: Misplacing or omitting commas when using non-defining relative clauses, altering the intended meaning.
+        - examples:
+          - Incorrect: My sister who lives in New York is visiting.
+          - Correct: My sister, **who lives in New York**, is visiting.
+          - Incorrect: The book that you lent me is great.
+          - Correct: The book **that you lent me** is great. (Defining clause – no commas)
+        - usage notes: Use commas only with non-defining clauses to distinguish them from defining ones.
+        - exceptions: Certain stylistic choices in creative writing may vary.
+        - related rules: defining vs. non-defining clauses, comma usage
+      - omitting relative pronouns when they are subjects
+        - explanation: Leaving out relative pronouns in clauses where they act as the subject, resulting in incomplete sentences.
+        - examples:
+          - Incorrect: The man **I saw** yesterday is my uncle. (Correct if "I saw" uses "who I saw")
+          - Correct: The man **who I saw** yesterday is my uncle.
+          - Incorrect: The car **you drive** is new. (Correct if "you drive" uses "which you drive")
+          - Correct: The car **which you drive** is new.
+        - usage notes: Only omit relative pronouns when they function as objects; retain them when they are subjects.
+        - exceptions: None specific.
+        - related rules: relative pronoun function, clause completeness
+      - redundancy with relative clauses
+        - explanation: Adding unnecessary relative clauses that repeat information already clear from the context.
+        - examples:
+          - Incorrect: The CEO **who is the chief executive officer** made the announcement.
+          - Correct: The CEO made the announcement.
+          - Incorrect: My friend **who is a teacher** teaches at the local school.
+          - Correct: My friend teaches at the local school.
+        - usage notes: Ensure relative clauses add new, essential information and do not simply restate known facts.
+        - exceptions: Emphasis or stylistic purposes may justify redundancy in some contexts.
+        - related rules: information relevance, sentence efficiency
+    - Exceptions
+      - relative clauses with omitted subjects
+        - explanation: In certain informal contexts, subjects within relative clauses can be omitted if they are clear from context.
+        - examples:
+          - The book **you lent me** is excellent. (subject "you" is clear)
+          - The movie **we watched** was thrilling.
+        - usage notes: Omission is acceptable only when the subject is obvious and does not lead to ambiguity.
+        - exceptions: In more complex sentences, retaining the subject may be necessary for clarity.
+        - related rules: relative pronoun omission, subject clarity
+      - relative clauses with implied information
+        - explanation: Relative clauses may imply information without explicitly stating it, relying on context to fill in gaps.
+        - examples:
+          - The students **to whom** the award was given.
+          - The reasons **why** she left.
+        - usage notes: Use when the implied information is understood from the context, avoiding redundancy.
+        - exceptions: Ensure that implied information does not confuse the reader.
+        - related rules: clause implication, contextual understanding
+      - non-standard relative clauses in creative writing
+        - explanation: Creative writing may employ non-standard relative clause structures for stylistic effects, breaking conventional rules.
+        - examples:
+          - The night **when the stars danced** was magical.
+          - The city **where dreams are made** never sleeps.
+        - usage notes: Use creative structures intentionally to enhance narrative or poetic qualities.
+        - exceptions: Such structures should still maintain grammatical coherence and not hinder readability.
+        - related rules: creative language use, stylistic variation
+    - Related Rules
+      - clause reduction
+        - explanation: Simplifying relative clauses by reducing them to participle or infinitive forms to make sentences more concise.
+        - examples:
+          - Original: The man **who is standing** there is my uncle.
+          - Reduced: The man **standing** there is my uncle.
+          - Original: The book **that was written** by her is popular.
+          - Reduced: The book **written** by her is popular.
+        - usage notes: Use reduction to streamline sentences while retaining essential meaning.
+        - exceptions: Only possible when the relative pronoun is the subject or object and the verb can be converted to a participle.
+        - related rules: participle clauses, sentence conciseness
+      - complex sentence formation
+        - explanation: Combining multiple clauses, including relative clauses, to create intricate and informative sentences.
+        - examples:
+          - The artist **who paints** murals **that depict** social issues is renowned.
+          - The technology **that enables** faster communication **which is essential** today is evolving rapidly.
+        - usage notes: Ensure logical flow and clarity when integrating multiple clauses.
+        - exceptions: Avoid overcomplicating sentences, which can lead to confusion.
+        - related rules: sentence complexity, clause integration
+      - relative clauses in passive voice
+        - explanation: Utilizing relative clauses in the passive voice to emphasize the action rather than the doer.
+        - examples:
+          - The documents **that were signed** by the manager need to be filed.
+          - The theories **which were proposed** by the scientist have been widely accepted.
+        - usage notes: Use passive relative clauses when the focus is on the action or when the doer is unknown or irrelevant.
+        - exceptions: Some actions are better expressed in the active voice for clarity.
+        - related rules: passive voice usage, focus in sentences
+      - relative clauses in reported speech
+        - explanation: Incorporating relative clauses within reported speech to convey someone else's statements or thoughts accurately.
+        - examples:
+          - He said that he **knew a person who could help** us.
+          - She mentioned that the event **where they met** was unforgettable.
+        - usage notes: Maintain the integrity of the relative clause structure when embedding it within reported speech.
+        - exceptions: Adjust relative pronouns and verb tenses according to reported speech rules.
+        - related rules: reported speech, clause embedding

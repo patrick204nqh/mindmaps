@@ -1,0 +1,246 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- B2
+  - Conditionals (Zero to Third)
+    - Types of Conditionals
+      - zero conditional
+        - explanation: Used to express general truths, scientific facts, or things that are always true under certain conditions.
+        - examples:
+          - If you **heat** water to 100 degrees Celsius, it **boils**.
+          - Plants **die** if they **don't receive** enough sunlight.
+        - usage notes: Both clauses use the present simple tense. Often used for instructions or habitual actions.
+        - exceptions: Not used for hypothetical or future situations.
+        - related rules: general truths, scientific facts
+      - first conditional
+        - explanation: Used to talk about real and possible situations in the future based on certain conditions.
+        - examples:
+          - If it **rains**, we **will cancel** the picnic.
+          - She **will pass** the exam if she **studies** hard.
+        - usage notes: The if-clause uses the present simple tense, and the main clause uses the future simple tense (will + base verb).
+        - exceptions: Can use other modal verbs (e.g., can, may) in the main clause to express different degrees of certainty.
+        - related rules: future possibilities, real conditions
+      - second conditional
+        - explanation: Used to talk about hypothetical or unlikely situations in the present or future.
+        - examples:
+          - If I **had** a million dollars, I **would travel** the world.
+          - She **would be** happier if she **worked** less.
+        - usage notes: The if-clause uses the past simple tense, and the main clause uses "would" + base verb.
+        - exceptions: Can use other modals like "could" or "might" in the main clause to express ability or possibility.
+        - related rules: hypothetical situations, unreal conditions
+      - third conditional
+        - explanation: Used to talk about hypothetical situations in the past and their possible results, often expressing regret.
+        - examples:
+          - If they **had left** earlier, they **would have caught** the train.
+          - I **would have helped** you if I **had known** you were in trouble.
+        - usage notes: The if-clause uses the past perfect tense, and the main clause uses "would have" + past participle.
+        - exceptions: Not used for present or future situations; strictly refers to past hypotheticals.
+        - related rules: expressing regret, past unreal conditions
+    - Sentence Structure
+      - affirmative sentences
+        - explanation: Positive statements using the structure of each conditional type to describe real or hypothetical situations.
+        - examples:
+          - Zero: If you **mix** red and blue, you **get** purple.
+          - First: If she **calls**, I **will answer**.
+          - Second: If I **were** taller, I **would play** basketball.
+          - Third: If he **had studied**, he **would have passed** the exam.
+        - usage notes: Follow the specific tense structures for each conditional type to convey the intended meaning accurately.
+        - exceptions: None specific.
+        - related rules: affirmative sentence construction, tense agreement
+      - negative sentences
+        - explanation: Negative statements that describe what does not happen or would not happen under certain conditions.
+        - examples:
+          - Zero: If you **don't water** the plants, they **die**.
+          - First: If it **doesn't rain**, we **won't cancel** the trip.
+          - Second: If she **didn't work**, she **wouldn't earn** money.
+          - Third: If they **hadn't missed** the bus, they **wouldn't have been** late.
+        - usage notes: Add "not" after the verb in the if-clause or use contractions (e.g., don't, won't).
+        - exceptions: None specific.
+        - related rules: negation in conditionals, negative sentence structure
+      - questions
+        - explanation: Interrogative sentences that inquire about conditions or hypothetical scenarios.
+        - examples:
+          - Zero: What **happens** if you **mix** these chemicals?
+          - First: **Will** you **come** if I **invite** you?
+          - Second: **Would** you **travel** more if you **had** the time?
+          - Third: **Would** they **have succeeded** if they **had tried** harder?
+        - usage notes: Start with the auxiliary verb of the main clause, followed by the subject and the base verb.
+        - exceptions: Inversion is not typically used in standard conditional questions.
+        - related rules: question formation, interrogative sentence structure
+    - Uses of Conditionals
+      - expressing general truths and facts (zero conditional)
+        - explanation: Highlighting universal truths or scientific facts that are always true under certain conditions.
+        - examples:
+          - If you **freeze** water, it **turns** into ice.
+          - Plants **need** sunlight to **grow**.
+        - usage notes: Commonly used in scientific writing, instructions, and when stating facts.
+        - exceptions: Not used for specific events or personal opinions.
+        - related rules: general statements, scientific facts
+      - discussing future possibilities and plans (first conditional)
+        - explanation: Addressing potential future events that depend on certain conditions being met.
+        - examples:
+          - If we **finish** early, we **will go** out for dinner.
+          - She **will call** you if she **needs** help.
+        - usage notes: Often used in planning, promises, or warnings about future events.
+        - exceptions: Can incorporate different modal verbs to express varying degrees of certainty or willingness.
+        - related rules: future intentions, real possibilities
+      - talking about hypothetical present or future scenarios (second conditional)
+        - explanation: Describing situations that are unlikely or imaginary in the present or future.
+        - examples:
+          - If I **were** the president, I **would implement** new policies.
+          - They **would travel** more if they **had** more free time.
+        - usage notes: Useful for expressing wishes, dreams, or imagined scenarios.
+        - exceptions: "Were" is used for all subjects in formal contexts instead of "was."
+        - related rules: expressing wishes, hypothetical scenarios
+      - reflecting on past hypotheticals and regrets (third conditional)
+        - explanation: Considering how different past actions could have led to different outcomes.
+        - examples:
+          - If she **had left** earlier, she **would have caught** the train.
+          - I **would have helped** you if I **had known** you were in trouble.
+        - usage notes: Often used to express regret or analyze past events.
+        - exceptions: Not used for ongoing or future situations.
+        - related rules: expressing regret, past hypotheticals
+    - Variations and Advanced Structures
+      - mixed conditionals
+        - explanation: Combines two different types of conditionals to express complex time relationships between conditions and results.
+        - examples:
+          - If I **had studied** harder (third conditional), I **would be** a doctor now (second conditional).
+          - If they **hadn't missed** the bus (third conditional), they **wouldn't be** late now (second conditional).
+        - usage notes: Used to show how past actions affect the present or how present states relate to past conditions.
+        - exceptions: Requires careful alignment of tenses to maintain logical meaning.
+        - related rules: second conditional, third conditional
+      - inversion in conditionals
+        - explanation: A more formal structure where the auxiliary verb precedes the subject in the if-clause, often omitting "if."
+        - examples:
+          - Had I **known**, I **would have acted** differently.
+          - Were she **to arrive** on time, we **would start** the meeting.
+        - usage notes: Typically used in formal writing or speech to add emphasis.
+        - exceptions: Less common in everyday conversation; can sound stiff if overused.
+        - related rules: formal sentence structures, conditionals without "if"
+      - conditionals with modal verbs
+        - explanation: Incorporating different modal verbs in the main clause to express various nuances of possibility, ability, obligation, or advice.
+        - examples:
+          - If you **study**, you **might pass** the exam.
+          - If they **had left** earlier, they **could have caught** the flight.
+          - If he **knows** the answer, he **must explain** it.
+        - usage notes: Modal verbs can change the meaning and strength of the conditional statement.
+        - exceptions: Not all modals fit naturally with every conditional type.
+        - related rules: modal verb usage, expressing nuances in conditionals
+    - Common Mistakes
+      - incorrect tense usage
+        - explanation: Using wrong tenses in the if-clause or main clause, disrupting the conditional structure.
+        - examples:
+          - Incorrect: If I **know**, I **will tell** you.
+          - Correct: If I **knew**, I **would tell** you.
+          - Incorrect: If she **had went**, she **would have arrived**.
+          - Correct: If she **had gone**, she **would have arrived**.
+        - usage notes: Ensure the correct tense is used for each conditional type to maintain grammatical accuracy.
+        - exceptions: None specific.
+        - related rules: tense agreement, conditional forms
+      - using present simple in second or third conditionals
+        - explanation: Applying present simple tense instead of past tenses in hypothetical conditionals leads to incorrect structures.
+        - examples:
+          - Incorrect: If I **know** her, I **would help** her.
+          - Correct: If I **knew** her, I **would help** her.
+          - Incorrect: If they **were** here yesterday, they **would have joined** us.
+          - Correct: If they **had been** here yesterday, they **would have joined** us.
+        - usage notes: Distinguish between real and hypothetical conditionals by using appropriate tenses.
+        - exceptions: None specific.
+        - related rules: tense selection in conditionals, hypothetical vs. real conditions
+      - forgetting to change the verb in the main clause
+        - explanation: Neglecting to use "will," "would," or "would have" in the main clause, resulting in incomplete or incorrect sentences.
+        - examples:
+          - Incorrect: If it **rains**, we **cancel** the picnic.
+          - Correct: If it **rains**, we **will cancel** the picnic.
+          - Incorrect: If I **had known**, I **help** you.
+          - Correct: If I **had known**, I **would have helped** you.
+        - usage notes: Always complete the main clause with the appropriate modal verb based on the conditional type.
+        - exceptions: None specific.
+        - related rules: modal verb usage, sentence completeness
+      - confusing conditionals with similar structures
+        - explanation: Mixing up zero, first, second, and third conditionals leads to incorrect meanings and structures.
+        - examples:
+          - Incorrect: If I **have** time, I **would go** to the gym. (Should be first conditional)
+          - Correct: If I **have** time, I **will go** to the gym.
+          - Incorrect: If she **were** here yesterday, she **would help** us. (Should be third conditional)
+          - Correct: If she **had been** here yesterday, she **would have helped** us.
+        - usage notes: Understand the distinct purposes and structures of each conditional type to apply them correctly.
+        - exceptions: None specific.
+        - related rules: conditionals comparison, conditional type selection
+      - using "would" in the if-clause
+        - explanation: Placing "would" in the if-clause is grammatically incorrect and changes the meaning of the conditional.
+        - examples:
+          - Incorrect: If I **would study**, I **would pass**.
+          - Correct: If I **studied**, I **would pass**.
+          - Incorrect: If he **would come**, we **would start** the meeting.
+          - Correct: If he **came**, we **would start** the meeting.
+        - usage notes: "Would" should only appear in the main clause, not in the if-clause.
+        - exceptions: None specific.
+        - related rules: conditional clause restrictions, modal verb placement
+    - Exceptions
+      - universal truths not requiring conditionals
+        - explanation: Some universal truths or facts can be stated without using conditional sentences.
+        - examples:
+          - It **boils** at 100 degrees Celsius.
+          - Water **expands** when it **freezes**.
+        - usage notes: Use conditionals only when emphasizing the condition for the truth to hold.
+        - exceptions: None specific.
+        - related rules: general statements, scientific facts
+      - conditionals without "if"
+        - explanation: In some cases, conditionals can be formed without using the word "if," often using inversion for a more formal tone.
+        - examples:
+          - **Should you need** any help, let me know. (Instead of "If you should need")
+          - **Were I** you, I **would apologize**. (Instead of "If I were you")
+        - usage notes: Typically used in formal writing or speech to add variety and emphasis.
+        - exceptions: More common in formal contexts and less so in everyday conversation.
+        - related rules: inversion in conditionals, formal conditional structures
+      - mixed conditional nuances
+        - explanation: When combining different conditional types, the nuances and intended meanings can vary, requiring careful tense alignment.
+        - examples:
+          - If I **had studied** harder, I **would be** a doctor now. (Third + Second Conditional)
+          - If she **were** more organized, she **would have finished** the project on time. (Second + Third Conditional)
+        - usage notes: Ensure that the condition and result parts align logically in terms of time and reality.
+        - exceptions: Requires clear context to avoid confusion.
+        - related rules: mixed conditionals, third conditional
+    - Related Rules
+      - mixed conditionals
+        - explanation: Combines two different conditional types to express complex time relationships between conditions and results.
+        - examples:
+          - If I **had studied** harder (third conditional), I **would be** a doctor now (second conditional).
+          - If they **hadn't missed** the bus (third conditional), they **wouldn't be** late now (second conditional).
+        - usage notes: Used to show how past actions affect the present or how present states relate to past conditions.
+        - exceptions: Requires careful alignment of tenses to maintain logical meaning.
+        - related rules: second conditional, third conditional
+      - conditionals in reported speech
+        - explanation: Incorporating conditional sentences into reported speech, often requiring tense backshifting and structural adjustments.
+        - examples:
+          - Direct: "If it **rains**, we **will cancel** the picnic," she said.
+          - Reported: She said that if it **rained**, they **would cancel** the picnic.
+          - Direct: "If I **were** you, I **would apologize**," he advised.
+          - Reported: He advised that if he **were** me, he **would apologize**.
+        - usage notes: Maintain the conditional structure while adjusting tenses and pronouns as needed.
+        - exceptions: Universal truths or facts may retain original tenses even in reported speech.
+        - related rules: reported speech, sequence of tenses
+      - conditional sentence inversion
+        - explanation: Using inversion in conditional sentences to form questions or for stylistic emphasis without using "if."
+        - examples:
+          - **Had I known**, I **would have acted** differently.
+          - **Should you need** assistance, please call me.
+        - usage notes: Typically used in formal writing or speech to add variety and emphasis.
+        - exceptions: Less common in everyday conversation; can sound overly formal if overused.
+        - related rules: formal conditional structures, inversion rules
+      - modal verbs in conditionals
+        - explanation: Incorporating different modal verbs (could, might, should) in conditional sentences to express varying degrees of possibility, ability, or advice.
+        - examples:
+          - If you **studied**, you **might pass** the exam.
+          - If they **worked** harder, they **could achieve** better results.
+          - If she **had left** earlier, she **should have caught** the train.
+        - usage notes: Choose modal verbs that best convey the intended meaning and level of certainty.
+        - exceptions: Some modals may change the nuance and are not interchangeable.
+        - related rules: modal verb usage, expressing nuances in conditionals

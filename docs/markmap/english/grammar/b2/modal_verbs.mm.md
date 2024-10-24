@@ -1,0 +1,198 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- B2
+  - Modal Verbs (should have, could have, needn't have)
+    - Forms
+      - should have + past participle
+        - explanation: Used to express regret, criticism, or to give advice about past actions.
+        - examples:
+          - You **should have called** me earlier.
+          - They **should have finished** the project by now.
+        - usage notes: Indicates that something was expected or advisable in the past but did not happen.
+        - exceptions: Not used for neutral statements about past actions.
+        - related rules: modal verbs for advice, expressing regret
+      - could have + past participle
+        - explanation: Used to express possibility, missed opportunities, or ability in the past.
+        - examples:
+          - She **could have won** the race if she had trained harder.
+          - We **could have met** earlier, but we were both busy.
+        - usage notes: Suggests that something was possible in the past but did not occur.
+        - exceptions: Not used to express certainty about past actions.
+        - related rules: expressing possibility, missed opportunities
+      - needn't have + past participle
+        - explanation: Used to indicate that an action was unnecessary because the outcome was already achieved or circumstances changed.
+        - examples:
+          - You **needn't have brought** your umbrella; it didn't rain.
+          - He **needn't have worried** about the exam results.
+        - usage notes: Emphasizes that the action was not required.
+        - exceptions: Not used to express obligations or requirements.
+        - related rules: expressing unnecessary actions, modal verbs for obligation
+    - Uses
+      - Expressing Regret or Criticism
+        - explanation: Using "should have" to indicate that a different action would have been better in hindsight.
+        - examples:
+          - I **should have studied** harder for the test.
+          - She **should have listened** to the advice.
+        - usage notes: Common in expressing personal regrets or criticizing others' past actions.
+        - exceptions: Avoid using "should have" for neutral or factual statements.
+        - related rules: expressing regret, modal verbs for criticism
+      - Indicating Possibility or Missed Opportunities
+        - explanation: Using "could have" to show that something was possible in the past but did not happen.
+        - examples:
+          - They **could have traveled** to Europe if they had saved more money.
+          - He **could have helped** us if he had known about the problem.
+        - usage notes: Highlights what was possible but did not materialize.
+        - exceptions: Does not imply certainty about what could have happened.
+        - related rules: expressing possibility, modal verbs for opportunities
+      - Showing Unnecessary Actions
+        - explanation: Using "needn't have" to convey that an action was not necessary because the desired result was already achieved.
+        - examples:
+          - You **needn't have prepared** so much food; we have plenty.
+          - She **needn't have bought** a gift; your presence was enough.
+        - usage notes: Often used to reassure someone that their effort was not required.
+        - exceptions: Not used to express obligations or necessary actions.
+        - related rules: expressing unnecessary actions, modal verbs for obligation
+    - Sentence Structure
+      - Affirmative Sentences
+        - explanation: Constructing positive statements using modal perfect forms to describe past actions.
+        - examples:
+          - He **should have finished** the report by now.
+          - They **could have arrived** earlier if the train wasn't delayed.
+          - You **needn't have stayed** so late.
+        - usage notes: Place the modal verb followed by "have" and the past participle.
+        - exceptions: None specific.
+        - related rules: affirmative sentence structure, modal verb placement
+      - Negative Sentences
+        - explanation: Forming negative statements to indicate that an action was not necessary or did not happen.
+        - examples:
+          - She **shouldn't have** lied to us.
+          - They **couldn't have** known about the surprise.
+          - You **needn't have** worried about the presentation.
+        - usage notes: Add "not" after the modal verb to form the negative.
+        - exceptions: Double negatives should be avoided.
+        - related rules: negation in modal verbs, negative sentence structure
+      - Questions
+        - explanation: Creating interrogative sentences to inquire about past actions or possibilities.
+        - examples:
+          - **Should** I **have called** you yesterday?
+          - **Could** they **have finished** the work on time?
+          - **Need** you **have helped** me with the project?
+        - usage notes: Invert the subject and the modal verb to form questions.
+        - exceptions: "Needn't" questions are less common and can be awkward.
+        - related rules: question formation, inversion in interrogatives
+    - Common Mistakes
+      - Incorrect Tense Usage
+        - explanation: Using the wrong tense in the modal perfect forms, leading to grammatical errors.
+        - examples:
+          - Incorrect: She **should have went** to the party.
+          - Correct: She **should have gone** to the party.
+          - Incorrect: They **could have done** it yesterday.
+          - Correct: They **could have done** it yesterday.
+        - usage notes: Ensure that the past participle form is used after "have."
+        - exceptions: None specific.
+        - related rules: past participle forms, verb conjugation
+      - Misusing Modal Verbs
+        - explanation: Applying the wrong modal verb for the intended meaning, resulting in confusion.
+        - examples:
+          - Incorrect: You **could have called** me earlier. (Intended meaning: You weren't supposed to call)
+          - Correct: You **shouldn't have called** me earlier.
+          - Incorrect: He **needn't have** worked so hard. (Intended meaning: It was necessary)
+          - Correct: He **had to work** so hard.
+        - usage notes: Choose the appropriate modal verb based on the intended nuance of possibility, necessity, or obligation.
+        - exceptions: Some modal verbs can have overlapping meanings but are not interchangeable.
+        - related rules: modal verb selection, nuance in modal meanings
+      - Omitting "have" in Modal Perfect Forms
+        - explanation: Leaving out "have" after the modal verb, which disrupts the correct structure.
+        - examples:
+          - Incorrect: You **should called** earlier.
+          - Correct: You **should have called** earlier.
+          - Incorrect: They **could finished** the project on time.
+          - Correct: They **could have finished** the project on time.
+        - usage notes: Always include "have" after the modal verb in perfect forms.
+        - exceptions: None specific.
+        - related rules: modal perfect structure, auxiliary verb usage
+      - Confusing Past Participles
+        - explanation: Using the incorrect past participle form of verbs in modal perfect constructions.
+        - examples:
+          - Incorrect: She **should have ate** the cake.
+          - Correct: She **should have eaten** the cake.
+          - Incorrect: They **could have went** to the concert.
+          - Correct: They **could have gone** to the concert.
+        - usage notes: Memorize the correct past participle forms of irregular verbs.
+        - exceptions: Regular verbs follow the standard -ed form.
+        - related rules: past participle forms, irregular verbs
+    - Exceptions
+      - Statements of Necessity or Obligation
+        - explanation: When expressing strong necessity or obligation in the past, alternative modal forms may be more appropriate.
+        - examples:
+          - Instead of "should have," use "had to" or "must have" for stronger obligation.
+            - She **had to leave** early.
+            - He **must have forgotten** the meeting.
+        - usage notes: "Should have" implies advisability, whereas "had to" implies necessity.
+        - exceptions: Use based on the strength of obligation intended.
+        - related rules: modal verbs for necessity, expressing obligation
+      - Universal Truths and Facts
+        - explanation: Avoid using modal perfect forms to report statements that are universally true or factual.
+        - examples:
+          - Incorrect: She **should have** known that water **boils** at 100 degrees Celsius.
+          - Correct: She **should have** known that water **boils** at 100 degrees Celsius.
+        - usage notes: Maintain original tense for universal truths even in reported speech.
+        - exceptions: If the truth has changed, backshifting may apply.
+        - related rules: reported speech, factual statements
+      - Specific Contexts Requiring Different Structures
+        - explanation: Certain contexts may necessitate alternative grammatical structures instead of using modal perfect forms.
+        - examples:
+          - Expressing simultaneous past actions:
+            - Instead of "couldn't have," use "wasn't able to."
+              - She **wasn't able to** attend the meeting.
+          - Emphasizing consequences:
+            - Use "should have + past participle" with additional clauses.
+              - He **should have called** me when he arrived to avoid confusion.
+        - usage notes: Adapt structures based on the specific emphasis or clarity required.
+        - exceptions: Context determines the necessity of alternative structures.
+        - related rules: sentence emphasis, alternative expressions
+    - Related Rules
+      - Modal Verbs for Advice and Recommendations
+        - explanation: Using modal verbs like "should," "ought to," and "must" to give advice or recommendations in various contexts.
+        - examples:
+          - You **should** see a doctor.
+          - They **ought to** apologize for their mistake.
+          - You **must** wear a seatbelt while driving.
+        - usage notes: These modals convey different levels of urgency and formality.
+        - exceptions: "Must" is more forceful than "should" or "ought to."
+        - related rules: giving advice, expressing necessity
+      - Perfect Modals (could have, should have, would have)
+        - explanation: Modal verbs combined with "have" and past participle to express possibilities, regrets, or hypothetical situations in the past.
+        - examples:
+          - She **could have** been a great artist.
+          - They **would have** helped if they had known.
+          - You **should have** checked the weather before going out.
+        - usage notes: Similar to the focus on "should have," "could have," and "needn't have," but more comprehensive.
+        - exceptions: Contextual nuances may require specific modal choices.
+        - related rules: modal perfect forms, expressing possibilities and regrets
+      - Sequence of Tenses
+        - explanation: The grammatical rule that the tense of verbs in subordinate clauses should follow the tense of the main clause to maintain consistency.
+        - examples:
+          - Present: He says that he **is** happy.
+          - Past: He said that he **was** happy.
+          - Past Perfect: He had said that he **had been** happy.
+        - usage notes: Ensures clarity and logical consistency in complex sentences.
+        - exceptions: When the reported speech remains true or relevant, backshifting may not be necessary.
+        - related rules: tense agreement, reported speech
+      - Reported Speech Structures
+        - explanation: Converting direct speech into indirect speech by adjusting pronouns, tenses, and sentence structure.
+        - examples:
+          - Direct: "I will help you," she said.
+          - Reported: She said that she **would help** me.
+          - Direct: "Do you like this movie?" he asked.
+          - Reported: He asked if I **liked** that movie.
+        - usage notes: Maintain the meaning while adapting the structure to fit reported speech conventions.
+        - exceptions: Universal truths and ongoing situations may retain original tenses.
+        - related rules: modal verb transformation, sentence restructuring

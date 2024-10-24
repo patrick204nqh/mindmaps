@@ -1,0 +1,223 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- B2
+  - Phrasal Verbs (Advanced)
+    - Types of Phrasal Verbs
+      - multi-word phrasal verbs
+        - explanation: Phrasal verbs that consist of a verb and two or more particles, often creating idiomatic meanings.
+        - examples:
+          - She **ran out of** patience.
+          - They **broke up with** their friends.
+        - usage notes: Often have specific meanings that cannot be easily deduced from the individual words.
+        - exceptions: Not all verbs can form multi-word phrasal verbs; some have fixed structures.
+        - related rules: idiomatic expressions, verb-particle combinations
+      - phrasal verbs with prepositions
+        - explanation: Phrasal verbs that use prepositions instead of adverbs as particles, often indicating direction or location.
+        - examples:
+          - He **looked into** the matter thoroughly.
+          - She **gave up on** her dreams.
+        - usage notes: Prepositions change the meaning of the verb and often require specific object placements.
+        - exceptions: Some prepositions can interchange without changing the meaning, while others cannot.
+        - related rules: verb-preposition collocations, prepositional phrases
+      - reversible phrasal verbs
+        - explanation: Phrasal verbs where the object can be placed either between the verb and particle or after the particle without changing the meaning.
+        - examples:
+          - She **turned off** the lights.
+          - She **turned the lights off**.
+        - usage notes: Common with transitive phrasal verbs; flexibility depends on whether the object is a pronoun.
+        - exceptions: When the object is a pronoun, it must come between the verb and the particle.
+        - related rules: object placement, separable phrasal verbs
+      - non-reversible phrasal verbs
+        - explanation: Phrasal verbs where the object cannot be placed between the verb and particle, often because the particle is integral to the verb's meaning.
+        - examples:
+          - He **ran into** an old friend.
+          - They **came across** some interesting artifacts.
+        - usage notes: The object must follow the particle; cannot be inserted between them.
+        - exceptions: Limited to certain verbs and particles that form inseparable phrasal verbs.
+        - related rules: inseparable phrasal verbs, verb-particle binding
+    - Advanced Phrasal Verbs
+      - idiomatic phrasal verbs
+        - explanation: Phrasal verbs with meanings that are not directly related to the meanings of their individual components.
+        - examples:
+          - She **broke down** after hearing the news.
+          - They **put up with** the noisy neighbors.
+        - usage notes: Often used in informal contexts; require memorization due to their idiomatic nature.
+        - exceptions: Some idiomatic phrasal verbs can also have literal meanings based on context.
+        - related rules: idiomatic expressions, context-dependent meanings
+      - phrasal verbs with multiple meanings
+        - explanation: Phrasal verbs that can convey different meanings depending on the context or particles used.
+        - examples:
+          - **Break up**: to end a relationship / to disperse a gathering.
+          - **Take off**: to remove clothing / to depart (aircraft).
+        - usage notes: Context is crucial to determine the intended meaning; some meanings are more common than others.
+        - exceptions: Not all phrasal verbs with multiple meanings can be used interchangeably.
+        - related rules: semantic flexibility, contextual clues
+    - Phrasal Verbs and Collocations
+      - verb-particle collocations
+        - explanation: Common pairings of verbs with specific particles that frequently occur together.
+        - examples:
+          - **Carry out** an experiment.
+          - **Look forward to** the weekend.
+        - usage notes: Knowing common collocations helps in using phrasal verbs correctly and naturally.
+        - exceptions: Some verbs can pair with multiple particles, each altering the meaning.
+        - related rules: collocation patterns, natural language use
+      - noun-particle collocations
+        - explanation: Phrasal verbs where the particle combines with a noun to create a specific meaning.
+        - examples:
+          - **Fill out** a form.
+          - **Set up** a meeting.
+        - usage notes: Often used in formal or business contexts; the noun can sometimes affect separability.
+        - exceptions: Certain noun-particle combinations may have fixed positions.
+        - related rules: verb-noun relationships, fixed expressions
+    - Phrasal Verbs in Different Tenses
+      - past perfect phrasal verbs
+        - explanation: Using phrasal verbs in the past perfect tense to describe actions that were completed before another past action.
+        - examples:
+          - She **had turned off** the lights before leaving.
+          - They **had set up** the equipment by the time we arrived.
+        - usage notes: Combine the past perfect form of "to have" with the past participle of the phrasal verb.
+        - exceptions: Irregular phrasal verbs require correct past participle forms.
+        - related rules: past perfect tense, verb conjugation
+      - continuous phrasal verbs
+        - explanation: Using phrasal verbs in continuous tenses to emphasize ongoing actions.
+        - examples:
+          - He **is putting off** his responsibilities.
+          - They **were looking into** the issue all morning.
+        - usage notes: Combine the appropriate form of "to be" with the gerund form of the phrasal verb.
+        - exceptions: Some phrasal verbs are not typically used in continuous forms.
+        - related rules: continuous tenses, progressive aspect
+      - perfect continuous phrasal verbs
+        - explanation: Using phrasal verbs in the perfect continuous tense to describe actions that were ongoing up until a certain point in time.
+        - examples:
+          - She **has been working on** the project for hours.
+          - They **had been trying to figure out** the problem before help arrived.
+        - usage notes: Combine the perfect continuous form of "to be" with the gerund form of the phrasal verb.
+        - exceptions: Limited use with certain phrasal verbs that do not support continuous aspects.
+        - related rules: perfect continuous tense, verb aspect
+    - Phrasal Verbs in Passive Voice
+      - forming passive phrasal verbs
+        - explanation: Converting active phrasal verbs into passive voice to focus on the action rather than the doer.
+        - examples:
+          - Active: They **set up** the equipment.
+          - Passive: The equipment **was set up**.
+          - Active: She **looked after** the children.
+          - Passive: The children **were looked after**.
+        - usage notes: The object of the active sentence becomes the subject of the passive sentence; adjust the form of "to be" accordingly.
+        - exceptions: Inseparable phrasal verbs must maintain their structure in passive voice.
+        - related rules: passive voice formation, object-subject transformation
+      - passive with multi-word phrasal verbs
+        - explanation: Handling passive constructions when dealing with multi-word phrasal verbs, ensuring clarity and grammatical correctness.
+        - examples:
+          - Active: They **ran out of** supplies.
+          - Passive: Supplies **were run out of** by them.
+          - Active: She **broke up with** her friend.
+          - Passive: Her friend **was broken up with** by her.
+        - usage notes: Maintain the integrity of the phrasal verb while forming the passive structure.
+        - exceptions: Some multi-word phrasal verbs may become awkward or unclear in passive voice.
+        - related rules: multi-word phrasal verbs, passive voice complexities
+    - Common Mistakes
+      - incorrect particle placement in passive voice
+        - explanation: Misplacing particles when converting active phrasal verbs to passive voice, leading to grammatical errors.
+        - examples:
+          - Incorrect: The lights **were turned** off by her.
+          - Correct: The lights **were turned off** by her.
+          - Incorrect: The report **was put** together by the team.
+          - Correct: The report **was put together** by the team.
+        - usage notes: Ensure particles remain attached to the past participle in the passive form.
+        - exceptions: None specific.
+        - related rules: particle placement, passive voice accuracy
+      - omitting particles in passive constructions
+        - explanation: Leaving out necessary particles when forming the passive voice of phrasal verbs, changing the meaning or making the sentence incomplete.
+        - examples:
+          - Incorrect: The meeting **was set** by the manager.
+          - Correct: The meeting **was set up** by the manager.
+          - Incorrect: The homework **was done** by the student.
+          - Correct: The homework **was done up** by the student.
+        - usage notes: Retain all particles of the phrasal verb to preserve the intended meaning.
+        - exceptions: Some phrasal verbs may have shortened passive forms, but this is rare.
+        - related rules: particle retention, phrasal verb integrity
+      - confusing separable and inseparable phrasal verbs
+        - explanation: Using separable phrasal verb rules for inseparable verbs and vice versa, resulting in incorrect sentence structures.
+        - examples:
+          - Incorrect: They **looked the children after**.
+          - Correct: They **looked after the children**.
+          - Incorrect: She **put up** the shelf.
+          - Correct: She **put** the shelf **up**.
+        - usage notes: Identify whether a phrasal verb is separable or inseparable before applying rules.
+        - exceptions: Some phrasal verbs can be both separable and inseparable with different meanings.
+        - related rules: separable vs. inseparable phrasal verbs, sentence structure
+      - using incorrect verb forms in advanced tenses
+        - explanation: Applying wrong verb forms when using phrasal verbs in different tenses, leading to grammatical errors.
+        - examples:
+          - Incorrect: She **has been turning off** the lights every night.
+          - Correct: She **has been turning off** the lights every night.
+          - Incorrect: They **will have set** up the equipment.
+          - Correct: They **will have set up** the equipment.
+        - usage notes: Ensure proper conjugation of both the main verb and the particle in advanced tense structures.
+        - exceptions: Irregular verbs require correct past participle forms regardless of tense.
+        - related rules: verb conjugation, tense agreement
+    - Exceptions
+      - phrasal verbs that do not follow typical separable/inseparable rules
+        - explanation: Certain advanced phrasal verbs have unique structures that do not fit standard separable or inseparable categories.
+        - examples:
+          - **Come up with** a solution.
+          - **Get across** an idea.
+        - usage notes: Memorize the specific structure of these exceptions to use them correctly.
+        - exceptions: These verbs often have fixed word orders that must be followed.
+        - related rules: fixed phrasal verb structures, unique verb-particle combinations
+      - phrasal verbs with idiomatic meanings that resist logical parsing
+        - explanation: Advanced phrasal verbs with meanings that cannot be inferred from their individual components, requiring memorization.
+        - examples:
+          - **Break down** (stop functioning)
+          - **Carry out** (execute a task)
+        - usage notes: Use these phrasal verbs in context to understand and remember their idiomatic meanings.
+        - exceptions: Some may have both idiomatic and literal meanings depending on context.
+        - related rules: idiomatic expressions, contextual learning
+      - phrasal verbs that change meaning with different particles
+        - explanation: Advanced phrasal verbs where changing the particle significantly alters the meaning of the verb.
+        - examples:
+          - **Take up** (start a hobby) vs. **Take off** (depart)
+          - **Bring up** (introduce a topic) vs. **Bring about** (cause something)
+        - usage notes: Understand the distinct meanings that arise from different particles to use them appropriately.
+        - exceptions: Not all particles are interchangeable; some create entirely new meanings.
+        - related rules: particle selection, meaning differentiation
+    - Related Rules
+      - idiomatic expressions
+        - explanation: Phrases where the meaning cannot be deduced from the individual words, often overlapping with phrasal verbs.
+        - examples:
+          - "Kick the bucket" means to die.
+          - "Break the ice" means to initiate conversation.
+        - usage notes: Learn common idiomatic expressions to enhance fluency and comprehension.
+        - exceptions: Idioms often have fixed structures and meanings that must be memorized.
+        - related rules: phrasal verbs, fixed expressions
+      - collocations
+        - explanation: Words that frequently go together in a language, enhancing natural speech and writing.
+        - examples:
+          - **Make** a decision.
+          - **Take** a break.
+        - usage notes: Using correct collocations makes language sound more natural and fluent.
+        - exceptions: Some collocations may seem illogical but are commonly used.
+        - related rules: verb-particle combinations, natural language flow
+      - verb complements
+        - explanation: Words or phrases that complete the meaning of a verb, often required by phrasal verbs.
+        - examples:
+          - She **put up** a fight.
+          - They **gave up** smoking.
+        - usage notes: Understanding verb complements helps in constructing accurate and meaningful sentences.
+        - exceptions: Some verbs have multiple possible complements, requiring context for correct usage.
+        - related rules: sentence structure, verb complementation
+      - advanced verb forms
+        - explanation: Using complex verb forms such as perfect tenses and continuous aspects with phrasal verbs.
+        - examples:
+          - She **has been looking into** the issue.
+          - They **had set up** the meeting before he arrived.
+        - usage notes: Ensure correct formation of advanced verb tenses when combining with phrasal verbs.
+        - exceptions: Some phrasal verbs do not commonly appear in certain advanced forms.
+        - related rules: advanced tense usage, continuous and perfect aspects
