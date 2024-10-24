@@ -1,0 +1,266 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- C2
+  - Academic Writing Techniques
+    - Formal Tone and Style
+      - avoiding contractions
+        - explanation: Eliminating contractions to maintain a formal and professional tone in academic writing.
+        - examples:
+          - "Do not" instead of "don't."
+          - "Cannot" instead of "can't."
+        - usage notes: Ensures clarity and formality, suitable for scholarly work.
+        - exceptions: Rarely used in direct quotes or informal sections like acknowledgments.
+        - related rules: formal language, professional tone
+      - using third person
+        - explanation: Writing from a third-person perspective to maintain objectivity and formality.
+        - examples:
+          - "The study demonstrates that..."
+          - "Researchers have found..."
+        - usage notes: Avoids personal bias and maintains academic impartiality.
+        - exceptions: First person may be used in reflective essays or personal statements.
+        - related rules: point of view, objectivity in writing
+    - Complex Sentence Structures
+      - compound-complex sentences
+        - explanation: Sentences that combine multiple independent clauses with at least one dependent clause to express intricate ideas.
+        - examples:
+          - "Although the results were inconclusive, the researchers continued their study, and they planned to gather more data."
+          - "While the theory is widely accepted, some scholars disagree, and they propose alternative explanations."
+        - usage notes: Enhances the depth and sophistication of arguments, suitable for nuanced discussions.
+        - exceptions: Overly long sentences can hinder readability; maintain clarity.
+        - related rules: compound sentences, complex sentences
+      - embedded clauses
+        - explanation: Clauses nested within other clauses to add detailed information and complexity.
+        - examples:
+          - "The paper that she submitted, which was highly detailed, received excellent reviews."
+          - "He argued that the methodology, despite its limitations, was appropriate for the study."
+        - usage notes: Provides additional context and information without breaking the flow of the main argument.
+        - exceptions: Excessive embedding can make sentences convoluted; ensure smooth integration.
+        - related rules: relative clauses, sentence embedding
+    - Cohesion and Coherence
+      - using transition words
+        - explanation: Employing transitional phrases to connect ideas smoothly and logically throughout the text.
+        - examples:
+          - "Furthermore, the data indicates a significant trend."
+          - "However, there are notable exceptions to this theory."
+        - usage notes: Enhances the logical flow and readability of academic writing.
+        - exceptions: Overuse can make writing seem mechanical; use transitions judiciously.
+        - related rules: linking words, logical flow
+      - referencing and substitution
+        - explanation: Using pronouns, synonyms, and other referencing techniques to avoid repetition and maintain text flow.
+        - examples:
+          - "The experiment was successful. It confirmed the initial hypothesis."
+          - "Many studies have been conducted on this topic. These studies highlight the importance of..."
+        - usage notes: Maintains variety and prevents redundancy, contributing to smoother reading.
+        - exceptions: Ensure that references are clear to avoid ambiguity.
+        - related rules: cohesion techniques, pronoun usage
+    - Passive and Active Voice
+      - appropriate use of passive voice
+        - explanation: Utilizing passive constructions to emphasize the action or the object rather than the subject, often to maintain objectivity.
+        - examples:
+          - "The results were analyzed using statistical software."
+          - "It is believed that the theory holds merit."
+        - usage notes: Suitable for scientific writing where the focus is on the process or findings rather than the researcher.
+        - exceptions: Overuse can lead to vague or impersonal writing; balance with active voice when appropriate.
+        - related rules: voice selection, sentence focus
+      - balancing passive and active voice
+        - explanation: Combining passive and active constructions to enhance readability and maintain formal tone.
+        - examples:
+          - "The study was conducted over six months, and the results indicate a positive trend."
+          - "Researchers collected data from various sources and analyzed the information thoroughly."
+        - usage notes: Ensures dynamic and engaging writing while maintaining objectivity.
+        - exceptions: Ensure that switching voices does not confuse the reader or disrupt the flow.
+        - related rules: voice consistency, sentence variety
+    - Nominalization
+      - explanation: Converting verbs and adjectives into nouns to create more formal and abstract expressions in academic writing.
+      - examples:
+        - "The implementation of the strategy was successful."
+        - "Her analysis provided valuable insights."
+      - usage notes: Enhances formality and allows for more complex sentence structures.
+      - exceptions: Overuse can lead to dense and passive constructions; use sparingly for impact.
+      - related rules: word classes, sentence formality
+    - Linking Words and Phrases
+      - explanation: Using specific words and phrases to connect ideas, indicate relationships, and guide the reader through the argument.
+      - examples:
+        - "Moreover, the findings suggest a correlation between the variables."
+        - "In contrast, the alternative theory lacks empirical support."
+      - usage notes: Essential for structuring arguments logically and ensuring the text flows smoothly.
+      - exceptions: Avoid repetitive use of the same linking words; diversify to maintain engagement.
+      - related rules: transition words, cohesion techniques
+    - Modal Verbs in Academic Writing
+      - expressing probability and certainty
+        - explanation: Using modals to convey levels of certainty, possibility, and probability within arguments and hypotheses.
+        - examples:
+          - "The results **might indicate** a significant trend."
+          - "This approach **could lead** to more accurate predictions."
+        - usage notes: Adds nuance to claims and acknowledges potential uncertainties.
+        - exceptions: Incorrect modal usage can alter the intended meaning; ensure proper alignment with the context.
+        - related rules: modal verb functions, conditional sentences
+      - expressing obligation and necessity
+        - explanation: Utilizing modals to denote requirements, necessities, and obligations within the research context.
+        - examples:
+          - "Researchers **must adhere** to ethical guidelines."
+          - "Participants **should complete** the survey by the deadline."
+        - usage notes: Clearly communicates expectations and requirements within academic discourse.
+        - exceptions: Overuse can make writing seem directive; balance with other expressions of necessity.
+        - related rules: modal verb usage, formal language
+    - Advanced Tenses Usage
+      - perfect tenses for research reporting
+        - explanation: Employing perfect tenses to describe completed actions and their relevance to the present research.
+        - examples:
+          - "The study **has shown** significant improvements in performance."
+          - "Previous research **had established** a foundational theory."
+        - usage notes: Essential for situating current research within the context of past studies and ongoing developments.
+        - exceptions: Ensure tense consistency to maintain clarity in the timeline of events.
+        - related rules: tense consistency, temporal relationships
+      - future perfect for projecting outcomes
+        - explanation: Using future perfect tense to discuss anticipated results and their implications.
+        - examples:
+          - "By the end of the year, the project **will have achieved** its objectives."
+          - "This analysis **will have provided** comprehensive insights into the issue."
+        - usage notes: Useful for outlining expected achievements and setting future research goals.
+        - exceptions: Requires accurate prediction and clarity to avoid speculative ambiguity.
+        - related rules: future tenses, projection in writing
+    - Reported Speech
+      - explanation: Utilizing indirect speech to convey statements, arguments, and findings from other sources within academic writing.
+      - examples:
+        - Direct: "The results are inconclusive," the researcher said.
+          Reported: The researcher stated that the results were inconclusive.
+        - Direct: "We have identified several key factors," they explained.
+          Reported: They explained that they had identified several key factors.
+      - usage notes: Maintains objectivity and integrates external sources seamlessly into the text.
+      - exceptions: Ensure accurate tense and pronoun shifts to preserve the original meaning.
+      - related rules: tense consistency, indirect speech
+    - Advanced Punctuation
+      - using semicolons for complex lists
+        - explanation: Employing semicolons to separate items in a list that already contain commas, enhancing clarity.
+        - examples:
+          - "The study included participants from London, England; Paris, France; and Berlin, Germany."
+          - "The experiment was conducted in three phases: preparation, execution, and analysis."
+        - usage notes: Prevents confusion in complex lists, ensuring each item is distinct.
+        - exceptions: Overuse can make writing seem choppy; use semicolons judiciously.
+        - related rules: punctuation usage, sentence structure
+      - colons for introductions and explanations
+        - explanation: Using colons to introduce lists, explanations, or elaborations, adding emphasis to the subsequent information.
+        - examples:
+          - "The research focused on three main areas: methodology, data analysis, and results."
+          - "There is one key finding: the correlation is significant."
+        - usage notes: Enhances readability by clearly signaling that additional information is forthcoming.
+        - exceptions: Avoid using colons after incomplete sentences or phrases.
+        - related rules: punctuation usage, sentence emphasis
+    - Citation and Referencing Structures
+      - explanation: Applying correct citation and referencing formats to acknowledge sources and avoid plagiarism in academic writing.
+      - examples:
+        - In-text citation (APA): "According to Smith (2020), the results were significant."
+        - Reference list entry: "Smith, J. (2020). _Title of the work_. Publisher."
+      - usage notes: Adheres to academic standards and enhances the credibility of the work by properly crediting sources.
+      - exceptions: Different academic fields may require specific citation styles (e.g., MLA, Chicago); follow guidelines accordingly.
+      - related rules: plagiarism avoidance, academic integrity
+    - Clarity and Conciseness
+      - explanation: Ensuring that writing is clear and concise to effectively communicate complex ideas without unnecessary complexity.
+      - examples:
+        - Wordy: "Due to the fact that..."
+          Concise: "Because..."
+        - Wordy: "At this point in time..."
+          Concise: "Now..."
+      - usage notes: Eliminates redundancy and simplifies expression, making arguments more direct and understandable.
+      - exceptions: In certain contexts, additional detail may be necessary for precision.
+      - related rules: sentence economy, effective communication
+    - Parallel Structures
+      - explanation: Maintaining consistent grammatical forms within lists, comparisons, and series to enhance readability and coherence.
+      - examples:
+        - "The study aims to analyze the data, interpret the results, and draw conclusions."
+        - "She is responsible for managing the team, overseeing projects, and ensuring quality."
+      - usage notes: Enhances the rhythm and flow of writing, making it more engaging and easier to follow.
+      - exceptions: Ensure that all parallel elements are grammatically consistent; inconsistent parallelism can confuse readers.
+      - related rules: sentence structure, grammatical consistency
+    - Advanced Conditional Structures
+      - mixed conditionals
+        - explanation: Combining elements from different conditional types to express complex time relationships between conditions and results.
+        - examples:
+          - "If I had studied harder, I would be a doctor now."
+          - "Had she known about the issue, she might have resolved it earlier."
+        - usage notes: Useful for expressing hypothetical past conditions with present or future results, and vice versa.
+        - exceptions: Can be confusing if not clearly distinguishing between different time frames.
+        - related rules: second conditional, third conditional
+      - conditional inversion
+        - explanation: Using inversion instead of "if" to create a more formal or emphatic conditional sentence.
+        - examples:
+          - "Were I aware of the problem, I would address it immediately."
+          - "Should you require further information, please contact the office."
+        - usage notes: Adds sophistication and emphasis, often used in formal writing and speeches.
+        - exceptions: Less common in everyday conversation; may sound archaic if overused.
+        - related rules: conditional sentences, formal expressions
+    - Advanced Use of Participles and Gerunds
+      - explanation: Utilizing participles and gerunds in complex sentence structures for nuanced and sophisticated expression.
+      - examples:
+        - "Having completed the research, she published her findings."
+        - "Running late, he missed the conference."
+      - usage notes: Enhances sentence variety and allows for the expression of simultaneous or preceding actions.
+      - exceptions: Overuse can lead to convoluted sentences; ensure clarity in participle and gerund usage.
+      - related rules: verb forms, sentence flow
+    - Advanced Relative Clauses
+      - explanation: Employing relative clauses in more sophisticated ways, including reduced relative clauses and embedded clauses, to provide detailed information.
+      - examples:
+        - "The researcher responsible for the study, known for her meticulous approach, received an award."
+        - "Books written by renowned authors often receive critical acclaim."
+      - usage notes: Adds depth and specificity to descriptions, allowing for more informative and engaging sentences.
+      - exceptions: Overcomplicating sentences with too many relative clauses can hinder readability.
+      - related rules: relative clauses, sentence embedding
+    - Discourse Markers
+      - explanation: Using advanced discourse markers to connect ideas, manage flow, and indicate relationships between sentences and clauses.
+      - examples:
+        - "Nevertheless, the results were conclusive."
+        - "Consequently, the project was deemed a success."
+      - usage notes: Enhances coherence and logical flow in academic writing, making arguments more persuasive.
+      - exceptions: Overuse can make writing seem mechanical; use them judiciously.
+      - related rules: coherence in text, logical connectors
+    - Advanced Punctuation
+      - using semicolons for complex lists
+        - explanation: Employing semicolons to separate items in a list that already contain commas, enhancing clarity.
+        - examples:
+          - "The study included participants from London, England; Paris, France; and Berlin, Germany."
+          - "The experiment was conducted in three phases: preparation, execution, and analysis."
+        - usage notes: Prevents confusion in complex lists, ensuring each item is distinct.
+        - exceptions: Overuse can make writing seem choppy; use semicolons judiciously.
+        - related rules: punctuation usage, sentence structure
+      - colons for introductions and explanations
+        - explanation: Using colons to introduce lists, explanations, or elaborations, adding emphasis to the subsequent information.
+        - examples:
+          - "The research focused on three main areas: methodology, data analysis, and results."
+          - "There is one key finding: the correlation is significant."
+        - usage notes: Enhances readability by clearly signaling that additional information is forthcoming.
+        - exceptions: Avoid using colons after incomplete sentences or phrases.
+        - related rules: punctuation usage, sentence emphasis
+    - Citation and Referencing Structures
+      - explanation: Applying correct citation and referencing formats to acknowledge sources and avoid plagiarism in academic writing.
+      - examples:
+        - In-text citation (APA): "According to Smith (2020), the results were significant."
+        - Reference list entry: "Smith, J. (2020). _Title of the work_. Publisher."
+      - usage notes: Adheres to academic standards and enhances the credibility of the work by properly crediting sources.
+      - exceptions: Different academic fields may require specific citation styles (e.g., MLA, Chicago); follow guidelines accordingly.
+      - related rules: plagiarism avoidance, academic integrity
+    - Clarity and Conciseness
+      - explanation: Ensuring that writing is clear and concise to effectively communicate complex ideas without unnecessary complexity.
+      - examples:
+        - Wordy: "Due to the fact that..."
+          Concise: "Because..."
+        - Wordy: "At this point in time..."
+          Concise: "Now..."
+      - usage notes: Eliminates redundancy and simplifies expression, making arguments more direct and understandable.
+      - exceptions: In certain contexts, additional detail may be necessary for precision.
+      - related rules: sentence economy, effective communication
+    - Parallel Structures
+      - explanation: Maintaining consistent grammatical forms within lists, comparisons, and series to enhance readability and coherence.
+      - examples:
+        - "The study aims to analyze the data, interpret the results, and draw conclusions."
+        - "She is responsible for managing the team, overseeing projects, and ensuring quality."
+      - usage notes: Enhances the rhythm and flow of writing, making it more engaging and easier to follow.
+      - exceptions: Inconsistent parallelism can confuse readers; ensure uniformity.
+      - related rules: sentence structure, grammatical consistency

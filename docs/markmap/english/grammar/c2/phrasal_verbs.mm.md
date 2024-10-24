@@ -1,0 +1,289 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- C2
+  - Phrasal Verbs (Expert Level)
+    - Types of Phrasal Verbs
+      - Separable phrasal verbs
+        - explanation: Phrasal verbs where the verb and particle can be separated by the object.
+        - examples:
+          - "She **turned** the offer **down**."
+          - "They **set** the meeting **up**."
+        - usage notes: Commonly used with pronouns and noun objects, allowing flexibility in sentence structure.
+        - exceptions: In questions and negative sentences, the particle remains after the verb.
+        - related rules: object placement, sentence structure
+      - Inseparable phrasal verbs
+        - explanation: Phrasal verbs where the verb and particle cannot be separated by the object.
+        - examples:
+          - "She **looked after** the children."
+          - "They **ran into** some old friends."
+        - usage notes: The verb and particle must stay together, regardless of the object.
+        - exceptions: None; separation is not allowed.
+        - related rules: phrasal verb integrity, verb-particle pairing
+      - Three-part phrasal verbs
+        - explanation: Phrasal verbs that consist of a verb followed by two particles, often altering the meaning significantly.
+        - examples:
+          - "She **ran** the project **off**."
+          - "They **put** the plan **forward**."
+        - usage notes: Requires careful attention to both particles, as the meaning can change drastically with different particles.
+        - exceptions: Less common and typically more formal or idiomatic.
+        - related rules: complex phrasal verbs, idiomatic expressions
+      - Fixed phrasal verbs
+        - explanation: Phrasal verbs that do not allow for separation or alteration, often idiomatic in nature.
+        - examples:
+          - "He **came across** an old friend."
+          - "They **looked forward to** the event."
+        - usage notes: Must be learned as fixed expressions due to their idiomatic meanings.
+        - exceptions: Cannot be modified or separated by objects.
+        - related rules: idiomatic phrasal verbs, fixed expressions
+    - Phrasal Verbs with Multiple Meanings
+      - literal vs. idiomatic meanings
+        - explanation: Phrasal verbs that have both a direct, literal meaning and an idiomatic meaning that differs significantly.
+        - examples:
+          - "Look up"
+            - "I need to **look up** the address." (literal)
+            - "Things are starting to **look up**." (idiomatic)
+          - "Break down"
+            - "The car **broke down** on the highway." (literal)
+            - "She **broke down** in tears." (idiomatic)
+        - usage notes: Context is crucial to determine the intended meaning of phrasal verbs with multiple definitions.
+        - exceptions: Some phrasal verbs have meanings that are always idiomatic or always literal.
+        - related rules: context clues, semantic flexibility
+      - phrasal verbs with similar forms but different meanings
+        - explanation: Phrasal verbs that share the same verb and particle but differ in meaning based on usage.
+        - examples:
+          - "Get over"
+            - "He has finally **gotten over** his illness." (recover)
+            - "**Get over** the fence." (remove)
+          - "Turn up"
+            - "She **turned up** at the party uninvited." (appear)
+            - "Please **turn up** the music." (increase volume)
+        - usage notes: Pay attention to the surrounding words and context to understand the specific meaning.
+        - exceptions: Some phrasal verbs may have meanings that are context-dependent and cannot be easily categorized.
+        - related rules: polysemy, contextual interpretation
+    - Advanced Structures
+      - phrasal verbs with modal verbs
+        - explanation: Combining modal verbs with phrasal verbs to express ability, possibility, necessity, or permission.
+        - examples:
+          - "You **must look after** your responsibilities."
+          - "She **can turn down** the offer if she wants."
+        - usage notes: Maintain the correct order of modal verb followed by the phrasal verb.
+        - exceptions: Some modals may alter the meaning of the phrasal verb subtly.
+        - related rules: modal verb usage, sentence structure
+      - phrasal verbs in different tenses
+        - explanation: Applying various tenses to phrasal verbs to indicate the time of action.
+        - examples:
+          - present simple: "They **wake up** early every day."
+          - past continuous: "He **was looking into** the matter when I called."
+          - future perfect: "By next week, she **will have sorted out** the issue."
+        - usage notes: Ensure that both the verb and the particle conform to the tense being used.
+        - exceptions: Some phrasal verbs may have irregular forms or require additional auxiliary verbs in certain tenses.
+        - related rules: tense consistency, verb conjugation
+      - phrasal verbs in passive voice
+        - explanation: Using passive constructions with phrasal verbs to emphasize the action over the doer.
+        - examples:
+          - "The meeting **was called off** due to unforeseen circumstances."
+          - "The application **has been filled out** correctly."
+        - usage notes: Maintain the integrity of the phrasal verb in passive structures, ensuring proper form.
+        - exceptions: Not all phrasal verbs are commonly used in passive voice; some may sound unnatural.
+        - related rules: passive voice, sentence focus
+      - embedded phrasal verbs in complex sentences
+        - explanation: Incorporating phrasal verbs within subordinate or relative clauses in complex sentence structures.
+        - examples:
+          - "She couldn’t believe that he **gave up** so easily."
+          - "The report, which she **put together**, was impressive."
+        - usage notes: Ensure that the phrasal verb fits seamlessly within the clause without disrupting the sentence flow.
+        - exceptions: Some phrasal verbs may require restructuring to fit grammatically within embedded clauses.
+        - related rules: clause integration, sentence variety
+    - Formal vs. Informal Contexts
+      - appropriate usage based on formality
+        - explanation: Understanding when to use phrasal verbs in formal writing versus opting for single-word verbs.
+        - examples:
+          - Informal: "She **turned down** the offer."
+            Formal: "She **declined** the offer."
+          - Informal: "They **looked into** the issue."
+            Formal: "They **investigated** the issue."
+        - usage notes: In formal contexts, single-word verbs are often preferred for clarity and professionalism.
+        - exceptions: Some phrasal verbs are widely accepted in both formal and informal contexts.
+        - related rules: register in language, formality levels
+      - choosing between phrasal verbs and single verbs
+        - explanation: Deciding whether to use a phrasal verb or a more formal single verb based on the context and desired tone.
+        - examples:
+          - "Give up" vs. "surrender": "He decided to **give up** smoking." vs. "He decided to **surrender** smoking."
+          - "Look into" vs. "investigate": "They will **look into** the matter." vs. "They will **investigate** the matter."
+        - usage notes: Consider the level of formality, specificity, and the audience when selecting between phrasal and single verbs.
+        - exceptions: Some phrasal verbs carry unique nuances that single verbs do not fully capture.
+        - related rules: verb selection, nuance in language
+    - Phrasal Verbs in Different Sentence Structures
+      - questions with phrasal verbs
+        - explanation: Formulating questions that include phrasal verbs while maintaining grammatical correctness.
+        - examples:
+          - "Do you **look after** the kids?"
+            Reported: He asked if I **look after** the kids.
+          - "Have you **turned down** the offer?"
+            Reported: She wanted to know if I **had turned down** the offer.
+        - usage notes: Maintain the integrity of the phrasal verb when constructing questions, ensuring proper word order.
+        - exceptions: Some phrasal verbs may require different auxiliary verbs based on tense or aspect.
+        - related rules: question formation, reported speech
+      - negative sentences with phrasal verbs
+        - explanation: Creating negative sentences that incorporate phrasal verbs effectively.
+        - examples:
+          - "She does not **put up with** the noise."
+            Reported: He said that she **did not put up with** the noise.
+          - "They never **call off** the meetings."
+            Reported: She mentioned that they **never called off** the meetings.
+        - usage notes: Ensure that the negative particle is correctly placed without disrupting the phrasal verb.
+        - exceptions: Avoid splitting inseparable phrasal verbs in negative constructions.
+        - related rules: negation structures, sentence construction
+      - relative clauses with phrasal verbs
+        - explanation: Incorporating phrasal verbs within relative clauses to add detail or clarify information.
+        - examples:
+          - "The book that he **turned down** is now a bestseller."
+          - "She is the one whom they **looked into** for the position."
+        - usage notes: Ensure that the relative pronoun correctly relates to the phrasal verb and its object.
+        - exceptions: Some phrasal verbs may require restructuring when used within relative clauses.
+        - related rules: relative clauses, sentence embedding
+    - Common Mistakes
+      - incorrect particle placement
+        - explanation: Misplacing the particle in separable phrasal verbs, leading to grammatical errors.
+        - examples:
+          - Incorrect: "She **turned** the offer **down**."
+          - Correct: "She **turned down** the offer."
+          - Incorrect: "He **put** the noise **up with**."
+          - Correct: "He **put up with** the noise."
+        - usage notes: Pay attention to whether a phrasal verb is separable or inseparable to place particles correctly.
+        - exceptions: In questions and imperative sentences, separable phrasal verbs allow particle movement.
+        - related rules: phrasal verb types, particle placement
+      - confusing phrasal verbs with similar meanings
+        - explanation: Mixing up phrasal verbs that have similar but distinct meanings, causing confusion.
+        - examples:
+          - "Look after" vs. "look for": "Look after" means to take care of, while "look for" means to search.
+            - Incorrect: I need to **look after** my keys.
+            - Correct: I need to **look for** my keys.
+          - "Bring up" vs. "raise": Both can mean to mention, but "bring up" is more informal.
+            - Incorrect: She **raised** the topic during the meeting.
+            - Correct: She **brought up** the topic during the meeting.
+        - usage notes: Understand the specific meanings and contexts of similar phrasal verbs to use them accurately.
+        - exceptions: Some phrasal verbs may have overlapping meanings but differ in formality or usage.
+        - related rules: vocabulary precision, semantic differences
+      - overusing phrasal verbs in formal writing
+        - explanation: Relying too heavily on phrasal verbs in contexts where more formal single-word verbs are appropriate.
+        - examples:
+          - Informal: "He **turned down** the job offer."
+            Formal: "He **declined** the job offer."
+          - Informal: "They **looked into** the issue."
+            Formal: "They **investigated** the issue."
+        - usage notes: Balance the use of phrasal verbs with single-word verbs to maintain the appropriate level of formality.
+        - exceptions: Some phrasal verbs are acceptable in both formal and informal contexts.
+        - related rules: register in language, formality levels
+      - using phrasal verbs incorrectly in different tenses
+        - explanation: Applying incorrect tense forms to phrasal verbs, resulting in grammatical errors.
+        - examples:
+          - Incorrect: "She **has turned** down the offer."
+            Correct: "She **has turned down** the offer."
+          - Incorrect: "They **was looking** into the problem."
+            Correct: "They **were looking** into the problem."
+        - usage notes: Ensure that both the verb and the particle are correctly conjugated according to the tense.
+        - exceptions: Some phrasal verbs have irregular past forms that must be memorized.
+        - related rules: verb conjugation, tense consistency
+      - splitting inseparable phrasal verbs
+        - explanation: Attempting to separate the verb and particle in inseparable phrasal verbs, leading to ungrammatical sentences.
+        - examples:
+          - Incorrect: "She **looked** the kids **after**."
+            Correct: "She **looked after** the kids."
+          - Incorrect: "They **ran** into **some** friends."
+            Correct: "They **ran into** some friends."
+        - usage notes: Recognize inseparable phrasal verbs and keep the verb and particle together.
+        - exceptions: None; inseparable phrasal verbs must remain intact.
+        - related rules: phrasal verb types, sentence structure
+      - using phrasal verbs in inappropriate contexts
+        - explanation: Applying phrasal verbs in contexts where more precise or formal language is required, leading to awkwardness or inaccuracy.
+        - examples:
+          - Using "give up" in a formal report: "They **gave up** the initiative."
+            More formal: "They **abandoned** the initiative."
+          - Using "take off" in a formal context: "The policy **took off** successfully."
+            More formal: "The policy **was successfully implemented**."
+        - usage notes: Choose phrasal verbs that match the context's formality and precision requirements.
+        - exceptions: Some phrasal verbs are versatile and can fit both formal and informal contexts.
+        - related rules: register in language, context-appropriate language
+    - Strategies for Mastering Phrasal Verbs
+      - learning in context
+        - explanation: Acquiring phrasal verbs through meaningful contexts rather than isolated memorization.
+        - examples:
+          - Reading articles, listening to conversations, and practicing usage in sentences.
+          - Using phrasal verbs in writing and speaking exercises based on real-life scenarios.
+        - usage notes: Enhances retention and understanding by seeing how phrasal verbs function within sentences.
+        - exceptions: May require more time and exposure compared to rote memorization.
+        - related rules: contextual learning, vocabulary acquisition
+      - categorizing by type or meaning
+        - explanation: Organizing phrasal verbs into categories based on their types (separable, inseparable) or meanings to facilitate learning.
+        - examples:
+          - Grouping separable phrasal verbs together for focused practice.
+          - Categorizing phrasal verbs that mean "to cancel" (e.g., cancel, call off, give up).
+        - usage notes: Helps in recognizing patterns and relationships between similar phrasal verbs.
+        - exceptions: Some phrasal verbs may fit into multiple categories, requiring flexible categorization.
+        - related rules: taxonomy in language, pattern recognition
+      - practicing with flashcards and spaced repetition
+        - explanation: Using flashcards and spaced repetition techniques to reinforce memory of phrasal verbs.
+        - examples:
+          - Creating flashcards with the phrasal verb on one side and its meaning and example sentences on the other.
+          - Using apps that employ spaced repetition algorithms to schedule reviews.
+        - usage notes: Regular practice enhances long-term retention and recall.
+        - exceptions: Requires consistent effort and may not suit all learning styles.
+        - related rules: memorization techniques, learning strategies
+      - using multimedia resources
+        - explanation: Leveraging videos, podcasts, and interactive exercises to learn and practice phrasal verbs.
+        - examples:
+          - Watching English TV shows or movies to hear phrasal verbs in natural dialogue.
+          - Participating in online quizzes and games focused on phrasal verb usage.
+        - usage notes: Engages multiple senses and contexts, making learning more dynamic and effective.
+        - exceptions: Quality and relevance of resources can vary; choose reliable sources.
+        - related rules: multimedia learning, interactive practice
+      - creating and using example sentences
+        - explanation: Writing personalized sentences using phrasal verbs to understand their meanings and applications.
+        - examples:
+          - "I need to **figure out** the solution by tomorrow."
+          - "They decided to **put off** the meeting until next week."
+        - usage notes: Reinforces understanding by actively applying phrasal verbs in various contexts.
+        - exceptions: Ensure that example sentences accurately reflect the intended meaning of the phrasal verb.
+        - related rules: sentence construction, active learning
+    - Related Rules
+      - modal verbs
+        - explanation: Phrasal verbs often interact with modal verbs to express necessity, possibility, permission, or ability.
+        - examples:
+          - "can," "could," "should," "must," "might"
+          - "You **should** see a doctor."
+          - "They **can** come to the party."
+        - usage notes: Understand how different modals convey varying degrees of certainty, obligation, and preference.
+        - exceptions: Some modals do not have past forms or may change meaning based on context.
+        - related rules: modal verb functions, modal verb structures
+      - conditional sentences
+        - explanation: Conditional sentences express "if-then" scenarios and often work in tandem with modal verbs to indicate possibilities or hypothetical situations.
+        - examples:
+          - "If it **rains**, we **will** cancel the trip."
+          - "If I **had** more time, I **would** travel."
+        - usage notes: Use appropriate modal verbs to match the type of conditional being expressed.
+        - exceptions: Ensure consistency in tense and modal usage within the conditional structure.
+        - related rules: conditional types, modal verbs
+      - imperative mood
+        - explanation: The imperative mood issues commands or requests, sometimes overlapping with phrasal verbs for softer or more direct commands.
+        - examples:
+          - "Please **look after** the kids."
+          - "Don't **put up with** the noise."
+        - usage notes: Phrasal verbs can make commands sound more natural and less direct.
+        - exceptions: Overuse can make commands seem informal or unclear.
+        - related rules: commands, polite requests
+      - sentence variety
+        - explanation: Incorporating a range of sentence structures and connectors to make writing more engaging and dynamic.
+        - examples:
+          - "She **turned down** the offer, but he **put up with** the noise."
+          - "They **looked into** the issue and **called off** the meeting."
+        - usage notes: Use phrasal verbs to vary sentence patterns and avoid repetition.
+        - exceptions: Ensure that varied structures still maintain clarity and coherence.
+        - related rules: syntactic diversity, stylistic techniques

@@ -1,0 +1,235 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- C2
+  - Subjunctive Mood
+    - Forms of the Subjunctive
+      - present subjunctive
+        - explanation: A form used to express demands, suggestions, wishes, or hypothetical situations, maintaining the base form of the verb regardless of the subject.
+        - examples:
+          - "It is essential that he **be** present at the meeting."
+          - "She suggested that they **study** harder."
+        - usage notes: Commonly used in formal contexts, especially after certain verbs and expressions.
+        - exceptions: Not typically used in everyday conversational English; more prevalent in formal writing and speech.
+        - related rules: imperative mood, modal verbs
+      - past subjunctive
+        - explanation: A form used to express hypothetical or unreal situations, wishes, or conditions contrary to fact, often using "were" for all subjects.
+        - examples:
+          - "If I **were** you, I would reconsider the offer."
+          - "She wishes she **were** able to attend the conference."
+        - usage notes: Primarily used in conditional sentences and expressions of wish or desire.
+        - exceptions: Increasingly replaced by "was" in informal contexts, though "were" remains standard in formal usage.
+        - related rules: conditional sentences, hypothetical statements
+      - perfect subjunctive
+        - explanation: A form used to express hypothetical situations in the past, regrets, or actions that did not happen, combining "have" with the past participle.
+        - examples:
+          - "If he **had known**, he would have acted differently."
+          - "I wish I **had studied** harder for the exam."
+        - usage notes: Used to discuss past hypotheticals or regrets, often in conditional sentences.
+        - exceptions: Less common and typically reserved for formal writing and speech.
+        - related rules: perfect tenses, conditional sentences
+    - Uses of the Subjunctive
+      - expressing demands and suggestions
+        - explanation: Used after verbs that express necessity, demand, recommendation, or suggestion.
+        - examples:
+          - "The teacher recommended that she **be** more attentive."
+          - "It is crucial that they **submit** the report by Friday."
+        - usage notes: Often follows verbs like demand, suggest, recommend, insist, propose.
+        - exceptions: Not used after all verbs; some verbs take the indicative instead.
+        - related rules: imperative mood, modal verbs
+      - expressing wishes and desires
+        - explanation: Used to convey wishes, hopes, or desires that are not currently true or are unlikely.
+        - examples:
+          - "I wish it **were** easier to learn multiple languages."
+          - "They wish they **had** more time to complete the project."
+        - usage notes: Commonly follows expressions like "I wish," "If only," "It's time that."
+        - exceptions: In informal contexts, the indicative is sometimes used instead of the subjunctive.
+        - related rules: conditional sentences, hypothetical statements
+      - expressing necessity and urgency
+        - explanation: Used to emphasize the importance or urgency of an action.
+        - examples:
+          - "It is imperative that he **attend** the seminar."
+          - "The committee insists that every member **participate** actively."
+        - usage notes: Enhances the strength of the necessity or urgency in formal contexts.
+        - exceptions: Overuse can make the language sound overly rigid or authoritarian.
+        - related rules: modal verbs, formal expressions
+      - conditional sentences
+        - explanation: Used in "if" clauses to express hypothetical or unreal conditions and their possible outcomes.
+        - examples:
+          - "If she **were** here, she would help us."
+          - "Had they **known** about the issue, they might have resolved it earlier."
+        - usage notes: Often used in second and third conditional sentences to discuss unreal or past unreal situations.
+        - exceptions: In informal speech, other forms may be used instead of the subjunctive.
+        - related rules: conditional moods, past subjunctive
+    - Sentence Structures
+      - that-clauses
+        - explanation: Utilizing "that" clauses to introduce the subjunctive mood after certain verbs and expressions.
+        - examples:
+          - "It is vital that she **be** informed immediately."
+          - "They demanded that the meeting **start** on time."
+        - usage notes: "That" is often optional but can add clarity, especially in complex sentences.
+        - exceptions: Some verbs may omit "that" without loss of meaning, while others require it for grammatical correctness.
+        - related rules: noun clauses, reporting verbs
+      - inverted conditional clauses
+        - explanation: Forming conditional sentences with inversion to create a more formal or emphatic tone without using "if."
+        - examples:
+          - "Had I known about the event, I would have attended."
+          - "Should you require assistance, please contact support."
+        - usage notes: Adds sophistication and emphasis, often used in formal writing and speech.
+        - exceptions: Less common in everyday conversation; may sound archaic if overused.
+        - related rules: conditional inversion, subjunctive mood
+      - imperative sentences with subjunctive
+        - explanation: Using the subjunctive mood to issue commands, requests, or suggestions in a formal manner.
+        - examples:
+          - "Be that as it may, we must proceed."
+          - "Come what may, we will not give up."
+        - usage notes: Enhances the formality and emphasis of commands or requests.
+        - exceptions: Not typically used in casual or informal commands; more common in literary or formal contexts.
+        - related rules: imperative mood, formal expressions
+    - Triggers and Indicators
+      - verbs that trigger the subjunctive
+        - explanation: Specific verbs that commonly require the subjunctive mood in subordinate clauses.
+        - examples:
+          - "suggest," "recommend," "insist," "demand," "propose"
+          - "I recommend that he **be** present."
+          - "They insisted that she **leave** immediately."
+        - usage notes: Identifying these verbs helps in correctly applying the subjunctive mood.
+        - exceptions: Some verbs do not require the subjunctive and use the indicative instead.
+        - related rules: reporting verbs, noun clauses
+      - expressions that trigger the subjunctive
+        - explanation: Phrases and expressions that necessitate the use of the subjunctive mood.
+        - examples:
+          - "It's essential that," "It's important that," "It's necessary that"
+          - "It's crucial that we **act** now."
+          - "It's important that she **be** informed."
+        - usage notes: These expressions emphasize the need or importance of the action in the subordinate clause.
+        - exceptions: Informal contexts may allow for the indicative mood instead.
+        - related rules: necessity expressions, formal writing
+      - conjunctions and adverbs
+        - explanation: Certain conjunctions and adverbs that introduce clauses requiring the subjunctive mood.
+        - examples:
+          - "although," "even though" in hypothetical contexts
+          - "lest" (e.g., "He acted quickly lest he **be** late.")
+        - usage notes: Ensure that the context requires the subjunctive when using these conjunctions and adverbs.
+        - exceptions: Not all uses of these words require the subjunctive; depends on the sentence meaning.
+        - related rules: conjunction usage, hypothetical statements
+    - Common Mistakes
+      - incorrect verb forms
+        - explanation: Using the wrong form of the verb in subjunctive clauses, such as the indicative instead of the subjunctive.
+        - examples:
+          - Incorrect: "It is essential that she **is** present."
+            Correct: "It is essential that she **be** present."
+          - Incorrect: "They insisted that he **leaves** immediately."
+            Correct: "They insisted that he **leave** immediately."
+        - usage notes: Always use the base form of the verb in present subjunctive clauses.
+        - exceptions: None; the subjunctive requires specific verb forms.
+        - related rules: verb conjugation, subjunctive mood
+      - neglecting to invert in conditional sentences
+        - explanation: Failing to invert the subject and auxiliary verb in conditional sentences that require inversion.
+        - examples:
+          - Incorrect: "Had I known, I would have acted differently."
+            Correct: "Had I known, I would have acted differently."
+          - Incorrect: "Should you need assistance, please contact support."
+            Correct: "Should you need assistance, please contact support."
+        - usage notes: Ensure proper inversion in formal conditional structures to maintain grammatical correctness.
+        - exceptions: In informal contexts, inversion is often replaced with "if" clauses.
+        - related rules: conditional inversion, formal writing
+      - using subjunctive in appropriate contexts only
+        - explanation: Applying the subjunctive mood in contexts that do not require it, leading to awkward or incorrect sentences.
+        - examples:
+          - Incorrect: "I wish I **am** there."
+            Correct: "I wish I **were** there."
+          - Incorrect: "He demanded that she **goes** to the meeting."
+            Correct: "He demanded that she **go** to the meeting."
+        - usage notes: Use the subjunctive only when the context specifically requires it, such as in formal demands, suggestions, or wishes.
+        - exceptions: Avoid using the subjunctive in simple statements or when the indicative is appropriate.
+        - related rules: mood selection, grammatical correctness
+      - overusing the subjunctive
+        - explanation: Relying too heavily on the subjunctive mood, making writing or speech seem forced or overly formal.
+        - examples:
+          - "It is important that he **be** here, it is necessary that she **attend**, and it is crucial that they **participate**."
+        - usage notes: Balance the use of the subjunctive with other moods to maintain naturalness and readability.
+        - exceptions: In highly formal or academic writing, more frequent use may be appropriate.
+        - related rules: sentence variety, register in language
+      - confusion between indicative and subjunctive
+        - explanation: Mixing up when to use the indicative mood versus the subjunctive mood, leading to grammatical errors.
+        - examples:
+          - Incorrect: "I suggest that he **goes** to the doctor."
+            Correct: "I suggest that he **go** to the doctor."
+          - Incorrect: "It is necessary that she **is** informed."
+            Correct: "It is necessary that she **be** informed."
+        - usage notes: Understand the contexts and triggers that require the subjunctive mood to avoid confusion.
+        - exceptions: None; each mood has distinct usage contexts.
+        - related rules: mood selection, grammatical accuracy
+    - Exceptions
+      - when the subjunctive is not required
+        - explanation: Situations where the subjunctive mood is traditionally used but the indicative mood is acceptable, often in informal contexts.
+        - examples:
+          - "It is essential that she **is** present." (Acceptable in informal contexts)
+          - "I suggest that he **goes** to the doctor." (Common in casual speech)
+        - usage notes: While the subjunctive is more grammatically precise, the indicative can be used in less formal settings without causing significant confusion.
+        - exceptions: In formal writing and speech, the subjunctive remains preferred for precision.
+        - related rules: register in language, formal vs. informal usage
+      - fixed expressions and idioms
+        - explanation: Certain fixed expressions and idiomatic phrases that do not follow standard subjunctive rules.
+        - examples:
+          - "God bless you."
+          - "Long live the king."
+        - usage notes: Recognize and use these expressions as exceptions to regular subjunctive forms.
+        - exceptions: These expressions have set forms that must be memorized as they do not conform to typical subjunctive structures.
+        - related rules: idiomatic expressions, fixed phrases
+      - subjunctive with certain verbs and adjectives
+        - explanation: Some verbs and adjectives naturally take the subjunctive without the need for specific triggers.
+        - examples:
+          - "Be that as it may, we must continue."
+          - "Be he a student or a teacher, he is always learning."
+        - usage notes: Use the subjunctive in these contexts to convey formal nuances and hypotheticals.
+        - exceptions: Limited to specific verbs and adjectives that inherently require the subjunctive.
+        - related rules: verb selection, mood usage
+    - Related Rules
+      - conditional sentences
+        - explanation: Structures that express "if-then" scenarios, often utilizing the subjunctive mood to indicate hypothetical or unreal conditions.
+        - examples:
+          - "If I **were** you, I would take the job."
+          - "Had she **known**, she would have acted differently."
+        - usage notes: The subjunctive enhances the hypothetical nature of the condition.
+        - exceptions: Informal contexts may use different structures without the subjunctive.
+        - related rules: subjunctive mood, conditional inversion
+      - modal verbs
+        - explanation: Modal verbs like "should," "would," and "could" often interact with the subjunctive mood to express necessity, possibility, or preference.
+        - examples:
+          - "I suggest that he **should go** to the doctor."
+          - "They requested that she **be** present."
+        - usage notes: Combine modal verbs appropriately with the subjunctive to convey nuanced meanings.
+        - exceptions: Some modal verbs may alter the requirement for the subjunctive based on context.
+        - related rules: modal verb usage, subjunctive mood
+      - imperative mood
+        - explanation: The imperative mood issues commands or requests, sometimes overlapping with the subjunctive in formal contexts.
+        - examples:
+          - "Let there **be** peace."
+          - "Be quiet during the presentation."
+        - usage notes: In some cases, the subjunctive is used to add formality or emphasis to commands.
+        - exceptions: Not all imperative sentences require the subjunctive; often dependent on formality.
+        - related rules: mood selection, formal commands
+      - noun clauses
+        - explanation: Subordinate clauses that function as nouns within a sentence, often requiring the subjunctive after certain verbs and expressions.
+        - examples:
+          - "It is important that he **attend** the meeting."
+          - "They recommend that she **be** promoted."
+        - usage notes: Recognize when a noun clause necessitates the subjunctive mood based on the main verb or expression.
+        - exceptions: Some noun clauses may not require the subjunctive and can use the indicative instead.
+        - related rules: subjunctive mood, clause types
+      - formal vs. informal language
+        - explanation: The choice between subjunctive and indicative moods often depends on the formality of the context.
+        - examples:
+          - Formal: "It is essential that she **be** informed immediately."
+          - Informal: "It's essential that she **is** informed immediately."
+        - usage notes: Use the subjunctive in formal writing and speech to maintain grammatical precision and sophistication.
+        - exceptions: In casual conversation, the indicative is frequently used without causing misunderstanding.
+        - related rules: register in language, formal writing

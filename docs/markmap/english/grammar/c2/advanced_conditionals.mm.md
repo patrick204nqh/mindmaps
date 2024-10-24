@@ -1,0 +1,376 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- C2
+  - Advanced Conditionals
+    - Mixed Conditionals
+      - explanation: Combines elements from different conditional types to express complex time relationships between conditions and results.
+      - examples:
+        - "If I **had studied** harder, I **would be** a doctor now."
+        - "If she **were** more experienced, she **might have secured** the position."
+      - usage notes: Useful for expressing hypothetical past conditions with present or future results, or vice versa.
+      - exceptions: Can be confusing if not clearly distinguishing between different time frames.
+      - related rules: second conditional, third conditional
+    - Zero Conditional Variations
+      - explanation: Extends the zero conditional to express general truths, scientific facts, and habitual actions with different structures.
+      - examples:
+        - "If you **heat** water to 100 degrees Celsius, it **boils**."
+        - "Should you **need** assistance, contact the front desk."
+      - usage notes: Often used in formal contexts to state facts or instructions.
+      - exceptions: Less common with modal verbs; primarily used with present simple.
+      - related rules: first conditional, general truths
+    - Third Conditional Variations
+      - explanation: Explores alternative forms of the third conditional to express regrets or hypothetical past scenarios.
+      - examples:
+        - "Had they **known** about the traffic, they **would have left** earlier."
+        - "If he **hadn't missed** the train, he **wouldn't have been** late."
+      - usage notes: Emphasizes actions that did not happen in the past and their imagined outcomes.
+      - exceptions: Typically cannot be mixed with other conditional types without losing clarity.
+      - related rules: past perfect, hypothetical scenarios
+    - Inverted Conditionals
+      - explanation: Uses inversion instead of "if" to create a more formal or emphatic conditional sentence.
+      - examples:
+        - "Were I **in** your position, I **would reconsider** the offer."
+        - "Had she **known**, she **would have acted** differently."
+      - usage notes: Often employed in formal writing and speeches to add sophistication.
+      - exceptions: Less common in everyday conversation; may sound archaic if overused.
+      - related rules: formal sentence structures, subjunctive mood
+    - Conditionals with Modal Verbs
+      - explanation: Integrates modal verbs into conditional sentences to express possibility, necessity, or permission.
+      - examples:
+        - "If you **should need** help, let me know."
+        - "Should they **encounter** any issues, they **might** seek assistance."
+      - usage notes: Enhances the nuance of conditionals by specifying degrees of certainty or obligation.
+      - exceptions: Some modal verbs may alter the meaning subtly, requiring careful selection.
+      - related rules: modal verb usage, conditional nuances
+    - Emphatic Conditionals
+      - explanation: Uses conditionals to strongly emphasize a point, often in argumentative or persuasive contexts.
+      - examples:
+        - "If you **truly believe** in justice, you **will support** the initiative."
+        - "Should anyone **question** the decision, it **will be defended** robustly."
+      - usage notes: Effective in formal debates, speeches, and persuasive writing to underscore key arguments.
+      - exceptions: Overuse can make statements seem forceful or aggressive.
+      - related rules: persuasive language, formal conditionals
+    - Conditional Perfect
+      - explanation: Combines conditional structures with perfect tenses to discuss actions that would have occurred under different past conditions.
+      - examples:
+        - "If she **had arrived** earlier, she **would have met** the manager."
+        - "They **would have completed** the project on time if they **hadn't faced** so many obstacles."
+      - usage notes: Ideal for expressing regrets or analyzing past decisions and their potential outcomes.
+      - exceptions: Requires accurate use of past perfect tense, which can be complex.
+      - related rules: third conditional, past perfect
+    - Real vs. Unreal Conditions
+      - explanation: Differentiates between real conditionals (possible and probable) and unreal conditionals (hypothetical or impossible).
+      - examples:
+        - Real: "If it **rains**, we **will cancel** the picnic."
+        - Unreal: "If I **were** a millionaire, I **would travel** the world."
+      - usage notes: Clarifies the likelihood of the condition being met, affecting verb tenses and structures.
+      - exceptions: Some real conditionals can express future intentions, requiring appropriate verb forms.
+      - related rules: first conditional, second conditional, third conditional
+    - Conditionals in Formal Writing
+      - explanation: Applies advanced conditional structures to maintain formality and precision in academic and professional writing.
+      - examples:
+        - "Should the data **prove** unreliable, the hypothesis **must be reevaluated**."
+        - "If it **were not** for the recent policy changes, the results **would have been** different."
+      - usage notes: Enhances the credibility and authority of the writing by using sophisticated conditional forms.
+      - exceptions: Avoid overly complex structures that may obscure meaning; maintain clarity.
+      - related rules: formal sentence structures, academic writing conventions
+    - Conditional Inversion
+      - explanation: Utilizes inversion in conditional sentences to create emphasis and formality without using "if."
+      - examples:
+        - "Had I **known**, I **would have acted** differently."
+        - "Should you **require** assistance, please contact support."
+      - usage notes: Adds variety and sophistication to conditional expressions, suitable for high-level writing and speech.
+      - exceptions: Can be perceived as overly formal or stilted in casual contexts.
+      - related rules: inverted conditionals, formal expressions
+    - Mixed Conditionals
+      - explanation: Combines elements from different conditional types to express complex time relationships and hypothetical scenarios.
+      - examples:
+        - "If I **had studied** medicine, I **would be** a doctor now."
+        - "If she **were** more organized, she **might have avoided** the mistake."
+      - usage notes: Allows for nuanced expression of past conditions affecting the present or future, and vice versa.
+      - exceptions: Requires careful attention to tense consistency to avoid confusion.
+      - related rules: second conditional, third conditional
+    - Conditional Reporting
+      - explanation: Incorporates conditional structures within reported speech to relay conditional statements made by others.
+      - examples:
+        - Direct: "If you **need** help, let me know."
+          Reported: He said that if I **need** help, I **should let** him know.
+        - Direct: "If it **rains**, we **will cancel** the event."
+          Reported: She mentioned that if it **rains**, they **will cancel** the event.
+      - usage notes: Maintains the integrity of the original conditional statement while fitting it into reported speech structures.
+      - exceptions: Adjust verb tenses appropriately based on the reporting verb's tense.
+      - related rules: reported speech, conditional structures
+    - Advanced Conditional Expressions
+      - explanation: Utilizes complex phrases and idiomatic expressions within conditional sentences to convey sophisticated meanings.
+      - examples:
+        - "Provided that you **complete** the assignment on time, you **will receive** full credit."
+        - "As long as they **adhere** to the guidelines, the project **should succeed**."
+      - usage notes: Enhances the expressiveness and precision of conditional statements in high-level communication.
+      - exceptions: Some expressions may require specific verb forms or structures.
+      - related rules: conditional connectors, advanced sentence structures
+    - Hypothetical Conditionals
+      - explanation: Explores conditionals that discuss hypothetical situations and their imagined outcomes.
+      - examples:
+        - "If I **were** in your shoes, I **would reconsider** the offer."
+        - "Were they **to invest** more, the company **might flourish**."
+      - usage notes: Emphasizes imagination and speculation, often used in strategic planning and theoretical discussions.
+      - exceptions: Typically confined to speculative or non-factual contexts.
+      - related rules: second conditional, subjunctive mood
+    - Advanced Conditional Clauses
+      - explanation: Develops complex conditional clauses with multiple conditions or layered dependencies.
+      - examples:
+        - "If you **have completed** the preliminary tests and **have secured** funding, the project **can proceed**."
+        - "Provided that the weather **remains** favorable and the team **maintains** their performance, success **is likely**."
+      - usage notes: Facilitates the expression of intricate dependencies and requirements within a single conditional sentence.
+      - exceptions: Can become unwieldy if too many conditions are stacked without clear separation.
+      - related rules: compound sentences, complex conditionals
+    - Conditional Conjunctions
+      - explanation: Uses a variety of conjunctions to introduce conditional clauses, enhancing the flexibility and nuance of conditional statements.
+      - examples:
+        - "Unless you **complete** the task, you **will not** receive feedback."
+        - "Even if it **snows**, we **will proceed** with the event."
+      - usage notes: Allows for expressing different shades of condition, such as exceptions, alternatives, and strict requirements.
+      - exceptions: Some conjunctions may require specific verb forms or additional grammatical structures.
+      - related rules: conjunction usage, nuanced conditionals
+    - Real Conditional Nuances
+      - explanation: Explores subtle distinctions within real conditionals to express varying degrees of likelihood and certainty.
+      - examples:
+        - "If you **heat** ice, it **melts**." (general truth)
+        - "If she **calls**, I **will answer**." (specific future possibility)
+      - usage notes: Differentiates between universal truths and specific future events, adjusting verb tenses accordingly.
+      - exceptions: Must ensure the context clearly indicates the intended degree of likelihood.
+      - related rules: zero conditional, first conditional
+    - Unreal Conditional Nuances
+      - explanation: Delves into the intricacies of unreal conditionals to express hypotheticals, regrets, and imagined scenarios with precision.
+      - examples:
+        - "If I **hadn't missed** the train, I **wouldn't have been** late."
+        - "Were he **to know** the truth, he **might act** differently."
+      - usage notes: Enhances the ability to express complex hypotheticals and their imagined consequences.
+      - exceptions: Requires careful tense and mood management to maintain clarity and correctness.
+      - related rules: third conditional, mixed conditionals
+    - Conditional Logic and Consistency
+      - explanation: Ensures logical coherence and grammatical consistency within complex conditional sentences.
+      - examples:
+        - "If he **had prepared** thoroughly, he **would have performed** better, and his confidence **would be** higher now."
+        - "Provided that the initial conditions **are met**, and the secondary criteria **are fulfilled**, the outcomes **will be** favorable."
+      - usage notes: Maintains clear logical relationships and consistent tense usage across multiple conditions and outcomes.
+      - exceptions: Overly complex sentences may require breaking down into simpler structures for clarity.
+      - related rules: logical flow, tense consistency
+    - Conditional Modifiers and Emphasis
+      - explanation: Uses modifiers and emphasis techniques within conditional sentences to highlight specific aspects or add emphasis.
+      - examples:
+        - "If only he **had listened**, the situation **could have been** avoided."
+        - "Should you **really need** assistance, please don't hesitate to ask."
+      - usage notes: Adds emotional depth and emphasis to conditional statements, enhancing expressiveness.
+      - exceptions: Must avoid overuse of modifiers which can clutter the sentence and reduce clarity.
+      - related rules: emphasis techniques, modal verbs
+    - Advanced Conditional Phrases
+      - explanation: Incorporates advanced phrases and idiomatic expressions within conditional structures for nuanced meaning.
+      - examples:
+        - "If push comes to shove, we **can** find an alternative solution."
+        - "In the event that you **should require** further information, please contact us."
+      - usage notes: Enhances the sophistication and variety of conditional expressions, suitable for high-level communication.
+      - exceptions: Some phrases may be too formal or specific for certain contexts.
+      - related rules: idiomatic expressions, formal conditionals
+    - Real Conditional Enhancements
+      - explanation: Enhances real conditionals with additional clauses or modifiers to express more detailed scenarios.
+      - examples:
+        - "If you **study diligently**, you **will achieve** excellent results in your exams."
+        - "If the weather **improves**, we **can organize** the outdoor event successfully."
+      - usage notes: Adds specificity and detail to real conditional statements, making them more informative.
+      - exceptions: Ensure that added clauses do not complicate the sentence beyond clarity.
+      - related rules: first conditional, sentence expansion
+    - Advanced Conditional Vocabulary
+      - explanation: Utilizes sophisticated vocabulary and expressions within conditional sentences to convey precise meanings.
+      - examples:
+        - "Should circumstances **permit**, we **might consider** expanding our operations internationally."
+        - "If exigent circumstances **arise**, appropriate measures **will be implemented**."
+      - usage notes: Enhances the precision and professionalism of conditional statements, suitable for formal writing and advanced discussions.
+      - exceptions: Some advanced vocabulary may be too formal or obscure for general use; ensure appropriateness based on context.
+      - related rules: formal vocabulary, precise language
+    - Conditional Continuity and Progression
+      - explanation: Manages the flow and progression of ideas within extended conditional sentences to maintain logical continuity.
+      - examples:
+        - "If the initial tests **prove** successful, and the subsequent trials **are conducted** without issues, the project **will proceed** to the next phase."
+        - "Should the primary objectives **be met**, and the secondary goals **achieve** their targets, the overall initiative **can be deemed** a success."
+      - usage notes: Ensures that multiple conditions and their outcomes are logically connected and grammatically consistent.
+      - exceptions: Avoid overcomplicating sentences, which can lead to confusion and reduced readability.
+      - related rules: compound conditionals, logical sequencing
+    - Conditional Idioms and Expressions
+      - explanation: Incorporates idiomatic expressions within conditional structures to convey meanings more naturally and fluently.
+      - examples:
+        - "If it **rains cats and dogs**, we'll **stay indoors**."
+        - "Should the shoe **fit**, wear it."
+      - usage notes: Enhances naturalness and fluency in advanced English usage, making conditionals sound more native-like.
+      - exceptions: Ensure that idiomatic expressions are appropriate for the context and audience.
+      - related rules: idiomatic expressions, natural language usage
+    - Advanced Conditional Connectors
+      - explanation: Uses a variety of connectors and conjunctions to introduce complex conditional relationships.
+      - examples:
+        - "Provided that you **complete** the assignment, you **will receive** full credit."
+        - "As long as the requirements **are met**, the application **can be approved**."
+      - usage notes: Adds variety and depth to conditional sentences by utilizing different connectors to express nuances.
+      - exceptions: Some connectors may have specific usage rules or require particular sentence structures.
+      - related rules: conjunction usage, conditional nuances
+    - Conditional Nuances in Different Contexts
+      - explanation: Adapts conditional structures to fit various contexts, such as hypothetical scenarios, advice, promises, and warnings.
+      - examples:
+        - Hypothetical: "If I **were** a bird, I **would fly** around the world."
+        - Advice: "If you **should need** assistance, please **contact** our support team."
+      - usage notes: Tailors conditional expressions to convey specific intentions and contexts effectively.
+      - exceptions: Must ensure that the conditional structure aligns with the intended context and meaning.
+      - related rules: context-based usage, conditional intent
+    - Conditional Modality and Probability
+      - explanation: Incorporates modal verbs and expressions of probability within conditionals to express varying degrees of likelihood.
+      - examples:
+        - "If he **might consider** the offer, we **could proceed** with the negotiations."
+        - "Should you **be available**, you **may join** the meeting."
+      - usage notes: Enhances the expressiveness of conditionals by specifying the likelihood or necessity of the outcomes.
+      - exceptions: Some modal verbs may alter the intended probability, requiring careful selection.
+      - related rules: modal verb usage, probability expressions
+    - Advanced Conditional Logic
+      - explanation: Applies complex logical relationships within conditionals to analyze and articulate sophisticated scenarios.
+      - examples:
+        - "If the proposal **is approved** and the funding **is secured**, we **will launch** the project next quarter."
+        - "Provided that the market **remains** stable and consumer demand **increases**, the company **can expand** its operations."
+      - usage notes: Facilitates the expression of multi-faceted conditions and their interconnected outcomes.
+      - exceptions: Requires clear logical structuring to prevent ambiguity and maintain coherence.
+      - related rules: logical flow, compound conditionals
+    - Subjunctive and Conditional Integration
+      - explanation: Combines the subjunctive mood with conditional structures to express wishes, hypotheticals, and formal conditions.
+      - examples:
+        - "If I **were** you, I **would reconsider** the offer."
+        - "Had she **known** the outcome, she **might have acted** differently."
+      - usage notes: Adds depth and formality to conditional statements by integrating subjunctive forms.
+      - exceptions: Requires precise verb forms and understanding of subjunctive usage within conditionals.
+      - related rules: subjunctive mood, conditional inversion
+    - Conditional Consistency and Parallelism
+      - explanation: Maintains grammatical consistency and parallel structure within complex conditional sentences to enhance readability and coherence.
+      - examples:
+        - "If you **complete** the project on time and **maintain** high quality, you **will receive** a bonus."
+        - "Should the team **resolve** the issues quickly and **implement** the solutions effectively, the initiative **can succeed**."
+      - usage notes: Ensures that multiple conditions and their corresponding results are grammatically aligned and stylistically balanced.
+      - exceptions: Overcomplicating sentences with too many parallel structures can hinder clarity.
+      - related rules: parallel structure, grammatical consistency
+    - Conditional Phrasing for Emphasis
+      - explanation: Uses specific phrasing and word order in conditionals to place emphasis on certain elements or outcomes.
+      - examples:
+        - "Only if you **attend** the workshop **will you gain** the necessary skills."
+        - "Not until they **have reviewed** the data **will they make** a decision."
+      - usage notes: Highlights important conditions or outcomes by adjusting the phrasing and structure of the sentence.
+      - exceptions: Must ensure that the emphasis does not obscure the main message or cause confusion.
+      - related rules: emphasis techniques, sentence restructuring
+    - Advanced Conditional Clauses with Multiple Conditions
+      - explanation: Constructs conditionals that include multiple conditions within a single sentence to express compound scenarios.
+      - examples:
+        - "If you **complete** the training and **demonstrate** proficiency, you **will be eligible** for promotion."
+        - "Should the first phase **succeed** and the second phase **launch** smoothly, the project **will be** deemed a success."
+      - usage notes: Allows for the expression of complex dependencies and requirements within a single conditional statement.
+      - exceptions: Requires careful management of verb tenses and conjunctions to maintain clarity.
+      - related rules: compound conditionals, logical sequencing
+    - Conditional Precision and Clarity
+      - explanation: Focuses on making conditional statements precise and clear, avoiding ambiguity and ensuring the intended meaning is conveyed accurately.
+      - examples:
+        - "If the research **provides** conclusive evidence, we **will proceed** with the implementation."
+        - "Provided that all stakeholders **agree**, the plan **can be** executed successfully."
+      - usage notes: Enhances the effectiveness of conditionals by ensuring that conditions and outcomes are explicitly and accurately stated.
+      - exceptions: Over-specifying conditions can sometimes make sentences cumbersome; balance is key.
+      - related rules: clarity in writing, precise language
+    - Conditional Nuances in Different Tenses
+      - explanation: Applies conditionals across various tenses to express different time frames and aspects of conditions and outcomes.
+      - examples:
+        - Past: "If they **had finished** earlier, they **could have joined** us for dinner."
+        - Present: "If she **knows** the answer, she **will tell** us."
+        - Future: "If he **completes** the course, he **will earn** a certification."
+      - usage notes: Adapts the conditional structure to match the appropriate tense, reflecting the timing of conditions and results.
+      - exceptions: Must ensure that the verb tenses accurately reflect the intended time relationships.
+      - related rules: tense consistency, time relationships in conditionals
+    - Advanced Modal Integration in Conditionals
+      - explanation: Incorporates a range of modal verbs within conditional sentences to express various degrees of necessity, possibility, and obligation.
+      - examples:
+        - "If you **should need** assistance, you **may contact** support."
+        - "Should they **be** interested, they **might consider** the proposal."
+      - usage notes: Enhances the expressiveness of conditionals by specifying the nature of the relationship between conditions and outcomes.
+      - exceptions: Some modals may not align well with certain conditional types, requiring careful selection.
+      - related rules: modal verbs, conditional nuances
+    - Conditional Subjunctive Precision
+      - explanation: Utilizes the subjunctive mood within conditionals to convey precise hypothetical or desired outcomes.
+      - examples:
+        - "If it **were** possible, I **would travel** the world."
+        - "Had he **known**, he **would have acted** differently."
+      - usage notes: Adds formality and precision to hypothetical conditional statements, suitable for advanced writing and speech.
+      - exceptions: Requires mastery of subjunctive forms and their correct application within conditionals.
+      - related rules: subjunctive mood, hypothetical conditionals
+    - Conditional Complexity and Readability
+      - explanation: Balances the complexity of conditional sentences with readability to maintain clarity without oversimplifying.
+      - examples:
+        - "If the initial tests **are successful** and the subsequent trials **are conducted** without issues, the project **can proceed** to the next phase."
+        - "Should the team **resolve** the outstanding issues and **implement** the proposed solutions effectively, the initiative **will be deemed** a success."
+      - usage notes: Constructs conditionals that are detailed yet clear, ensuring that complex scenarios are easy to understand.
+      - exceptions: Overly complex conditionals can reduce readability; strive for balance.
+      - related rules: sentence complexity, readability in writing
+    - Conditional Consistency and Parallelism
+      - explanation: Ensures grammatical consistency and parallel structure within conditional sentences to enhance flow and coherence.
+      - examples:
+        - "If you **finish** your work and **attend** the meeting, you **will receive** recognition."
+        - "Provided that the budget **is approved** and the timeline **is maintained**, the project **can succeed**."
+      - usage notes: Maintains parallel verb forms and structures when listing multiple conditions and outcomes.
+      - exceptions: Must avoid disrupting the parallelism with inconsistent verb forms or structures.
+      - related rules: parallel structure, grammatical consistency
+    - Conditional Idiomatic Expressions
+      - explanation: Incorporates idiomatic phrases within conditional structures to convey meanings more naturally and fluently.
+      - examples:
+        - "If push comes to shove, we **will proceed** with the plan."
+        - "Should the chips **fall** our way, we **can capitalize** on the opportunity."
+      - usage notes: Enhances naturalness and expressiveness in advanced conditional usage, suitable for native-like fluency.
+      - exceptions: Ensure that idiomatic expressions are appropriate for the context and audience.
+      - related rules: idiomatic expressions, natural language usage
+    - Conditional Advanced Connectors
+      - explanation: Uses a variety of advanced connectors and conjunctions to introduce conditional clauses, adding nuance and flexibility.
+      - examples:
+        - "Provided that you **meet** the requirements, you **may be considered** for the position."
+        - "Assuming that the conditions **remain** favorable, the project **will continue**."
+      - usage notes: Expands the range of conditional expressions by utilizing diverse connectors to convey specific nuances.
+      - exceptions: Some connectors may require specific sentence structures or verb forms.
+      - related rules: conjunction usage, conditional nuances
+    - Real Conditional Enhancements
+      - explanation: Enhances real conditionals with additional details or clauses to express more specific scenarios.
+      - examples:
+        - "If you **complete** the assignment on time and **maintain** high quality, you **will receive** full credit."
+        - "Provided that the weather **improves** and the team **remains** committed, the event **can proceed** successfully."
+      - usage notes: Adds specificity and depth to real conditional statements, making them more informative and detailed.
+      - exceptions: Must ensure that added details do not clutter the sentence or obscure the main condition and result.
+      - related rules: first conditional, sentence expansion
+    - Unreal Conditional Precision
+      - explanation: Refines unreal conditionals to convey precise hypothetical or contrary-to-fact scenarios with accurate verb forms.
+      - examples:
+        - "If I **were** in your position, I **would reconsider** the offer."
+        - "Had she **known** about the changes, she **might have acted** differently."
+      - usage notes: Enhances the clarity and accuracy of unreal conditional statements by ensuring correct verb usage and tense alignment.
+      - exceptions: Requires careful attention to subjunctive forms and past perfect tenses to maintain precision.
+      - related rules: subjunctive mood, third conditional
+    - Conditional Probability and Certainty
+      - explanation: Integrates expressions of probability and certainty within conditional structures to specify the likelihood of outcomes.
+      - examples:
+        - "If you **continue** your efforts, you **are likely to succeed**."
+        - "Should the market **shift** in our favor, we **will definitely expand** our operations."
+      - usage notes: Clarifies the degree of certainty associated with the conditional outcomes, enhancing the expressiveness of statements.
+      - exceptions: Must ensure that probability expressions accurately reflect the intended likelihood without overstating.
+      - related rules: modal verbs, probability expressions
+    - Advanced Conditional Reporting
+      - explanation: Embeds complex conditional structures within reported speech to relay nuanced conditional statements made by others.
+      - examples:
+        - Direct: "If you **finish** the project, you **will receive** a bonus."
+          Reported: She said that if I **finished** the project, I **would receive** a bonus.
+        - Direct: "Should you **need** any help, just let me know."
+          Reported: He mentioned that should I **need** any help, I **should just let** him know.
+      - usage notes: Maintains the integrity and nuance of the original conditional statements while fitting them into reported speech.
+      - exceptions: Adjust verb tenses and modal verbs appropriately based on the reporting verb's tense.
+      - related rules: reported speech, conditional structures

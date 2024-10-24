@@ -1,0 +1,296 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- C2
+  - Discourse Markers (Advanced)
+    - addition
+      - moreover
+        - explanation: adds information that reinforces or extends a previous point.
+        - examples:
+          - The project was completed on time; moreover, it was under budget.
+          - She is an excellent researcher; moreover, she has strong teaching skills.
+        - usage notes: Use to introduce an additional point that strengthens the argument.
+        - exceptions: Avoid overusing to maintain variety in discourse markers.
+        - related rules: furthermore, in addition.
+      - furthermore
+        - explanation: introduces additional information that supports the previous statement.
+        - examples:
+          - The study is comprehensive; furthermore, it includes recent data.
+          - He has experience in marketing; furthermore, he speaks three languages.
+        - usage notes: Similar to "moreover," often interchangeable.
+        - exceptions: Can be formal, so consider the context.
+        - related rules: moreover, in addition.
+      - in addition
+        - explanation: adds supplementary information to what has already been mentioned.
+        - examples:
+          - In addition to his salary, he receives stock options.
+          - The course covers grammar and vocabulary; in addition, it includes speaking practice.
+        - usage notes: Can be placed at the beginning or middle of a sentence.
+        - exceptions: Ensure the added information is relevant and not redundant.
+        - related rules: moreover, furthermore.
+    - contrast
+      - however
+        - explanation: introduces a statement that contrasts with or seems to contradict something previously stated.
+        - examples:
+          - She wanted to attend the meeting; however, she was feeling ill.
+          - The weather was sunny; however, it was unexpectedly cold.
+        - usage notes: Use to present a contrasting idea or exception.
+        - exceptions: Ensure the contrast is clear to avoid confusion.
+        - related rules: nevertheless, on the other hand.
+      - on the other hand
+        - explanation: presents an alternative perspective or contrasting point.
+        - examples:
+          - He enjoys outdoor activities; on the other hand, his brother prefers staying indoors.
+          - The plan is cost-effective; on the other hand, it may take longer to implement.
+        - usage notes: Often used to balance two opposing ideas.
+        - exceptions: Typically used in the middle or beginning of a sentence.
+        - related rules: however, nevertheless.
+      - nonetheless
+        - explanation: indicates that the following statement is true despite the previous statement.
+        - examples:
+          - The task was difficult; nonetheless, she completed it successfully.
+          - It was raining heavily; nonetheless, the event continued as planned.
+        - usage notes: Formal alternative to "however."
+        - exceptions: Less common in informal contexts.
+        - related rules: nevertheless, even so.
+    - cause and effect
+      - therefore
+        - explanation: indicates a logical result or consequence of something previously stated.
+        - examples:
+          - He did not study for the exam; therefore, he failed.
+          - The company increased its marketing budget; therefore, sales improved.
+        - usage notes: Use to show a direct consequence or conclusion.
+        - exceptions: Ensure the cause and effect relationship is clear.
+        - related rules: thus, consequently.
+      - consequently
+        - explanation: shows that something is a result or effect of a previous action or situation.
+        - examples:
+          - The roads were icy; consequently, several accidents occurred.
+          - She missed the deadline; consequently, her application was rejected.
+        - usage notes: Often used to emphasize the outcome of a situation.
+        - exceptions: Can be formal; consider the context.
+        - related rules: therefore, as a result.
+      - as a result
+        - explanation: highlights the outcome or consequence of a particular action or event.
+        - examples:
+          - The team worked overtime; as a result, they met the project deadline.
+          - Prices have increased; as a result, consumers are spending less.
+        - usage notes: Can be placed at the beginning or end of a sentence.
+        - exceptions: Ensure clarity in the cause-effect relationship.
+        - related rules: consequently, therefore.
+    - exemplification
+      - for example
+        - explanation: introduces an example to illustrate a point.
+        - examples:
+          - Many fruits are rich in vitamins; for example, oranges contain high levels of vitamin C.
+          - She excels in creative subjects, for example, art and design.
+        - usage notes: Use to provide specific instances supporting a general statement.
+        - exceptions: Avoid overusing; ensure examples are relevant.
+        - related rules: for instance, such as.
+      - for instance
+        - explanation: provides a specific example to clarify or support a statement.
+        - examples:
+          - Renewable energy sources, for instance, solar and wind power, are becoming more popular.
+          - He has visited many countries, for instance, Japan and Brazil.
+        - usage notes: Similar to "for example," often interchangeable.
+        - exceptions: Ensure the example directly relates to the point.
+        - related rules: for example, such as.
+      - such as
+        - explanation: introduces specific examples that illustrate a broader category.
+        - examples:
+          - She enjoys outdoor activities, such as hiking and cycling.
+          - Various factors, such as economic conditions and personal preferences, influence decision-making.
+        - usage notes: Often used within a sentence to list examples.
+        - exceptions: Avoid incomplete lists unless contextually appropriate.
+        - related rules: for example, for instance.
+    - emphasis
+      - indeed
+        - explanation: reinforces a preceding statement, adding emphasis or confirmation.
+        - examples:
+          - The task was challenging; indeed, it was the most difficult one we've faced.
+          - She is talented and indeed one of the best in her field.
+        - usage notes: Use to strengthen a point or agreement.
+        - exceptions: Can be redundant if overused.
+        - related rules: certainly, absolutely.
+      - certainly
+        - explanation: expresses agreement or certainty, adding emphasis to a statement.
+        - examples:
+          - He will certainly attend the conference.
+          - The results are certainly promising.
+        - usage notes: Use to affirm or stress certainty.
+        - exceptions: May sound too strong in some contexts.
+        - related rules: indeed, absolutely.
+      - absolutely
+        - explanation: conveys complete agreement or total certainty.
+        - examples:
+          - She is absolutely right about the importance of education.
+          - The plan is absolutely feasible.
+        - usage notes: Use for strong emphasis; suitable in both formal and informal contexts.
+        - exceptions: Can be informal depending on usage.
+        - related rules: certainly, indeed.
+    - sequence
+      - firstly, secondly, thirdly
+        - explanation: used to list points or steps in a specific order.
+        - examples:
+          - Firstly, we need to gather all the data. Secondly, analyze the results. Thirdly, present our findings.
+          - She addressed the following points: firstly, the budget; secondly, the timeline; thirdly, the resources.
+        - usage notes: Helps organize information clearly and logically.
+        - exceptions: Ensure consistency in the sequence and avoid skipping numbers.
+        - related rules: to begin with, subsequently.
+      - subsequently
+        - explanation: indicates that something happened after a particular event.
+        - examples:
+          - He graduated from college and subsequently started his own business.
+          - The meeting was postponed, and subsequently, the project timeline was adjusted.
+        - usage notes: Use to show a chronological order of events.
+        - exceptions: Can be formal; consider the context.
+        - related rules: afterwards, later.
+      - meanwhile
+        - explanation: shows that two events are happening at the same time.
+        - examples:
+          - She was preparing dinner; meanwhile, he set the table.
+          - The team worked on the presentation; meanwhile, the manager reviewed the report.
+        - usage notes: Use to indicate simultaneous actions or events.
+        - exceptions: Ensure clarity in the relationship between the events.
+        - related rules: at the same time, simultaneously.
+    - clarification
+      - in other words
+        - explanation: rephrases a previous statement for clarity or emphasis.
+        - examples:
+          - He was unresponsive, in other words, he did not reply to any of our messages.
+          - The solution was ineffective, in other words, it did not solve the problem.
+        - usage notes: Use to simplify or clarify complex ideas.
+        - exceptions: Avoid redundancy if the original statement is already clear.
+        - related rules: that is, to put it another way.
+      - that is
+        - explanation: provides a more precise explanation or definition of a statement.
+        - examples:
+          - She has a chronic condition, that is, she requires regular medical attention.
+          - The policy was changed, that is, the guidelines were updated.
+        - usage notes: Use to specify or elaborate on a point.
+        - exceptions: Ensure the clarification directly relates to the preceding statement.
+        - related rules: in other words, to put it another way.
+      - to put it another way
+        - explanation: rephrases a statement to make it clearer or easier to understand.
+        - examples:
+          - The experiment failed to produce significant results. To put it another way, the hypothesis was incorrect.
+          - He was exhausted after the marathon. To put it another way, he had no energy left.
+        - usage notes: Useful for explaining complex ideas in simpler terms.
+        - exceptions: Avoid overuse to maintain clarity and conciseness.
+        - related rules: in other words, that is.
+    - concession
+      - although
+        - explanation: introduces a subordinate clause that contrasts with the main clause.
+        - examples:
+          - Although it was raining, they continued their hike.
+          - She accepted the job offer, although the salary was lower than expected.
+        - usage notes: Use to acknowledge a point that might seem contradictory.
+        - exceptions: Ensure the contrast is clear and relevant.
+        - related rules: though, even though.
+      - even though
+        - explanation: emphasizes a concession or contrast stronger than "although."
+        - examples:
+          - Even though he was tired, he stayed up to finish the project.
+          - She went to the party even though she didn't feel well.
+        - usage notes: Use for stronger emphasis on the contrast.
+        - exceptions: Similar to "although," ensure appropriate context.
+        - related rules: although, though.
+    - summary/conclusion
+      - in conclusion
+        - explanation: signals the final summary or closing remarks of a discussion.
+        - examples:
+          - In conclusion, the data supports our initial hypothesis.
+          - In conclusion, investing in renewable energy is essential for sustainability.
+        - usage notes: Typically used at the end of a speech, essay, or argument.
+        - exceptions: Ensure it truly summarizes the main points.
+        - related rules: to summarize, in summary.
+      - to summarize
+        - explanation: provides a brief overview of the main points discussed.
+        - examples:
+          - To summarize, we need to reduce costs, increase efficiency, and expand our market reach.
+          - To summarize her findings, the treatment was effective in most cases.
+        - usage notes: Use to concisely recap information without introducing new ideas.
+        - exceptions: Avoid repeating information verbatim; focus on key points.
+        - related rules: in conclusion, in summary.
+      - overall
+        - explanation: provides a general assessment or final perspective on the discussed topics.
+        - examples:
+          - Overall, the project was a success despite some minor setbacks.
+          - Overall, the benefits of the new policy outweigh the drawbacks.
+        - usage notes: Use to give a final evaluation or judgment.
+        - exceptions: Ensure the overall assessment is supported by the preceding discussion.
+        - related rules: in conclusion, to summarize.
+    - contrastive emphasis
+      - on the contrary
+        - explanation: introduces a statement that opposes or contradicts the previous statement.
+        - examples:
+          - Some people believe the policy will fail. On the contrary, experts argue it will succeed.
+          - He is not lazy; on the contrary, he works very hard.
+        - usage notes: Use to directly oppose a previous claim or assumption.
+        - exceptions: Ensure the contrast is clear and relevant.
+        - related rules: in contrast, conversely.
+      - in contrast
+        - explanation: highlights a difference between two or more elements.
+        - examples:
+          - In contrast to her outgoing sister, she is very reserved.
+          - The northern region is industrialized; in contrast, the south remains largely agricultural.
+        - usage notes: Use to compare and emphasize differences.
+        - exceptions: Avoid vague contrasts; be specific.
+        - related rules: on the contrary, conversely.
+    - sequencing
+      - subsequently
+        - explanation: indicates that something happened after a particular event.
+        - examples:
+          - He completed his degree and subsequently began his career in finance.
+          - The meeting was delayed; subsequently, the launch was postponed.
+        - usage notes: Use to show the order of events in a narrative.
+        - exceptions: Can be formal; ensure clarity in the sequence.
+        - related rules: afterwards, later.
+      - previously
+        - explanation: refers to an event that happened before the current point in the narrative.
+        - examples:
+          - She had previously worked in marketing before joining the team.
+          - Previously, the company focused solely on domestic markets.
+        - usage notes: Use to reference earlier events or states in a discussion.
+        - exceptions: Ensure the timeline remains clear to the reader.
+        - related rules: earlier, before.
+    - contrastive connectors
+      - whereas
+        - explanation: shows a contrast between two statements or ideas.
+        - examples:
+          - She prefers classical music, whereas her brother enjoys rock.
+          - The north is mountainous, whereas the south is flat.
+        - usage notes: Use to compare two differing elements within the same sentence.
+        - exceptions: Ensure both parts of the comparison are parallel in structure.
+        - related rules: while, whereas.
+      - while
+        - explanation: indicates a contrast or simultaneous actions.
+        - examples:
+          - While he enjoys hiking, she prefers swimming.
+          - He was studying for his exams while his friends were partying.
+        - usage notes: Can express contrast or indicate simultaneity based on context.
+        - exceptions: Avoid ambiguity by clarifying the intended meaning.
+        - related rules: whereas, although.
+    - concessive markers
+      - despite
+        - explanation: introduces a fact that makes the main statement surprising or unlikely.
+        - examples:
+          - Despite the rain, the event was a huge success.
+          - She continued working despite feeling unwell.
+        - usage notes: Use "despite" followed by a noun, pronoun, or gerund.
+        - exceptions: Do not follow "despite" with a full clause.
+        - related rules: in spite of, although.
+      - in spite of
+        - explanation: similar to "despite," it introduces a contrasting fact.
+        - examples:
+          - In spite of the challenges, they achieved their goals.
+          - He went to the party in spite of not feeling well.
+        - usage notes: Use to show that something happened regardless of obstacles.
+        - exceptions: Do not use with a full clause directly; instead, use a noun or gerund.
+        - related rules: despite, although.

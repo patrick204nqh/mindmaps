@@ -1,0 +1,212 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Grammar
+
+- C2
+  - Complex Clause Structures
+    - relative clauses
+      - defining relative clauses
+        - explanation: provide essential information about the noun they modify without commas.
+        - examples:
+          - The book that you gave me was fascinating.
+          - Students who study regularly perform better.
+        - usage notes: Use "that" or "who" for defining clauses; omit "that" in some cases.
+        - exceptions: Non-defining relative clauses require commas and use "which" or "who."
+        - related rules: non-defining relative clauses, relative pronouns.
+      - non-defining relative clauses
+        - explanation: add extra, non-essential information about a noun, separated by commas.
+        - examples:
+          - My brother, who lives in New York, is visiting us.
+          - The car, which was newly purchased, broke down.
+        - usage notes: Use "which" for things and "who" for people; always include commas.
+        - exceptions: Do not use non-defining clauses for essential information.
+        - related rules: defining relative clauses, relative pronouns.
+      - relative pronouns
+        - explanation: words that introduce relative clauses, linking them to the main clause.
+        - examples:
+          - who, whom, whose, which, that
+          - The artist whose work you admire is famous.
+        - usage notes: Choose the appropriate relative pronoun based on the noun being modified and its role in the relative clause.
+        - exceptions: "That" is not used in non-defining relative clauses.
+        - related rules: relative clauses, pronoun case.
+    - adverbial clauses
+      - time clauses
+        - explanation: specify when something happens, introduced by subordinating conjunctions.
+        - examples:
+          - I will call you when I arrive.
+          - She left after the meeting ended.
+        - usage notes: Common conjunctions include when, before, after, since, while.
+        - exceptions: Avoid ambiguity by clearly indicating the time relationship.
+        - related rules: subordinating conjunctions, tense consistency.
+      - condition clauses
+        - explanation: express conditions under which something occurs, often using "if" or "unless."
+        - examples:
+          - If it rains, we will cancel the trip.
+          - Unless you study, you won't pass the exam.
+        - usage notes: Can express real, unreal, or hypothetical conditions.
+        - exceptions: Mixed conditionals may have complex structures.
+        - related rules: conditional clauses, modal verbs.
+      - concession clauses
+        - explanation: acknowledge a contrast or unexpected outcome, introduced by conjunctions like although, though, even though.
+        - examples:
+          - Although he was tired, he continued working.
+          - Even though it was expensive, they bought the car.
+        - usage notes: Place concession clauses at the beginning or end of the sentence, separated by a comma when first.
+        - exceptions: Avoid double negatives in concessive contexts.
+        - related rules: contrasting conjunctions, subordinate clauses.
+      - purpose clauses
+        - explanation: indicate the purpose of an action, introduced by "so that," "in order that."
+        - examples:
+          - She whispered so that no one could hear.
+          - They moved to the city in order that their children could attend better schools.
+        - usage notes: Often require the subjunctive mood after "so that."
+        - exceptions: Informal speech may use different structures.
+        - related rules: subjunctive mood, infinitive of purpose.
+      - reason clauses
+        - explanation: provide the reason for an action, introduced by "because," "since," "as."
+        - examples:
+          - He stayed home because he was feeling ill.
+          - Since you are here, you might as well help.
+        - usage notes: Ensure clarity by placing reason clauses appropriately in the sentence.
+        - exceptions: Avoid overuse to prevent redundancy.
+        - related rules: causal conjunctions, clause placement.
+    - noun clauses
+      - subject noun clauses
+        - explanation: function as the subject of a sentence.
+        - examples:
+          - What she decided surprised everyone.
+          - That he passed the exam is great news.
+        - usage notes: Often introduced by "that," "whether," "if," "what," "how."
+        - exceptions: "That" can sometimes be omitted in informal contexts.
+        - related rules: clause functions, pronoun usage.
+      - object noun clauses
+        - explanation: function as the object of a verb.
+        - examples:
+          - I believe that he is honest.
+          - She asked whether we could help.
+        - usage notes: Commonly follow verbs like believe, think, know, ask.
+        - exceptions: Ensure the noun clause clearly relates to the verb.
+        - related rules: verb complementation, clause integration.
+      - complement noun clauses
+        - explanation: complete the meaning of a subject or object.
+        - examples:
+          - The problem is that we are late.
+          - Her suggestion was that we leave early.
+        - usage notes: Follow linking verbs or certain adjectives.
+        - exceptions: Maintain clarity to avoid fragmented sentences.
+        - related rules: linking verbs, clause complementation.
+    - participial and reduced clauses
+      - participial clauses
+        - explanation: use present or past participles to add information, often reducing relative or adverbial clauses.
+        - examples:
+          - Walking down the street, she noticed the new café.
+          - Broken by the storm, the tree fell over.
+        - usage notes: Ensure the participial phrase logically relates to the main clause to avoid dangling modifiers.
+        - exceptions: Avoid ambiguity by clearly linking the participle to the correct subject.
+        - related rules: participles, clause reduction.
+      - reduced relative clauses
+        - explanation: shorten relative clauses by omitting the relative pronoun and possibly the verb "be."
+        - examples:
+          - The man standing by the door is my uncle. (instead of "who is standing")
+          - Books written by her are bestsellers.
+        - usage notes: Use when the meaning remains clear without the full relative clause.
+        - exceptions: Only applicable when the relative pronoun is the subject of the relative clause.
+        - related rules: relative clauses, participial clauses.
+      - reduced adverbial clauses
+        - explanation: shorten adverbial clauses by omitting the subject and the conjunction.
+        - examples:
+          - After finishing the work, he went home.
+          - If needed, contact me immediately.
+        - usage notes: Ensure the reduced clause maintains the original meaning and time relationship.
+        - exceptions: Some adverbial clauses cannot be easily reduced without loss of meaning.
+        - related rules: adverbial clauses, clause reduction.
+    - cleft sentences
+      - it-cleft
+        - explanation: split a simple sentence into two clauses to emphasize a particular part.
+        - examples:
+          - It was John who completed the project.
+          - It is the environment that needs protection.
+        - usage notes: Use to highlight specific information for emphasis.
+        - exceptions: Overuse can make writing sound unnatural.
+        - related rules: emphasis structures, relative clauses.
+      - what-cleft
+        - explanation: use "what" to create a cleft sentence, emphasizing a specific element.
+        - examples:
+          - What I need is a good night's sleep.
+          - What she did was impressive.
+        - usage notes: Effective for emphasizing actions or needs.
+        - exceptions: Limited to certain structures and contexts.
+        - related rules: emphasis structures, noun clauses.
+    - inversion in clauses
+      - negative adverbials inversion
+        - explanation: invert the subject and auxiliary verb after negative adverbials for emphasis.
+        - examples:
+          - Never have I seen such a beautiful sunset.
+          - Rarely does he take a day off.
+        - usage notes: Typically used in formal or literary contexts.
+        - exceptions: Common negative adverbs include never, rarely, seldom, hardly.
+        - related rules: adverbial placement, sentence inversion.
+      - conditional inversion
+        - explanation: invert the subject and auxiliary verb in conditional sentences without using "if."
+        - examples:
+          - Had I known, I would have acted differently.
+          - Should you need assistance, please let me know.
+        - usage notes: Used to create a more formal tone in conditional statements.
+        - exceptions: Limited to certain conditional structures.
+        - related rules: conditional clauses, modal verbs.
+    - subjunctive clauses
+      - present subjunctive
+        - explanation: use the base form of the verb to express demands, suggestions, or necessities.
+        - examples:
+          - It is essential that she be present.
+          - They requested that he attend the meeting.
+        - usage notes: Common after verbs like insist, recommend, suggest, and adjectives like essential, important.
+        - exceptions: The subjunctive is less common in informal English and often replaced with other structures.
+        - related rules: modal verbs, imperative mood.
+      - past subjunctive
+        - explanation: use the past form of the verb to express hypothetical or contrary-to-fact situations.
+        - examples:
+          - If I were you, I would take the job.
+          - She wishes she could be there.
+        - usage notes: Primarily used in conditional sentences and expressions of wishes.
+        - exceptions: Limited to specific contexts; often replaced with modal constructions in informal speech.
+        - related rules: conditional clauses, modal verbs.
+    - coordination and subordination
+      - coordinating conjunctions
+        - explanation: connect elements of equal grammatical rank, such as independent clauses.
+        - examples:
+          - I wanted to go, but it started raining.
+          - She likes tea and he prefers coffee.
+        - usage notes: Common coordinating conjunctions include for, and, nor, but, or, yet, so (FANBOYS).
+        - exceptions: Avoid overusing coordinating conjunctions to prevent run-on sentences.
+        - related rules: comma usage, compound sentences.
+      - subordination
+        - explanation: link dependent clauses to independent clauses to show relationships like cause, time, condition.
+        - examples:
+          - Although it was late, they continued working.
+          - Because she was tired, she went to bed early.
+        - usage notes: Use subordinating conjunctions to clarify the relationship between clauses.
+        - exceptions: Ensure the dependent clause is clearly connected to the main clause to avoid ambiguity.
+        - related rules: adverbial clauses, subordinating conjunctions.
+    - embedded clauses
+      - multiple embedded clauses
+        - explanation: include several layers of dependent clauses within a sentence for complexity.
+        - examples:
+          - The book that she said that she had read was fascinating.
+          - He believes that whoever arrives first will get the prize.
+        - usage notes: Maintain clarity by properly punctuating and structuring embedded clauses.
+        - exceptions: Overly complex sentences can confuse the reader; aim for balance.
+        - related rules: relative clauses, noun clauses.
+      - embedded questions
+        - explanation: include questions within statements or other questions.
+        - examples:
+          - I wonder where she is going.
+          - Can you tell me what time it is?
+        - usage notes: Do not use quotation marks for embedded questions; maintain statement structure.
+        - exceptions: Ensure the embedded question is grammatically integrated into the main clause.
+        - related rules: indirect questions, noun clauses.
