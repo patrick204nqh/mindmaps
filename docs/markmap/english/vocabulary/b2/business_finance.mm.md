@@ -1,0 +1,536 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- B2
+  - Business & Finance
+    - Accounting & Finance
+      - budget
+        - definition: an estimate of income and expenditure for a set period of time.
+        - pronunciation: /ˈbʌdʒ.ɪt/
+        - part of speech: noun, verb
+        - examples:
+          - The company prepared its annual budget.
+          - They need to budget carefully to avoid overspending.
+        - synonyms: financial plan, allocation
+        - antonyms: overspend
+        - related words: budgeting, budgetary
+      - revenue
+        - definition: income generated from normal business operations.
+        - pronunciation: /ˈrɛv.ɪ.njuː/
+        - part of speech: noun
+        - examples:
+          - The company's revenue increased by 10% this year.
+          - They need to boost sales to improve revenue.
+        - synonyms: income, earnings
+        - antonyms: expenditure, loss
+        - related words: revenues, revenue stream
+      - expense
+        - definition: the cost required for something; the money spent on something.
+        - pronunciation: /ɪkˈspɛns/
+        - part of speech: noun
+        - examples:
+          - Travel expenses can be claimed back.
+          - They reduced expenses to increase profit.
+        - synonyms: cost, expenditure
+        - antonyms: income, revenue
+        - related words: expensive, expend
+      - profit
+        - definition: a financial gain, especially the difference between the amount earned and the amount spent.
+        - pronunciation: /ˈprɒf.ɪt/
+        - part of speech: noun, verb
+        - examples:
+          - The business made a profit this quarter.
+          - They aim to profit from the new market.
+        - synonyms: gain, earnings
+        - antonyms: loss, deficit
+        - related words: profitable, profitability
+      - loss
+        - definition: the state of no longer having something; the amount by which expenses exceed income.
+        - pronunciation: /lɒs/
+        - part of speech: noun
+        - examples:
+          - The company reported a loss last year.
+          - They suffered losses due to the recession.
+        - synonyms: deficit, shortfall
+        - antonyms: profit, gain
+        - related words: lose, losing
+      - audit
+        - definition: an official examination of an organization's accounts.
+        - pronunciation: /ˈɔː.dɪt/
+        - part of speech: noun, verb
+        - examples:
+          - The financial audit revealed discrepancies.
+          - They will audit the company's accounts next month.
+        - synonyms: inspection, examination
+        - antonyms: -
+        - related words: auditor, auditing
+      - balance sheet
+        - definition: a statement of the assets, liabilities, and capital of a business.
+        - pronunciation: /ˈbæl.əns ʃiːt/
+        - part of speech: noun
+        - examples:
+          - The accountant prepared the balance sheet.
+          - The balance sheet shows the company's financial position.
+        - synonyms: financial statement
+        - antonyms: -
+        - related words: assets, liabilities
+      - asset
+        - definition: a useful or valuable thing or person; property owned by a person or company.
+        - pronunciation: /ˈæs.et/
+        - part of speech: noun
+        - examples:
+          - The company's assets include buildings and equipment.
+          - Her skills are a valuable asset to the team.
+        - synonyms: property, resource
+        - antonyms: liability
+        - related words: assets, asset management
+      - liability
+        - definition: a thing for which someone is responsible, especially a debt.
+        - pronunciation: /ˌlaɪ.əˈbɪl.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - The company has liabilities exceeding its assets.
+          - He is facing liabilities from the lawsuit.
+        - synonyms: debt, obligation
+        - antonyms: asset
+        - related words: liabilities, liable
+      - equity
+        - definition: the value of shares issued by a company.
+        - pronunciation: /ˈɛk.wɪ.ti/
+        - part of speech: noun
+        - examples:
+          - She owns 30% equity in the company.
+          - They built up equity in their home over time.
+        - synonyms: ownership, value
+        - antonyms: debt
+        - related words: equities, equity financing
+      - depreciation
+        - definition: a reduction in the value of an asset over time.
+        - pronunciation: /dɪˌpriː.ʃiˈeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - The depreciation of equipment is considered in accounting.
+          - Depreciation affects the company's net income.
+        - synonyms: devaluation, amortization
+        - antonyms: appreciation
+        - related words: depreciate, depreciated
+      - dividend
+        - definition: a sum of money paid regularly by a company to its shareholders.
+        - pronunciation: /ˈdɪv.ɪ.dɛnd/
+        - part of speech: noun
+        - examples:
+          - Shareholders received a dividend this quarter.
+          - The company announced an increase in its dividend.
+        - synonyms: distribution, payout
+        - antonyms: -
+        - related words: dividends, dividend yield
+    - Marketing & Advertising
+      - brand
+        - definition: a type of product manufactured by a particular company under a particular name.
+        - pronunciation: /brænd/
+        - part of speech: noun, verb
+        - examples:
+          - The company is launching a new brand of shoes.
+          - They need to brand their products effectively.
+        - synonyms: label, trademark
+        - antonyms: generic
+        - related words: branding, brand name
+      - campaign
+        - definition: an organized course of action to promote a product or service.
+        - pronunciation: /kæmˈpeɪn/
+        - part of speech: noun, verb
+        - examples:
+          - They launched an advertising campaign.
+          - The marketing team is campaigning for the new product.
+        - synonyms: drive, effort
+        - antonyms: -
+        - related words: campaigning, campaigner
+      - target market
+        - definition: a particular group of consumers identified as the recipients of an advertisement.
+        - pronunciation: /ˈtɑː.ɡɪt ˈmɑː.kɪt/
+        - part of speech: noun
+        - examples:
+          - The target market for this product is young adults.
+          - They conducted research to identify their target market.
+        - synonyms: target audience
+        - antonyms: -
+        - related words: market segmentation, targeting
+      - slogan
+        - definition: a short and memorable phrase used in advertising.
+        - pronunciation: /ˈsləʊ.ɡən/
+        - part of speech: noun
+        - examples:
+          - The company's slogan is catchy.
+          - They created a new slogan for the campaign.
+        - synonyms: motto, catchphrase
+        - antonyms: -
+        - related words: sloganeering
+      - promotion
+        - definition: activities to advertise something.
+        - pronunciation: /prəˈməʊ.ʃən/
+        - part of speech: noun
+        - examples:
+          - They are running a promotion to boost sales.
+          - The promotion includes discounts and special offers.
+        - synonyms: marketing, advertising
+        - antonyms: demotion
+        - related words: promote, promotional
+      - customer
+        - definition: a person who buys goods or services from a business.
+        - pronunciation: /ˈkʌs.tə.mər/
+        - part of speech: noun
+        - examples:
+          - Customer satisfaction is our priority.
+          - They offer excellent customer service.
+        - synonyms: client, consumer
+        - antonyms: supplier
+        - related words: custom, customize
+      - advertisement
+        - definition: a notice promoting a product or service.
+        - pronunciation: /ədˈvɜː.tɪs.mənt/
+        - part of speech: noun
+        - examples:
+          - The advertisement was featured on television.
+          - They designed an eye-catching advertisement.
+        - synonyms: ad, commercial
+        - antonyms: -
+        - related words: advertise, advertising
+      - competitor
+        - definition: a person or organization that competes against others.
+        - pronunciation: /kəmˈpɛt.ɪ.tər/
+        - part of speech: noun
+        - examples:
+          - They need to stay ahead of their competitors.
+          - The company has many competitors in the market.
+        - synonyms: rival, opponent
+        - antonyms: ally
+        - related words: competition, competitive
+      - market research
+        - definition: the action of gathering information about consumers' needs.
+        - pronunciation: /ˈmɑː.kɪt rɪˈsɜːtʃ/
+        - part of speech: noun
+        - examples:
+          - Market research helps businesses understand their customers.
+          - They conducted market research before launching the product.
+        - synonyms: consumer research
+        - antonyms: -
+        - related words: marketing, researcher
+      - strategy
+        - definition: a plan of action designed to achieve a long-term aim.
+        - pronunciation: /ˈstræt.ə.dʒi/
+        - part of speech: noun
+        - examples:
+          - They developed a new business strategy.
+          - Effective strategies are essential for success.
+        - synonyms: plan, approach
+        - antonyms: improvisation
+        - related words: strategic, strategize
+    - Management & Leadership
+      - strategy
+        - definition: a plan of action designed to achieve a long-term aim.
+        - pronunciation: /ˈstræt.ə.dʒi/
+        - part of speech: noun
+        - examples:
+          - They developed a new business strategy.
+          - Effective strategies are essential for success.
+        - synonyms: plan, approach
+        - antonyms: improvisation
+        - related words: strategic, strategize
+      - goal
+        - definition: an aim or desired result.
+        - pronunciation: /ɡəʊl/
+        - part of speech: noun
+        - examples:
+          - Their goal is to increase market share.
+          - Setting clear goals helps in achieving success.
+        - synonyms: objective, target
+        - antonyms: -
+        - related words: goal-setting, goal-oriented
+      - supervise
+        - definition: observe and direct the execution of a task.
+        - pronunciation: /ˈsuː.pə.vaɪz/
+        - part of speech: verb
+        - examples:
+          - She supervises a team of ten employees.
+          - Managers must supervise their staff effectively.
+        - synonyms: oversee, manage
+        - antonyms: neglect
+        - related words: supervision, supervisor
+      - delegate
+        - definition: entrust a task to another person.
+        - pronunciation: /ˈdɛl.ɪ.ɡeɪt/
+        - part of speech: verb, noun
+        - examples:
+          - He needs to delegate tasks to his team.
+          - Good leaders know how to delegate effectively.
+        - synonyms: assign, entrust
+        - antonyms: retain
+        - related words: delegation, delegator
+      - motivate
+        - definition: provide someone with a reason for doing something.
+        - pronunciation: /ˈməʊ.tɪ.veɪt/
+        - part of speech: verb
+        - examples:
+          - Leaders should motivate their employees.
+          - She is motivated to achieve her goals.
+        - synonyms: inspire, encourage
+        - antonyms: discourage
+        - related words: motivation, motivational
+      - performance
+        - definition: the action of performing a task.
+        - pronunciation: /pəˈfɔː.məns/
+        - part of speech: noun
+        - examples:
+          - The company's performance exceeded expectations.
+          - They evaluate employee performance annually.
+        - synonyms: execution, accomplishment
+        - antonyms: failure
+        - related words: perform, performer
+      - feedback
+        - definition: information about reactions to a product or task.
+        - pronunciation: /ˈfiːd.bæk/
+        - part of speech: noun
+        - examples:
+          - They received positive feedback from customers.
+          - Feedback helps employees improve.
+        - synonyms: response, comment
+        - antonyms: -
+        - related words: feed, back
+      - efficiency
+        - definition: the ability to accomplish something with minimal waste.
+        - pronunciation: /ɪˈfɪʃ.ən.si/
+        - part of speech: noun
+        - examples:
+          - Improving efficiency can reduce costs.
+          - They implemented new processes to increase efficiency.
+        - synonyms: effectiveness, productivity
+        - antonyms: inefficiency
+        - related words: efficient, efficiently
+    - Human Resources
+      - recruit
+        - definition: to find new people to join an organization.
+        - pronunciation: /rɪˈkruːt/
+        - part of speech: verb, noun
+        - examples:
+          - The company is recruiting new staff.
+          - She is a new recruit in the sales department.
+        - synonyms: hire, enlist
+        - antonyms: dismiss
+        - related words: recruitment, recruiter
+      - hire
+        - definition: employ someone for wages.
+        - pronunciation: /haɪər/
+        - part of speech: verb, noun
+        - examples:
+          - They plan to hire more employees.
+          - The company offers competitive hire packages.
+        - synonyms: employ, engage
+        - antonyms: fire
+        - related words: hiring, hired
+      - employee
+        - definition: a person employed for wages or salary.
+        - pronunciation: /ɛmˈplɔɪ.iː/
+        - part of speech: noun
+        - examples:
+          - Employees must follow company policies.
+          - The company has over 500 employees.
+        - synonyms: worker, staff member
+        - antonyms: employer
+        - related words: employ, employment
+      - employer
+        - definition: a person or organization that employs people.
+        - pronunciation: /ɛmˈplɔɪ.ər/
+        - part of speech: noun
+        - examples:
+          - She is a fair employer.
+          - Employers are responsible for workplace safety.
+        - synonyms: boss, manager
+        - antonyms: employee
+        - related words: employ, employment
+      - salary
+        - definition: a fixed regular payment for employment.
+        - pronunciation: /ˈsæl.ə.ri/
+        - part of speech: noun
+        - examples:
+          - He receives a monthly salary.
+          - They offered her a higher salary.
+        - synonyms: pay, wages
+        - antonyms: -
+        - related words: salaried, salary increase
+      - wage
+        - definition: a fixed regular payment earned for work.
+        - pronunciation: /weɪdʒ/
+        - part of speech: noun, verb
+        - examples:
+          - The minimum wage has increased.
+          - They wage a campaign for better working conditions.
+        - synonyms: pay, earnings
+        - antonyms: -
+        - related words: wages, wage earner
+      - bonus
+        - definition: an extra payment added to what is usual.
+        - pronunciation: /ˈbəʊ.nəs/
+        - part of speech: noun
+        - examples:
+          - Employees receive a bonus at the end of the year.
+          - The company offers performance bonuses.
+        - synonyms: extra, reward
+        - antonyms: penalty
+        - related words: bonuses, bonus pay
+      - benefits
+        - definition: an advantage or profit gained; non-wage compensation.
+        - pronunciation: /ˈbɛn.ɪ.fɪts/
+        - part of speech: noun
+        - examples:
+          - Health insurance is one of the benefits.
+          - They offer generous employee benefits.
+        - synonyms: perks, advantages
+        - antonyms: drawbacks
+        - related words: benefit, beneficial
+      - training
+        - definition: the action of teaching a person a skill.
+        - pronunciation: /ˈtreɪ.nɪŋ/
+        - part of speech: noun
+        - examples:
+          - New employees undergo training.
+          - Ongoing training improves skills.
+        - synonyms: instruction, education
+        - antonyms: -
+        - related words: train, trainer
+      - promotion
+        - definition: the action of raising someone to a higher position.
+        - pronunciation: /prəˈməʊ.ʃən/
+        - part of speech: noun
+        - examples:
+          - She received a promotion to manager.
+          - Promotions are based on performance.
+        - synonyms: advancement, elevation
+        - antonyms: demotion
+        - related words: promote, promotional
+      - resignation
+        - definition: an act of retiring or giving up a position.
+        - pronunciation: /ˌrɛz.ɪɡˈneɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - He handed in his resignation yesterday.
+          - The resignation was unexpected.
+        - synonyms: departure, quitting
+        - antonyms: appointment
+        - related words: resign, resigned
+      - dismissal
+        - definition: the act of ordering someone to leave; termination.
+        - pronunciation: /dɪsˈmɪs.əl/
+        - part of speech: noun
+        - examples:
+          - Gross misconduct can lead to dismissal.
+          - She is appealing her unfair dismissal.
+        - synonyms: firing, discharge
+        - antonyms: hiring
+        - related words: dismiss, dismissive
+    - International Trade
+      - export
+        - definition: send goods to another country for sale.
+        - pronunciation: /ˈɛk.spɔːt/
+        - part of speech: verb, noun
+        - examples:
+          - The company exports products worldwide.
+          - Exports are vital for the economy.
+        - synonyms: sell abroad, ship out
+        - antonyms: import
+        - related words: exporter, exportation
+      - import
+        - definition: bring goods into a country from abroad.
+        - pronunciation: /ɪmˈpɔːt/
+        - part of speech: verb, noun
+        - examples:
+          - They import raw materials from overseas.
+          - Imports have increased this year.
+        - synonyms: bring in, purchase abroad
+        - antonyms: export
+        - related words: importer, importation
+      - tariff
+        - definition: a tax on imports or exports.
+        - pronunciation: /ˈtær.ɪf/
+        - part of speech: noun
+        - examples:
+          - The government imposed tariffs on imported goods.
+          - Tariffs can affect trade relations.
+        - synonyms: duty, tax
+        - antonyms: subsidy
+        - related words: tariffs, tariff barriers
+      - trade agreement
+        - definition: a contractual arrangement regarding trade.
+        - pronunciation: /treɪd əˈɡriː.mənt/
+        - part of speech: noun
+        - examples:
+          - They signed a trade agreement to reduce tariffs.
+          - The trade agreement benefits both nations.
+        - synonyms: trade deal, pact
+        - antonyms: trade war
+        - related words: treaty, negotiation
+      - globalization
+        - definition: businesses operating on an international scale.
+        - pronunciation: /ˌɡləʊ.bəl.aɪˈzeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Globalization has increased competition.
+          - They discuss the impact of globalization on economies.
+        - synonyms: internationalization
+        - antonyms: isolationism
+        - related words: globalize, global
+      - currency
+        - definition: a system of money in general use.
+        - pronunciation: /ˈkʌr.ən.si/
+        - part of speech: noun
+        - examples:
+          - The exchange rate of the currency has fallen.
+          - They accept multiple currencies.
+        - synonyms: money, cash
+        - antonyms: -
+        - related words: currencies, currency exchange
+      - exchange rate
+        - definition: the value of one currency compared to another.
+        - pronunciation: /ɪksˈtʃeɪndʒ reɪt/
+        - part of speech: noun
+        - examples:
+          - The exchange rate fluctuates daily.
+          - A favorable exchange rate can boost exports.
+        - synonyms: conversion rate
+        - antonyms: -
+        - related words: currency exchange
+      - customs
+        - definition: the official department that collects duties on imports.
+        - pronunciation: /ˈkʌs.təmz/
+        - part of speech: noun
+        - examples:
+          - They went through customs at the airport.
+          - Customs duties apply to certain imports.
+        - synonyms: border control
+        - antonyms: -
+        - related words: customs officer, customs clearance
+      - logistics
+        - definition: coordination of a complex operation.
+        - pronunciation: /ləˈdʒɪs.tɪks/
+        - part of speech: noun
+        - examples:
+          - Logistics are crucial in international trade.
+          - They specialize in logistics and supply chain management.
+        - synonyms: coordination, organization
+        - antonyms: disorganization
+        - related words: logistic, logistician
+      - supply chain
+        - definition: the sequence involved in production and distribution.
+        - pronunciation: /səˈplaɪ tʃeɪn/
+        - part of speech: noun
+        - examples:
+          - Disruptions in the supply chain can affect production.
+          - They manage the entire supply chain efficiently.
+        - synonyms: distribution network
+        - antonyms: -
+        - related words: supply, chain

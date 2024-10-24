@@ -1,0 +1,411 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- B2
+  - Global Issues & Environment
+    - Climate Change
+      - greenhouse effect
+        - definition: the trapping of the sun's warmth in the planet's lower atmosphere.
+        - pronunciation: /ˈɡriːn.haʊs ɪˈfɛkt/
+        - part of speech: noun
+        - examples:
+          - The greenhouse effect contributes to global warming.
+          - Scientists study the greenhouse effect to understand climate change.
+        - synonyms: atmospheric warming
+        - antonyms: cooling effect
+        - related words: greenhouse gas, global warming
+      - carbon footprint
+        - definition: the amount of carbon dioxide released by a person or organization.
+        - pronunciation: /ˈkɑː.bən ˈfʊt.prɪnt/
+        - part of speech: noun
+        - examples:
+          - Reducing your carbon footprint can help the environment.
+          - They calculated the company's carbon footprint.
+        - synonyms: carbon emissions
+        - antonyms: carbon offset
+        - related words: emissions, sustainability
+      - global warming
+        - definition: the gradual increase in the Earth's temperature due to greenhouse gases.
+        - pronunciation: /ˈɡləʊ.bəl ˈwɔː.mɪŋ/
+        - part of speech: noun
+        - examples:
+          - Global warming is a significant environmental concern.
+          - Efforts are being made to combat global warming.
+        - synonyms: climate change
+        - antonyms: global cooling
+        - related words: warming, greenhouse effect
+      - fossil fuels
+        - definition: natural fuels such as coal or gas formed from the remains of living organisms.
+        - pronunciation: /ˈfɒs.əl fjʊəlz/
+        - part of speech: noun
+        - examples:
+          - Burning fossil fuels releases greenhouse gases.
+          - Alternatives to fossil fuels are being developed.
+        - synonyms: non-renewable resources
+        - antonyms: renewable energy
+        - related words: coal, oil, natural gas
+      - deforestation
+        - definition: the action of clearing a wide area of trees.
+        - pronunciation: /diːˌfɒr.ɪˈsteɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Deforestation leads to habitat loss.
+          - Efforts are being made to reduce deforestation rates.
+        - synonyms: logging, clear-cutting
+        - antonyms: reforestation
+        - related words: deforest, forestation
+    - Pollution
+      - pollution
+        - definition: the introduction of harmful substances into the environment.
+        - pronunciation: /pəˈluː.ʃən/
+        - part of speech: noun
+        - examples:
+          - Pollution affects air and water quality.
+          - Measures are needed to control pollution.
+        - synonyms: contamination
+        - antonyms: purification
+        - related words: pollute, pollutant
+      - emissions
+        - definition: gases or particles released into the air.
+        - pronunciation: /ɪˈmɪʃ.ənz/
+        - part of speech: noun
+        - examples:
+          - Vehicle emissions contribute to smog.
+          - Regulations aim to reduce industrial emissions.
+        - synonyms: discharge, output
+        - antonyms: absorption
+        - related words: emit, emission
+      - acid rain
+        - definition: rainfall made acidic by atmospheric pollution.
+        - pronunciation: /ˈæs.ɪd reɪn/
+        - part of speech: noun
+        - examples:
+          - Acid rain damages forests and lakes.
+          - Industrial areas are more prone to acid rain.
+        - synonyms: acidic precipitation
+        - antonyms: alkaline rain
+        - related words: acidity, precipitation
+      - smog
+        - definition: fog combined with smoke and other pollutants.
+        - pronunciation: /smɒɡ/
+        - part of speech: noun
+        - examples:
+          - Smog is common in large cities.
+          - High smog levels can cause health problems.
+        - synonyms: haze, pollution
+        - antonyms: clean air
+        - related words: smoke, fog
+      - contamination
+        - definition: the process of making something impure or unsuitable.
+        - pronunciation: /kənˌtæm.ɪˈneɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Water contamination affects marine life.
+          - They are testing for soil contamination.
+        - synonyms: pollution, tainting
+        - antonyms: purification
+        - related words: contaminate, contaminant
+    - Sustainability
+      - sustainability
+        - definition: the ability to maintain ecological balance by avoiding depletion of resources.
+        - pronunciation: /səˌsteɪ.nəˈbɪl.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Sustainability is essential for future generations.
+          - The company focuses on environmental sustainability.
+        - synonyms: viability, endurance
+        - antonyms: unsustainability
+        - related words: sustainable, sustain
+      - renewable energy
+        - definition: energy from sources that are naturally replenishing.
+        - pronunciation: /rɪˈnjuː.ə.bəl ˈɛn.ə.dʒi/
+        - part of speech: noun
+        - examples:
+          - Solar and wind power are forms of renewable energy.
+          - Investment in renewable energy is increasing.
+        - synonyms: sustainable energy
+        - antonyms: fossil fuels
+        - related words: renewables, green energy
+      - conservation
+        - definition: the protection and preservation of natural resources.
+        - pronunciation: /ˌkɒn.səˈveɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Conservation efforts help protect endangered species.
+          - Water conservation is important in dry regions.
+        - synonyms: preservation, protection
+        - antonyms: exploitation
+        - related words: conserve, conservancy
+      - biodegradable
+        - definition: capable of being decomposed by natural processes.
+        - pronunciation: /ˌbaɪ.əʊ.dɪˈɡreɪ.də.bəl/
+        - part of speech: adjective
+        - examples:
+          - Biodegradable products reduce landfill waste.
+          - They switched to biodegradable packaging.
+        - synonyms: decomposable
+        - antonyms: non-biodegradable
+        - related words: biodegrade, biodegradation
+      - recycling
+        - definition: converting waste into reusable material.
+        - pronunciation: /riːˈsaɪ.klɪŋ/
+        - part of speech: noun
+        - examples:
+          - Recycling helps conserve natural resources.
+          - The city has a comprehensive recycling program.
+        - synonyms: reprocessing, reclaiming
+        - antonyms: disposing
+        - related words: recycle, recyclable
+    - Natural Disasters
+      - earthquake
+        - definition: a sudden shaking of the ground caused by seismic waves.
+        - pronunciation: /ˈɜːθ.kweɪk/
+        - part of speech: noun
+        - examples:
+          - The earthquake caused widespread damage.
+          - They prepared for the possibility of an earthquake.
+        - synonyms: tremor, quake
+        - antonyms: -
+        - related words: seismic, seismology
+      - tsunami
+        - definition: a large sea wave caused by an underwater earthquake or volcanic eruption.
+        - pronunciation: /tsuːˈnɑː.mi/
+        - part of speech: noun
+        - examples:
+          - The tsunami reached the coast within hours.
+          - Warnings were issued after the tsunami alert.
+        - synonyms: tidal wave, seismic sea wave
+        - antonyms: -
+        - related words: wave, surge
+      - drought
+        - definition: a prolonged period of abnormally low rainfall.
+        - pronunciation: /draʊt/
+        - part of speech: noun
+        - examples:
+          - The drought affected agricultural production.
+          - They implemented water restrictions during the drought.
+        - synonyms: dryness, aridity
+        - antonyms: flood
+        - related words: dry, arid
+      - flood
+        - definition: an overflow of water that submerges land.
+        - pronunciation: /flʌd/
+        - part of speech: noun, verb
+        - examples:
+          - The flood damaged homes along the river.
+          - Heavy rains can cause flooding in low areas.
+        - synonyms: inundation, deluge
+        - antonyms: drought
+        - related words: flooding, floodplain
+      - volcano
+        - definition: an opening in the Earth's crust through which lava erupts.
+        - pronunciation: /vɒlˈkeɪ.nəʊ/
+        - part of speech: noun
+        - examples:
+          - The volcano has been dormant for years.
+          - They visited a volcano during their trip.
+        - synonyms: volcanic mountain
+        - antonyms: -
+        - related words: volcanic, volcanology
+    - Biodiversity & Wildlife
+      - endangered species
+        - definition: species at risk of extinction.
+        - pronunciation: /ɪnˈdeɪn.dʒəd ˈspiː.ʃiːz/
+        - part of speech: noun
+        - examples:
+          - Conservationists work to protect endangered species.
+          - Laws protect endangered species from poaching.
+        - synonyms: threatened species
+        - antonyms: thriving species
+        - related words: endangerment, conservation
+      - habitat
+        - definition: the natural environment of an organism.
+        - pronunciation: /ˈhæb.ɪ.tæt/
+        - part of speech: noun
+        - examples:
+          - Urban development can destroy animal habitats.
+          - They are restoring the wetlands to preserve the habitat.
+        - synonyms: environment, ecosystem
+        - antonyms: -
+        - related words: inhabit, habitation
+      - extinction
+        - definition: the dying out of a species.
+        - pronunciation: /ɪkˈstɪŋk.ʃən/
+        - part of speech: noun
+        - examples:
+          - Many species face extinction due to human activity.
+          - The extinction of the species was a significant loss.
+        - synonyms: disappearance, annihilation
+        - antonyms: survival
+        - related words: extinct, extinguish
+      - biodiversity
+        - definition: the variety of life in a particular habitat.
+        - pronunciation: /ˌbaɪ.əʊ.daɪˈvɜː.sɪ.ti/
+        - part of speech: noun
+        - examples:
+          - The rainforest is known for its rich biodiversity.
+          - Biodiversity is crucial for ecosystem balance.
+        - synonyms: biological diversity
+        - antonyms: monoculture
+        - related words: diverse, diversity
+      - poaching
+        - definition: illegal hunting or capturing of wild animals.
+        - pronunciation: /ˈpəʊ.tʃɪŋ/
+        - part of speech: noun
+        - examples:
+          - Poaching threatens wildlife populations.
+          - Authorities are cracking down on poaching activities.
+        - synonyms: illegal hunting
+        - antonyms: legal hunting
+        - related words: poach, poacher
+    - Environmental Policies
+      - legislation
+        - definition: laws enacted by a government body.
+        - pronunciation: /ˌlɛdʒ.ɪsˈleɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Environmental legislation aims to reduce pollution.
+          - New legislation was introduced to protect forests.
+        - synonyms: laws, statutes
+        - antonyms: -
+        - related words: legislate, legislative
+      - regulation
+        - definition: a rule made by an authority.
+        - pronunciation: /ˌrɛɡ.jʊˈleɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Companies must follow environmental regulations.
+          - Regulations limit emissions from factories.
+        - synonyms: rule, directive
+        - antonyms: deregulation
+        - related words: regulate, regulator
+      - protocol
+        - definition: an official procedure or system of rules.
+        - pronunciation: /ˈprəʊ.tə.kɒl/
+        - part of speech: noun
+        - examples:
+          - The Paris Agreement is an international protocol.
+          - They signed a protocol to reduce carbon emissions.
+        - synonyms: agreement, treaty
+        - antonyms: disagreement
+        - related words: protocols, diplomatic
+      - treaty
+        - definition: a formally concluded agreement between countries.
+        - pronunciation: /ˈtriː.ti/
+        - part of speech: noun
+        - examples:
+          - Countries negotiated a climate change treaty.
+          - The treaty outlines environmental commitments.
+        - synonyms: accord, pact
+        - antonyms: conflict
+        - related words: treat, treaty obligations
+      - carbon tax
+        - definition: a tax levied on the carbon content of fuels.
+        - pronunciation: /ˈkɑː.bən tæks/
+        - part of speech: noun
+        - examples:
+          - Implementing a carbon tax can reduce emissions.
+          - The carbon tax affects energy prices.
+        - synonyms: environmental tax
+        - antonyms: subsidy
+        - related words: taxation, carbon pricing
+    - Waste Management
+      - landfill
+        - definition: a site for the disposal of waste materials.
+        - pronunciation: /ˈlænd.fɪl/
+        - part of speech: noun
+        - examples:
+          - The landfill is reaching its capacity.
+          - Recycling reduces the amount of waste sent to landfills.
+        - synonyms: dump, disposal site
+        - antonyms: recycling facility
+        - related words: landfilling, waste disposal
+      - compost
+        - definition: decayed organic material used as fertilizer.
+        - pronunciation: /ˈkɒm.pɒst/
+        - part of speech: noun, verb
+        - examples:
+          - They compost kitchen scraps.
+          - Compost enriches the soil naturally.
+        - synonyms: fertilizer, humus
+        - antonyms: -
+        - related words: compostable, composting
+      - incineration
+        - definition: burning waste material to reduce its volume.
+        - pronunciation: /ɪnˌsɪn.ərˈeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Incineration can generate energy from waste.
+          - They use incineration for hazardous materials.
+        - synonyms: combustion, burning
+        - antonyms: recycling
+        - related words: incinerate, incinerator
+      - waste segregation
+        - definition: separating waste into different categories.
+        - pronunciation: /weɪst ˌsɛɡ.rɪˈɡeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Waste segregation helps with recycling efforts.
+          - They practice waste segregation at home.
+        - synonyms: waste separation
+        - antonyms: waste mixing
+        - related words: segregate, segregation
+      - compostable
+        - definition: capable of being used as compost.
+        - pronunciation: /kəmˈpɒs.tə.bəl/
+        - part of speech: adjective
+        - examples:
+          - They switched to compostable cups.
+          - Compostable bags break down naturally.
+        - synonyms: biodegradable
+        - antonyms: non-compostable
+        - related words: compost, composting
+    - Overpopulation & Resources
+      - overpopulation
+        - definition: excessive population of an area.
+        - pronunciation: /ˌəʊ.vəˌpɒp.jʊˈleɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Overpopulation can lead to resource shortages.
+          - They are addressing issues related to overpopulation.
+        - synonyms: overcrowding
+        - antonyms: underpopulation
+        - related words: population, populous
+      - resource depletion
+        - definition: the exhaustion of natural resources.
+        - pronunciation: /rɪˈzɔːs dɪˈpliː.ʃən/
+        - part of speech: noun
+        - examples:
+          - Resource depletion is a critical concern.
+          - Sustainable practices can prevent resource depletion.
+        - synonyms: exhaustion, consumption
+        - antonyms: resource renewal
+        - related words: deplete, depleted
+      - consumption
+        - definition: the using up of a resource.
+        - pronunciation: /kənˈsʌmp.ʃən/
+        - part of speech: noun
+        - examples:
+          - Energy consumption has increased over the years.
+          - They aim to reduce water consumption.
+        - synonyms: use, utilization
+        - antonyms: conservation
+        - related words: consume, consumerism
+      - urbanization
+        - definition: the process of making an area more urban.
+        - pronunciation: /ˌɜː.bən.aɪˈzeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Rapid urbanization affects rural communities.
+          - Urbanization can lead to environmental challenges.
+        - synonyms: city growth
+        - antonyms: ruralization
+        - related words: urbanize, urban
+      - sustainability
+        - (already listed under Sustainability)

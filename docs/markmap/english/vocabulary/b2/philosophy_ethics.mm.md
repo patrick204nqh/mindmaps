@@ -1,0 +1,317 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- B2
+  - Philosophy & Ethics
+    - Branches of Philosophy
+      - metaphysics
+        - definition: the branch of philosophy concerned with the nature of existence, being, and the world.
+        - pronunciation: /ˌmɛtəˈfɪzɪks/
+        - part of speech: noun
+        - examples:
+          - Metaphysics explores questions about reality and existence.
+          - She is studying metaphysics to understand the nature of being.
+        - synonyms: ontology, cosmology
+        - antonyms: empiricism
+        - related words: metaphysical, metaphysician
+      - epistemology
+        - definition: the study of knowledge and justified belief.
+        - pronunciation: /ɪˌpɪstəˈmɒlədʒi/
+        - part of speech: noun
+        - examples:
+          - Epistemology examines the nature and scope of knowledge.
+          - His research focuses on epistemology and how we know what we know.
+        - synonyms: theory of knowledge
+        - antonyms: ignorance
+        - related words: epistemological, epistemologist
+      - ethics
+        - definition: the branch of philosophy dealing with moral principles.
+        - pronunciation: /ˈɛθɪks/
+        - part of speech: noun
+        - examples:
+          - Ethics helps us decide what is right and wrong.
+          - She is interested in medical ethics.
+        - synonyms: morality, moral philosophy
+        - antonyms: immorality
+        - related words: ethical, ethically
+      - aesthetics
+        - definition: the study of beauty and taste.
+        - pronunciation: /iːsˈθɛtɪks/
+        - part of speech: noun
+        - examples:
+          - Aesthetics explores the nature of art and beauty.
+          - The artist is deeply interested in aesthetics.
+        - synonyms: philosophy of art, taste
+        - antonyms: ugliness
+        - related words: aesthetic, aesthetically
+      - logic
+        - definition: the systematic study of valid rules of inference.
+        - pronunciation: /ˈlɒdʒɪk/
+        - part of speech: noun
+        - examples:
+          - Logic helps us construct valid arguments.
+          - He studied logic to improve his reasoning skills.
+        - synonyms: reasoning, rationality
+        - antonyms: illogic
+        - related words: logical, logically
+    - Ethical Theories
+      - utilitarianism
+        - definition: the ethical theory that actions are right if they benefit the majority.
+        - pronunciation: /ˌjuːtɪlɪˈtɛːrɪənɪzəm/
+        - part of speech: noun
+        - examples:
+          - Utilitarianism focuses on the greatest good for the greatest number.
+          - She argued from a utilitarian perspective.
+        - synonyms: consequentialism
+        - antonyms: deontology
+        - related words: utilitarian, utility
+      - deontology
+        - definition: the ethical theory that actions are right or wrong in themselves.
+        - pronunciation: /ˌdiːɒnˈtɒlədʒi/
+        - part of speech: noun
+        - examples:
+          - Deontology emphasizes duties and rules.
+          - According to deontology, lying is always wrong.
+        - synonyms: duty-based ethics
+        - antonyms: utilitarianism
+        - related words: deontological, deontologist
+      - virtue ethics
+        - definition: an ethical theory focusing on moral character.
+        - pronunciation: /ˈvɜːtʃuː ˈɛθɪks/
+        - part of speech: noun
+        - examples:
+          - Virtue ethics emphasizes virtues like honesty and courage.
+          - She believes in virtue ethics over rule-based systems.
+        - synonyms: character ethics
+        - antonyms: consequentialism
+        - related words: virtue, virtuous
+      - consequentialism
+        - definition: the doctrine that morality is determined by outcomes.
+        - pronunciation: /ˌkɒnsɪˈkwɛnʃəlɪzəm/
+        - part of speech: noun
+        - examples:
+          - Consequentialism assesses actions based on their consequences.
+          - He criticized the limitations of consequentialism.
+        - synonyms: results-based ethics
+        - antonyms: deontology
+        - related words: consequentialist, consequence
+      - hedonism
+        - definition: the pursuit of pleasure as the highest good.
+        - pronunciation: /ˈhiːdənɪzəm/
+        - part of speech: noun
+        - examples:
+          - Hedonism suggests that seeking pleasure is life's main purpose.
+          - Critics argue that hedonism can lead to selfishness.
+        - synonyms: pleasure-seeking
+        - antonyms: asceticism
+        - related words: hedonistic, hedonist
+    - Logical Reasoning
+      - syllogism
+        - definition: a form of reasoning with a major premise, minor premise, and conclusion.
+        - pronunciation: /ˈsɪlədʒɪzəm/
+        - part of speech: noun
+        - examples:
+          - He used a syllogism to support his argument.
+          - Syllogisms are fundamental in logical deductions.
+        - synonyms: deduction, argument
+        - antonyms: illogical reasoning
+        - related words: syllogistic, syllogistically
+      - fallacy
+        - definition: a mistaken belief based on unsound arguments.
+        - pronunciation: /ˈfæləsi/
+        - part of speech: noun
+        - examples:
+          - The politician's statement contained a logical fallacy.
+          - Recognizing fallacies is important in debates.
+        - synonyms: error, misconception
+        - antonyms: truth, validity
+        - related words: fallacious, fallaciously
+      - premise
+        - definition: a statement that an argument claims will induce or justify a conclusion.
+        - pronunciation: /ˈprɛmɪs/
+        - part of speech: noun
+        - examples:
+          - The conclusion follows logically from the premises.
+          - His argument is based on a false premise.
+        - synonyms: assumption, proposition
+        - antonyms: conclusion
+        - related words: premises, premised
+      - deduction
+        - definition: reasoning from general principles to specific cases.
+        - pronunciation: /dɪˈdʌkʃən/
+        - part of speech: noun
+        - examples:
+          - Sherlock Holmes is famous for his deductive reasoning.
+          - Deduction involves applying a general rule to a particular case.
+        - synonyms: inference, reasoning
+        - antonyms: induction
+        - related words: deductive, deduce
+      - induction
+        - definition: reasoning from specific cases to general principles.
+        - pronunciation: /ɪnˈdʌkʃən/
+        - part of speech: noun
+        - examples:
+          - Scientists use induction to form hypotheses.
+          - Induction allows us to predict future events based on past observations.
+        - synonyms: generalization
+        - antonyms: deduction
+        - related words: inductive, induce
+    - Moral Concepts
+      - autonomy
+        - definition: self-governing; freedom from external control.
+        - pronunciation: /ɔːˈtɒnəmi/
+        - part of speech: noun
+        - examples:
+          - Respecting patient autonomy is essential in healthcare.
+          - He values personal autonomy above all else.
+        - synonyms: independence, self-determination
+        - antonyms: dependence
+        - related words: autonomous, autonomously
+      - altruism
+        - definition: selfless concern for the well-being of others.
+        - pronunciation: /ˈæltruɪzəm/
+        - part of speech: noun
+        - examples:
+          - Her altruism led her to volunteer abroad.
+          - Altruism is considered a virtue in many cultures.
+        - synonyms: selflessness, generosity
+        - antonyms: selfishness
+        - related words: altruistic, altruistically
+      - integrity
+        - definition: honesty and strong moral principles.
+        - pronunciation: /ɪnˈtɛɡrɪti/
+        - part of speech: noun
+        - examples:
+          - Integrity is crucial for building trust.
+          - She is admired for her integrity.
+        - synonyms: honesty, uprightness
+        - antonyms: dishonesty
+        - related words: integral, integrate
+      - justice
+        - definition: fairness in the way people are treated.
+        - pronunciation: /ˈdʒʌstɪs/
+        - part of speech: noun
+        - examples:
+          - The legal system aims to deliver justice.
+          - They are fighting for social justice.
+        - synonyms: fairness, equity
+        - antonyms: injustice
+        - related words: just, justify
+      - duty
+        - definition: a moral or legal obligation.
+        - pronunciation: /ˈdjuːti/
+        - part of speech: noun
+        - examples:
+          - It's our duty to help those in need.
+          - He feels a strong sense of duty toward his family.
+        - synonyms: responsibility, obligation
+        - antonyms: right
+        - related words: dutiful, dutifully
+    - Philosophers & Thinkers
+      - socrates
+        - definition: an ancient Greek philosopher known for his method of inquiry.
+        - pronunciation: /ˈsɒkrətiːz/
+        - part of speech: noun
+        - examples:
+          - Socrates is famous for his Socratic method.
+          - He was sentenced to death for his philosophical teachings.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: socratic
+      - plato
+        - definition: a student of Socrates and teacher of Aristotle.
+        - pronunciation: /ˈpleɪtəʊ/
+        - part of speech: noun
+        - examples:
+          - Plato founded the Academy in Athens.
+          - His dialogues explore justice and the ideal state.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: platonic
+      - aristotle
+        - definition: a Greek philosopher and polymath.
+        - pronunciation: /ˌærɪˈstɒtəl/
+        - part of speech: noun
+        - examples:
+          - Aristotle made significant contributions to logic and ethics.
+          - His works influenced Western thought for centuries.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: aristotelian
+      - kant
+        - definition: Immanuel Kant, an influential German philosopher.
+        - pronunciation: /kænt/
+        - part of speech: noun
+        - examples:
+          - Kant's categorical imperative is central to his moral philosophy.
+          - He argued that reason is the source of morality.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: kantian
+      - nietzsche
+        - definition: Friedrich Nietzsche, a German philosopher known for his critiques of traditional morality.
+        - pronunciation: /ˈniːtʃə/
+        - part of speech: noun
+        - examples:
+          - Nietzsche proclaimed that "God is dead."
+          - His philosophy explores the will to power.
+        - synonyms: n/a
+        - antonyms: n/a
+        - related words: nietzschean
+    - Debates & Dilemmas
+      - free will
+        - definition: the ability to choose between different possible courses of action.
+        - pronunciation: /friː wɪl/
+        - part of speech: noun
+        - examples:
+          - The debate over free will versus determinism continues.
+          - Do humans possess true free will?
+        - synonyms: autonomy, volition
+        - antonyms: determinism
+        - related words: freely, willing
+      - determinism
+        - definition: the doctrine that all events are determined by existing causes.
+        - pronunciation: /dɪˈtɜːmɪnɪzəm/
+        - part of speech: noun
+        - examples:
+          - Determinism suggests that free will is an illusion.
+          - He believes in determinism due to natural laws.
+        - synonyms: predestination, fatalism
+        - antonyms: free will
+        - related words: deterministic, determine
+      - moral relativism
+        - definition: the belief that morality varies between individuals or cultures.
+        - pronunciation: /ˈmɒrəl ˈrɛlətɪvɪzəm/
+        - part of speech: noun
+        - examples:
+          - Moral relativism argues that what's right depends on cultural context.
+          - Critics of moral relativism advocate for universal ethics.
+        - synonyms: ethical relativism
+        - antonyms: moral absolutism
+        - related words: relativist, relativistic
+      - moral absolutism
+        - definition: the belief in absolute standards of right and wrong.
+        - pronunciation: /ˈmɒrəl ˌæbsəˈluːtɪzəm/
+        - part of speech: noun
+        - examples:
+          - Moral absolutism holds that some actions are intrinsically wrong.
+          - She supports moral absolutism in ethical debates.
+        - synonyms: ethical absolutism
+        - antonyms: moral relativism
+        - related words: absolutist, absolute
+      - the trolley problem
+        - definition: a thought experiment in ethics involving a difficult moral decision.
+        - pronunciation: /ðə ˈtrɒli ˈprɒbləm/
+        - part of speech: noun
+        - examples:
+          - The trolley problem illustrates a moral dilemma.
+          - Philosophers use the trolley problem to discuss utilitarianism.
+        - synonyms: ethical dilemma
+        - antonyms: n/a
+        - related words: moral dilemma, thought experiment

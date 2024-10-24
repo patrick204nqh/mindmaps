@@ -1,0 +1,419 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- B2
+  - Advanced Technology
+    - Artificial Intelligence
+      - algorithm
+        - definition: a process or set of rules to be followed in calculations or problem-solving operations.
+        - pronunciation: /ˈæl.ɡə.rɪð.əm/
+        - part of speech: noun
+        - examples:
+          - The algorithm can process data quickly.
+          - They developed a new algorithm for image recognition.
+        - synonyms: procedure, formula
+        - antonyms: guesswork
+        - related words: computational, programmable
+      - machine learning
+        - definition: a field of artificial intelligence that uses statistical techniques to give computers the ability to learn from data.
+        - pronunciation: /məˈʃiːn ˈlɜː.nɪŋ/
+        - part of speech: noun
+        - examples:
+          - Machine learning is improving rapidly.
+          - They use machine learning to predict trends.
+        - synonyms: AI learning, data-driven learning
+        - antonyms: manual programming
+        - related words: artificial intelligence, neural networks
+      - neural network
+        - definition: a computer system modeled on the human brain and nervous system.
+        - pronunciation: /ˈnjʊə.rəl ˈnɛt.wɜːk/
+        - part of speech: noun
+        - examples:
+          - Neural networks are used in speech recognition.
+          - They trained a neural network to recognize images.
+        - synonyms: artificial neural network
+        - antonyms: linear system
+        - related words: deep learning, nodes
+      - data mining
+        - definition: the practice of examining large databases to generate new information.
+        - pronunciation: /ˈdeɪ.tə ˈmaɪ.nɪŋ/
+        - part of speech: noun
+        - examples:
+          - Data mining helps businesses understand customers.
+          - They used data mining to find patterns in the data.
+        - synonyms: data analysis, knowledge discovery
+        - antonyms: data ignoring
+        - related words: big data, analytics
+      - chatbot
+        - definition: a computer program designed to simulate conversation with human users.
+        - pronunciation: /ˈtʃæt.bɒt/
+        - part of speech: noun
+        - examples:
+          - The website uses a chatbot to assist visitors.
+          - Chatbots can answer customer questions.
+        - synonyms: virtual assistant, conversational agent
+        - antonyms: human operator
+        - related words: natural language processing, AI assistant
+    - Robotics
+      - automation
+        - definition: the use of largely automatic equipment in a system of operation.
+        - pronunciation: /ˌɔː.təˈmeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Automation reduces the need for manual labor.
+          - The factory uses automation to increase efficiency.
+        - synonyms: mechanization, robotization
+        - antonyms: manual operation
+        - related words: automate, automatic
+      - drone
+        - definition: an unmanned aircraft or ship that can navigate autonomously.
+        - pronunciation: /drəʊn/
+        - part of speech: noun
+        - examples:
+          - They use drones for aerial photography.
+          - Drones can deliver packages quickly.
+        - synonyms: unmanned aerial vehicle (UAV)
+        - antonyms: manned aircraft
+        - related words: remote control, quadcopter
+      - humanoid
+        - definition: having an appearance or character resembling that of a human.
+        - pronunciation: /ˈhjuː.mə.nɔɪd/
+        - part of speech: adjective, noun
+        - examples:
+          - The humanoid robot can walk and talk.
+          - They designed a humanoid for interaction with humans.
+        - synonyms: humanlike, anthropomorphic
+        - antonyms: mechanical, non-human
+        - related words: android, cyborg
+      - exoskeleton
+        - definition: an external skeleton that supports and protects an organism; in technology, a wearable mobile machine.
+        - pronunciation: /ˌɛk.səʊˈskɛl.ɪ.tən/
+        - part of speech: noun
+        - examples:
+          - Exoskeletons can help people lift heavy objects.
+          - The patient used an exoskeleton to walk again.
+        - synonyms: outer shell, robotic suit
+        - antonyms: endoskeleton
+        - related words: wearable robotics, assistive devices
+      - sensor
+        - definition: a device that detects or measures a physical property and records, indicates, or otherwise responds to it.
+        - pronunciation: /ˈsɛn.sər/
+        - part of speech: noun
+        - examples:
+          - The robot uses sensors to navigate.
+          - Motion sensors turn on the lights automatically.
+        - synonyms: detector, gauge
+        - antonyms: -
+        - related words: sensing, sensory
+    - Biotechnology
+      - genome
+        - definition: the complete set of genes or genetic material present in a cell or organism.
+        - pronunciation: /ˈdʒiː.nəʊm/
+        - part of speech: noun
+        - examples:
+          - Scientists mapped the human genome.
+          - Genome editing can treat genetic diseases.
+        - synonyms: genetic code
+        - antonyms: -
+        - related words: genetic, genomics
+      - cloning
+        - definition: the process of producing similar populations of genetically identical individuals.
+        - pronunciation: /ˈkləʊ.nɪŋ/
+        - part of speech: noun
+        - examples:
+          - Cloning can help in organ transplantation.
+          - They are researching cloning techniques.
+        - synonyms: duplication, replication
+        - antonyms: diversity
+        - related words: clone, cloned
+      - gene therapy
+        - definition: the transplantation of normal genes into cells to replace missing or defective ones.
+        - pronunciation: /dʒiːn ˈθɛr.ə.pi/
+        - part of speech: noun
+        - examples:
+          - Gene therapy offers hope for genetic disorders.
+          - Advances in gene therapy are promising.
+        - synonyms: genetic treatment
+        - antonyms: symptomatic treatment
+        - related words: genetic engineering, genes
+      - bioengineering
+        - definition: the use of artificial tissues, organs, or organ components to replace damaged or absent parts of the body.
+        - pronunciation: /ˌbaɪ.əʊˌɛn.dʒɪˈnɪə.rɪŋ/
+        - part of speech: noun
+        - examples:
+          - Bioengineering can create artificial organs.
+          - She studied bioengineering in college.
+        - synonyms: biomedical engineering
+        - antonyms: -
+        - related words: bioengineer, biological
+      - synthetic biology
+        - definition: an interdisciplinary branch combining biology and engineering.
+        - pronunciation: /sɪnˈθɛt.ɪk baɪˈɒl.ə.dʒi/
+        - part of speech: noun
+        - examples:
+          - Synthetic biology designs new biological parts.
+          - They work in synthetic biology to develop biofuels.
+        - synonyms: artificial biology
+        - antonyms: natural biology
+        - related words: synthesis, synthetic
+    - Nanotechnology
+      - nanoparticle
+        - definition: a microscopic particle whose size is measured in nanometers.
+        - pronunciation: /ˈnæn.əʊˌpɑː.tɪ.kəl/
+        - part of speech: noun
+        - examples:
+          - Nanoparticles can deliver drugs to specific cells.
+          - They are studying the effects of nanoparticles.
+        - synonyms: ultrafine particle
+        - antonyms: macro particle
+        - related words: nanometer, nano-
+      - nanobot
+        - definition: a robot whose components are at or close to the scale of a nanometer.
+        - pronunciation: /ˈnæn.əʊ.bɒt/
+        - part of speech: noun
+        - examples:
+          - Nanobots might repair cells from within.
+          - Future medicine may involve nanobots.
+        - synonyms: nanorobot
+        - antonyms: macro robot
+        - related words: nanorobotics, nanotechnology
+      - self-assembly
+        - definition: a process in which a disordered system forms an organized structure.
+        - pronunciation: /sɛlf əˈsɛm.bli/
+        - part of speech: noun
+        - examples:
+          - Self-assembly is crucial in nanotechnology.
+          - Molecules can undergo self-assembly.
+        - synonyms: self-organization
+        - antonyms: disassembly
+        - related words: assemble, assembly
+      - nanomaterials
+        - definition: materials with structural components smaller than 100 nanometers.
+        - pronunciation: /ˈnæn.əʊ.məˌtɪə.ri.əlz/
+        - part of speech: noun
+        - examples:
+          - Nanomaterials have unique properties.
+          - They use nanomaterials in electronics.
+        - synonyms: nanostructures
+        - antonyms: bulk materials
+        - related words: materials science, nanostructure
+      - quantum dot
+        - definition: a semiconductor whose excitons are confined in all three spatial dimensions.
+        - pronunciation: /ˈkwɒn.təm dɒt/
+        - part of speech: noun
+        - examples:
+          - Quantum dots are used in display screens.
+          - They studied the properties of quantum dots.
+        - synonyms: artificial atom
+        - antonyms: -
+        - related words: quantum mechanics, dot
+    - Quantum Computing
+      - qubit
+        - definition: the basic unit of quantum information.
+        - pronunciation: /ˈkjuː.bɪt/
+        - part of speech: noun
+        - examples:
+          - A qubit can represent both 0 and 1 simultaneously.
+          - Quantum computers use qubits instead of bits.
+        - synonyms: quantum bit
+        - antonyms: bit
+        - related words: quantum computing, superposition
+      - superposition
+        - definition: the ability of a quantum system to be in multiple states at the same time.
+        - pronunciation: /ˌsuː.pə.pəˈzɪʃ.ən/
+        - part of speech: noun
+        - examples:
+          - Superposition is a key principle in quantum mechanics.
+          - Qubits rely on superposition to process data.
+        - synonyms: overlay, coexistence
+        - antonyms: singularity
+        - related words: quantum state, overlapping
+      - entanglement
+        - definition: a phenomenon where particles remain connected so that the state of one affects the other.
+        - pronunciation: /ɪnˈtæŋ.ɡəl.mənt/
+        - part of speech: noun
+        - examples:
+          - Quantum entanglement defies classical physics.
+          - They observed entanglement between particles.
+        - synonyms: interconnection
+        - antonyms: independence
+        - related words: entangle, tangled
+      - decoherence
+        - definition: the loss of quantum coherence, leading to classical behavior.
+        - pronunciation: /ˌdiː.kəʊˈhɪə.rəns/
+        - part of speech: noun
+        - examples:
+          - Decoherence is a challenge in quantum computing.
+          - Researchers work to minimize decoherence effects.
+        - synonyms: loss of coherence
+        - antonyms: coherence
+        - related words: coherence, coherent
+      - quantum supremacy
+        - definition: the point where quantum computers can solve problems that classical computers cannot.
+        - pronunciation: /ˈkwɒn.təm suːˈprɛm.ə.si/
+        - part of speech: noun
+        - examples:
+          - Achieving quantum supremacy is a major goal.
+          - They claimed quantum supremacy with their latest processor.
+        - synonyms: quantum advantage
+        - antonyms: classical computing
+        - related words: supremacy, quantum
+    - Virtual Reality & Augmented Reality
+      - virtual reality
+        - definition: computer-generated simulation of a three-dimensional image or environment.
+        - pronunciation: /ˈvɜː.tʃu.əl riˈæl.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Virtual reality games are becoming popular.
+          - She explored the virtual reality environment.
+        - synonyms: VR
+        - antonyms: actual reality
+        - related words: headset, simulation
+      - augmented reality
+        - definition: technology that overlays digital information on the real world.
+        - pronunciation: /ɔːɡˈmɛnt.ɪd riˈæl.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Augmented reality apps can enhance learning.
+          - They used augmented reality to display information.
+        - synonyms: AR
+        - antonyms: virtual reality
+        - related words: augment, overlay
+      - immersion
+        - definition: deep mental involvement in something.
+        - pronunciation: /ɪˈmɜː.ʃən/
+        - part of speech: noun
+        - examples:
+          - Immersion is key to the virtual reality experience.
+          - The game provides complete immersion.
+        - synonyms: absorption, engagement
+        - antonyms: distraction
+        - related words: immerse, immersive
+      - haptic feedback
+        - definition: the use of touch sensation to communicate with users.
+        - pronunciation: /ˈhæp.tɪk ˈfiːd.bæk/
+        - part of speech: noun
+        - examples:
+          - The controller offers haptic feedback.
+          - Haptic feedback enhances virtual reality.
+        - synonyms: tactile feedback
+        - antonyms: -
+        - related words: haptics, tactile
+      - simulation
+        - definition: imitation of a situation or process.
+        - pronunciation: /ˌsɪm.jʊˈleɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - They use simulation for training pilots.
+          - The simulation mimics real-world physics.
+        - synonyms: imitation, model
+        - antonyms: reality
+        - related words: simulate, simulator
+    - Cybersecurity
+      - encryption
+        - definition: the process of converting information into code to prevent unauthorized access.
+        - pronunciation: /ɪnˈkrɪp.ʃən/
+        - part of speech: noun
+        - examples:
+          - Encryption protects sensitive data.
+          - They use strong encryption algorithms.
+        - synonyms: coding, ciphering
+        - antonyms: decryption
+        - related words: encrypt, encrypted
+      - firewall
+        - definition: a network security system that monitors and controls incoming and outgoing network traffic.
+        - pronunciation: /ˈfaɪə.wɔːl/
+        - part of speech: noun
+        - examples:
+          - The firewall blocks unauthorized access.
+          - He installed a firewall on his computer.
+        - synonyms: security barrier
+        - antonyms: open access
+        - related words: security, network
+      - malware
+        - definition: software designed to disrupt or damage a computer system.
+        - pronunciation: /ˈmæl.weər/
+        - part of speech: noun
+        - examples:
+          - Malware infected the network.
+          - Anti-malware programs can detect threats.
+        - synonyms: virus, malicious software
+        - antonyms: legitimate software
+        - related words: spyware, ransomware
+      - phishing
+        - definition: the fraudulent practice of sending emails to induce individuals to reveal personal information.
+        - pronunciation: /ˈfɪʃ.ɪŋ/
+        - part of speech: noun
+        - examples:
+          - Phishing scams target bank customers.
+          - They received a phishing email.
+        - synonyms: fraud, scamming
+        - antonyms: legitimate communication
+        - related words: phish, phisher
+      - breach
+        - definition: an act of breaking or failing to observe a law or agreement; a gap in security.
+        - pronunciation: /briːtʃ/
+        - part of speech: noun, verb
+        - examples:
+          - The company suffered a data breach.
+          - Hackers breached the system.
+        - synonyms: violation, infringement
+        - antonyms: compliance, security
+        - related words: breached, breaching
+    - Internet of Things (IoT)
+      - smart device
+        - definition: an electronic device connected to other devices or networks via different wireless protocols.
+        - pronunciation: /smɑːt dɪˈvaɪs/
+        - part of speech: noun
+        - examples:
+          - He controls his lights with a smart device.
+          - Smart devices can communicate with each other.
+        - synonyms: connected device
+        - antonyms: dumb device
+        - related words: smartphone, smart home
+      - connectivity
+        - definition: the state of being connected or interconnected.
+        - pronunciation: /kəˌnɛkˈtɪv.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Connectivity issues can disrupt services.
+          - The device offers wireless connectivity.
+        - synonyms: link, connection
+        - antonyms: disconnection
+        - related words: connect, connected
+      - automation
+        - definition: the use of automatic equipment in a system of operation.
+        - pronunciation: /ˌɔː.təˈmeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Home automation makes life convenient.
+          - Automation reduces manual tasks.
+        - synonyms: mechanization
+        - antonyms: manual control
+        - related words: automate, automatic
+      - sensor network
+        - definition: a group of spatially dispersed sensors for monitoring conditions.
+        - pronunciation: /ˈsɛn.sər ˈnɛt.wɜːk/
+        - part of speech: noun
+        - examples:
+          - The sensor network detects temperature changes.
+          - They set up a sensor network in the building.
+        - synonyms: sensing grid
+        - antonyms: isolated sensors
+        - related words: network, sensing
+      - interoperability
+        - definition: the ability of computer systems to exchange and make use of information.
+        - pronunciation: /ˌɪn.tərˌɒp.ər.əˈbɪl.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Interoperability is crucial for IoT devices.
+          - They ensure interoperability between systems.
+        - synonyms: compatibility, connectivity
+        - antonyms: incompatibility
+        - related words: interoperable

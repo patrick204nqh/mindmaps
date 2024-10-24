@@ -1,0 +1,499 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- B2
+  - Art & Literature
+    - Visual Arts
+      - painting
+        - definition: the art or process of applying paints to a surface.
+        - pronunciation: /ˈpeɪn.tɪŋ/
+        - part of speech: noun
+        - examples:
+          - She studied painting at the art academy.
+          - His painting was exhibited in the gallery.
+        - synonyms: artwork, picture
+        - antonyms: sculpture
+        - related words: painter, paint, canvas
+      - sculpture
+        - definition: the art of making two- or three-dimensional representative or abstract forms.
+        - pronunciation: /ˈskʌlp.tʃər/
+        - part of speech: noun
+        - examples:
+          - The museum has a new sculpture on display.
+          - She enjoys working with clay in her sculpture class.
+        - synonyms: statue, carving
+        - antonyms: painting
+        - related words: sculptor, sculpt, sculptural
+      - exhibition
+        - definition: a public display of works of art or items of interest.
+        - pronunciation: /ˌɛk.sɪˈbɪʃ.ən/
+        - part of speech: noun
+        - examples:
+          - They visited the art exhibition last weekend.
+          - The exhibition features works by local artists.
+        - synonyms: display, show
+        - antonyms: -
+        - related words: exhibit, exhibitor
+      - canvas
+        - definition: a strong, heavy cloth used for painting.
+        - pronunciation: /ˈkæn.vəs/
+        - part of speech: noun
+        - examples:
+          - The artist stretched a new canvas for her painting.
+          - He painted a landscape on a large canvas.
+        - synonyms: painting surface
+        - antonyms: paper
+        - related words: canvases, canvas bag
+      - portrait
+        - definition: a painting, drawing, or photograph of a person.
+        - pronunciation: /ˈpɔː.trət/
+        - part of speech: noun
+        - examples:
+          - She commissioned a portrait of her family.
+          - The portrait captures his expression perfectly.
+        - synonyms: likeness, depiction
+        - antonyms: landscape
+        - related words: portrayal, portray
+      - abstract
+        - definition: art that does not attempt to represent reality.
+        - pronunciation: /ˈæb.strækt/
+        - part of speech: adjective, noun
+        - examples:
+          - He creates abstract paintings using bold colors.
+          - Abstract art can evoke various emotions.
+        - synonyms: nonrepresentational, conceptual
+        - antonyms: realistic
+        - related words: abstraction, abstractly
+      - easel
+        - definition: a wooden frame for holding an artist's work while it is being painted or drawn.
+        - pronunciation: /ˈiː.zəl/
+        - part of speech: noun
+        - examples:
+          - She set up her easel in the park to paint.
+          - The easel holds the canvas steady.
+        - synonyms: stand, support
+        - antonyms: -
+        - related words: -
+      - palette
+        - definition: a board or surface on which an artist mixes paints.
+        - pronunciation: /ˈpæl.ət/
+        - part of speech: noun
+        - examples:
+          - The painter's palette was covered with colors.
+          - She used a limited palette for this piece.
+        - synonyms: color board
+        - antonyms: -
+        - related words: palette knife
+    - Literature Genres
+      - novel
+        - definition: a long written story, usually about imaginary characters and events.
+        - pronunciation: /ˈnɒv.əl/
+        - part of speech: noun
+        - examples:
+          - She is reading a historical novel.
+          - He wrote his first novel at age twenty.
+        - synonyms: book, fiction
+        - antonyms: short story
+        - related words: novelist, novella
+      - poetry
+        - definition: literary work in which the expression of feelings and ideas is given intensity by distinctive style and rhythm.
+        - pronunciation: /ˈpəʊ.ɪ.tri/
+        - part of speech: noun
+        - examples:
+          - He recited poetry at the event.
+          - Poetry can convey emotions powerfully.
+        - synonyms: verse, poems
+        - antonyms: prose
+        - related words: poet, poetic
+      - drama
+        - definition: a play for theater, radio, or television.
+        - pronunciation: /ˈdrɑː.mə/
+        - part of speech: noun
+        - examples:
+          - The drama was performed by a local troupe.
+          - She has a passion for studying drama.
+        - synonyms: play, performance
+        - antonyms: comedy
+        - related words: dramatic, dramatist
+      - fiction
+        - definition: literature that describes imaginary events and people.
+        - pronunciation: /ˈfɪk.ʃən/
+        - part of speech: noun
+        - examples:
+          - She prefers fiction over non-fiction books.
+          - Fiction allows readers to explore new worlds.
+        - synonyms: storytelling, narrative
+        - antonyms: non-fiction
+        - related words: fictional, fictitious
+      - autobiography
+        - definition: an account of a person's life written by that person.
+        - pronunciation: /ˌɔː.tə.baɪˈɒɡ.rə.fi/
+        - part of speech: noun
+        - examples:
+          - He published his autobiography last year.
+          - Her autobiography details her journey to success.
+        - synonyms: memoir, self-history
+        - antonyms: biography
+        - related words: autobiographical
+      - satire
+        - definition: the use of humor or irony to criticize people's stupidity.
+        - pronunciation: /ˈsæ.taɪər/
+        - part of speech: noun
+        - examples:
+          - The novel is a satire of political life.
+          - Satire can be an effective tool for social commentary.
+        - synonyms: parody, lampoon
+        - antonyms: homage
+        - related words: satirical, satirist
+      - mythology
+        - definition: a collection of myths, especially one belonging to a particular religious or cultural tradition.
+        - pronunciation: /mɪˈθɒl.ə.dʒi/
+        - part of speech: noun
+        - examples:
+          - She is fascinated by Greek mythology.
+          - Mythology often explains natural phenomena.
+        - synonyms: folklore, legends
+        - antonyms: history
+        - related words: myth, mythological
+    - Literary Devices
+      - metaphor
+        - definition: a figure of speech that refers to one thing by mentioning another.
+        - pronunciation: /ˈmɛt.ə.fɔːr/
+        - part of speech: noun
+        - examples:
+          - The poet uses a river as a metaphor for life.
+          - "Time is a thief" is an example of a metaphor.
+        - synonyms: analogy, symbol
+        - antonyms: literal expression
+        - related words: metaphoric, metaphorical
+      - simile
+        - definition: a figure of speech involving the comparison of one thing with another using "like" or "as".
+        - pronunciation: /ˈsɪm.ɪ.li/
+        - part of speech: noun
+        - examples:
+          - "Her smile was as bright as the sun" is a simile.
+          - Writers often use similes to create vivid images.
+        - synonyms: comparison
+        - antonyms: metaphor (in a way)
+        - related words: -
+      - irony
+        - definition: the expression of meaning by using language that signifies the opposite.
+        - pronunciation: /ˈaɪ.rə.ni/
+        - part of speech: noun
+        - examples:
+          - There is irony in the fact that the fire station burned down.
+          - The story is filled with dramatic irony.
+        - synonyms: sarcasm, paradox
+        - antonyms: sincerity
+        - related words: ironic, ironically
+      - alliteration
+        - definition: the occurrence of the same letter or sound at the beginning of adjacent words.
+        - pronunciation: /əˌlɪt.əˈreɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - "Peter Piper picked a peck of pickled peppers" is an alliteration.
+          - Poets use alliteration to create rhythm.
+        - synonyms: initial rhyme
+        - antonyms: -
+        - related words: alliterate
+      - symbolism
+        - definition: the use of symbols to represent ideas or qualities.
+        - pronunciation: /ˈsɪm.bə.lɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - The dove is a symbolism of peace.
+          - Symbolism adds depth to literary works.
+        - synonyms: representation, emblem
+        - antonyms: literalness
+        - related words: symbol, symbolic
+      - hyperbole
+        - definition: exaggerated statements not meant to be taken literally.
+        - pronunciation: /haɪˈpɜː.bəl.i/
+        - part of speech: noun
+        - examples:
+          - "I'm so hungry I could eat a horse" is hyperbole.
+          - Authors use hyperbole for emphasis.
+        - synonyms: exaggeration, overstatement
+        - antonyms: understatement
+        - related words: hyperbolic
+      - personification
+        - definition: the attribution of human characteristics to something non-human.
+        - pronunciation: /pəˌsɒn.ɪ.fɪˈkeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - "The wind whispered through the trees" is personification.
+          - Personification makes descriptions more vivid.
+        - synonyms: embodiment, anthropomorphism
+        - antonyms: -
+        - related words: personify, personified
+    - Art Movements
+      - impressionism
+        - definition: a style of painting that captures the visual impression of the moment.
+        - pronunciation: /ɪmˈprɛʃ.ən.ɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Impressionism focuses on light and movement.
+          - Monet is a famous impressionist painter.
+        - synonyms: -
+        - antonyms: realism
+        - related words: impressionist, impressionistic
+      - surrealism
+        - definition: an artistic movement emphasizing the imagination and characterized by incongruous juxtapositions.
+        - pronunciation: /səˈriː.ə.lɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Surrealism explores the unconscious mind.
+          - Dalí's works are iconic in surrealism.
+        - synonyms: dreamlike art
+        - antonyms: realism
+        - related words: surreal, surrealist
+      - cubism
+        - definition: an art movement where objects are broken up and reassembled in abstracted form.
+        - pronunciation: /ˈkjuː.bɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Picasso is a pioneer of cubism.
+          - Cubism presents subjects from multiple viewpoints.
+        - synonyms: abstract art
+        - antonyms: naturalism
+        - related words: cubist
+      - expressionism
+        - definition: a style of painting where the artist seeks to express emotional experience.
+        - pronunciation: /ɪkˈsprɛʃ.ən.ɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Expressionism emphasizes the artist's inner feelings.
+          - The painting is a key piece of expressionism.
+        - synonyms: emotive art
+        - antonyms: impressionism
+        - related words: expressionist, expressionistic
+    - Criticism & Analysis
+      - critique
+        - definition: a detailed analysis and assessment of something.
+        - pronunciation: /krɪˈtiːk/
+        - part of speech: noun, verb
+        - examples:
+          - The critic wrote a critique of the novel.
+          - She was asked to critique the performance.
+        - synonyms: evaluation, review
+        - antonyms: praise
+        - related words: critical, criticism
+      - interpretation
+        - definition: the action of explaining the meaning of something.
+        - pronunciation: /ɪnˌtɜː.prɪˈteɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - His interpretation of the poem was insightful.
+          - Different readers may have various interpretations.
+        - synonyms: explanation, understanding
+        - antonyms: misunderstanding
+        - related words: interpret, interpretive
+      - theme
+        - definition: the central topic or idea explored in a text.
+        - pronunciation: /θiːm/
+        - part of speech: noun
+        - examples:
+          - The theme of the story is friendship.
+          - Common themes include love and betrayal.
+        - synonyms: subject, motif
+        - antonyms: -
+        - related words: thematic, thematically
+      - narrative
+        - definition: a spoken or written account of connected events; a story.
+        - pronunciation: /ˈnær.ə.tɪv/
+        - part of speech: noun, adjective
+        - examples:
+          - The narrative is told from the protagonist's perspective.
+          - Narrative techniques vary among authors.
+        - synonyms: story, tale
+        - antonyms: -
+        - related words: narrate, narrator
+      - analysis
+        - definition: detailed examination of elements or structure of something.
+        - pronunciation: /əˈnæl.ə.sɪs/
+        - part of speech: noun
+        - examples:
+          - The analysis of the text revealed deeper meanings.
+          - Literary analysis helps understand the author's intent.
+        - synonyms: examination, study
+        - antonyms: synthesis
+        - related words: analyze, analytical
+    - Publishing & Book Industry
+      - manuscript
+        - definition: a handwritten or typed document before publication.
+        - pronunciation: /ˈmæn.jʊ.skrɪpt/
+        - part of speech: noun
+        - examples:
+          - The author submitted the manuscript to several publishers.
+          - The ancient manuscript was discovered in a cave.
+        - synonyms: draft, text
+        - antonyms: published book
+        - related words: scriptorium, script
+      - editor
+        - definition: a person who prepares written material for publication.
+        - pronunciation: /ˈɛd.ɪ.tər/
+        - part of speech: noun
+        - examples:
+          - The editor suggested revisions to the article.
+          - She works as an editor at a publishing house.
+        - synonyms: reviser, redactor
+        - antonyms: author
+        - related words: edit, editorial
+      - publication
+        - definition: the act of making content available to the public.
+        - pronunciation: /ˌpʌb.lɪˈkeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - The publication of his book was delayed.
+          - She has several publications in scientific journals.
+        - synonyms: release, issuance
+        - antonyms: suppression
+        - related words: publish, publisher
+      - copyright
+        - definition: the legal right granted to an originator for protection of their work.
+        - pronunciation: /ˈkɒp.i.raɪt/
+        - part of speech: noun, verb
+        - examples:
+          - They secured copyright for their new software.
+          - Copying the material without permission infringes copyright.
+        - synonyms: intellectual property
+        - antonyms: public domain
+        - related words: copy, rights
+      - genre
+        - definition: a category of artistic composition with similarities in form or style.
+        - pronunciation: /ˈʒɒ̃.rə/
+        - part of speech: noun
+        - examples:
+          - Science fiction is a popular genre.
+          - The film combines elements of different genres.
+        - synonyms: category, type
+        - antonyms: -
+        - related words: generic, genrefication
+    - Artists & Writers
+      - author
+        - definition: a writer of a book, article, or document.
+        - pronunciation: /ˈɔː.θər/
+        - part of speech: noun, verb
+        - examples:
+          - She is the author of several mystery novels.
+          - He authored a groundbreaking study.
+        - synonyms: writer, creator
+        - antonyms: reader
+        - related words: authority, authoritative
+      - illustrator
+        - definition: a person who draws or creates pictures for books or magazines.
+        - pronunciation: /ˈɪl.ə.streɪ.tər/
+        - part of speech: noun
+        - examples:
+          - The illustrator's drawings enhanced the story.
+          - She works as a children's book illustrator.
+        - synonyms: artist, drawer
+        - antonyms: -
+        - related words: illustrate, illustration
+      - poet
+        - definition: a person who writes poems.
+        - pronunciation: /ˈpəʊ.ɪt/
+        - part of speech: noun
+        - examples:
+          - The poet read his work at the festival.
+          - She is a celebrated poet in her country.
+        - synonyms: versifier, bard
+        - antonyms: prose writer
+        - related words: poetry, poetic
+      - playwright
+        - definition: a person who writes plays.
+        - pronunciation: /ˈpleɪ.raɪt/
+        - part of speech: noun
+        - examples:
+          - The playwright attended the premiere.
+          - He is a renowned playwright and director.
+        - synonyms: dramatist, scriptwriter
+        - antonyms: actor
+        - related words: playwriting, dramaturgy
+      - critic
+        - definition: a person who judges the merits of literary or artistic works.
+        - pronunciation: /ˈkrɪt.ɪk/
+        - part of speech: noun
+        - examples:
+          - The critic praised the novel for its originality.
+          - She is a film critic for a major newspaper.
+        - synonyms: reviewer, commentator
+        - antonyms: supporter
+        - related words: critical, criticism
+    - Artistic Techniques
+      - perspective
+        - definition: the art of representing three-dimensional objects on a two-dimensional surface.
+        - pronunciation: /pəˈspɛk.tɪv/
+        - part of speech: noun
+        - examples:
+          - Learning perspective improves drawing skills.
+          - The artist used perspective to create depth.
+        - synonyms: viewpoint, angle
+        - antonyms: flatness
+        - related words: perspectival
+      - composition
+        - definition: the arrangement of elements in a work of art.
+        - pronunciation: /ˌkɒm.pəˈzɪʃ.ən/
+        - part of speech: noun
+        - examples:
+          - The composition of the painting is balanced.
+          - She studies composition in art school.
+        - synonyms: arrangement, layout
+        - antonyms: disorganization
+        - related words: compose, composer
+      - shading
+        - definition: the technique of representing light and shade.
+        - pronunciation: /ˈʃeɪ.dɪŋ/
+        - part of speech: noun
+        - examples:
+          - Shading adds dimension to drawings.
+          - He practiced shading techniques with pencils.
+        - synonyms: shadowing, toning
+        - antonyms: highlighting
+        - related words: shade, shadow
+      - collage
+        - definition: an artistic composition made by pasting various materials on a single surface.
+        - pronunciation: /ˈkɒl.ɑːʒ/
+        - part of speech: noun
+        - examples:
+          - She created a collage from magazine cutouts.
+          - Collage allows for creative expression.
+        - synonyms: assemblage, montage
+        - antonyms: -
+        - related words: collagist
+      - engraving
+        - definition: the art of cutting designs onto a hard surface.
+        - pronunciation: /ɪnˈɡreɪ.vɪŋ/
+        - part of speech: noun
+        - examples:
+          - The engraving on the silver plate was exquisite.
+          - Engraving requires attention to detail.
+        - synonyms: etching, carving
+        - antonyms: embossing
+        - related words: engrave, engraver
+      - brushstroke
+        - definition: the mark made by a paintbrush drawn across a surface.
+        - pronunciation: /ˈbrʌʃ.strəʊk/
+        - part of speech: noun
+        - examples:
+          - The artist's brushstrokes are bold and expressive.
+          - Each brushstroke contributes to the overall effect.
+        - synonyms: stroke, mark
+        - antonyms: -
+        - related words: brush, stroke
+      - medium
+        - definition: the material or form used by an artist.
+        - pronunciation: /ˈmiː.di.əm/
+        - part of speech: noun
+        - examples:
+          - Oil paint is her preferred medium.
+          - Artists experiment with different media.
+        - synonyms: material, vehicle
+        - antonyms: -
+        - related words: media (plural), mixed media

@@ -1,0 +1,479 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- B2
+  - Media & Entertainment
+    - Television & Film
+      - broadcast
+        - definition: transmit a program or some information by radio or television.
+        - pronunciation: /ˈbrɔːd.kɑːst/
+        - part of speech: verb, noun
+        - examples:
+          - The show will be broadcast live tomorrow evening.
+          - They broadcast the news every hour.
+        - synonyms: air, transmit
+        - antonyms: receive
+        - related words: broadcaster, broadcasting
+      - episode
+        - definition: a part of a television or radio series that is broadcast separately.
+        - pronunciation: /ˈɛp.ɪ.səʊd/
+        - part of speech: noun
+        - examples:
+          - Did you watch the latest episode of the series?
+          - The final episode will air next week.
+        - synonyms: installment, part
+        - antonyms: -
+        - related words: episodic, series
+      - documentary
+        - definition: a non-fiction film or television program that provides a factual report.
+        - pronunciation: /ˌdɒk.jʊˈmɛn.tər.i/
+        - part of speech: noun, adjective
+        - examples:
+          - The documentary explores the effects of climate change.
+          - She prefers watching documentaries to dramas.
+        - synonyms: factual program, docudrama
+        - antonyms: fiction
+        - related words: document, documentation
+      - script
+        - definition: the written text of a play, film, or broadcast.
+        - pronunciation: /skrɪpt/
+        - part of speech: noun
+        - examples:
+          - The actors rehearsed the script before filming.
+          - He wrote the script for the new movie.
+        - synonyms: screenplay, dialogue
+        - antonyms: improvisation
+        - related words: scriptwriter, scripted
+      - director
+        - definition: a person who supervises the actors and directs the action in the production of a show.
+        - pronunciation: /dɪˈrɛk.tər/
+        - part of speech: noun
+        - examples:
+          - The director won an award for the film.
+          - She is a famous theater director.
+        - synonyms: filmmaker, producer
+        - antonyms: actor
+        - related words: direct, direction
+      - audience
+        - definition: the assembled spectators or listeners at an event.
+        - pronunciation: /ˈɔː.di.əns/
+        - part of speech: noun
+        - examples:
+          - The audience applauded at the end of the performance.
+          - The show attracted a large television audience.
+        - synonyms: spectators, viewers
+        - antonyms: performers
+        - related words: auditorium, audible
+      - genre
+        - definition: a category of artistic composition characterized by similarities in form or style.
+        - pronunciation: /ˈʒɒ̃.rə/
+        - part of speech: noun
+        - examples:
+          - She enjoys films in the horror genre.
+          - The book falls into the science fiction genre.
+        - synonyms: category, type
+        - antonyms: -
+        - related words: generic, genrefication
+    - Music Industry
+      - album
+        - definition: a collection of recordings issued as a single item on CD, record, or another medium.
+        - pronunciation: /ˈæl.bəm/
+        - part of speech: noun
+        - examples:
+          - The band released a new album last month.
+          - She listened to the entire album in one sitting.
+        - synonyms: record, compilation
+        - antonyms: single
+        - related words: musician, release
+      - concert
+        - definition: a musical performance given in public.
+        - pronunciation: /ˈkɒn.sɜːt/
+        - part of speech: noun
+        - examples:
+          - They attended a live concert last night.
+          - The concert tickets sold out quickly.
+        - synonyms: performance, gig
+        - antonyms: rehearsal
+        - related words: concerto, concerted
+      - chart
+        - definition: a weekly listing of the current bestselling songs or albums.
+        - pronunciation: /tʃɑːt/
+        - part of speech: noun, verb
+        - examples:
+          - The song reached number one on the charts.
+          - The band's new single is charting worldwide.
+        - synonyms: ranking, hit list
+        - antonyms: -
+        - related words: chart-topper, charting
+      - lyric
+        - definition: the words of a song.
+        - pronunciation: /ˈlɪr.ɪk/
+        - part of speech: noun, adjective
+        - examples:
+          - She wrote the lyrics for the song.
+          - The lyrics are very meaningful.
+        - synonyms: words, text
+        - antonyms: melody
+        - related words: lyrical, lyricist
+      - rehearsal
+        - definition: a practice or trial performance of a play or other work for later public performance.
+        - pronunciation: /rɪˈhɜː.səl/
+        - part of speech: noun
+        - examples:
+          - They had a rehearsal before the concert.
+          - The actors attended a dress rehearsal.
+        - synonyms: practice, run-through
+        - antonyms: performance
+        - related words: rehearse, rehearsing
+      - orchestra
+        - definition: a group of instrumentalists playing together.
+        - pronunciation: /ˈɔː.kɪ.strə/
+        - part of speech: noun
+        - examples:
+          - The orchestra played beautifully.
+          - She is a violinist in the orchestra.
+        - synonyms: band, ensemble
+        - antonyms: soloist
+        - related words: orchestral, orchestrate
+    - Journalism & Publishing
+      - headline
+        - definition: a heading at the top of an article or page in a newspaper or magazine.
+        - pronunciation: /ˈhɛd.laɪn/
+        - part of speech: noun
+        - examples:
+          - The headline grabbed the reader's attention.
+          - She writes headlines for the local newspaper.
+        - synonyms: title, heading
+        - antonyms: -
+        - related words: headliner, headlining
+      - article
+        - definition: a piece of writing included with others in a newspaper or magazine.
+        - pronunciation: /ˈɑː.tɪ.kəl/
+        - part of speech: noun
+        - examples:
+          - He wrote an article about climate change.
+          - The magazine features several interesting articles.
+        - synonyms: piece, essay
+        - antonyms: -
+        - related words: articulate, articulation
+      - editor
+        - definition: a person who is in charge of and determines the final content of a text.
+        - pronunciation: /ˈɛd.ɪ.tər/
+        - part of speech: noun
+        - examples:
+          - The editor reviewed the manuscript.
+          - She works as an editor for a publishing company.
+        - synonyms: reviser, redactor
+        - antonyms: author
+        - related words: editorial, edit
+      - journalist
+        - definition: a person who writes for newspapers, magazines, or news websites.
+        - pronunciation: /ˈdʒɜː.nə.lɪst/
+        - part of speech: noun
+        - examples:
+          - The journalist conducted an interview.
+          - She is a freelance journalist.
+        - synonyms: reporter, correspondent
+        - antonyms: -
+        - related words: journalism, journalistic
+      - publish
+        - definition: prepare and issue a book or other material for public sale.
+        - pronunciation: /ˈpʌb.lɪʃ/
+        - part of speech: verb
+        - examples:
+          - The author will publish her new novel next month.
+          - They publish a daily newspaper.
+        - synonyms: issue, release
+        - antonyms: suppress
+        - related words: publisher, publication
+      - circulation
+        - definition: the number of copies sold of a newspaper or magazine.
+        - pronunciation: /ˌsɜː.kjʊˈleɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - The newspaper has a large circulation.
+          - They aim to increase their circulation figures.
+        - synonyms: distribution, readership
+        - antonyms: -
+        - related words: circulate, circulatory
+    - Social Media
+      - platform
+        - definition: a digital service or site that enables social interaction and content sharing.
+        - pronunciation: /ˈplæt.fɔːm/
+        - part of speech: noun
+        - examples:
+          - She uses several social media platforms.
+          - The app is a popular platform for influencers.
+        - synonyms: forum, medium
+        - antonyms: -
+        - related words: plat, form
+      - viral
+        - definition: relating to a piece of content that becomes popular quickly through sharing.
+        - pronunciation: /ˈvaɪə.rəl/
+        - part of speech: adjective
+        - examples:
+          - The video went viral overnight.
+          - They hope their campaign will become viral.
+        - synonyms: widespread, popular
+        - antonyms: obscure
+        - related words: virus, virality
+      - influencer
+        - definition: a person with the ability to influence potential buyers through social media.
+        - pronunciation: /ˈɪn.flu.ən.sər/
+        - part of speech: noun
+        - examples:
+          - Brands collaborate with influencers for marketing.
+          - She became a fashion influencer.
+        - synonyms: trendsetter, tastemaker
+        - antonyms: follower
+        - related words: influence, influential
+      - engagement
+        - definition: interaction between a user and content on social media.
+        - pronunciation: /ɪnˈɡeɪdʒ.mənt/
+        - part of speech: noun
+        - examples:
+          - High engagement rates indicate audience interest.
+          - They measure engagement through likes and comments.
+        - synonyms: interaction, involvement
+        - antonyms: disengagement
+        - related words: engage, engaging
+      - hashtag
+        - definition: a word or phrase preceded by a hash sign used to identify messages on a specific topic.
+        - pronunciation: /ˈhæʃ.tæɡ/
+        - part of speech: noun
+        - examples:
+          - She added a hashtag to increase visibility.
+          - The hashtag became trending worldwide.
+        - synonyms: tag, label
+        - antonyms: -
+        - related words: hash, tag
+      - content
+        - definition: information made available by a website or other electronic medium.
+        - pronunciation: /ˈkɒn.tɛnt/
+        - part of speech: noun
+        - examples:
+          - He creates digital content for a living.
+          - Quality content attracts more followers.
+        - synonyms: material, information
+        - antonyms: -
+        - related words: contain, context
+    - Advertising & Marketing
+      - campaign
+        - definition: an organized course of action to promote a product or service.
+        - pronunciation: /kæmˈpeɪn/
+        - part of speech: noun, verb
+        - examples:
+          - The advertising campaign was successful.
+          - They launched a new marketing campaign.
+        - synonyms: drive, effort
+        - antonyms: -
+        - related words: campaigner, campaigning
+      - target audience
+        - definition: a particular group at which a product or message is aimed.
+        - pronunciation: /ˈtɑː.ɡɪt ˈɔː.di.əns/
+        - part of speech: noun phrase
+        - examples:
+          - They identified teenagers as their target audience.
+          - The campaign was designed for the target audience.
+        - synonyms: intended audience, market segment
+        - antonyms: -
+        - related words: target market, audience analysis
+      - slogan
+        - definition: a short and striking or memorable phrase used in advertising.
+        - pronunciation: /ˈsləʊ.ɡən/
+        - part of speech: noun
+        - examples:
+          - The company is known for its catchy slogan.
+          - They created a new slogan for the product.
+        - synonyms: catchphrase, motto
+        - antonyms: -
+        - related words: sloganeering
+      - brand
+        - definition: a type of product manufactured by a particular company under a particular name.
+        - pronunciation: /brænd/
+        - part of speech: noun
+        - examples:
+          - She prefers this brand of clothing.
+          - Building a strong brand is essential.
+        - synonyms: label, trademark
+        - antonyms: generic
+        - related words: branding, brand name
+      - endorsement
+        - definition: an act of giving one's public approval or support to someone or something.
+        - pronunciation: /ɪnˈdɔːs.mənt/
+        - part of speech: noun
+        - examples:
+          - The celebrity's endorsement boosted sales.
+          - They seek endorsements from influencers.
+        - synonyms: support, backing
+        - antonyms: criticism
+        - related words: endorse, endorser
+      - commercial
+        - definition: a television or radio advertisement.
+        - pronunciation: /kəˈmɜː.ʃəl/
+        - part of speech: noun, adjective
+        - examples:
+          - The commercial aired during prime time.
+          - They produced a new commercial for the product.
+        - synonyms: ad, advertisement
+        - antonyms: -
+        - related words: commerce, commercially
+    - Gaming Industry
+      - console
+        - definition: a small electronic device for playing video games.
+        - pronunciation: /ˈkɒn.səʊl/
+        - part of speech: noun
+        - examples:
+          - He bought the latest gaming console.
+          - Consoles have become more advanced.
+        - synonyms: game system
+        - antonyms: -
+        - related words: controller, handheld
+      - virtual reality
+        - definition: a computer-generated simulation of a three-dimensional environment.
+        - pronunciation: /ˈvɜː.tʃu.əl riˈæl.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - Virtual reality offers immersive experiences.
+          - They developed a virtual reality game.
+        - synonyms: VR
+        - antonyms: actual reality
+        - related words: augmented reality, simulation
+      - multiplayer
+        - definition: involving several players playing simultaneously.
+        - pronunciation: /ˌmʌl.tiˈpleɪ.ər/
+        - part of speech: adjective
+        - examples:
+          - The game features a multiplayer mode.
+          - They enjoy playing multiplayer online games.
+        - synonyms: cooperative, collaborative
+        - antonyms: single-player
+        - related words: player, gameplay
+      - graphics
+        - definition: visual images produced by computer processing.
+        - pronunciation: /ˈɡræf.ɪks/
+        - part of speech: noun
+        - examples:
+          - The game has impressive graphics.
+          - Graphics have improved with new technology.
+        - synonyms: visuals, imagery
+        - antonyms: text
+        - related words: graphic, graphical
+      - immersive
+        - definition: generating a three-dimensional image which appears to surround the user.
+        - pronunciation: /ɪˈmɜː.sɪv/
+        - part of speech: adjective
+        - examples:
+          - The game provides an immersive experience.
+          - Immersive technology enhances gameplay.
+        - synonyms: engaging, absorbing
+        - antonyms: distracting
+        - related words: immerse, immersion
+    - Performing Arts
+      - choreography
+        - definition: the sequence of steps and movements in dance.
+        - pronunciation: /ˌkɒr.iˈɒɡ.rə.fi/
+        - part of speech: noun
+        - examples:
+          - The choreography was intricate and beautiful.
+          - She studied choreography in college.
+        - synonyms: dance composition
+        - antonyms: improvisation
+        - related words: choreograph, choreographer
+      - audition
+        - definition: an interview for a role consisting of a practical demonstration.
+        - pronunciation: /ɔːˈdɪʃ.ən/
+        - part of speech: noun, verb
+        - examples:
+          - She prepared a monologue for the audition.
+          - Hundreds auditioned for the part.
+        - synonyms: tryout, test
+        - antonyms: -
+        - related words: auditory, audience
+      - playwright
+        - definition: a person who writes plays.
+        - pronunciation: /ˈpleɪ.raɪt/
+        - part of speech: noun
+        - examples:
+          - The playwright is known for his comedies.
+          - She aspires to become a playwright.
+        - synonyms: dramatist, scriptwriter
+        - antonyms: actor
+        - related words: playwriting, play
+      - stagecraft
+        - definition: the skill or experience in writing or staging plays.
+        - pronunciation: /ˈsteɪdʒ.krɑːft/
+        - part of speech: noun
+        - examples:
+          - His knowledge of stagecraft is impressive.
+          - Stagecraft includes lighting and set design.
+        - synonyms: theatrics, dramaturgy
+        - antonyms: -
+        - related words: stage, craftsman
+      - monologue
+        - definition: a long speech by one actor in a play or movie.
+        - pronunciation: /ˈmɒn.ə.lɒɡ/
+        - part of speech: noun
+        - examples:
+          - She delivered a powerful monologue.
+          - The monologue revealed the character's thoughts.
+        - synonyms: soliloquy, speech
+        - antonyms: dialogue
+        - related words: monologic, monologuist
+    - Visual Arts
+      - exhibition
+        - definition: a public display of works of art or items of interest.
+        - pronunciation: /ˌɛk.sɪˈbɪʃ.ən/
+        - part of speech: noun
+        - examples:
+          - The museum is hosting an art exhibition.
+          - She attended the photography exhibition.
+        - synonyms: show, display
+        - antonyms: -
+        - related words: exhibit, exhibitor
+      - curator
+        - definition: a keeper or custodian of a museum or other collection.
+        - pronunciation: /kjʊəˈreɪ.tər/
+        - part of speech: noun
+        - examples:
+          - The curator organized the exhibit.
+          - She works as a curator at the gallery.
+        - synonyms: caretaker, custodian
+        - antonyms: visitor
+        - related words: curate, curatorial
+      - masterpiece
+        - definition: a work of outstanding artistry or skill.
+        - pronunciation: /ˈmɑː.stə.piːs/
+        - part of speech: noun
+        - examples:
+          - The painting is considered a masterpiece.
+          - He spent years working on his masterpiece.
+        - synonyms: chef-d'œuvre, magnum opus
+        - antonyms: dud
+        - related words: master, piece
+      - abstract
+        - definition: art that does not attempt to represent external reality.
+        - pronunciation: /ˈæb.strækt/
+        - part of speech: adjective, noun
+        - examples:
+          - She creates abstract paintings.
+          - Abstract art can be open to interpretation.
+        - synonyms: nonrepresentational, conceptual
+        - antonyms: realistic
+        - related words: abstraction, abstractly
+      - sculpture
+        - definition: the art of making two- or three-dimensional representative or abstract forms.
+        - pronunciation: /ˈskʌlp.tʃər/
+        - part of speech: noun
+        - examples:
+          - The sculpture was made of bronze.
+          - He studied sculpture in art school.
+        - synonyms: statue, carving
+        - antonyms: -
+        - related words: sculpt, sculptor

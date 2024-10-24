@@ -1,0 +1,399 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- B2
+  - Advanced Education
+    - University Life
+      - campus
+        - definition: the grounds and buildings of a university or college.
+        - pronunciation: /ˈkæm.pəs/
+        - part of speech: noun
+        - examples:
+          - The campus is bustling with students during the semester.
+          - She lives on campus to be closer to classes.
+        - synonyms: grounds, premises
+        - antonyms: off-campus
+        - related words: campus life, campus tour
+      - lecture
+        - definition: an educational talk to an audience, especially students.
+        - pronunciation: /ˈlɛk.tʃər/
+        - part of speech: noun, verb
+        - examples:
+          - He attended a lecture on modern art.
+          - The professor will lecture on quantum physics.
+        - synonyms: talk, presentation
+        - antonyms: seminar (in some contexts)
+        - related words: lecturer, lecturing
+      - dormitory
+        - definition: a large bedroom for a number of people in a school or institution.
+        - pronunciation: /ˈdɔː.mɪ.tər.i/
+        - part of speech: noun
+        - examples:
+          - Freshmen usually stay in the dormitory.
+          - The dormitory has strict rules about noise at night.
+        - synonyms: dorm, residence hall
+        - antonyms: apartment
+        - related words: dorm life, dormmate
+      - cafeteria
+        - definition: a restaurant where people collect food and drink from a serving area.
+        - pronunciation: /ˌkæf.ɪˈtɪə.ri.ə/
+        - part of speech: noun
+        - examples:
+          - Students often eat lunch in the cafeteria.
+          - The cafeteria offers a variety of meals.
+        - synonyms: canteen, dining hall
+        - antonyms: restaurant
+        - related words: cafe, catering
+      - enrollment
+        - definition: the action of enrolling or being enrolled.
+        - pronunciation: /ɪnˈrəʊl.mənt/
+        - part of speech: noun
+        - examples:
+          - Enrollment for the new semester begins next week.
+          - The university saw an increase in enrollment.
+        - synonyms: registration, admission
+        - antonyms: withdrawal
+        - related words: enroll, enrolled
+    - Academic Research
+      - thesis
+        - definition: a long essay or dissertation involving personal research.
+        - pronunciation: /ˈθiː.sɪs/
+        - part of speech: noun
+        - examples:
+          - She is writing her master's thesis on renewable energy.
+          - His thesis was well-received by the committee.
+        - synonyms: dissertation, treatise
+        - antonyms: essay (in some contexts)
+        - related words: theses (plural), thesis statement
+      - peer review
+        - definition: evaluation of work by one or more people with similar competencies.
+        - pronunciation: /pɪər rɪˈvjuː/
+        - part of speech: noun
+        - examples:
+          - The article underwent peer review before publication.
+          - Peer review helps ensure the quality of research.
+        - synonyms: evaluation, critique
+        - antonyms: self-assessment
+        - related words: peer-reviewed, reviewer
+      - plagiarism
+        - definition: the practice of taking someone else's work and passing it off as one's own.
+        - pronunciation: /ˈpleɪ.dʒər.ɪ.zəm/
+        - part of speech: noun
+        - examples:
+          - Plagiarism is a serious offense in academia.
+          - He was accused of plagiarism in his essay.
+        - synonyms: copying, infringement
+        - antonyms: originality
+        - related words: plagiarize, plagiarist
+      - citation
+        - definition: a reference to a book, paper, or author in scholarly work.
+        - pronunciation: /saɪˈteɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Proper citation is essential in academic writing.
+          - She included citations for all her sources.
+        - synonyms: reference, quotation
+        - antonyms: -
+        - related words: cite, citing
+      - methodology
+        - definition: a system of methods used in a particular area of study.
+        - pronunciation: /ˌmɛθ.əˈdɒl.ə.dʒi/
+        - part of speech: noun
+        - examples:
+          - The study's methodology was carefully designed.
+          - She explained the methodology in her research proposal.
+        - synonyms: approach, procedure
+        - antonyms: -
+        - related words: method, methodological
+    - Higher Education Degrees
+      - bachelor's degree
+        - definition: an undergraduate academic degree awarded by colleges and universities.
+        - pronunciation: /ˈbætʃ.əl.əz dɪˈɡriː/
+        - part of speech: noun
+        - examples:
+          - He earned a bachelor's degree in engineering.
+          - A bachelor's degree is typically completed in four years.
+        - synonyms: undergraduate degree
+        - antonyms: master's degree
+        - related words: bachelor's, baccalaureate
+      - master's degree
+        - definition: a graduate degree awarded by universities after completion of undergraduate studies.
+        - pronunciation: /ˈmɑː.stəz dɪˈɡriː/
+        - part of speech: noun
+        - examples:
+          - She is pursuing a master's degree in psychology.
+          - A master's degree can enhance career prospects.
+        - synonyms: graduate degree
+        - antonyms: bachelor's degree
+        - related words: master's, postgraduate
+      - doctorate
+        - definition: the highest degree awarded by a university.
+        - pronunciation: /ˈdɒk.tər.ət/
+        - part of speech: noun
+        - examples:
+          - He received his doctorate in physics.
+          - Earning a doctorate requires extensive research.
+        - synonyms: PhD, doctoral degree
+        - antonyms: associate degree
+        - related words: doctoral, doctor
+      - diploma
+        - definition: a certificate awarded by an educational establishment.
+        - pronunciation: /dɪˈpləʊ.mə/
+        - part of speech: noun
+        - examples:
+          - She received her diploma at the graduation ceremony.
+          - A diploma is necessary for many jobs.
+        - synonyms: certificate, degree
+        - antonyms: -
+        - related words: diplomate, diplomatic
+      - undergraduate
+        - definition: a university student who has not yet received a first degree.
+        - pronunciation: /ˌʌn.dəˈɡrædʒ.u.ət/
+        - part of speech: noun, adjective
+        - examples:
+          - As an undergraduate, she studied biology.
+          - Undergraduate courses are offered in various fields.
+        - synonyms: student
+        - antonyms: graduate
+        - related words: undergrad, undergraduate studies
+    - Study Skills
+      - seminar
+        - definition: a small group class at a university, focused on a particular subject.
+        - pronunciation: /ˈsɛm.ɪ.nɑːr/
+        - part of speech: noun
+        - examples:
+          - The seminar encourages discussion among students.
+          - She attended a seminar on effective study techniques.
+        - synonyms: workshop, tutorial
+        - antonyms: lecture
+        - related words: seminarian, seminarist
+      - tutorial
+        - definition: a period of instruction given by a university tutor to an individual or small group.
+        - pronunciation: /tjuːˈtɔː.ri.əl/
+        - part of speech: noun, adjective
+        - examples:
+          - He has a weekly tutorial with his professor.
+          - The tutorial helped clarify complex topics.
+        - synonyms: lesson, session
+        - antonyms: lecture
+        - related words: tutor, tutelage
+      - revision
+        - definition: the action of revising, especially for examination.
+        - pronunciation: /rɪˈvɪʒ.ən/
+        - part of speech: noun
+        - examples:
+          - She spent the weekend doing revision for the test.
+          - Revision is key to retaining information.
+        - synonyms: review, studying
+        - antonyms: neglect
+        - related words: revise, revising
+      - time management
+        - definition: the ability to use one's time effectively.
+        - pronunciation: /taɪm ˈmæn.ɪdʒ.mənt/
+        - part of speech: noun
+        - examples:
+          - Good time management helps reduce stress.
+          - He took a workshop on time management skills.
+        - synonyms: scheduling, planning
+        - antonyms: procrastination
+        - related words: manage, management
+      - critical thinking
+        - definition: the objective analysis and evaluation of an issue.
+        - pronunciation: /ˈkrɪt.ɪ.kəl ˈθɪŋ.kɪŋ/
+        - part of speech: noun
+        - examples:
+          - Critical thinking is essential in problem-solving.
+          - The course aims to develop students' critical thinking skills.
+        - synonyms: analytical thinking, reasoning
+        - antonyms: uncritical thinking
+        - related words: critique, critic
+    - Teaching Methods
+      - curriculum
+        - definition: the subjects comprising a course of study.
+        - pronunciation: /kəˈrɪk.jʊ.ləm/
+        - part of speech: noun
+        - examples:
+          - The curriculum includes both theory and practice.
+          - They updated the curriculum to include new technologies.
+        - synonyms: syllabus, program
+        - antonyms: -
+        - related words: curricula (plural), curricular
+      - pedagogy
+        - definition: the method and practice of teaching.
+        - pronunciation: /ˈpɛd.ə.ɡɒdʒ.i/
+        - part of speech: noun
+        - examples:
+          - Modern pedagogy emphasizes student engagement.
+          - She studied pedagogy to become a better teacher.
+        - synonyms: teaching, education
+        - antonyms: -
+        - related words: pedagogical, pedagogic
+      - assessment
+        - definition: the evaluation of the quality or ability of someone or something.
+        - pronunciation: /əˈsɛs.mənt/
+        - part of speech: noun
+        - examples:
+          - The final assessment will include a written exam.
+          - Continuous assessment helps track progress.
+        - synonyms: evaluation, appraisal
+        - antonyms: -
+        - related words: assess, assessor
+      - interactive
+        - definition: allowing a two-way flow of information between a computer and a user.
+        - pronunciation: /ˌɪn.tərˈæk.tɪv/
+        - part of speech: adjective
+        - examples:
+          - Interactive learning keeps students engaged.
+          - The software provides an interactive experience.
+        - synonyms: participatory, communicative
+        - antonyms: passive
+        - related words: interaction, interact
+    - Scholarship & Funding
+      - scholarship
+        - definition: a grant or payment made to support a student's education.
+        - pronunciation: /ˈskɒl.ə.ʃɪp/
+        - part of speech: noun
+        - examples:
+          - She received a scholarship to study abroad.
+          - Scholarships can alleviate financial burdens.
+        - synonyms: grant, bursary
+        - antonyms: -
+        - related words: scholar, scholarly
+      - tuition
+        - definition: teaching or instruction, especially of individual pupils or small groups; also, the fee for instruction.
+        - pronunciation: /tjuːˈɪʃ.ən/
+        - part of speech: noun
+        - examples:
+          - Tuition fees have increased this year.
+          - He offers private tuition in mathematics.
+        - synonyms: teaching, fee
+        - antonyms: -
+        - related words: tutor, tutorial
+      - grant
+        - definition: a sum of money given by an organization for a particular purpose.
+        - pronunciation: /ɡrɑːnt/
+        - part of speech: noun, verb
+        - examples:
+          - She applied for a research grant.
+          - The government grants are available for education.
+        - synonyms: funding, subsidy
+        - antonyms: loan
+        - related words: granted, grantee
+      - loan
+        - definition: a thing that is borrowed, especially a sum of money.
+        - pronunciation: /ləʊn/
+        - part of speech: noun, verb
+        - examples:
+          - Student loans help cover educational expenses.
+          - He took out a loan to pay for tuition.
+        - synonyms: credit, advance
+        - antonyms: repayment
+        - related words: lender, lending
+      - financial aid
+        - definition: money provided to students to help pay for education.
+        - pronunciation: /faɪˈnæn.ʃəl eɪd/
+        - part of speech: noun
+        - examples:
+          - The university offers financial aid to eligible students.
+          - She filled out forms to apply for financial aid.
+        - synonyms: assistance, funding
+        - antonyms: -
+        - related words: finance, aid
+    - Academic Disciplines
+      - humanities
+        - definition: academic disciplines that study aspects of human society and culture.
+        - pronunciation: /hjuːˈmæn.ɪ.tiz/
+        - part of speech: noun (plural)
+        - examples:
+          - She majored in the humanities.
+          - Humanities include subjects like history and philosophy.
+        - synonyms: liberal arts
+        - antonyms: sciences
+        - related words: humanistic, humanist
+      - sciences
+        - definition: branches of knowledge involving systematic study of the structure and behavior of the physical and natural world.
+        - pronunciation: /ˈsaɪ.ənsɪz/
+        - part of speech: noun (plural)
+        - examples:
+          - He is interested in the physical sciences.
+          - Sciences include biology, chemistry, and physics.
+        - synonyms: scientific studies
+        - antonyms: humanities
+        - related words: scientific, scientist
+      - engineering
+        - definition: the branch of science and technology concerned with design and building.
+        - pronunciation: /ˌɛn.dʒɪˈnɪə.rɪŋ/
+        - part of speech: noun
+        - examples:
+          - She is studying mechanical engineering.
+          - Engineering requires strong math skills.
+        - synonyms: applied science, technology
+        - antonyms: -
+        - related words: engineer, engineered
+      - social sciences
+        - definition: scientific study of human society and social relationships.
+        - pronunciation: /ˈsəʊ.ʃəl ˈsaɪ.ənsɪz/
+        - part of speech: noun (plural)
+        - examples:
+          - Sociology and psychology are social sciences.
+          - He has a degree in social sciences.
+        - synonyms: social studies
+        - antonyms: natural sciences
+        - related words: social science, social scientist
+      - mathematics
+        - definition: the abstract science of number, quantity, and space.
+        - pronunciation: /ˌmæθ.əˈmæt.ɪks/
+        - part of speech: noun
+        - examples:
+          - Mathematics is essential in many fields.
+          - She excels in mathematics.
+        - synonyms: math, arithmetic
+        - antonyms: -
+        - related words: mathematical, mathematician
+    - Educational Policies
+      - accreditation
+        - definition: the action of officially recognizing someone as having a particular status.
+        - pronunciation: /əˌkrɛd.ɪˈteɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - The university received accreditation from the national board.
+          - Accreditation ensures the quality of education.
+        - synonyms: certification, authorization
+        - antonyms: disapproval
+        - related words: accredit, accredited
+      - standardized testing
+        - definition: tests administered and scored in a consistent manner.
+        - pronunciation: /ˈstæn.də.daɪzd ˈtɛs.tɪŋ/
+        - part of speech: noun
+        - examples:
+          - Standardized testing is used for college admissions.
+          - There is debate over the effectiveness of standardized testing.
+        - synonyms: uniform testing
+        - antonyms: varied assessment
+        - related words: standardize, test
+      - policy
+        - definition: a course or principle of action adopted by an organization.
+        - pronunciation: /ˈpɒl.ə.si/
+        - part of speech: noun
+        - examples:
+          - Educational policy affects school curricula.
+          - The new policy emphasizes technology in the classroom.
+        - synonyms: strategy, plan
+        - antonyms: -
+        - related words: policies, policymaker
+      - reform
+        - definition: make changes in order to improve it.
+        - pronunciation: /rɪˈfɔːm/
+        - part of speech: noun, verb
+        - examples:
+          - They are pushing for educational reform.
+          - The system needs to be reformed to meet current needs.
+        - synonyms: change, improvement
+        - antonyms: stagnation
+        - related words: reformation, reformer

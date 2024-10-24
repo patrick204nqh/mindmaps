@@ -1,0 +1,778 @@
+---
+markmap:
+  maxWidth: 600
+  initialExpandLevel: 4
+  spacingVertical: 15
+---
+
+# Vocabulary
+
+- B2
+  - Law & Government
+    - Legal System
+      - court
+        - definition: a place where legal cases are heard and decided.
+        - pronunciation: /kɔːt/
+        - part of speech: noun
+        - examples:
+          - The case will be heard in court next week.
+          - They went to court to settle the dispute.
+        - synonyms: tribunal, judiciary
+        - antonyms: -
+        - related words: courtroom, courthouse
+      - judge
+        - definition: a public official appointed to decide cases in a court of law.
+        - pronunciation: /dʒʌdʒ/
+        - part of speech: noun, verb
+        - examples:
+          - The judge delivered the final verdict.
+          - She was appointed as a federal judge.
+        - synonyms: magistrate, justice
+        - antonyms: -
+        - related words: judgment, judiciary
+      - lawyer
+        - definition: a person who practices or studies law; an attorney.
+        - pronunciation: /ˈlɔɪ.ər/
+        - part of speech: noun
+        - examples:
+          - She hired a lawyer to represent her in court.
+          - He is a criminal defense lawyer.
+        - synonyms: attorney, counsel
+        - antonyms: client
+        - related words: law, legal
+      - trial
+        - definition: a formal examination of evidence in court.
+        - pronunciation: /ˈtraɪ.əl/
+        - part of speech: noun
+        - examples:
+          - The trial lasted for three weeks.
+          - He is awaiting trial for the alleged crime.
+        - synonyms: hearing, case
+        - antonyms: acquittal
+        - related words: trial period, trial run
+      - jury
+        - definition: a group of people sworn to give a verdict in a legal case.
+        - pronunciation: /ˈdʒʊə.ri/
+        - part of speech: noun
+        - examples:
+          - The jury found the defendant guilty.
+          - Jury selection begins today.
+        - synonyms: panel, jurors
+        - antonyms: judge
+        - related words: juror, jurist
+      - verdict
+        - definition: a decision on a disputed issue in a civil or criminal case.
+        - pronunciation: /ˈvɜː.dɪkt/
+        - part of speech: noun
+        - examples:
+          - The jury reached a unanimous verdict.
+          - The verdict was announced in the courtroom.
+        - synonyms: judgment, decision
+        - antonyms: indecision
+        - related words: veredictum
+      - appeal
+        - definition: apply to a higher court for a reversal of a decision.
+        - pronunciation: /əˈpiːl/
+        - part of speech: noun, verb
+        - examples:
+          - They filed an appeal against the verdict.
+          - The case was taken to the court of appeal.
+        - synonyms: challenge, petition
+        - antonyms: acceptance
+        - related words: appellate, appealing
+      - justice
+        - definition: the administration of the law or authority in maintaining fairness.
+        - pronunciation: /ˈdʒʌs.tɪs/
+        - part of speech: noun
+        - examples:
+          - They demanded justice for the victim.
+          - Justice must be served.
+        - synonyms: fairness, equity
+        - antonyms: injustice
+        - related words: just, justify
+      - evidence
+        - definition: information indicating whether a belief or proposition is true or valid.
+        - pronunciation: /ˈɛv.ɪ.dəns/
+        - part of speech: noun
+        - examples:
+          - The lawyer presented new evidence.
+          - There was insufficient evidence to convict.
+        - synonyms: proof, testimony
+        - antonyms: conjecture
+        - related words: evident, evidentiary
+      - defendant
+        - definition: an individual sued or accused in a court of law.
+        - pronunciation: /dɪˈfɛndənt/
+        - part of speech: noun
+        - examples:
+          - The defendant pleaded not guilty.
+          - The defendant's lawyer argued the case.
+        - synonyms: accused, respondent
+        - antonyms: plaintiff
+        - related words: defend, defense
+      - plaintiff
+        - definition: a person who brings a case against another in a court of law.
+        - pronunciation: /ˈpleɪn.tɪf/
+        - part of speech: noun
+        - examples:
+          - The plaintiff seeks damages for the injury.
+          - The court ruled in favor of the plaintiff.
+        - synonyms: complainant, petitioner
+        - antonyms: defendant
+        - related words: complaint, plaintive
+      - prosecution
+        - definition: the institution and conducting of legal proceedings against someone.
+        - pronunciation: /ˌprɒs.ɪˈkjuː.ʃən/
+        - part of speech: noun
+        - examples:
+          - The prosecution presented its case.
+          - He faced prosecution for fraud.
+        - synonyms: legal action, indictment
+        - antonyms: defense
+        - related words: prosecute, prosecutor
+      - defense
+        - definition: the case presented by or on behalf of the party being accused.
+        - pronunciation: /dɪˈfɛns/
+        - part of speech: noun
+        - examples:
+          - The defense argued that the evidence was inadmissible.
+          - She provided a strong defense for her client.
+        - synonyms: protection, justification
+        - antonyms: prosecution
+        - related words: defend, defendant
+      - sentence
+        - definition: the punishment assigned to a defendant found guilty.
+        - pronunciation: /ˈsɛntəns/
+        - part of speech: noun, verb
+        - examples:
+          - The judge passed a sentence of five years in prison.
+          - He was sentenced to community service.
+        - synonyms: judgment, penalty
+        - antonyms: acquittal
+        - related words: sentencing, sentencer
+      - witness
+        - definition: a person who sees an event, typically a crime, take place.
+        - pronunciation: /ˈwɪt.nəs/
+        - part of speech: noun, verb
+        - examples:
+          - The witness testified in court.
+          - She was called as a key witness for the prosecution.
+        - synonyms: observer, bystander
+        - antonyms: participant
+        - related words: eyewitness, testimony
+      - legislation
+        - definition: laws considered collectively.
+        - pronunciation: /ˌlɛdʒɪsˈleɪʃən/
+        - part of speech: noun
+        - examples:
+          - The government introduced new legislation.
+          - Environmental legislation is becoming stricter.
+        - synonyms: laws, statutes
+        - antonyms: -
+        - related words: legislate, legislative
+    - Government Structure
+      - democracy
+        - definition: a system of government by the whole population, typically through elected representatives.
+        - pronunciation: /dɪˈmɒk.rə.si/
+        - part of speech: noun
+        - examples:
+          - Democracy allows citizens to vote for their leaders.
+          - They strive to promote democracy worldwide.
+        - synonyms: self-government, republic
+        - antonyms: dictatorship
+        - related words: democratic, democrat
+      - constitution
+        - definition: a body of fundamental principles according to which a state is governed.
+        - pronunciation: /ˌkɒn.stɪˈtjuː.ʃən/
+        - part of speech: noun
+        - examples:
+          - The constitution guarantees certain rights.
+          - They amended the constitution to include new laws.
+        - synonyms: charter, fundamental law
+        - antonyms: -
+        - related words: constitutional, constitute
+      - parliament
+        - definition: the highest legislative authority in a country.
+        - pronunciation: /ˈpɑː.lɪ.mənt/
+        - part of speech: noun
+        - examples:
+          - The bill was debated in parliament.
+          - She was elected as a member of parliament.
+        - synonyms: legislature, assembly
+        - antonyms: -
+        - related words: parliamentary, parley
+      - federal
+        - definition: relating to a system of government in which several states form a unity but remain independent in internal affairs.
+        - pronunciation: /ˈfɛd.ər.əl/
+        - part of speech: adjective
+        - examples:
+          - The federal government passed new regulations.
+          - Federal laws override state laws.
+        - synonyms: national, central
+        - antonyms: local
+        - related words: federation, federalism
+      - republic
+        - definition: a state in which supreme power is held by the people and their elected representatives.
+        - pronunciation: /rɪˈpʌb.lɪk/
+        - part of speech: noun
+        - examples:
+          - The country became a republic after gaining independence.
+          - They live in a democratic republic.
+        - synonyms: commonwealth, democracy
+        - antonyms: monarchy
+        - related words: republican, republicanism
+      - monarchy
+        - definition: a form of government with a monarch at the head.
+        - pronunciation: /ˈmɒn.ə.ki/
+        - part of speech: noun
+        - examples:
+          - The monarchy has ceremonial duties.
+          - They abolished the monarchy in the revolution.
+        - synonyms: kingship, sovereignty
+        - antonyms: republic
+        - related words: monarch, monarchist
+      - bureaucracy
+        - definition: a system of government in which most decisions are made by state officials rather than elected representatives.
+        - pronunciation: /bjʊəˈrɒk.rə.si/
+        - part of speech: noun
+        - examples:
+          - The bureaucracy can sometimes be inefficient.
+          - She works in the government bureaucracy.
+        - synonyms: administration, civil service
+        - antonyms: -
+        - related words: bureaucrat, bureaucratic
+      - executive
+        - definition: the branch of government responsible for implementing laws.
+        - pronunciation: /ɪɡˈzɛk.jʊ.tɪv/
+        - part of speech: noun, adjective
+        - examples:
+          - The executive branch enforces the law.
+          - He holds an executive position in the company.
+        - synonyms: administrative, managerial
+        - antonyms: legislative
+        - related words: execute, execution
+      - legislative
+        - definition: having the power to make laws.
+        - pronunciation: /ˈlɛdʒ.ɪ.slə.tɪv/
+        - part of speech: adjective
+        - examples:
+          - The legislative body meets twice a year.
+          - Legislative changes are required for reform.
+        - synonyms: law-making, statutory
+        - antonyms: executive
+        - related words: legislature, legislation
+      - judiciary
+        - definition: the judicial authorities of a country; judges collectively.
+        - pronunciation: /dʒuːˈdɪʃ.əri/
+        - part of speech: noun
+        - examples:
+          - The judiciary must remain independent.
+          - Reforms are needed in the judiciary system.
+        - synonyms: judicial system, courts
+        - antonyms: legislature
+        - related words: judicial, judicious
+    - Legislation & Policy
+      - bill
+        - definition: a draft of a proposed law presented to parliament.
+        - pronunciation: /bɪl/
+        - part of speech: noun
+        - examples:
+          - The bill was passed after much debate.
+          - They introduced a bill to improve healthcare.
+        - synonyms: proposal, draft law
+        - antonyms: law
+        - related words: act
+      - act
+        - definition: a written law passed by parliament.
+        - pronunciation: /ækt/
+        - part of speech: noun, verb
+        - examples:
+          - The Freedom of Information Act allows access to records.
+          - The act was signed into law yesterday.
+        - synonyms: statute, law
+        - antonyms: bill
+        - related words: enact, enactment
+      - regulation
+        - definition: a rule made by an authority.
+        - pronunciation: /ˌrɛɡ.jʊˈleɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - New safety regulations have been implemented.
+          - The regulation requires companies to report emissions.
+        - synonyms: rule, directive
+        - antonyms: deregulation
+        - related words: regulate, regulatory
+      - policy
+        - definition: a course or principle of action adopted by an organization or individual.
+        - pronunciation: /ˈpɒl.ə.si/
+        - part of speech: noun
+        - examples:
+          - The government announced its new education policy.
+          - Company policy prohibits smoking indoors.
+        - synonyms: strategy, plan
+        - antonyms: -
+        - related words: policymaker, policy-making
+      - amendment
+        - definition: a minor change or addition designed to improve a text.
+        - pronunciation: /əˈmɛnd.mənt/
+        - part of speech: noun
+        - examples:
+          - They proposed an amendment to the constitution.
+          - The amendment was rejected by the committee.
+        - synonyms: modification, alteration
+        - antonyms: -
+        - related words: amend, amended
+      - ordinance
+        - definition: a piece of legislation enacted by a municipal authority.
+        - pronunciation: /ˈɔː.dɪ.nəns/
+        - part of speech: noun
+        - examples:
+          - The city passed an ordinance banning smoking in public places.
+          - Violating the noise ordinance can result in a fine.
+        - synonyms: decree, regulation
+        - antonyms: -
+        - related words: ordain, ordination
+      - treaty
+        - definition: a formally concluded agreement between countries.
+        - pronunciation: /ˈtriː.ti/
+        - part of speech: noun
+        - examples:
+          - The nations signed a peace treaty.
+          - The trade treaty was beneficial to both countries.
+        - synonyms: agreement, pact
+        - antonyms: conflict
+        - related words: treat, treaty obligations
+      - enforce
+        - definition: to compel observance of or obedience to.
+        - pronunciation: /ɪnˈfɔːs/
+        - part of speech: verb
+        - examples:
+          - The police enforce the laws.
+          - It's important to enforce the regulations strictly.
+        - synonyms: implement, uphold
+        - antonyms: neglect
+        - related words: enforcement, enforcer
+      - compliance
+        - definition: the action of complying with a command or rule.
+        - pronunciation: /kəmˈplaɪ.əns/
+        - part of speech: noun
+        - examples:
+          - Compliance with safety standards is mandatory.
+          - They are in compliance with the new regulations.
+        - synonyms: obedience, adherence
+        - antonyms: defiance
+        - related words: comply, compliant
+      - jurisdiction
+        - definition: the official power to make legal decisions and judgments.
+        - pronunciation: /ˌdʒʊə.rɪsˈdɪk.ʃən/
+        - part of speech: noun
+        - examples:
+          - This case falls under federal jurisdiction.
+          - The court has jurisdiction over criminal offenses.
+        - synonyms: authority, control
+        - antonyms: impotence
+        - related words: jurisdictional, jurist
+    - Criminal Justice
+      - crime
+        - definition: an action that constitutes an offense punishable by law.
+        - pronunciation: /kraɪm/
+        - part of speech: noun
+        - examples:
+          - Theft is considered a serious crime.
+          - They are working to reduce crime in the city.
+        - synonyms: offense, wrongdoing
+        - antonyms: legality
+        - related words: criminal, criminology
+      - felony
+        - definition: a serious crime, typically involving violence.
+        - pronunciation: /ˈfɛl.ə.ni/
+        - part of speech: noun
+        - examples:
+          - He was charged with a felony.
+          - Felony convictions carry severe penalties.
+        - synonyms: serious crime
+        - antonyms: misdemeanor
+        - related words: felon, felonious
+      - misdemeanor
+        - definition: a minor wrongdoing.
+        - pronunciation: /ˌmɪs.dɪˈmiː.nər/
+        - part of speech: noun
+        - examples:
+          - Littering is considered a misdemeanor.
+          - She was fined for the misdemeanor.
+        - synonyms: minor offense
+        - antonyms: felony
+        - related words: misdeed
+      - arrest
+        - definition: seize someone by legal authority and take into custody.
+        - pronunciation: /əˈrɛst/
+        - part of speech: verb, noun
+        - examples:
+          - The police arrested the suspect.
+          - His arrest was captured on video.
+        - synonyms: detain, apprehend
+        - antonyms: release
+        - related words: arrested, arresting
+      - warrant
+        - definition: a document issued by a legal or government official authorizing the police to make an arrest or search premises.
+        - pronunciation: /ˈwɒr.ənt/
+        - part of speech: noun
+        - examples:
+          - They obtained a search warrant.
+          - The judge issued an arrest warrant.
+        - synonyms: authorization, permit
+        - antonyms: -
+        - related words: warrantless, warranted
+      - bail
+        - definition: the temporary release of an accused person awaiting trial.
+        - pronunciation: /beɪl/
+        - part of speech: noun, verb
+        - examples:
+          - He was released on bail.
+          - The judge set bail at $10,000.
+        - synonyms: bond, security
+        - antonyms: detention
+        - related words: bailed, bailable
+      - parole
+        - definition: the release of a prisoner temporarily before the completion of a sentence.
+        - pronunciation: /pəˈrəʊl/
+        - part of speech: noun, verb
+        - examples:
+          - He was granted parole after serving half his sentence.
+          - Violating parole conditions can lead to re-arrest.
+        - synonyms: conditional release
+        - antonyms: imprisonment
+        - related words: paroled, parolee
+      - probation
+        - definition: the release of an offender under supervision for a period of time.
+        - pronunciation: /prəʊˈbeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - She was sentenced to two years' probation.
+          - Probation requires regular meetings with an officer.
+        - synonyms: trial period, supervision
+        - antonyms: incarceration
+        - related words: probationary, probationer
+      - incarceration
+        - definition: the state of being confined in prison.
+        - pronunciation: /ɪnˌkɑː.səˈreɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - His incarceration lasted five years.
+          - They advocate for reducing incarceration rates.
+        - synonyms: imprisonment, confinement
+        - antonyms: freedom
+        - related words: incarcerate, incarcerated
+      - rehabilitation
+        - definition: the action of restoring someone to normal life through training or therapy.
+        - pronunciation: /ˌriː.həˌbɪl.ɪˈteɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Rehabilitation programs help offenders reintegrate.
+          - The goal is rehabilitation rather than punishment.
+        - synonyms: recovery, restoration
+        - antonyms: deterioration
+        - related words: rehabilitate, rehabilitative
+    - Civil Rights & Liberties
+      - freedom
+        - definition: the power or right to act, speak, or think without hindrance.
+        - pronunciation: /ˈfriː.dəm/
+        - part of speech: noun
+        - examples:
+          - Freedom of speech is a fundamental right.
+          - They fought for their freedom.
+        - synonyms: liberty, independence
+        - antonyms: oppression
+        - related words: free, freely
+      - equality
+        - definition: the state of being equal, especially in status and rights.
+        - pronunciation: /iːˈkwɒl.ə.ti/
+        - part of speech: noun
+        - examples:
+          - The movement seeks gender equality.
+          - Equality before the law is essential.
+        - synonyms: fairness, parity
+        - antonyms: inequality
+        - related words: equal, equally
+      - discrimination
+        - definition: unjust treatment of different categories of people.
+        - pronunciation: /dɪˌskrɪm.ɪˈneɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Laws prohibit discrimination in the workplace.
+          - They faced discrimination due to their beliefs.
+        - synonyms: prejudice, bias
+        - antonyms: fairness
+        - related words: discriminate, discriminatory
+      - liberty
+        - definition: the state of being free within society from restrictions.
+        - pronunciation: /ˈlɪb.ə.ti/
+        - part of speech: noun
+        - examples:
+          - Civil liberties are protected by the constitution.
+          - They cherish their personal liberty.
+        - synonyms: freedom, autonomy
+        - antonyms: captivity
+        - related words: libertarian, liberate
+      - protest
+        - definition: a statement or action expressing disapproval.
+        - pronunciation: /ˈprəʊ.tɛst/
+        - part of speech: noun, verb
+        - examples:
+          - They organized a protest against the new law.
+          - People have the right to protest peacefully.
+        - synonyms: demonstration, objection
+        - antonyms: agreement
+        - related words: protesting, protester
+      - censorship
+        - definition: the suppression of speech or public communication.
+        - pronunciation: /ˈsɛn.sə.ʃɪp/
+        - part of speech: noun
+        - examples:
+          - They oppose censorship of the media.
+          - Censorship can limit freedom of expression.
+        - synonyms: suppression, control
+        - antonyms: free speech
+        - related words: censor, censored
+      - human rights
+        - definition: basic rights and freedoms that belong to every person.
+        - pronunciation: /ˈhjuː.mən raɪts/
+        - part of speech: noun
+        - examples:
+          - Human rights violations are a global concern.
+          - They advocate for universal human rights.
+        - synonyms: fundamental rights
+        - antonyms: oppression
+        - related words: humanity, right
+      - suffrage
+        - definition: the right to vote in political elections.
+        - pronunciation: /ˈsʌf.rɪdʒ/
+        - part of speech: noun
+        - examples:
+          - Women's suffrage was achieved in the early 20th century.
+          - They campaigned for universal suffrage.
+        - synonyms: voting rights
+        - antonyms: disenfranchisement
+        - related words: suffragette, suffragist
+      - civil disobedience
+        - definition: the refusal to comply with certain laws as a form of protest.
+        - pronunciation: /ˈsɪv.əl dɪs.əˈbiː.di.əns/
+        - part of speech: noun
+        - examples:
+          - Civil disobedience has been used to bring about social change.
+          - They engaged in civil disobedience to oppose the policy.
+        - synonyms: nonviolent resistance
+        - antonyms: compliance
+        - related words: disobey, obedience
+      - tolerance
+        - definition: the ability or willingness to tolerate opinions or behavior one dislikes.
+        - pronunciation: /ˈtɒl.ər.əns/
+        - part of speech: noun
+        - examples:
+          - Tolerance is important in a diverse society.
+          - They promote tolerance and understanding.
+        - synonyms: acceptance, open-mindedness
+        - antonyms: intolerance
+        - related words: tolerant, tolerable
+    - International Relations
+      - diplomacy
+        - definition: the profession of managing international relations.
+        - pronunciation: /dɪˈpləʊ.mə.si/
+        - part of speech: noun
+        - examples:
+          - Diplomacy is key to resolving conflicts peacefully.
+          - She has a career in international diplomacy.
+        - synonyms: negotiation, tact
+        - antonyms: aggression
+        - related words: diplomat, diplomatic
+      - alliance
+        - definition: a union formed for mutual benefit between countries.
+        - pronunciation: /əˈlaɪ.əns/
+        - part of speech: noun
+        - examples:
+          - The countries formed an alliance for defense.
+          - Alliances can strengthen political ties.
+        - synonyms: partnership, coalition
+        - antonyms: rivalry
+        - related words: ally, allied
+      - sanction
+        - definition: a measure taken by countries to enforce international law.
+        - pronunciation: /ˈsæŋk.ʃən/
+        - part of speech: noun, verb
+        - examples:
+          - Economic sanctions were imposed on the regime.
+          - They threatened to sanction the country.
+        - synonyms: penalty, embargo
+        - antonyms: incentive
+        - related words: sanctions, sanctioned
+      - treaty
+        - definition: a formally concluded agreement between countries.
+        - pronunciation: /ˈtriː.ti/
+        - part of speech: noun
+        - examples:
+          - The nations signed a peace treaty.
+          - The trade treaty was beneficial to both countries.
+        - synonyms: agreement, pact
+        - antonyms: conflict
+        - related words: treat, treaty obligations
+      - ambassador
+        - definition: an accredited diplomat sent as a representative to a foreign country.
+        - pronunciation: /æmˈbæs.ə.dər/
+        - part of speech: noun
+        - examples:
+          - The ambassador attended the summit.
+          - She was appointed ambassador to France.
+        - synonyms: envoy, diplomat
+        - antonyms: -
+        - related words: embassy, ambassadorial
+      - negotiation
+        - definition: discussion aimed at reaching an agreement.
+        - pronunciation: /nɪˌɡəʊ.ʃiˈeɪ.ʃən/
+        - part of speech: noun
+        - examples:
+          - Negotiations are ongoing between the two countries.
+          - Successful negotiation requires compromise.
+        - synonyms: discussion, talks
+        - antonyms: stalemate
+        - related words: negotiate, negotiator
+      - conflict
+        - definition: a serious disagreement or argument.
+        - pronunciation: /ˈkɒn.flɪkt/
+        - part of speech: noun, verb
+        - examples:
+          - The conflict lasted for years.
+          - They are seeking to resolve the conflict.
+        - synonyms: dispute, clash
+        - antonyms: agreement
+        - related words: conflicting, conflictual
+      - sovereignty
+        - definition: supreme power or authority.
+        - pronunciation: /ˈsɒv.rɪn.ti/
+        - part of speech: noun
+        - examples:
+          - The nation declared its sovereignty.
+          - Sovereignty is a key principle in international law.
+        - synonyms: autonomy, self-government
+        - antonyms: subjugation
+        - related words: sovereign, sovereignty
+      - diplomat
+        - definition: an official representing a country abroad.
+        - pronunciation: /ˈdɪp.lə.mæt/
+        - part of speech: noun
+        - examples:
+          - The diplomat met with foreign leaders.
+          - She is training to become a diplomat.
+        - synonyms: envoy, ambassador
+        - antonyms: -
+        - related words: diplomacy, diplomatic
+      - embassy
+        - definition: the official residence or offices of an ambassador.
+        - pronunciation: /ˈɛm.bə.si/
+        - part of speech: noun
+        - examples:
+          - They visited the embassy for assistance.
+          - The embassy organized a cultural event.
+        - synonyms: consulate, mission
+        - antonyms: -
+        - related words: ambassador, embassador
+    - Elections & Democracy
+      - election
+        - definition: a formal group decision-making process by which a population chooses individuals to hold public office.
+        - pronunciation: /ɪˈlɛk.ʃən/
+        - part of speech: noun
+        - examples:
+          - The next election is scheduled for November.
+          - She announced her candidacy for the upcoming election.
+        - synonyms: voting, ballot
+        - antonyms: appointment
+        - related words: elect, electorate
+      - vote
+        - definition: a formal indication of choice between options.
+        - pronunciation: /vəʊt/
+        - part of speech: noun, verb
+        - examples:
+          - They went to the polls to vote.
+          - Every citizen has the right to vote.
+        - synonyms: ballot, poll
+        - antonyms: abstention
+        - related words: voter, voting
+      - candidate
+        - definition: a person who applies for a job or is nominated for election.
+        - pronunciation: /ˈkæn.dɪ.dət/
+        - part of speech: noun
+        - examples:
+          - The candidate campaigned across the country.
+          - There are three candidates in the race.
+        - synonyms: nominee, applicant
+        - antonyms: -
+        - related words: candidacy, candidature
+      - campaign
+        - definition: an organized effort to win an election.
+        - pronunciation: /kæmˈpeɪn/
+        - part of speech: noun, verb
+        - examples:
+          - The campaign focused on healthcare reform.
+          - They launched a campaign to raise awareness.
+        - synonyms: drive, movement
+        - antonyms: -
+        - related words: campaigning, campaigner
+      - referendum
+        - definition: a general vote by the electorate on a single political question.
+        - pronunciation: /ˌrɛf.əˈrɛn.dəm/
+        - part of speech: noun
+        - examples:
+          - The government held a referendum on the issue.
+          - The referendum resulted in a decision to leave the union.
+        - synonyms: plebiscite, ballot
+        - antonyms: -
+        - related words: referenda
+      - constituency
+        - definition: a body of voters in a specified area who elect a representative.
+        - pronunciation: /kənˈstɪtʃ.u.ən.si/
+        - part of speech: noun
+        - examples:
+          - He represents a rural constituency.
+          - Constituency boundaries were redrawn.
+        - synonyms: district, electorate
+        - antonyms: -
+        - related words: constituent
+      - majority
+        - definition: the greater number or part; more than half.
+        - pronunciation: /məˈdʒɒr.ɪ.ti/
+        - part of speech: noun
+        - examples:
+          - The party won a majority in the election.
+          - A simple majority is needed to pass the bill.
+        - synonyms: plurality, bulk
+        - antonyms: minority
+        - related words: major, majoritarian
+      - ballot
+        - definition: a process of voting, in writing and typically in secret.
+        - pronunciation: /ˈbæl.ət/
+        - part of speech: noun, verb
+        - examples:
+          - They cast their ballots early.
+          - The ballot results were announced.
+        - synonyms: vote, poll
+        - antonyms: -
+        - related words: balloting, ballot box
+      - democracy
+        - definition: a system of government by the whole population, typically through elected representatives.
+        - pronunciation: /dɪˈmɒk.rə.si/
+        - part of speech: noun
+        - examples:
+          - Democracy allows citizens to vote for their leaders.
+          - They strive to promote democracy worldwide.
+        - synonyms: self-government, republic
+        - antonyms: dictatorship
+        - related words: democratic, democrat
+      - suffrage
+        - definition: the right to vote in political elections.
+        - pronunciation: /ˈsʌf.rɪdʒ/
+        - part of speech: noun
+        - examples:
+          - Women's suffrage was achieved in the early 20th century.
+          - They campaigned for universal suffrage.
+        - synonyms: voting rights
+        - antonyms: disenfranchisement
+        - related words: suffragette, suffragist
