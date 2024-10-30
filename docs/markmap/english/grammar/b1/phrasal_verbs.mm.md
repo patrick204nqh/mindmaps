@@ -75,6 +75,15 @@ markmap:
         - usage notes: Used to describe interpersonal relationships.
         - exceptions: None specific.
         - related rules: relationship verbs, social interactions
+      - manage to
+        - explanation: To succeed in doing something, especially despite difficulties or challenges.
+        - examples:
+          - She **managed to** finish her work on time despite the distractions.
+          - They **managed to** climb the mountain after several attempts.
+          - I **managed to** fix the car by myself.
+        - usage notes: Emphasizes the achievement of completing a task despite obstacles. Can be used in both informal and formal contexts.
+        - exceptions: Not to be confused with "manage" alone, which refers to handling or controlling something rather than succeeding in an action.
+        - related rules: operate verbs, success despite difficulty
     - Usage Rules
       - word order in separable phrasal verbs
         - explanation: In separable phrasal verbs, the object can be placed between the verb and the particle.
@@ -104,14 +113,14 @@ markmap:
       - verb
         - explanation: The main action word in the phrasal verb.
         - examples:
-          - turn, pick, look, get
+          - turn, pick, look, get, manage
         - usage notes: The choice of verb determines the meaning of the phrasal verb.
         - exceptions: Some verbs can form multiple phrasal verbs with different particles.
         - related rules: base verbs, verb selection
       - particle
         - explanation: The word that follows the verb, changing its meaning.
         - examples:
-          - off, up, after, along
+          - off, up, after, along, to
         - usage notes: Particles are essential in forming the unique meanings of phrasal verbs.
         - exceptions: Some particles can be prepositions or adverbs depending on usage.
         - related rules: particles vs. prepositions, meaning changes
@@ -119,15 +128,17 @@ markmap:
       - incorrect separable/inseparable usage
         - explanation: Using a separable phrasal verb as inseparable and vice versa.
         - examples:
-          - Incorrect: She **turned the lights off**. (Correct: She turned off the lights.)
-          - Incorrect: They **looked after the children**. (Correct: They looked after the children.)
+          - Incorrect: She **turned the lights off**. (This is actually correct as "turn off" is separable.)
+          - Correct: She **turned off** the lights.
+          - Incorrect: They **looked after the children**. (This is correct since "look after" is inseparable.)
+          - Correct: They **look after** the children.
         - usage notes: Know whether a phrasal verb is separable or inseparable to maintain correct sentence structure.
         - exceptions: Some phrasal verbs can be both separable and inseparable with different meanings.
         - related rules: separable vs. inseparable, sentence structure
       - wrong word order in separable phrasal verbs
         - explanation: Placing the object after the particle instead of between the verb and particle.
         - examples:
-          - Incorrect: She **turned off the lights**.
+          - Incorrect: She **turned off the lights**. (This is actually correct; possible confusion in the assistant's earlier example)
           - Correct: She **turned the lights off**.
         - usage notes: Ensure correct placement of objects, especially with pronouns.
         - exceptions: None specific.
@@ -135,8 +146,8 @@ markmap:
       - omitting the particle
         - explanation: Leaving out the particle changes the meaning or makes the sentence incorrect.
         - examples:
-          - Incorrect: She **turned the lights**.
-          - Correct: She **turned off the lights**.
+          - Incorrect: She **turned the lights**. (This could imply she adjusted the lights rather than turning them off.)
+          - Correct: She **turned off** the lights.
         - usage notes: Always include the particle to convey the intended meaning of the phrasal verb.
         - exceptions: Some verbs can stand alone with different meanings, but this is rare.
         - related rules: particle importance, verb meanings

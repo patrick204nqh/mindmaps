@@ -176,3 +176,121 @@ markmap:
         - usage notes: 'Much' is often used in questions and negatives, while 'a lot of' is used in positive statements.
         - exceptions: 'Much' is less common in affirmative sentences.
         - related rules: much, a lot of, quantifier usage
+    - Time Expressions
+      - for ages
+        - explanation: An idiomatic expression used to describe a very long period of time. It emphasizes the duration of an action or state in informal contexts without specifying the exact timeframe.
+        - examples:
+          - "I haven't seen you **for ages**!"
+          - "She has been living in that house **for ages**."
+          - "We've been waiting **for ages** for the concert to start."
+        - exercises:
+          1. **Fill in the blanks**:
+             - "They've been best friends ****\_\_****."
+             - "It's been snowing ****\_\_****."
+          2. **Create Sentences**:
+             - Use "for ages" to describe how long you've been learning a new skill.
+             - Write a sentence about waiting for something important using "for ages."
+        - usage notes or tips:
+          - **Informal Usage**: Primarily used in conversational English and informal writing. Adds a casual tone to the statement.
+          - **Flexibility**: Can be used with both countable and uncountable contexts to emphasize the length of time without specifying exact durations.
+          - **Synonyms**: Alternatives include "for a long time," "forever," or "since forever," but "for ages" adds a more relaxed and colloquial feel.
+          - **Position in Sentence**: Usually placed at the end of a sentence but can also appear in the middle for emphasis.
+        - exceptions or challenges:
+          - **Formality**: Should be avoided in formal writing or professional contexts where precise time expressions are necessary.
+          - **Clarity**: Being non-specific, it may need to be complemented with exact time indicators (e.g., "for three years") if clarity is essential.
+          - **Overuse**: Relying too heavily on "for ages" can make the language seem repetitive. Use it judiciously to maintain variety in expression.
+      - since
+        - explanation: Used to indicate the starting point of an action or situation that continues up to the present.
+        - examples:
+          - "I have lived here since 2015."
+          - "She has been studying English since she was a child."
+        - exercises:
+          1. **Fill in the blanks**:
+             - "They have been married ****\_\_****."
+             - "He has worked at the company ****\_\_**** last year."
+          2. **Create Sentences**:
+             - Describe an ongoing activity using "since."
+             - Write a sentence about a change that started in the past and continues now using "since."
+        - usage notes or tips:
+          - **Specific Point in Time**: "Since" is always used with a specific point in time (e.g., a year, month, day, or specific event).
+          - **Continuous Actions**: Often used with present perfect tenses to indicate actions that started in the past and are still happening.
+          - **Synonyms**: Alternatives include "from" a specific time, but "since" specifically connects the start point to the present.
+        - exceptions or challenges:
+          - **Not for Duration**: Do not use "since" to indicate the duration itself (use "for" instead).
+          - **Verb Forms**: Ensure correct verb tense is used (present perfect or present perfect continuous).
+      - for
+        - explanation: Used to indicate the duration of an action or situation.
+        - examples:
+          - "I have lived here for five years."
+          - "She has been studying English for two hours."
+        - exercises:
+          1. **Fill in the blanks**:
+             - "They have been friends ****\_\_**** childhood."
+             - "He has been working ****\_\_**** morning."
+          2. **Create Sentences**:
+             - Describe how long you've been learning a new skill using "for."
+             - Write a sentence about an ongoing situation using "for."
+        - usage notes or tips:
+          - **Duration**: "For" is used with periods of time (e.g., hours, days, months, years).
+          - **Continuous Actions**: Often paired with continuous tenses to indicate ongoing actions over a period.
+          - **Synonyms**: Alternatives include "over" or "during," but "for" specifically denotes the length of time.
+        - exceptions or challenges:
+          - **Specific Points**: Do not use "for" with specific points in time (use "since" instead).
+          - **Verb Tenses**: Ensure correct verb tense is used to match the duration context.
+      - all day
+        - explanation: Refers to the entire duration of a day.
+        - examples:
+          - "It has been raining all day."
+          - "She has been working on the project all day."
+        - exercises:
+          1. **Fill in the blanks**:
+             - "He has been studying ****\_\_****."
+             - "We have been traveling ****\_\_****."
+          2. **Create Sentences**:
+             - Describe an activity you did continuously throughout the day.
+             - Write a sentence about weather conditions lasting the whole day.
+        - usage notes or tips:
+          - **Emphasis on Duration**: Highlights that an action has been happening continuously from morning until evening.
+          - **Verb Tenses**: Commonly used with present perfect continuous tense.
+          - **Synonyms**: Alternatives include "the whole day," but "all day" is more commonly used in conversational English.
+        - exceptions or challenges:
+          - **Not for Specific Points**: Do not use "all day" to refer to specific times within the day.
+          - **Continuous Actions**: Ensure the action is ongoing and not completed within the day.
+      - lately/recently
+        - explanation: Refers to actions or events that have occurred in the near past up to the present.
+        - examples:
+          - "I have been feeling better lately."
+          - "She has traveled a lot recently."
+        - exercises:
+          1. **Fill in the blanks**:
+             - "They have moved to a new house ****\_\_****."
+             - "He has started a new hobby ****\_\_****."
+          2. **Create Sentences**:
+             - Describe a recent change in your life using "lately" or "recently."
+             - Write a sentence about something you've noticed happening in the near past.
+        - usage notes or tips:
+          - **Near Past**: Indicates actions that have happened not long ago and may still be relevant.
+          - **Verb Tenses**: Often used with present perfect or present perfect continuous tenses.
+          - **Synonyms**: Alternatives include "in the recent past," but "lately" and "recently" are more natural in everyday speech.
+        - exceptions or challenges:
+          - **Not for Specific Times**: Do not use "lately" or "recently" with specific past time references (use exact times instead).
+          - **Verb Compatibility**: Ensure the verb used aligns with the continuous or perfect aspect.
+      - recently
+        - explanation: Similar to "lately," it refers to events that have happened not long ago.
+        - examples:
+          - "I have recently started a new job."
+          - "They have recently moved to a different city."
+        - exercises:
+          1. **Fill in the blanks**:
+             - "She has ****\_\_**** finished her degree."
+             - "We have ****\_\_**** renovated our kitchen."
+          2. **Create Sentences**:
+             - Describe a recent achievement or change in your life using "recently."
+             - Write a sentence about something new you have tried recently.
+        - usage notes or tips:
+          - **Near Past Reference**: Emphasizes actions that have occurred in the recent past and may still impact the present.
+          - **Verb Tenses**: Commonly used with present perfect and present perfect continuous tenses.
+          - **Synonyms**: Can be interchanged with "lately" depending on the sentence structure.
+        - exceptions or challenges:
+          - **Specific Past Times**: Avoid using "recently" with specific past time expressions like "yesterday" or "last week."
+          - **Continuous Relevance**: Ensure that the action or event is still relevant or has a connection to the present.
